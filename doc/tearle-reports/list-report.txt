@@ -1,0 +1,227 @@
+Goertzel et al Pharmacogenomics 2006.Combinations of single nucleotide polymorphisms in neuroendocrine effector and receptor genes predict chronic fatigue syndrome
+Genotyping
+5HTT
+COMT
+CRHR1
+CRHR2
+NR3C1
+NRC1
+POMC
+TH
+TPH2
+
+Smith et al Future Medicine 2006.Polymorphisms in genes regulating the HPA axis associated with empirically delineated classes of unexplained chronic fatigue
+Genotyping
+POMC
+NR3C1
+MAOA
+MAOB
+TPH2
+
+Kerr et al J Infect Diseases 2007.Gene Expression Subtypes in Patients with Chronic Fatigue Syndrome Myalgic Encephalomyelitis
+Gene expression
+ABCD4
+ACTR3
+AKAP10
+ANAPC11
+ANAPC5
+APP
+ARL4C
+ARPC5
+ARSD
+ATP6V1C1
+BCOR
+BMP2K
+BRMS1
+CD2BP2
+CD47
+CEP350
+CITED2
+CMTM6
+CREBBP
+CRK
+CTBP1
+CXCR4
+EBI2
+EIF2B4
+EIF3S10
+EIF4G1
+EIF4G3
+FAM126B
+FNTA
+GABARAPL1
+GCN1L1
+GLTSCR2
+GNAS
+GSN
+GTF2A2
+HIF1A
+IFNAR1
+IL10RA
+IL6R
+IL6ST
+IL7R
+JAK1
+￼KHSRP
+MAPK9
+METTL3
+MRPL23
+MRPS6
+MRRF
+MSN
+MTMR6
+￼NFKB1
+NR1D2
+NTE
+NUFIP2
+PAPOLA
+PDCD2
+PDCD6
+PEX16
+PGM2
+PIK3R1
+PKN1
+POLR2G
+PPP2R5C
+PRKAA1
+￼PRKAR1A
+PUM2
+RAP2C
+RNF141
+SELENBP1
+SFXN1
+SHPRH
+SNAP23
+￼SORL1
+SOS1
+￼TAF11
+TCF3
+TDP1
+TNFRSF1A
+￼UBTF
+USP38
+￼WAPAL
+WDR26
+NFKB1
+NHLH1
+REPIN1
+￼GABPA
+ETS1
+EGR1
+EGR3
+
+Gene networks
+CD47, CRK, CXCR4, GNAS, HIF1A, IFNAR1, IL10RA, IL6R, IL6ST, IL7R, JAK1, PIK3R1, PKN11, POLR2G, PRKAA1, SOS1, TNFRSF1A
+AKAP10, APP, BRMS1, CITED2, CREBBP, ETS1, GABPA, GSN, GTF2A2, MAPK9, MSN, NFKB1, PRKAR1A, SNAP23, SORL1, TCF3, UBTF
+ACTR3, ARPC5, CD2BP2, EIF3S10, EIF4G1, EIF4G3, FNTA, GLTSCR2, PAPOLA, PDCD6, PPP2R5C, TAF11
+ARL4C, BCOR, CEP350, CTBP1, EGR3, NHLH1, NR1D2, PNPLA6, SELENBP1
+ANAPC5, ANAPC11, EBI2, EIF2B4, GCN1L1, PDCD2
+
+Saiki et al Mol Med 2008.Identification of Marker Genes for Differential Diagnosis of Chronic Fatigue Syndrome
+Gene expression
+ARHC 
+ATP5J2 
+COX5B 
+DBI
+GAPDH
+GZMA 
+HINT 
+KIAA0194 
+PSMA3 
+PSMA4 
+STAT5A 
+
+Smith et al Neuropsychobiology 2011.Convergent genomic studies identify association of GRIK2 and NPAS2 with chronic fatigue syndrome
+GWAS study
+GRIK2
+NPAS2
+
+Vargas-Alarcon et al BMC Musculoskeletal Disorders 2012.A SCN9A gene-encoded dorsal root ganglia sodium channel polymorphism associated with severe fibromyalgia
+SCN9A
+
+Shimosako & Kerr J Clin Path 2014.Use of single-nucleotide polymorphisms (SNPs) to distinguish gene expression subtypes of chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME)
+TCF3
+EIF3A
+BMP2K 
+PEX16
+
+Bhattacharjee et al Hum Genomics 2015.Prediction of complex human diseases from pathway-focused candidate markers by joint estimation of marker effects - case of chronic fatigue syndrome
+IL12B
+IL1A
+IFNG
+HSD11B1
+HTR2A
+MAOB
+CRHR1
+SLC18A2
+NOS3
+DRD2
+
+Meyer et al PLoS ONE 2015.Maintenance of Chronic Fatigue Syndrome (CFS) in Young CFS Patients Is Associated with the 5-HTTLPR and SNP rs25531 A > G Genotype 
+Gene polymorphism
+SLC6A4
+
+Regland et al PLoS ONE 2015.Response to Vitamin B12 and Folic Acid in Myalgic Encephalomyelitis and Fibromyalgia
+MTHFR
+
+Rajeevan Genes Brain Behav 2007.Glucocorticoid receptor polymorphisms and haplotypes associated with chronic fatigue syndrome
+Genotyping
+NR3C1
+
+Schlauch et al Translational Psychiatry 2016.Genome-wide association analysis identifies genetic variations in subjects with myalgic encephalomyelitis/chronic fatigue syndrome
+GWAS study
+GRIK3
+LOC101929510
+KRT18P33
+ARMC9
+ARHGEF3
+EPHA6
+C5orf66
+CASC14
+PTDSS1
+RECK
+UBAC2
+TRA
+TRA
+TRD
+FBLN5
+SLCO3A1
+TOX3
+CELF4
+AGPAT3
+
+Chacko et al Gene Regulation and Systems Biology 2016.Dysregulation of Protein Kinase Gene Expression in NK Cells from Chronic Fatigue Syndrome Myalgic Encephalomyelitis Patients
+Gene Expression
+55 protein kinase genes
+
+Marshall-Gradisnik et al Immunology and Immunogenetics Insights 2016.Genotype frequencies of transient receptor potential melastatin M3 ion channels and acetylcholine muscarinic M3 receptor gene polymorphisms in chronic fatigue syndrome myalgic encephalomyelitis patients
+TRPM3
+mAChM3R = CHRM3
+
+Marshall-Gradisnik et al The Application of Clinical Genetics 2016.Natural killer cells and single nucleotide polymorphisms of specific ion channels and receptor genes in myalgic encephalomyelitis chronic fatigue syndrome
+TRPM3
+TRPC4
+TRPC2
+TRPM8
+CHRNA3
+CHRNA2
+CHRNB4
+CHRNA5
+CHRNE
+
+http://jjwanglab.org/gwasdb
+GWAS summary
+GRIK2
+LILRB4
+PPFIBP1
+HS6ST3
+GRIN2B
+NLRP13
+LINC00309
+CFL1P1
+CLYBL
+KRT33A
+KCNJ6
+TECTB
+FLJ41278
+OTOG
