@@ -1,0 +1,914 @@
+- 
+   symbol: MTHFR
+   function: methylenetetrahydrofolate reductase
+   chromosome: 1
+   start: 11785723
+   end: 11806920
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:7436
+     - UNIPROT: P42898
+   curators: 
+     - rtearle
+     - taltman
+- 
+   symbol: GRIK3
+   function: glutamate ionotropic receptor kainate type subunit 3
+   chromosome: 1
+   start: 36795527
+   end: 37034129
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:4581
+     - UNIPROT: Q13003
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: HSD11B1
+   function: corticosteroid 11-beta-dehydrogenase isozyme 1
+   chromosome: 1
+   start: 209686178
+   end: 209734950
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:5208
+     - UNIPROT: P28845
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRM3
+   function: cholinergic receptor muscarinic 3
+   chromosome: 1
+   start: 239386565
+   end: 239915452
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:1952
+     - UNIPROT: P20309
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: POMC
+   function: proopiomelanocortin
+   chromosome: 2
+   start: 25160853
+   end: 25168903
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:9201
+     - UNIPROT: P01189
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: LINC00309
+   function: long intergenic non-protein coding RNA 309
+   chromosome: 2
+   start: 64185078
+   end: 64205485
+   strand: -
+   gene_type: lincRNA
+   unification_links:
+     - HGNC: HGNC:25279
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: KRT18P33
+   function: keratin 18 pseudogene 33
+   chromosome: 2
+   start: 65666695
+   end: 65667737
+   strand: +
+   gene_type: processed_pseudogene
+   unification_links:
+     - HGNC: HGNC:33402
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: NPAS2
+   function: neuronal PAS domain protein 2
+   chromosome: 2
+   start: 100820152
+   end: 100996829
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:7895
+     - UNIPROT: Q99743
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: IL1A
+   function: interleukin 1 alpha
+   chromosome: 2
+   start: 112773915
+   end: 112784590
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:5991
+     - UNIPROT: P01583
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: SCN9A
+   function: sodium voltage-gated channel alpha subunit 9
+   chromosome: 2
+   start: 166195185
+   end: 166375993
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:10597
+     - UNIPROT: Q15858
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: ARMC9
+   function: armadillo repeat containing 9
+   chromosome: 2
+   start: 231198546
+   end: 231374837
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:20730
+     - UNIPROT: Q7Z3E5
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TRPM8
+   function: transient receptor potential cation channel subfamily M member 8
+   chromosome: 2
+   start: 233917398
+   end: 234019522
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:17961
+     - UNIPROT: Q7Z2W7
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: ARHGEF3
+   function: rho guanine nucleotide exchange factor 3
+   chromosome: 3
+   start: 56727418
+   end: 57079329
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:683
+     - UNIPROT: Q9NR81
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: EPHA6
+   function: ephrin type-A receptor 6
+   chromosome: 3
+   start: 96814581
+   end: 97752460
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UF33
+     - HGNC: HGNC:19296
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: BMP2K
+   function: BMP-2-inducible protein kinase
+   chromosome: 4
+   start: 78776342
+   end: 78916372
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9NSY1
+     - HGNC: HGNC:18041
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: C5orf66
+   function: chromosome 5 open reading frame 66
+   chromosome: 5
+   start: 135033280
+   end: 135358219
+   strand: +
+   gene_type: antisense
+   unification_links:
+     - HGNC: HGNC:48332
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: NR3C1
+   function: glucocorticoid receptor
+   chromosome: 5
+   start: 143277931
+   end: 143435512
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P04150
+     - HGNC: HGNC:7978
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: IL12B
+   function: interleukin-12 subunit beta
+   chromosome: 5
+   start: 159314783
+   end: 159330887
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P29460
+     - HGNC: HGNC:5970
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: NBAT1
+   synonym: CASC14
+   function: neuroblastoma associated transcript 1
+   chromosome: 6
+   start: 22134957
+   end: 22147193
+   strand: -
+   gene_type: lincRNA
+   unification_links:
+     - HGNC: HGNC:49075
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: GRIK2
+   function: glutamate receptor ionotropic, kainate 2
+   chromosome: 6
+   start: 101398788
+   end: 102070083
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q13002
+     - HGNC: HGNC:4580
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CRHR2
+   function: corticotropin-releasing factor receptor 2
+   chromosome: 7
+   start: 30651943
+   end: 30700129
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q13324
+     - HGNC: HGNC:2358
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRNA2
+   function: neuronal acetylcholine receptor subunit alpha-2
+   chromosome: 8
+   start: 27459761
+   end: 27479883
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q15822
+     - HGNC: HGNC:1956
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: PTDSS1
+   function: phosphatidylserine synthase 1
+   chromosome: 8
+   start: 96261715
+   end: 96336995
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P48651
+     - HGNC: HGNC:9587
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: RECK
+   function: reversion-inducing cysteine-rich protein with Kazal motifs
+   chromosome: 9
+   start: 36036433
+   end: 36124451
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: O95980
+     - HGNC: HGNC:11345
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TRPM3
+   function: transient receptor potential cation channel subfamily M member 3
+   chromosome: 9
+   start: 70529063
+   end: 71446904
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9HCF6
+     - HGNC: HGNC:17992
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CFL1P1
+   function: cofilin 1 pseudogene 1
+   chromosome: 10
+   start: 87817928
+   end: 87845612
+   strand: +
+   gene_type: transcribed_unprocessed_pseudogene
+   unification_links:
+     - HGNC: HGNC:28560
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TECTB
+   function: beta-tectorin
+   chromosome: 10
+   start: 112283735
+   end: 112305035
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q96PL2
+     - HGNC: HGNC:11721
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: SLC18A2
+   function: synaptic vesicular amine transporter
+   chromosome: 10
+   start: 117241093
+   end: 117279430
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q05940
+     - HGNC: HGNC:10935
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: EIF3A
+   function: eukaryotic translation initiation factor 3 subunit A
+   chromosome: 10
+   start: 119033670
+   end: 119080823
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q14152
+     - HGNC: 3271
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TRPC2
+   function: transient receptor potential cation channel subfamily C member 2, pseudogene
+   chromosome: 11
+   start: 609901
+   end: 3637559
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:12334
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TH
+   function: tyrosine 3-monooxygenase
+   chromosome: 11
+   start: 2163929
+   end: 2171877
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:11782
+     - UNIPROT: P07101
+   go_terms:
+     - GO:0042745: "circadian sleep/wake cycle"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: OTOG
+   function: otogelin
+   chromosome: 11
+   start: 17547373
+   end: 17647150
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q6ZRI0
+     - HGNC: HGNC:8516
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: PEX16
+   function: peroxisomal membrane protein PEX16
+   chromosome: 11
+   start: 45909669
+   end: 45918812
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9Y5Y5
+     - HGNC: HGNC:8857
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: DRD2
+   function: D(2) dopamine receptor
+   chromosome: 11
+   start: 113409615
+   end: 113475691
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P11416
+     - HGNC: HGNC:3023
+   go_terms:
+     - GO:0042321: "negative regulation of circadian sleep/wake cycle, sleep"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: GRIN2B
+   function: glutamate receptor ionotropic, NMDA 2B
+   chromosome: 12
+   start: 13537337
+   end: 13981957
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q13224
+     - HGNC: HGNC:4586
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: PPFIBP1
+   function: liprin-beta-1
+   chromosome: 12
+   start: 27523431
+   end: 27695564
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q86W92
+     - HGNC: HGNC:9249
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: FLJ41278
+   function: long intergenic non-protein coding RNA 2389
+   chromosome: 12
+   start: 64883394
+   end: 64977522
+   strand: +
+   gene_type: lincRNA
+   unification_links:
+     - HGNC: HGNC:53316
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: IFNG
+   function: interferon gamma
+   chromosome: 12
+   start: 68154768
+   end: 68159747
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P01579
+     - HGNC: HGNC:5438
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TPH2
+   function: tryptophan 5-hydroxylase 2
+   chromosome: 12
+   start: 71938846
+   end: 72186618
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8IWU9
+     - HGNC: HGNC:20692
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TRPC4
+   function: short transient receptor potential channel 4
+   chromosome: 13
+   start: 37636636
+   end: 37870425
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UBN4
+     - HGNC: HGNC:12336
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: HTR2A
+   function: 5-hydroxytryptamine receptor 2A
+   chromosome: 13
+   start: 46831550
+   end: 46897076
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P28223
+     - HGNC: HGNC:5293
+   go_terms:
+     - GO:0030431: "sleep"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: HS6ST3
+   function: heparan-sulfate 6-O-sulfotransferase 3
+   chromosome: 13
+   start: 96090839
+   end: 96839562
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8IZP7
+     - HGNC: HGNC:19134
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: UBAC2
+   function: ubiquitin-associated domain-containing protein 2
+   chromosome: 13
+   start: 99200774
+   end: 99386434
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8NBM4
+     - HGNC: HGNC:20486
+   curators: 
+    - rtearle
+- 
+   symbol: CLYBL
+   function: citrate lyase subunit beta-like protein, mitochondrial
+   chromosome: 13
+   start: 99606669
+   end: 99897134
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8N0X4
+     - HGNC: HGNC:18355
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: NOS3
+   function: nitric oxide synthase, endothelial
+   chromosome: 13
+   start: 150990995
+   end: 151014588
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P29474
+     - HGNC: HGNC:7876
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: FBLN5
+   function: fibulin-5
+   chromosome: 14
+   start: 91869412
+   end: 91947987
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UBX5
+     - HGNC: HGNC:3602
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRNA5
+   function: neuronal acetylcholine receptor subunit alpha-5
+   chromosome: 15
+   start: 78565520
+   end: 78595269
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P30532
+     - HGNC: HGNC:1959
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRNA3
+   function: neuronal acetylcholine receptor subunit alpha-3
+   chromosome: 15
+   start: 78593052
+   end: 78621295
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P32297
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRNB4
+   function: neuronal acetylcholine receptor subunit beta-4
+   chromosome: 15
+   start: 78624119
+   end: 78727754
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P30926
+     - HGNC: HGNC:1964
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: SLCO3A1
+   function: solute carrier organic anion transporter family member 3A1
+   chromosome: 15
+   start: 91853695
+   end: 92172435
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UIG8
+     - HGNC: HGNC:10952
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TOX3
+   function: TOX high mobility group box family member 3
+   chromosome: 16
+   start: 52438005
+   end: 52547802
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: O15405
+     - HGNC: HGNC:11972
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CHRNE
+   function: acetylcholine receptor subunit epsilon
+   chromosome: 17
+   start: 4897774
+   end: 4903074
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q04844
+     - HGNC: HGNC:1966
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: SLC6A4
+   synonym: 5HTT
+   function: sodium-dependent serotonin transporter
+   chromosome: 17
+   start: 30194319
+   end: 30236002
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P31645
+     - HGNC: HGNC:11050
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: KRT33A
+   function: keratin, type I cuticular Ha3-I
+   chromosome: 17
+   start: 41346092
+   end: 41350812
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: O76009
+     - HGNC: HGNC:6450
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CRHR1
+   function: corticotropin-releasing factor receptor 1
+   chromosome: 17
+   start: 45620344
+   end: 45835826
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P34998
+     - HGNC: HGNC:2357
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CRHR1
+   function: corticotropin-releasing factor receptor 1
+   chromosome: 17
+   start: 45784280
+   end: 45835828
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P34998
+     - HGNC: HGNC:2357
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: CELF4
+   function: CUGBP Elav-like family member 4
+   chromosome: 18
+   start: 37243047
+   end: 37566037
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9BZC1
+     - HGNC: HGNC:14015
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: TCF3
+   function: transcription factor E2-alpha
+   chromosome: 19
+   start: 1609290
+   end: 1652605
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P15923
+     - HGNC: HGNC:11633
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: LILRB4
+   function: leukocyte immunoglobulin-like receptor subfamily B member 4
+   chromosome: 19
+   start: 54643889
+   end: 54670359
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8NHJ6
+     - HGNC: HGNC:6608
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: NLRP13
+   function: NACHT, LRR, and PYD domains-containing protein 13
+   chromosome: 19
+   start: 55891699
+   end: 55932336
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q86W25
+     - HGNC: HGNC:22937
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: KCNJ6
+   chromosome: 21
+   start: 37607376
+   end: 37916446
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P48051
+     - HGNC: HGNC:6267
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: AGPAT3
+   function: 1-acyl-sn-glycerol-3-phosphate acyltransferase gamma
+   chromosome: 21
+   start: 43865186
+   end: 43986536
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9NRZ7
+     - HGNC: HGNC:326
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: COMT
+   function: catechol O-methyltransferase
+   chromosome: 22
+   start: 19941607
+   end: 19969975
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P21964
+     - HGNC: HGNC:2228
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: MAOA
+   function: amine oxidase [flavin-containing] A
+   chromosome: X
+   start: 43654907
+   end: 43746824
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P21397
+     - HGNC: HGNC:6833
+   curators: 
+    - rtearle
+    - taltman
+- 
+   symbol: MAOB
+   function: amine oxidase [flavin-containing] B
+   chromosome: X
+   start: 43766611
+   end: 43882447
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P27338
+     - HGNC: HGNC:6834
+   curators: 
+    - rtearle
+    - taltman
