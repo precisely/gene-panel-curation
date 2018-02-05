@@ -1,8 +1,13 @@
 Gene symbol	
+
 GRIK3
+
 Full name of gene
+
 glutamate ionotropic receptor kainate type subunit 3[3]
+
 What does the gene do?	
+
 This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.[1]  Excitatory transmitters increase the chance that the neuron will fire, enhancing electrical flow among brain cells.[13]  Glutamate is the most important transmitter for normal brain function, but elevated levels are toxic to neurons.[11]  Problems creating or absorbing glutamate are linked to Autism, OCD, schizophrenia, depression, delayed neurological development, and memory problems.[13]  Currently, GRIK3 mutations are linked to recurrent major depressive disorder, developmental delays, and a 30% increase in the risk for schizophrenia.[2][3][4][5][6][9]
 
 CFS is also linked to problems related to the neuroexitatory neurotransmitter glutamate.  Sustained exposure to extracellular glutamate in CFS patients causes sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity.  Some studies indicate dietary supplemental regimes may include Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnetine.[10]
@@ -10,10 +15,13 @@ CFS is also linked to problems related to the neuroexitatory neurotransmitter gl
 What are some common mutations in the gene?	
 T928G (Ser310Ala) polymorphism[1][6][9]
 
-Variants (#)	Currently, 1 in the GRIK3 rs6691840
+Variants (#)
+
+Currently, 1 in the GRIK3 rs6691840
 Also, microdeletion shown to indicate serious developmental delays[2]
 
 Homozygous variant	
+
 What does this mean? (Homozygous variant)	
 In the gene family of glutamate receptors, there is a T/G polymorphism at codon 928 in the ionotropic glutamate receptor kainite 3 gene (GRIK3) that causes a serine to alanine change at position 310 in the extracellular N terminus of the protein.[4]
 Orientation
@@ -41,10 +49,13 @@ Desc	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 12; MRT12
  [8] Variant	
 
 What is the effect of this variant? (Homozygous variant)	
+
 GRIK3 Ser310Ala polymorphism has been linked to schizophrenia and major depression.[3][5]  The Ser310Ala allele in homozygosity is associated with higher scores in harm avoidance anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.[4] This pattern of scores is akin to that observed in depressed patients.[4]  GRIK3 rs6691840 polymorphism was found to increase the risk of schizophrenia by 30%.[3][9]  Microdeletions have also been indicated in severe developmental delays.[2]
 
 How sure are we? (Homozygous variant)	
+
 95% confidence interval (CI) 1.177-3.504)[6]
+
 How common is this variant in the general population? (Homozygous variant)	
 How common is the variant in the ME/CFS community? (Homozygous variant)	
 Novel variant	
@@ -73,12 +84,17 @@ What are the effects of mutations?
 MODERATE LOSS OF FUNCTION	
 What are the effects of mutations? 
 SIGNIFICANT LOSS OF FUNCTION	
+
 What should I do about this? 
+
 CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli.  Complementary dietary supplemental regimes may include: Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnetine. [10]	
+
 Hover text content	
+
 References	
 
 Last, F. M. (Year, Month Date Published). Article title. Retrieved from URL
+
 Last, F. M. (Year Published). Article title. Journal Name, Volume (Issue), Page(s). doi:# OR Retrieved from URL
 
 [1]: National Center for Biotechnology Information (2018, Jan 27). GRIK3 glutamate ionotropic receptor kainate type subunit 3 [ Homo sapiens (human) ]. Retrieved from https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899
