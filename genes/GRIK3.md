@@ -74,38 +74,38 @@ MODERATE LOSS OF FUNCTION
 What are the effects of mutations? 
 SIGNIFICANT LOSS OF FUNCTION	
 What should I do about this? 
-CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli.  Complementary dietary supplemental regimes may include: Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnetine.[10]	
+CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli.  Complementary dietary supplemental regimes may include: Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnetine. [10]	
 Hover text content	
 References	
 
 Last, F. M. (Year, Month Date Published). Article title. Retrieved from URL
 Last, F. M. (Year Published). Article title. Journal Name, Volume (Issue), Page(s). doi:# OR Retrieved from URL
 
-[1]National Center for Biotechnology Information (2018, Jan 27). GRIK3 glutamate ionotropic receptor kainate type subunit 3 [ Homo sapiens (human) ]. Retrieved from https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899
+[1]: National Center for Biotechnology Information (2018, Jan 27). GRIK3 glutamate ionotropic receptor kainate type subunit 3 [ Homo sapiens (human) ]. Retrieved from https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899
 
-[2]Takenouchi T, Hashida N, Torii C, Kosaki R, Takahashi T, Kosaki K. (2014). “1p34.3 deletion involving GRIK3: Further clinical implication of GRIK family glutamate receptors in the pathogenesis of developmental delay.” American Journal of Medical Genetics, 164A(2):456-60. doi: 10.1002/ajmg.a.36240 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/24449200/.
+[2]: Takenouchi T, Hashida N, Torii C, Kosaki R, Takahashi T, Kosaki K. (2014). “1p34.3 deletion involving GRIK3: Further clinical implication of GRIK family glutamate receptors in the pathogenesis of developmental delay.” American Journal of Medical Genetics, 164A(2):456-60. doi: 10.1002/ajmg.a.36240 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/24449200/.
 
-[3]Ahmad Y, Bhatia MS, Mediratta PK, Sharma KK, Negi H, Chosdol K, Sinha S. (2009). “Association between the ionotropic glutamate receptor kainate3 (GRIK3) Ser310Ala polymorphism and schizophrenia in the Indian population.” World Journal of Biological Psychiatry. 2009;10(4):330-3. doi: 10.3109/15622970802688044 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19921975/.
+[3]: Ahmad Y, Bhatia MS, Mediratta PK, Sharma KK, Negi H, Chosdol K, Sinha S. (2009). “Association between the ionotropic glutamate receptor kainate3 (GRIK3) Ser310Ala polymorphism and schizophrenia in the Indian population.” World Journal of Biological Psychiatry. 2009;10(4):330-3. doi: 10.3109/15622970802688044 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19921975/.
 
-[4]Minelli A, Scassellati C, Bonvicini C, Perez J, Gennarelli M. (2009). “An association of GRIK3 Ser310Ala functional polymorphism with personality traits.” Neuropsychobiology. 2009;59(1):28-33. doi: 10.1159/000202827 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19221446/.
+[4]: Minelli A, Scassellati C, Bonvicini C, Perez J, Gennarelli M. (2009). “An association of GRIK3 Ser310Ala functional polymorphism with personality traits.” Neuropsychobiology. 2009;59(1):28-33. doi: 10.1159/000202827 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19221446/.
 
-[5]Schiffer HH1, Heinemann SF. (2007). “Association of the human kainate receptor GluR7 gene (GRIK3) with recurrent major depressive disorder.” American Journal of Medical Genetics. 2007 Jan 5;144B(1):20-6. doi: 10.1002/ajmg.b.30374 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/16958029.
+[5]: Schiffer HH1, Heinemann SF. (2007). “Association of the human kainate receptor GluR7 gene (GRIK3) with recurrent major depressive disorder.” American Journal of Medical Genetics. 2007 Jan 5;144B(1):20-6. doi: 10.1002/ajmg.b.30374 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/16958029.
 
-[6]Begni S, Popoli M, Moraschi S, Bignotti S, Tura GB, Gennarelli M. (2009) “Association between the ionotropic glutamate receptor kainate 3 (GRIK3) ser310ala polymorphism and schizophrenia.” World Journal of Biological psychiatry. 2009;10(4):330-3. doi: 10.1038/sj.mp.4000987 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11986986.
+[6]: Begni S, Popoli M, Moraschi S, Bignotti S, Tura GB, Gennarelli M. (2009) “Association between the ionotropic glutamate receptor kainate 3 (GRIK3) ser310ala polymorphism and schizophrenia.” World Journal of Biological psychiatry. 2009;10(4):330-3. doi: 10.1038/sj.mp.4000987 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11986986.
 
-[7]Lick, James (2009, July 9). rs514262. Retrieved from https://www.snpedia.com/index.php/Rs514262
+[7]: Lick, James (2009, July 9). rs514262. Retrieved from https://www.snpedia.com/index.php/Rs514262
 
-[8]Lick, James (2012, September 26). Rs6691840. Retrieved from https://www.snpedia.com/index.php/Rs6691840
+[8]: Lick, James (2012, September 26). Rs6691840. Retrieved from https://www.snpedia.com/index.php/Rs6691840
 
-[9]Dai D, Wang Y, Yuan J, Zhou X, Jiang D, Li J, Zhang Y, Yin H, Duan S. (2014) “Meta-analyses of 10 polymorphisms associated with the risk of schizophrenia..” Biomedical Reports. 2014 Sep;2(5):729. doi: 10.3892/br.2014.308 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract.
+[9]: Dai D, Wang Y, Yuan J, Zhou X, Jiang D, Li J, Zhang Y, Yin H, Duan S. (2014) “Meta-analyses of 10 polymorphisms associated with the risk of schizophrenia..” Biomedical Reports. 2014 Sep;2(5):729. doi: 10.3892/br.2014.308 Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract.
 
-[10]Glassford, Julian A. G. (2017) “The Neuroinflammatory Etiopathology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)” Frontiers in Physiology. 2017; 8: 88. doi: 10.3389/fphys.2017.00088 Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/.
+[10]: Glassford, Julian A. G. (2017) “The Neuroinflammatory Etiopathology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)” Frontiers in Physiology. 2017; 8: 88. doi: 10.3389/fphys.2017.00088 Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/.
 
-[11]Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. https://www.ncbi.nlm.nih.gov/books/NBK10807/
+[11]: Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. https://www.ncbi.nlm.nih.gov/books/NBK10807/
 
-[12]Meldrum, BS. (2000) “Glutamate as a neurotransmitter in the brain: review of physiology and pathology.” The Journal of Nutrition. 2000 Apr;130(4S Suppl):1007S-15S. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/10736372.
+[12]: Meldrum, BS. (2000) “Glutamate as a neurotransmitter in the brain: review of physiology and pathology.” The Journal of Nutrition. 2000 Apr;130(4S Suppl):1007S-15S. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/10736372.
 
-[13]National Institute of Mental Health. Brain Basics. Retrieved from https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml
+[13]: National Institute of Mental Health. Brain Basics. Retrieved from https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml
 
 Confidence	
 chr	
