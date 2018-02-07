@@ -1,0 +1,8 @@
+## Check out the Curation Guide in the wiki for both a description of how to curate symptoms, and links to the YAML format.
+- ID: SYMP-1
+  common-name: fatigue
+  SNOMED: F-01360
+  MESH: D005221
+- ID: SYMP-2
+  common-name:
+  # SYMP-2 is a stub...
