@@ -4,4 +4,4 @@ variants:
 genotypes:
   - C677T (C;T) ; A1298C (A;C)
     - frequency: 6%
-    - effect: server_LoF
+    - effect: servere_LoF
