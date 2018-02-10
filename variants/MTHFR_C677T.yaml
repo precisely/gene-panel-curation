@@ -1,0 +1,12 @@
+symbol: C677T
+chromosome: 1
+start: ?
+genes:
+  - MTHFR
+variant_type: SNV
+genotypes:
+  - T:T
+    - effect: moderate_LoF
+    - frequency: 9%
+  - C:C
+    - effect: wildtype

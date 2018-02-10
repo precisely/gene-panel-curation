@@ -1,0 +1,15 @@
+symbol: A1298C
+chromosome: 1
+start: ?
+genes:
+  - MTHFR
+variant_type: SNV
+genotypes:
+  - C:C
+    - frequency: 4%
+    - effect: ?
+  - A:C
+    - frequency: 20%
+    - effect: ?
+  - A:A
+    - effect: wildtype

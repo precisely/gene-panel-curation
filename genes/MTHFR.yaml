@@ -1,0 +1,18 @@
+-
+   symbol: MTHFR
+   function: methylenetetrahydrofolate reductase
+   enzyme_expression_locations:
+     - D004703
+     - D010179
+   chromosome: 1
+   start: 11785723
+   end: 11806920
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:7436
+     - UNIPROT: P42898
+   curators: 
+     - rtearle
+     - taltman
+

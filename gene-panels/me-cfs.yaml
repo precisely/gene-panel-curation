@@ -1,17 +1,6 @@
-- 
-   symbol: MTHFR
-   function: methylenetetrahydrofolate reductase
-   chromosome: 1
-   start: 11785723
-   end: 11806920
-   strand: -
-   gene_type: protein_coding
-   unification_links:
-     - HGNC: HGNC:7436
-     - UNIPROT: P42898
-   curators: 
-     - rtearle
-     - taltman
+## A list linking genes to a disease, using evidence codes and literature citations:
+- symbol: MTHFR
+  evidence_codes: 
 - 
    symbol: GRIK3
    function: glutamate ionotropic receptor kainate type subunit 3
