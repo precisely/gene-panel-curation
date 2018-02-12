@@ -5,7 +5,7 @@
   MESH: D005221
 - ID: SYMP-2
   common-name: depression
-  SNOMED: 35489007
+  SNOMED: D9-52000
   MESH: D003863
   - ID: SYMP-3
   common-name: post exertional malaise
