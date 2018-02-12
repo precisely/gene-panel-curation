@@ -5,7 +5,7 @@
   MESH: D005221
 - ID: SYMP-2
   common-name: depression
-  SNOMED: 35489007
+  SNOMED: D9-52000
   MESH: D003863
   - ID: SYMP-3
   common-name: post exertional malaise
@@ -28,7 +28,7 @@
   SNOMED: D386807006
   MESH: D008569
   - ID: SYMP-8
-  common-name: 
+  common-name: orthostatic intolerance (POTS)
   SNOMED: D2865100
   MESH: D054971
   - ID: SYMP-9
