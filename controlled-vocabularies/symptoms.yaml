@@ -20,39 +20,54 @@
   SNOMED: F-0B320
   MESH: D001007
   - ID: SYMP-6
-  common-name: sllep disorder
+  common-name: sleep disorder
   SNOMED: D9-74000
   MESH: D012893
-  - ID: SYMP-6
+  - ID: SYMP-7
+  common-name: memory problems
+  SNOMED: D386807006
+  MESH: D008569
+  - ID: SYMP-8
   common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-   - ID: SYMP-6
-  common-name: 
-  SNOMED: 
-  MESH: 
-
+  SNOMED: D2865100
+  MESH: D054971
+  - ID: SYMP-9
+  common-name: vision problems
+  SNOMED: DA-70080
+  MESH: D014786
+  - ID: SYMP-10
+  common-name: pain
+  SNOMED: F-A2600
+  MESH: D010146
+  - ID: SYMP-11
+  common-name: muscle aches and pain
+  SNOMED: F-11550
+  MESH: D063806
+  - ID: SYMP-12
+  common-name: joint pain without swelling or redness
+  SNOMED: F-13100
+  MESH: D018771
+  - ID: SYMP-13
+  common-name: headache
+  SNOMED: F-A2700
+  MESH: D006261
+  - ID: SYMP-14
+  common-name: tender lymph nodes
+  SNOMED: F-0424B
+  MESH: D000072281
+  - ID: SYMP-15
+  common-name: sore throat
+  SNOMED: D405737000
+  MESH: D010612
+  - ID: SYMP-16
+  common-name: digestive issues
+  SNOMED: F-50262
+  MESH: D005767
+  - ID: SYMP-17
+  common-name: chills and night sweats
+  SNOMED: F-42210
+  MESH: D023341
+  - ID: SYMP-14
+  common-name: multiple chemical sensitivity/allergies
+  SNOMED: G-02B6
+  MESH: D018777
