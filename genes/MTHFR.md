@@ -28,8 +28,14 @@ This mutation is a change at a specific point in the <gene_symbol> gene from ade
   <user gene list>
     
 # What is the effect of this variant
-
+<if have mild>
+    <mild scale look>
+      You are in the Mild Loss of Function category.  See below for more information
+<if have moderate>
     <moderate scale look>
+      You are in the Moderate Loss of Function category.  See below for more information
+<if have severe>
+    <severe scale look>
       You are in the Moderate Loss of Function category.  See below for more information
       
 # How common is this variant in the general population?
@@ -38,9 +44,15 @@ This mutation is a change at a specific point in the <gene_symbol> gene from ade
         This effects <gene frequency> of the population
         
 # How sure are you?
-
+<if chipset to low graph>
         <level graph>
           We have low confidence of this gene due to the data our chipset provides.
+<else if chipset to medium graph>
+        <level graph>
+          We have medium confidence of this gene due to the data our chipset provides.
+<else check chipset to high graph>
+        <level graph>
+          We have high confidence of this gene due to the data our chipset provides.
 
 # What are the effects of variants in <gene_symbol>?
 
