@@ -17,7 +17,7 @@ People with the following variants have a slightly reduced effiency of processin
 
 Some people with mild loss of function variant may benefit from supplementing their diets with folate. Consult your physician. 
 
-<mild meter>
+<moderate meter>
 <efficiency graph>
 <variant and population data>
   
@@ -27,4 +27,4 @@ People with the following variants have a reduced effiency of processing folate 
 
 # What should I do about this?
 
-Some people with mild loss of function variant may benefit from supplementing their diets with folate. Consult your physician. 
+Most people with moderate loss of function variant may benefit from supplementing their diets with folate. Consult your physician. 
