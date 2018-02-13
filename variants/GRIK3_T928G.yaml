@@ -6,12 +6,11 @@ genes:
 variant_type: SNV
 genotypes:
   - T:G
-    - frequency: 40%
-    - effect: 
+    - frequency: 0.1%
+    - effect: Increased risk of schizophrenia and depression
   - A:A
-    - frequency: 60%
     - effect: wildtype
   - A:C
-    - effect: ?
+    - effect: wildtype
   - C:C
-    - effect: ?
+    - effect: wildtype
