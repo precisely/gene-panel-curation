@@ -1,0 +1,17 @@
+symbol: T928G
+chromosome: 1
+start: 1063
+genes:
+  - GRIK3
+variant_type: SNV
+genotypes:
+  - T:G
+    - frequency: 40%
+    - effect: 
+  - A:A
+    - frequency: 60%
+    - effect: wildtype
+  - A:C
+    - effect: ?
+  - C:C
+    - effect: ?
