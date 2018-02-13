@@ -13,7 +13,7 @@ This gene is located on chormosone 1, and the enzyme it produces is found in you
 
 There are 2 well known mutations in this gene: <variant list?>
 
-<varinant viewer with the gene>
+<enzyme_expression_location location="D004703; D010179; D012867">
 
 <C677T variant view with c to T transformation>
 
