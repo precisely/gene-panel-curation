@@ -1,7 +1,7 @@
 -
    symbol: MTHFR
    function: methylenetetrahydrofolate reductase
-   enzyme_expression_locations:
+   gene_expression_locations:
      - D004703
      - D010179
    chromosome: 1

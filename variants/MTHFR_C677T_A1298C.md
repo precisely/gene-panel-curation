@@ -1,3 +1,7 @@
+<severe meter>
+<efficiency graph>
+<variant and population data>
+  
 # Severe Loss of Function
 
 People with the following mutations have a drastically reduced
@@ -14,5 +18,8 @@ It is strongly recommended that people in this group take folate
 supplement on a daily basis. You should also be carefully evaluated
 for other factors known to affect homocysteine, such as:
 
+* eye lens dislocations
+* unusual (Marfan type) body shape
+* stroke
+* blood clotting abnormalities
 * Low thyroid hormones (hypothyroidism)
-...

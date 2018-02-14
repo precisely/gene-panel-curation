@@ -8,5 +8,8 @@ genotypes:
   - T:T
     - effect: moderate_LoF
     - frequency: 9%
+  - C:T
+    - effect: mild_LoF
+    - frequency: 30%
   - C:C
     - effect: wildtype
