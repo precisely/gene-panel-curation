@@ -1,0 +1,19 @@
+[
+    {
+        "alternateBases": [
+            "T"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-1",
+                "genotype": [
+                    1,
+                    1
+                ],
+            }
+        ],
+        "end": "11786002",
+        "referenceBases": "C",
+        "referenceName": "chr1",
+        "start": "11785712"
+    },
