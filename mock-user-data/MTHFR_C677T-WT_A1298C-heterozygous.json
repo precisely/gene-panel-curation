@@ -10,12 +10,17 @@
                     0,
                     0
                 ],
+		"info": {
+                    "FILTER": [
+                        "LOWQ"
+                    ]
+		}
             }
         ],
-        "end": "11786002",
+        "end": "11796322",
         "referenceBases": "C",
         "referenceName": "chr1",
-        "start": "11785712"
+        "start": "11796321"
     },
     {
         "alternateBases": [
@@ -28,13 +33,42 @@
                     0,
                     1
                 ],
+		"info": {
+                    "FILTER": [
+                        "PASS"
+                    ]
+		}
+
             }
         ],
-        "end": "11785734",
+        "end": "11794420"
         "referenceBases": "A",
         "referenceName": "chr1",
-        "start": "11785732"
+        "start": "11794419"
     },
-    
+    {
+        "alternateBases": [
+            "T"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-3",
+                "genotype": [
+                    0,
+                    1
+                ],
+		"info": {
+                    "FILTER": [
+                        "IMP"
+                    ]
+		}
+
+            }
+        ],
+        "end": "36209042"
+        "referenceBases": "C",
+        "referenceName": "chr1",
+        "start": "36209041"
+    }    
 ]
    
