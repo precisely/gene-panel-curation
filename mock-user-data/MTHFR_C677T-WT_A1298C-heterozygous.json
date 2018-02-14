@@ -1,0 +1,40 @@
+[
+    {
+        "alternateBases": [
+             "<NON_REF>"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-3",
+                "genotype": [
+                    0,
+                    0
+                ],
+            }
+        ],
+        "end": "11786002",
+        "referenceBases": "C",
+        "referenceName": "chr1",
+        "start": "11785712"
+    },
+    {
+        "alternateBases": [
+            "C"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-3",
+                "genotype": [
+                    0,
+                    1
+                ],
+            }
+        ],
+        "end": "11785734",
+        "referenceBases": "A",
+        "referenceName": "chr1",
+        "start": "11785732"
+    },
+    
+]
+   
