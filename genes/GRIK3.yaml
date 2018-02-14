@@ -1,6 +1,6 @@
    symbol: GRIK3
    function: glutamate ionotropic receptor kainate type subunit 3
-   protein_expression_locations:
+   gene_expression_locations:
      - D001921
    chromosome: 1
    start: 36795527
