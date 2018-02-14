@@ -1,0 +1,47 @@
+- ID: BODYSYS-1
+  common-name: brain
+  MESH: D001921
+- ID: BODYSYS-2
+  common-name: female tissue
+  MESH: D005836
+- ID: BODYSYS-3
+  common-name: gastrointestinal tract
+  MESH: D041981
+- ID: BODYSYS-4
+  common-name: Kidney and urinary bladder
+  MESH: D005221  
+- ID: D014551
+  common-name: male tissue
+  MESH: D005837  
+- ID: BODYSYS-6
+  common-name: pancreas
+  MESH: D010179
+- ID: BODYSYS-7
+  common-name: gallbladder
+  MESH: D001659
+- ID: BODYSYS-8
+  common-name: liver
+  MESH: D008099 
+- ID: BODYSYS-9
+  common-name: endocrine tissues
+  MESH: D004703  
+- ID: BODYSYS-10
+  common-name: respiratory system and lung
+  MESH: D012137 
+- ID: BODYSYS-11
+  common-name: bone marrow and immune system
+  MESH: D007107  
+- ID: BODYSYS-12
+  common-name: muscle tissues
+  MESH: D009132   
+- ID: BODYSYS-13
+  common-name: adipose and soft tissue
+  MESH: D000273   
+- ID: BODYSYS-14
+  common-name: skin
+  MESH: D012867 
+- ID: BODYSYS-14
+  common-name: circulatory and cardiovascular system
+  MESH: D002319   
+  
+  
