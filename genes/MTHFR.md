@@ -22,7 +22,7 @@ This mutation is a change at a specific point in the <gene_symbol> gene from cyt
 <A1298C variant view with a to c transformation>
 
 This mutation is a change at a specific point in the <gene_symbol> gene from adenine (A) to cytosine (C), resulting in reduced enzymatic activity.  This substitution of a single nucleotide is known as a mis-sense mutation.
-
+```
 <user variant viewer>
   <user what does this mean>
   <user gene list>
@@ -77,7 +77,7 @@ This mutation is a change at a specific point in the <gene_symbol> gene from ade
             <user gene chip graph level="user gene surity">
             We have <user gene surity> confidence in the read of the gene due to the coverage of our chipset process.
 </UserGenotypeBox>    
-        
+     
 # How sure are you?
 <if chipset to low graph>
         <level graph>
@@ -88,7 +88,7 @@ This mutation is a change at a specific point in the <gene_symbol> gene from ade
 <else check chipset to high graph>
         <level graph>
           We have high confidence of this gene due to the data our chipset provides.
-
+```   
 # What are the effects of variants in <gene_symbol>?
 
 For the vast majority of people, the overall risk associated with the
@@ -107,7 +107,9 @@ activity. This subsitution of a single nucleotide is known as a
 missense mutation.
 
 <function meter level="mild">
+  
 <efficiency  level = "82%" >
+  
 <variant and population data>
   
 # Mild loss of function
@@ -119,7 +121,9 @@ People with the following variants have a slightly reduced effiency of processin
 Some people with mild loss of function variant may benefit from supplementing their diets with folate. Consult your physician. 
 
 <function meter level="moderate">
+  
 <efficiency  level = "35%" >
+  
 <variant and population data>
   
 # Moderate loss of function
@@ -131,7 +135,9 @@ People with the following variants have a reduced effiency of processing folate 
 Most people with moderate loss of function variant may benefit from supplementing their diets with folate. Consult your physician. 
 
 <function meter level="severe">
+  
 <efficiency  level = "15%" >
+  
 <variant and population data>
   
 # Severe Loss of Function
@@ -161,4 +167,5 @@ for other factors known to affect homocysteine, such as:
 MTHFR and cfs , expand.
 
 <references>
+  
 <creator comment section>
