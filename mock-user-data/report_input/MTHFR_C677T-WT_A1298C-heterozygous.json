@@ -1,13 +1,8 @@
 {
     "gene_symbol": "MTHFR",
     "function_name": "methylenetetrahydrofolate reductase",
-    "gene_abstract": [
-	"MTHFR is important for its role in processing the vitamin folate ",
-	"(also known as B9). Folate is a precursor to the amino acid ",
-	"methionine. The body uses methionine to make proteins and other ",
-	"important compounds, including neurotransmitters such as serotonin, ",
-	"dopamine, and norepinephrine."
-    ],
+    "gene_abstract":
+	"MTHFR is important for its role in processing the vitamin folate (also known as B9). Folate is a precursor to the amino acid methionine. The body uses methionine to make proteins and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine.",
     "chromosome": "1",
     "gene_expression_locations": [
 	"D004703",
@@ -18,9 +13,8 @@
 	{ 
 	    "variant_symbol": "C677T",
 	    "variant": "NC_000001.11:g.1032277C>T",
-	    "variant_abstract": [
-		"This mutation is a change at a specific point in the <gene_symbol> gene from cytosine (C) to thymine (T), resulting in reduced enzymatic activity.  This substitution of a single nucleotide is known as a mis-sense mutation."
-	    ],
+	    "variant_abstract": 
+		"This mutation is a change at a specific point in the <gene_symbol> gene from cytosine (C) to thymine (T), resulting in reduced enzymatic activity.  This substitution of a single nucleotide is known as a mis-sense mutation.",
 	    "variant_freq": "9%"
 	    "variant_call": "homozygous",
 	    "variant_confidence": "low",
