@@ -1,0 +1,88 @@
+[
+    {
+        "alternateBases": [
+            "T"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-2",
+                "genotype": [
+                    1,
+                    1
+                ],
+		"info": {
+                    "FILTER": [
+                        "PASS"
+                    ]
+		}
+
+            }
+        ],
+        "end": "11796322",
+        "referenceBases": "C",
+        "referenceName": "chr1",
+        "start": "11796321",
+	"attributes": {
+	    "common_name": "C677T",
+	    "systematic_name": "NC_012345:g.[12345C>T];[12345C>T]",
+	    "gene_symbol": "MTHFR",
+	    "variant_call": {
+		"genotype": "homozygous",
+		"quality": "HIGH"
+	    },
+	    "db_links": {
+		"clinVar": [
+		    "cl_012345"
+		]
+	    }
+    },
+    {
+        "alternateBases": [
+            "C"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-2",
+                "genotype": [
+                    1,
+                    1
+                ],
+		"info": {
+                    "FILTER": [
+                        "NOTVALIDATED"
+                    ]
+		}
+
+            }
+        ],
+        "end": "11794420"
+        "referenceBases": "A",
+        "referenceName": "chr1",
+        "start": "11794419"
+    },
+    {
+        "alternateBases": [
+             "<NON_REF>"
+        ],
+        "calls": [
+            {
+                "callSetId": "Precisely-3",
+                "genotype": [
+                    0,
+                    0
+                ],
+		"info": {
+                    "FILTER": [
+                        "BOOSTED"
+                    ]
+		}
+
+            }
+        ],
+        "end": "36209042"
+        "referenceBases": "C",
+        "referenceName": "chr1",
+        "start": "36209041"
+    }    
+]
+   
