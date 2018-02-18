@@ -11,11 +11,19 @@
                     1
                 ],
 		"info": {
+		    "DP": [
+                        "44"
+                    ],
                     "FILTER": [
                         "PASS"
+                    ],
+                    "GQ": [
+                        "51"
+                    ],
+                    "MIN_DP": [
+                        "20"
                     ]
 		}
-
             }
         ],
         "end": "11796322",
@@ -38,54 +46,5 @@
 		"systematic_name": "NC_012345:g.[12345C>T];[12345C>T]"
 	    },
 	},
-    },
-    {
-        "alternateBases": [
-            "C"
-        ],
-        "calls": [
-            {
-                "callSetId": "Precisely-2",
-                "genotype": [
-                    1,
-                    1
-                ],
-		"info": {
-                    "FILTER": [
-                        "NOTVALIDATED"
-                    ]
-		}
-
-            }
-        ],
-        "end": "11794420"
-        "referenceBases": "A",
-        "referenceName": "chr1",
-        "start": "11794419"
-    },
-    {
-        "alternateBases": [
-             "<NON_REF>"
-        ],
-        "calls": [
-            {
-                "callSetId": "Precisely-3",
-                "genotype": [
-                    0,
-                    0
-                ],
-		"info": {
-                    "FILTER": [
-                        "BOOSTED"
-                    ]
-		}
-
-            }
-        ],
-        "end": "36209042"
-        "referenceBases": "C",
-        "referenceName": "chr1",
-        "start": "36209041"
-    }    
+    }
 ]
-   
