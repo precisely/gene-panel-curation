@@ -1,0 +1,31 @@
++   symbol: GRIK3
+ +   function: glutamate ionotropic receptor kainate type subunit 3
+ +   gene_expression_locations:
+ +     - D001921
+ +   chromosome: 1
+ +   start: 36795527
+ +   end: 37034129
+ +   strand: -
+ +   gene_type: protein_coding
+ +   unification_links:
+ +     - HGNC: HGNC:4581
+ +     - UNIPROT: Q13003
+ +   common-name: depression
+ +   SNOMED: D9-52000
+ +   MESH: D003863
+ +   - ID: SYMP-4
+ +   common-name: stress
+ +   SNOMED: R-41520
+ +   MESH: D040701
+ +   - ID: SYMP-7
+ +   common-name: memory problems
+ +   SNOMED: D386807006
+ +   MESH: D008569
+ +   - ID: SYMP-8
+ +   common-name: 
+ +   SNOMED: D2865100
+ +   MESH: D054971
+ +  - ID: SYMP-9
+ +   common-name: pain
+ +   SNOMED: F-A2600
+ +   MESH: D010146
