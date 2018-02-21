@@ -1,21 +1,21 @@
 [
     {
         "alternateBases": [
-             "<NON_REF>"
+	    "T"
         ],
         "calls": [
             {
                 "callSetId": "barcode-124",
                 "genotype": [
                     0,
-                    0
+                    1
                 ],
 		"info": {
 		    "DP": [
                         "44"
                     ],
                     "FILTER": [
-			"LOWQ"
+			"BOOSTED"
                     ],
                     "GQ": [
                         "51"
@@ -43,27 +43,27 @@
 	    },
 	    "variant_call": {
 		"genotype": "wild-type",
-		"systematic_name": "NC_000001.11:g.[11796322C=];[11796322C=]"
+		"systematic_name": "NC_000001.11:g.[11796322C=];[11796322C>T]"
 	    },
 	},
     },
     {
         "alternateBases": [
-	    "C"
+             "<NON_REF>"
         ],
         "calls": [
             {
                 "callSetId": "barcode-124",
                 "genotype": [
                     0,
-                    1
+                    0
                 ],
 		"info": {
 		    "DP": [
-                        "42"
+                        "5"
                     ],
                     "FILTER": [
-			"IMP"
+			"LOWDP"
                     ],
                     "GQ": [
                         "53"
@@ -92,7 +92,7 @@
 	    },
 	    "variant_call": {
 		"genotype": "heterozygous",
-		"systematic_name": "NC_000001.11:g.[36209042A=];[36209042A>C]"
+		"systematic_name": "NC_000001.11:g.[36209042A=];[36209042A=]"
 	    },
 	},
     }    

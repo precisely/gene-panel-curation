@@ -34,17 +34,66 @@
 	    "sample": {
 		"received_time": 012345,
 		"load_time": 012345,
-		"referenceVersion": "GRChr38.p7"
+		"referenceVersion": "GRCh38.p7"
 	    },
 	    "variant": {
 		"common_name": "C677T",
-		"systematic_name": "NC_012345:g.12345C>T",
+		"systematic_name": "NC_000001.11:g.11796322C>T",
 		"gene_symbol": "MTHFR"
 	    },
 	    "variant_call": {
 		"genotype": "homozygous",
-		"systematic_name": "NC_012345:g.[12345C>T];[12345C>T]"
+		"systematic_name": "NC_000001.11:g.[11796322C>T];[11796322C>T]"
 	    },
 	},
-    }
+    },
+    {
+        "alternateBases": [
+	    "C"
+        ],
+        "calls": [
+            {
+                "callSetId": "barcode-123",
+                "genotype": [
+                    1,
+                    1
+                ],
+		"info": {
+		    "DP": [
+                        "42"
+                    ],
+                    "FILTER": [
+                        "PASS"
+                    ],
+                    "GQ": [
+                        "53"
+                    ],
+                    "MIN_DP": [
+                        "25"
+                    ]
+		}
+
+            }
+        ],
+        "end": "36209042"
+        "referenceBases": "A",
+        "referenceName": "chr1",
+        "start": "36209041",
+	"attributes": {
+	    "sample": {
+		"received_time": 012345,
+		"load_time": 012345,
+		"referenceVersion": "GRCh38.p7"
+	    },
+	    "variant": {
+		"common_name": "A1298C",
+		"systematic_name": "NC_000001.11:g.36209042A>C",
+		"gene_symbol": "MTHFR"
+	    },
+	    "variant_call": {
+		"genotype": "homozygous",
+		"systematic_name": "NC_000001.11:g.[36209042A>C];[36209042A>C]"
+	    },
+	},
+    }    
 ]

@@ -5,7 +5,7 @@
         ],
         "calls": [
             {
-                "callSetId": "barcode-124",
+                "callSetId": "barcode-123",
                 "genotype": [
                     0,
                     0
@@ -15,7 +15,7 @@
                         "44"
                     ],
                     "FILTER": [
-			"LOWQ"
+                        "NOTVALIDATED"
                     ],
                     "GQ": [
                         "51"
@@ -42,28 +42,28 @@
 		"gene_symbol": "MTHFR"
 	    },
 	    "variant_call": {
-		"genotype": "wild-type",
+		"genotype": "homozygous",
 		"systematic_name": "NC_000001.11:g.[11796322C=];[11796322C=]"
 	    },
 	},
     },
     {
         "alternateBases": [
-	    "C"
+             "<NON_REF>"
         ],
         "calls": [
             {
-                "callSetId": "barcode-124",
+                "callSetId": "barcode-123",
                 "genotype": [
                     0,
-                    1
+                    0
                 ],
 		"info": {
 		    "DP": [
                         "42"
                     ],
                     "FILTER": [
-			"IMP"
+                        "PASS"
                     ],
                     "GQ": [
                         "53"
@@ -91,8 +91,8 @@
 		"gene_symbol": "MTHFR"
 	    },
 	    "variant_call": {
-		"genotype": "heterozygous",
-		"systematic_name": "NC_000001.11:g.[36209042A=];[36209042A>C]"
+		"genotype": "homozygous",
+		"systematic_name": "NC_000001.11:g.[36209042A=];[36209042A=]"
 	    },
 	},
     }    
