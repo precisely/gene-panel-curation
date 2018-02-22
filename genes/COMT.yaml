@@ -1,0 +1,20 @@
+   symbol: COMT
+   function: catechol O-methyltransferase
+   gene_expression_location:
+      - D001921
+      - D007107
+   chromosome: 22
+   start: 19941607
+   end: 19969975
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P21964
+     - HGNC: HGNC:2228
+   - ID: SYMP-4
+    common-name: stress
+    SNOMED: R-41520
+    MESH: D040701
+   curators: 
+    - rtearle
+    - taltman
