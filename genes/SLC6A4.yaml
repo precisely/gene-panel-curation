@@ -1,6 +1,8 @@
    symbol: SLC6A4
    synonym: 5HTT
    function: sodium-dependent serotonin transporter
+   gene_expression_locations:
+     - D001921
    chromosome: 17
    start: 30194319
    end: 30236002
@@ -11,6 +13,22 @@
      - HGNC: HGNC:11050
    go_terms:
      - GO:0007623: "circadian rhythm"
+   - ID: SYMP-1
+    common-name: fatigue
+    SNOMED: F-01360
+    MESH: D005221
+   - ID: SYMP-2
+    common-name: depression
+    SNOMED: D9-52000
+    MESH: D003863
+   - ID: SYMP-4
+    common-name: stress
+    SNOMED: R-41520
+    MESH: D040701
+   - ID: SYMP-5
+    common-name: anxiety
+    SNOMED: F-0B320
+    MESH: D001007
    curators: 
     - rtearle
     - taltman
