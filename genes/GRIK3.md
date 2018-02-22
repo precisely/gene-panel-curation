@@ -8,21 +8,20 @@ glutamate ionotropic receptor kainate type subunit [3](https://www.ncbi.nlm.nih.
 
 # Overview
 
-The GRIK3 gene creates a protein that helps form receptors for the transmitter [glutamate.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Problems creating or absorbing glutamate are linked to [schizophrenia, depression, and memory problems.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Sustained exposure to excess glutamate in CFS patients causes sickness, neurotoxicity, stress, and peripheral nervous sensitivity.  Currently, GRIK3 variants are linked to recurrent [major depressive disorder](), [developmental delays](https://www.ncbi.nlm.nih.gov/pubmed/24449200/), and a [30% increase]() in the [risk]() for [schizophrenia.](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) [4][5][6][9]
+The GRIK3 gene creates a protein that helps form receptors for the transmitter [glutamate.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Problems creating or absorbing glutamate are linked to [schizophrenia, depression, and memory problems.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Sustained exposure to excess glutamate in CFS patients causes sickness, neurotoxicity, stress, and peripheral nervous sensitivity.  Currently, GRIK3 variants are linked to recurrent [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [developmental delays](https://www.ncbi.nlm.nih.gov/pubmed/24449200/), and a [30% increase](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) in the [risk](https://www.ncbi.nlm.nih.gov/pubmed/11986986) for [schizophrenia.](https://www.ncbi.nlm.nih.gov/pubmed/19921975/)
  
 This gene is located on chromosome 1. The protein it creates acts in your brain and nervous system.
 <body highlight brain>
  
 # What are some common variants in the gene?  
 
-There is one well known variant in this gene: T928G (Ser310Ala) polymorphism
-[1][6][9]
+There is one well known variant in this gene: [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) [polymorphism](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract)
  
 This variant is a change at a specific point in the GRIK3 gene from thymine (T) to guanine (G), resulting in incorrect protein formation. This substitution of a single nucleotide is known as a missense variant.
  
 # What does this mean? (Homozygous variant)    	
 
-In the gene family of glutamate receptors, there is a T/G polymorphism at codon 928 in the ionotropic glutamate receptor kainite 3 gene (GRIK3) that causes a serine to alanine change at position 310 in the extracellular N terminus of the protein.[4]
+In the gene family of glutamate receptors, [there is a T/G polymorphism at codon 928 in the ionotropic glutamate receptor kainite 3 gene (GRIK3) that causes a serine to alanine change at position 310 in the extracellular N terminus of the protein.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/)
  
 # What is the effect of this variant? (Homozygous variant)        	 (no severity)
 
@@ -44,15 +43,15 @@ The variants in GRIK3 have strong associations with increased risk of schizophre
  
 <Side box: T928G 0.1% population frequency>
  
-[This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899)  Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Glutamate is the most important transmitter for normal brain function, but elevated levels are toxic to neurons.[11] 
+[This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899)  Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml)  Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) 
  
-GRIK3 Ser310Ala polymorphism has been linked to [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) and major depression.[5]  The Ser310Ala allele in homozygosity is associated with higher scores in harm avoidance, anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.[4] This pattern of scores is akin to that observed in depressed patients.[4]  GRIK3 rs6691840 polymorphism was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by 30%.[9]  Microdeletions have also been indicated in [severe developmental delays.](https://www.ncbi.nlm.nih.gov/pubmed/24449200/)
+GRIK3 Ser310Ala polymorphism has been linked to [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) and [major depression.](https://www.ncbi.nlm.nih.gov/pubmed/16958029)  The Ser310Ala allele in homozygosity is associated with higher scores in [harm avoidance, anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) This pattern of scores is akin to that observed in [depressed patients.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/)  GRIK3 rs6691840 polymorphism was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%.](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract)  Microdeletions have also been indicated in [severe developmental delays.](https://www.ncbi.nlm.nih.gov/pubmed/24449200/)
  
 # What should I do about this?
  
-CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli.  Sustained exposure to extracellular glutamate in CFS patients causes sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity. [10]
+CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli.  Sustained exposure to extracellular glutamate in CFS patients causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
 
-Helpful dietary supplements may include:  Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.[10]     	
+Helpful dietary supplements may include:  [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)     	
 
 <symptoms depression, stress, problems with thinking or memory, brain fog, pain>
 	
