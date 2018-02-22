@@ -15,6 +15,10 @@
     common-name: stress
     SNOMED: R-41520
     MESH: D040701
+   - ID: SYMP-8
+    common-name: orthostatic intolerance (POTS)
+    SNOMED: D2865100
+    MESH: D054971
    curators: 
     - rtearle
     - taltman
