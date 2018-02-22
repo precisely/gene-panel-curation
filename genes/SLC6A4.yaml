@@ -1,0 +1,16 @@
+   symbol: SLC6A4
+   synonym: 5HTT
+   function: sodium-dependent serotonin transporter
+   chromosome: 17
+   start: 30194319
+   end: 30236002
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P31645
+     - HGNC: HGNC:11050
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
