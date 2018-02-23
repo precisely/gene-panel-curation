@@ -242,8 +242,9 @@ In estrogen metabolic pathways, the COMT enzyme is related to detoxification. Th
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-<symptoms pain, muscle fatigue, POTS, stress, problems with thinking or memory, brain fog post exertional malaise, sleep disorder>
-D010146;  D063806;  C2721712;  D040701;  D008569; C2721712; D012893
+<symptoms pain, muscle fatigue, POTS, stress, problems with thinking or memory, brain fog post exertional malaise, sleep disorder, depression, anxiety>
+
+D010146;  D063806;  C2721712;  D040701;  D008569; C2721712; D012893; D003863; D001007
 
 <references>
   
