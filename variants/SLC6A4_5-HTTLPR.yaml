@@ -1,0 +1,16 @@
+symbol: 
+  5-HTTLPR
+chromosome: 17
+start: ?
+genes:
+  - SLC6A4
+variant_type: snv
+genotypes:
+  - 5-HTTLPR(L;L) G3609A (G;G)
+    - frequency: 4%
+    - effect: mild_Lof
+  - 5-HTTLPR(S;L) G3609A (A;G)
+    - frequency: 20%
+    - effect: moderate_Lof
+  - 5-HTTLPR(S;S) G3609A (A;A)
+    - effect: wildtype
