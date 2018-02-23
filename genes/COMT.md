@@ -4,7 +4,7 @@ COMT
 catechol-O-methyltransferase 
 
 # What does the <gene_symbol> gene do?
-The COMT gene creates the catechol-O-methyltransferase enzyme.  The enzyme created by nerve cells helps break down and balance levels of dopamine and norepinephrine.  The enzyme produced in the liver, kidneys, and blood helps control hormone levels.  COMT has been associated with schizophrenia, reduced pain tolerance, breast cancer, endometriosis, alcohol and nicotine dependence, anxiety, and depression.  
+The COMT gene creates the catechol-O-methyltransferase enzyme.  The enzyme created by nerve cells helps break down and balance levels of dopamine and norepinephrine.  The enzyme produced in the liver, kidneys, and blood helps detoxify [estrogen pathways.]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract)  COMT has been associated with [endometrial cancer]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract), schizophrenia, reduced pain tolerance, breast cancer, endometriosis, alcohol and nicotine dependence, anxiety, and depression.  
  
 This gene is located on chromosome 22. The enzyme it creates acts in your brain and nervous system.
 
@@ -118,12 +118,20 @@ G158A (G;G)
   
 # Normal Function
 
-Warrior. Val, less exploratory, higher COMT enzymatic activity, therefore lower dopamine levels; higher pain threshold, better stress resiliency, albeit with a modest reduction in executive cognition performance under most conditions
+The higher COMT enzymatic activity increases dopamine levels.  It also causes [normal pain tolerance] (https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and allows better thinking under stress.  However, thinking ability is reduced outside of stressful situations. Other issues include:
 
-1.5	May indicate increased susceptibility to schizophrenia
+* [1.4X increased risk of breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract)
+* [Greater risk of psychotic symptoms and schizophrenia when using cannabis](https://www.ncbi.nlm.nih.gov/pubmed/15866551?dopt=Abstract)
+* [Poor response to antidepressant paroxetine](https://www.ncbi.nlm.nih.gov/pubmed/18989660?dopt=Abstract)
+* [2X risk of schizophrenia compared with AA]( https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) 
+* 1.5 times more common in [alcohol-dependent]( https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) cases.
+* Asian males and African American females have a smaller chance of [nicotine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract).
 
 # What should I do about this?
 
+Users should consider using other antidepressant medications than paroxetine.  They should also not drink alcohol or use cannabis.
+
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
 G158A (A;G)
 <function meter level="moderate">
@@ -134,26 +142,52 @@ G158A (A;G)
   
 # Moderate loss of function
 
-the (A) substitution polymorphism changes the amino acid to a methionine. This alters the structure of the resultant enzyme such that its activity is only 25% of the wild type. As a result, A allele carriers have more dopamine in their prefrontal cortex
-Worrier. Met, more exploratory, lower COMT enzymatic activity, therefore higher dopamine levels; lower pain threshold, enhanced vulnerability to stress, yet also more efficient at processing information under most conditions
+This variant decreases COMT enzymatic activity by as much as 25%, and increases dopamine levels.  It also decreases the pain threshold and causes worse thinking under stress.  However, information processing is more better under non-stressful conditions. Other issues include:
+
+* [Greater COMT gene activation lasting from 0.5 to 48 hours after moderate exercise, correlating with muscle fatigue and pain.](https://www.ncbi.nlm.nih.gov/pubmed/19647494)
+* [Diminished pain tolerance with high sensory and affective ratings of pain and a negative internal affective state](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract)
+* More sensitive to [thermal and pressure pain.](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract)
+* Higher risk of daytime [sleepiness])https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
+* Higher risk of metabolic syndrome for women taking antipsychotics like [clozapine ](https://www.ncbi.nlm.nih.gov/pubmed/24448899?dopt=Abstract)
+* [Intermediate response to antidepressant paroxetine](https://www.ncbi.nlm.nih.gov/pubmed/18989660?dopt=Abstract)
+* [Increased susceptibility for cocaine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/18704099?dopt=Abstract)
+* Asian males and African American females have a greater chance of [nicotine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract).
+* [ 1.3X increased risk of breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract)
 
 # What should I do about this?
 
+To improve cognition, users should avoid stress.  Avoid moderate levels of exercise and practice pacing or monitoring to reduce muscle fatigue and pain.  Consider medications other than clozapine and paroxetine, and moniter homocysteine levels.  Users should also avoid cocaine and nicotine.  Users should be checked regularly for breast cancer and consider [drinking green tea](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract)
+
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
 G158A (A;A)
 <function meter level="severe">
-  
 <efficiency  level = "25%" >
-  
 <variant and population data>
   
 # Severe Loss of Function
 
-the (A) substitution polymorphism changes the amino acid to a methionine. This alters the structure of the resultant enzyme such that its activity is only 25% of the wild type. As a result, A allele carriers have more dopamine in their prefrontal cortex
+The (A) substitution polymorphism changes the amino acid to a methionine. The structure of the enzyme is 25% as active as the wildtype, and increases dopamine levels.  [It also greatly decreases the pain threshold and causes worse thinking under stress.](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract)  However, information processing is more better under non-stressful conditions. [78% of patients experiencing pain have AA compared to 28% of the general population.](https://www.ncbi.nlm.nih.gov/pubmed/21120493?dopt=Abstract)  It is also linked to [CFS and POTS]((https://www.ncbi.nlm.nih.gov/pubmed/21059181)) during tilt table testing.  Other issues include:
+* [COMT gene activation after moderate excercise lasting from 0.5 to 48 hours, correlating to muscle fatigue and pain.](https://www.ncbi.nlm.nih.gov/pubmed/19647494)
+* Sensitivity to [thermal and pressure pain.](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract)
+* Worse [psychological and functional responses to pain.](https://www.ncbi.nlm.nih.gov/pubmed/21895373?dopt=Abstract)
+* Higher risk of daytime [sleepiness])https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
+* [10.4% increase in homocysteine and increased risk of venous thrombosis](https://www.ncbi.nlm.nih.gov/pubmed/18064318?dopt=Abstract)
+* Higher risk of metabolic syndrome for women taking antipsychotics like [clozapine](https://www.ncbi.nlm.nih.gov/pubmed/24448899?dopt=Abstract)
+* [Increased susceptibility for cocaine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/18704099?dopt=Abstract)
+* Asian males and African American females have a greater chance of [nicotine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract).
 
-Worrier. Met, more exploratory, lower COMT enzymatic activity, therefore higher dopamine levels; lower pain threshold, enhanced vulnerability to stress, yet also more efficient at processing information under most conditions
 
 # What should I do about this?
 
+* To relieve POTS, remain well hydrated and take [3-5g of salt daily.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600095/)
+* Users should check homocysteine levels.  If elevated, users may consider taking [folate]( https://medlineplus.gov/druginfo/natural/1017.html) to reduce the levels.  
+* Users should not use clozapine, nicotine, or cocaine.  
+* Users should avoid moderate exercise.  
+* Consider using light therapy to regulate sleep.
+* Users must avoid stress to reduce pain sensitivity and improve cognition.  Consider using [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78).
+
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
 C62T (C;C)
 <function meter level="wildtype">
@@ -162,9 +196,11 @@ C62T (C;C)
   
 # Normal Function
 
+The COMT enzyme allows fully functional estrogen metabolic pathways, with no increase in a risk for endometrial or breast cancer.
 
 # What should I do about this?
 
+No therapies are medically indicated at the moment.
 
 C62T (C;T)
 <function meter level="moderate risk">
@@ -175,9 +211,16 @@ C62T (C;T)
   
 # Moderate risk
 
-High risk endometrial and breast cancer
+In estrogen metabolic pathways, the COMT enzyme is related to detoxification.  The slightly impaired detoxification pathway may increase the risk for [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and breast cancer.
+
 
 # What should I do about this?
+
+* Do regular checks for endometrial and breast cancer.
+* Check the level of estrogen, and consult with your doctor to reduce elevated levels.  Consider [Testosterone Propionate](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech) or other estrogen blockers
+* [Drink green tea](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract)
+
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
 C62T (T;T)
 <function meter level="high risk">
@@ -188,13 +231,20 @@ C62T (T;T)
   
 # High Risk
 
-High risk endometrial and breast cancer
+In estrogen metabolic pathways, the COMT enzyme is related to detoxification. The TT genotype is 2.39X more common in endometrial cancer patients as compared to the general population.  The impaired detoxification pathway may increase the risk for [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and breast cancer.
+
 
 # What should I do about this?
 
+* Reguarly check for endometrial and breast cancer.
+* Check the level of estrogen, and consult with your doctor to reduce elevated levels.  Consider [Testosterone Propionate](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech) or other estrogen blockers
+* [Drink green tea](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract)
 
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-<symptoms>
+<symptoms pain, muscle fatigue, POTS, stress, problems with thinking or memory, brain fog post exertional malaise, sleep disorder>
+D010146;  D063806;  C2721712;  D040701;  D008569; C2721712; D012893
+
 <references>
   
 <creator comment section>
