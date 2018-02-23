@@ -1,0 +1,15 @@
+symbol: G472A
+chromosome: 22
+start: ?
+genes:
+  - COMT
+variant_type: SNV
+genotypes:
+  - A:A
+    - effect: moderate_LoF
+    - frequency: 42%
+  - A:G
+    - effect: mild_LoF
+    - frequency: 42%
+  - G:G
+    - effect: wildtype
