@@ -1,0 +1,15 @@
+symbol: C186T
+chromosome: 22
+start: ?
+genes:
+  - COMT
+variant_type: SNV
+genotypes:
+  - T:T
+    - effect: moderate_risk
+    - frequency: 42%
+  - C:T
+    - effect: mild_risk
+    - frequency: 42%
+  - C:C
+    - effect: wildtype
