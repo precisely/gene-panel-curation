@@ -4,9 +4,9 @@ COMT
 catechol-O-methyltransferase 
 
 # What does the <gene_symbol> gene do?
-The COMT gene creates the catechol-O-methyltransferase enzyme.  The enzyme created by nerve cells helps break down and balance levels of dopamine and norepinephrine.  The enzyme produced in the liver, kidneys, and blood helps detoxify [estrogen pathways.]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract)  COMT has been associated with [endometrial cancer]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract), schizophrenia, reduced pain tolerance, breast cancer, endometriosis, alcohol and nicotine dependence, anxiety, and depression.  
+The COMT gene creates the catechol-O-methyltransferase enzyme.  The enzyme created by nerve cells helps break down and balance levels of dopamine and norepinephrine.  The enzyme produced in the liver, kidneys, and blood helps detoxify [estrogen pathways.]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract)  COMT has been associated with [endometrial]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract), [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) and [breast](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract), [reduced pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract), [endometriosis](https://www.ncbi.nlm.nih.gov/pubmed/24965973), [alcohol](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) and [nicotine](https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract) dependency, [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/16232322?dopt=Abstract), and [depression.](https://www.ncbi.nlm.nih.gov/pubmed/19520435?dopt=Abstract)  
  
-This gene is located on chromosome 22. The enzyme it creates acts in your brain and nervous system.
+This gene is located on chromosome 22. The enzyme it creates acts in your brain and nervous system, liver, kidney, and blood.
 
 <body part brain, liver, kidney, blood>
 <gene_expression_location location="D001921; D008099; D005221; D002319 ">
