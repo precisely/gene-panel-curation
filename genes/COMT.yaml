@@ -11,6 +11,10 @@
    unification_links:
      - UNIPROT: P21964
      - HGNC: HGNC:2228
+  - ID: SYMP-2
+  common-name: depression
+  SNOMED: D9-52000
+  MESH: D003863
   - ID: SYMP-3
   common-name: post exertional malaise
   SNOMED: F-02ADB
@@ -19,6 +23,10 @@
   common-name: stress
   SNOMED: R-41520
   MESH: D040701
+  - ID: SYMP-5
+  common-name: anxiety
+  SNOMED: F-0B320
+  MESH: D001007
    - ID: SYMP-6
   common-name: sleep disorder
   SNOMED: D9-74000
