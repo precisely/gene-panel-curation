@@ -11,14 +11,34 @@
    unification_links:
      - UNIPROT: P21964
      - HGNC: HGNC:2228
-   - ID: SYMP-4
-    common-name: stress
-    SNOMED: R-41520
-    MESH: D040701
-   - ID: SYMP-8
-    common-name: orthostatic intolerance (POTS)
-    SNOMED: D2865100
-    MESH: D054971
+  - ID: SYMP-3
+  common-name: post exertional malaise
+  SNOMED: F-02ADB
+  MESH: C2721712
+  - ID: SYMP-4
+  common-name: stress
+  SNOMED: R-41520
+  MESH: D040701
+   - ID: SYMP-6
+  common-name: sleep disorder
+  SNOMED: D9-74000
+  MESH: D012893
+  - ID: SYMP-7
+  common-name: memory problems
+  SNOMED: D386807006
+  MESH: D008569
+  - ID: SYMP-8
+  common-name: orthostatic intolerance (POTS)
+  SNOMED: D2865100
+  MESH: D054971
+   - ID: SYMP-10
+  common-name: pain
+  SNOMED: F-A2600
+  MESH: D010146
+  - ID: SYMP-11
+  common-name: muscle aches and pain
+  SNOMED: F-11550
+  MESH: D063806
    curators: 
     - rtearle
     - taltman
