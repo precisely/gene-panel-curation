@@ -118,7 +118,7 @@ G158A (G;G)
   
 # Normal Function
 
-The higher COMT enzymatic activity increases dopamine levels.  It also causes [normal pain tolerance] (https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and allows better thinking under stress.  However, thinking ability is reduced outside of stressful situations. Other issues include:
+The higher COMT enzymatic activity increases dopamine levels.  It also causes [normal pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and allows better thinking under stress.  However, thinking ability is reduced outside of stressful situations. Other issues include:
 
 * [1.4X increased risk of breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract)
 * [Greater risk of psychotic symptoms and schizophrenia when using cannabis](https://www.ncbi.nlm.nih.gov/pubmed/15866551?dopt=Abstract)
@@ -147,7 +147,7 @@ This variant decreases COMT enzymatic activity by as much as 25%, and increases 
 * [Greater COMT gene activation lasting from 0.5 to 48 hours after moderate exercise, correlating with muscle fatigue and pain.](https://www.ncbi.nlm.nih.gov/pubmed/19647494)
 * [Diminished pain tolerance with high sensory and affective ratings of pain and a negative internal affective state](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract)
 * More sensitive to [thermal and pressure pain.](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract)
-* Higher risk of daytime [sleepiness])https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
+* Higher risk of daytime [sleepiness](https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
 * Higher risk of metabolic syndrome for women taking antipsychotics like [clozapine ](https://www.ncbi.nlm.nih.gov/pubmed/24448899?dopt=Abstract)
 * [Intermediate response to antidepressant paroxetine](https://www.ncbi.nlm.nih.gov/pubmed/18989660?dopt=Abstract)
 * [Increased susceptibility for cocaine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/18704099?dopt=Abstract)
@@ -171,7 +171,7 @@ The (A) substitution polymorphism changes the amino acid to a methionine. The st
 * [COMT gene activation after moderate excercise lasting from 0.5 to 48 hours, correlating to muscle fatigue and pain.](https://www.ncbi.nlm.nih.gov/pubmed/19647494)
 * Sensitivity to [thermal and pressure pain.](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract)
 * Worse [psychological and functional responses to pain.](https://www.ncbi.nlm.nih.gov/pubmed/21895373?dopt=Abstract)
-* Higher risk of daytime [sleepiness])https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
+* Higher risk of daytime [sleepiness](https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract)
 * [10.4% increase in homocysteine and increased risk of venous thrombosis](https://www.ncbi.nlm.nih.gov/pubmed/18064318?dopt=Abstract)
 * Higher risk of metabolic syndrome for women taking antipsychotics like [clozapine](https://www.ncbi.nlm.nih.gov/pubmed/24448899?dopt=Abstract)
 * [Increased susceptibility for cocaine dependence]( https://www.ncbi.nlm.nih.gov/pubmed/18704099?dopt=Abstract)
@@ -231,7 +231,7 @@ C62T (T;T)
   
 # High Risk
 
-In estrogen metabolic pathways, the COMT enzyme is related to detoxification. The TT genotype is 2.39X more common in endometrial cancer patients as compared to the general population.  The impaired detoxification pathway may increase the risk for [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and breast cancer.
+In estrogen metabolic pathways, the COMT enzyme is related to detoxification. The TT genotype is [2.39X](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) more common in endometrial cancer patients as compared to the general population.  The impaired detoxification pathway may increase the risk for [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and breast cancer.
 
 
 # What should I do about this?
