@@ -7,7 +7,7 @@ SLC6A4
 Sodium-dependent serotonin transporter
 
 # What does the <gene_symbol> gene do?
-The SLC6A4 gene creates the Sodium-dependent serotonin transporter protein.  The protein transports serotonin to be recycled.  This protein is targeted by many antidepressants in the SSRI and Tricyclic classes.  Variants in this gene can cause 5%-95% loss of serotonin uptake activity, and may cause alcoholism and many mood disorders including obsessive compulsive disorder, depression, and bipolar disorder.  
+The SLC6A4 gene creates the Sodium-dependent serotonin transporter protein.  The protein transports serotonin to be recycled and is targeted by many antidepressants in the SSRI and Tricyclic classes.  Variants in this gene can cause 5%-95% loss of serotonin uptake activity, and may cause [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract and [increased susceptibility to CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408) as well as many [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784) including [obsessive compulsive disorder,](https://www.ncbi.nlm.nih.gov/pubmed/16642437) [depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
  
 This gene is located on chromosome 17. The protein it creates acts in your brain and nervous system.
 
@@ -144,13 +144,13 @@ For the vast majority of people, the overall risk associated with the common <ge
   
 # Seratonin Deficit
 
-The LL variant causes a serotonin deficit in the body, and it is linked to increasing the risk of [obsessive compulsive disorder (OCD) 1.8X.]( https://www.ncbi.nlm.nih.gov/pubmed/16642437)  However, this variant also causes improved response to [SSRI medication.]( https://www.ncbi.nlm.nih.gov/pubmed/12476327)    It has been linked to CFS due to [concentrated extracellular serotonin and higher susceptibility to CFS.](https://www.ncbi.nlm.nih.gov/pubmed/14592408) The serotonin deficit also increases brain disfunction in CFS patients, as they are less tolerant to sustained [mental workload causing increased central fatigue]( https://www.ncbi.nlm.nih.gov/pubmed/19704949).  Ecstasy also greatly worsens verbal memory for this variant.(https://www.ncbi.nlm.nih.gov/pubmed/26231032)
+The LL variant causes a serotonin deficit in the body, and it is linked to increasing the risk of [obsessive compulsive disorder (OCD) 1.8X.]( https://www.ncbi.nlm.nih.gov/pubmed/16642437)  However, this variant also causes improved response to [SSRI medication.]( https://www.ncbi.nlm.nih.gov/pubmed/12476327)    It has been linked to CFS due to [concentrated extracellular serotonin and higher susceptibility to CFS.](https://www.ncbi.nlm.nih.gov/pubmed/14592408) The serotonin deficit also increases brain disfunction in CFS patients, as they are less tolerant to sustained [mental workload causing increased central fatigue]( https://www.ncbi.nlm.nih.gov/pubmed/19704949).  Ecstasy also greatly worsens [verbal memory](https://www.ncbi.nlm.nih.gov/pubmed/26231032) for this variant.
 
 # What should I do about this?
 
 Users should not use ecstasy but should consider the use of SSRI.  Users should monitor their mental and physical energy level closely to prevent post-exertional malaise.
 
-Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, flueoxetine, and many more.] (http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
+Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, flueoxetine, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 5-HTTLPR (S;L) G3609A (A;G)
  
@@ -182,7 +182,6 @@ Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, dox
 
 
 C463T (T;T)
-<function meter level="wildtype">
 
 <variant and population data>
   
