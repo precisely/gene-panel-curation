@@ -62,32 +62,30 @@ This variant changes the number of repeated sections in the gene.  It is called 
             <pie_chart level=" G3609A (A;A)", frequency>
    </Genotype>
 
-   <Genotype name=" C463T (T;G)">
-     <line_graph level="moderate">
+   <Genotype name=" T463G (T;G)">
       # What does this mean?
-             People with this variant have one copy of the C463T variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             People with this variant have one copy of the T463G variant. This substitution of a single nucleotide is known as a mis-sense mutation.
       # What is the effect of this variant?
-             This variant currently has no effect and is similar to the 'wildtype' gene.
+             This variant currently has no effect.
       # How common is this gene in the general population?
-            <pie_chart level="C463T (T;G)", frequency>
+            <pie_chart level="T463G (T;G)", frequency>
    </Genotype>
-   <Genotype name="C463T (G;G)">
-     <line_graph level="severe">
+   <Genotype name="T463G (G;G)">
       # What does this mean?
              People with this variant have two copies of the C463T variant. This substitution of a single nucleotide is known as a mis-sense mutation.
       # What is the effect of this variant?
-      Your <gene_name> is found to have no variants.  A normal gene is referred to as a "wildtype" gene.
+          This variant currently has no adverse effects.
       # How common is this gene in the general population?
-            <pie_chart level="C463T (G;G)", frequency>
+            <pie_chart level="T463G (G;G)", frequency>
    </Genotype>
 
-   <Genotype name="C463T (T;T)”>
+   <Genotype name="T463G (T;T)”>
       # What does this mean?
-             People with this variant have two copies of the C463T variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             Your <gene_name> is found to have no variants.  A normal gene is referred to as a "wildtype" gene.  
       # What is the effect of this variant?
-             This variant increases the risk for alcoholism.  Se below for details.
+             This variant increases the risk for alcoholism.  See below for details.
       # How common is this gene in the general population?
-            <pie_chart level="C463T (T;T)", frequency>
+            <pie_chart level="T463G (T;T)", frequency>
    </Genotype>
 
    <Genotype name=" 5-HTTLPR (L;L)">
@@ -138,6 +136,7 @@ For the vast majority of people, the overall risk associated with the common <ge
 
 <call variants with the multiple categories>
   
+  
 5-HTTLPR (L;L) G3609A (G;G)
   
 <variant and population data>
@@ -152,6 +151,7 @@ Users should not use ecstasy but should consider the use of SSRI.  Users should 
 
 Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, flueoxetine, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
+
 5-HTTLPR (S;L) G3609A (A;G)
  
 <variant and population data>
@@ -165,6 +165,7 @@ This variant has one short and one long copy of this gene.  The gene has diminis
 Users should not drink.  However, research indicates [parents can influence the likelihood of offspring developing problematic alcohol-related behaviors.](https://www.ncbi.nlm.nih.gov/pubmed/28262188)  Additionally, patients should carefully monitor SSRI drugs for side effects.
 
 Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, and many more.]( http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
+
 
 5-HTTLPR (S;S) G3609A (A;A)
   
@@ -181,7 +182,7 @@ Patients should closely monitor their mental and physical energy output to preve
 Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, and many more.]( http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 
-C463T (T;T)
+T463G (T;T)
 
 <variant and population data>
   
@@ -194,12 +195,12 @@ The T allele causes lower mRNA and protein levels and therefore reduced serotoni
 Users should not drink.  However, research indicates [parents can influence the likelihood of offspring developing problematic alcohol-related behaviors.](https://www.ncbi.nlm.nih.gov/pubmed/28262188)
 
 
-C463T (C;C); C463T (T;T)
+T463G (G;G); T463G (T;G)
 
   
 <variant and population data>
   
-# Wildtype
+# Variants
 
 There are no issues associated with this Genotype.
 
