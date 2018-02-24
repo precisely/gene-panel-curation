@@ -7,7 +7,7 @@ SLC6A4
 Sodium-dependent serotonin transporter
 
 # What does the <gene_symbol> gene do?
-The SLC6A4 gene creates the Sodium-dependent serotonin transporter protein.  The protein transports serotonin to be recycled and is targeted by many antidepressants in the SSRI and Tricyclic classes.  Variants in this gene can cause 5%-95% loss of serotonin uptake activity, and may cause [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract and [increased susceptibility to CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408) as well as many [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784) including [obsessive compulsive disorder,](https://www.ncbi.nlm.nih.gov/pubmed/16642437) [depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
+The SLC6A4 gene creates the Sodium-dependent serotonin transporter protein.  The protein transports serotonin to be recycled and is targeted by many antidepressants in the SSRI and Tricyclic classes.  Variants in this gene can cause 5%-95% loss of serotonin uptake activity, and may cause [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract) and [increased susceptibility to CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408) as well as many [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784) including [obsessive compulsive disorder,](https://www.ncbi.nlm.nih.gov/pubmed/16642437) [depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
  
 This gene is located on chromosome 17. The protein it creates acts in your brain and nervous system.
 
