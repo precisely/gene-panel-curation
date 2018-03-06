@@ -4,8 +4,8 @@ COMT
 catechol-O-methyltransferase 
 
 # What does the <gene_symbol> gene do?
-The COMT gene creates an enzyme that helps break down and balance levels of dopamine and norepinephrine in nerve cells and detoxifies [estrogen]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) in the liver, kidneys, and blood.  Variants may cause [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/16232322?dopt=Abstract), [depression](https://www.ncbi.nlm.nih.gov/pubmed/19520435?dopt=Abstract), muscle pain and fatigue, and [reduced pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract).  They are linked to [endometrial]( https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and [breast](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) cancer, [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) ,  [endometriosis](https://www.ncbi.nlm.nih.gov/pubmed/24965973), [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), and [nicotine](https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract) dependency. 
- 
+The COMT gene creates an enzyme that helps break down and balance levels of dopamine and norepinephrine in nerve cells. It also detoxifies [estrogen](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) in the liver, kidneys, and blood. Variants may cause [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/16232322?dopt=Abstract), [depression](https://www.ncbi.nlm.nih.gov/pubmed/19520435?dopt=Abstract), muscle pain and fatigue, and [reduced pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract). They are linked to [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and [breast](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) cancer, [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), [endometriosis](https://www.ncbi.nlm.nih.gov/pubmed/24965973), [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), and [nicotine](https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract) dependency.
+
 This gene is located on chromosome 22. The enzyme it creates acts in your brain and nervous system, liver, kidney, and blood.
 
 <body part brain, liver, kidney, blood>
@@ -14,7 +14,7 @@ This gene is located on chromosome 22. The enzyme it creates acts in your brain 
 
 # What are some common mutations of <gene_symbol>?
 
-There are 2 well known variants in this gene: <variant list?>
+There are two well known variants in this gene: <variant list?>
 
 <G158A variant view with G to A transformation>
 
@@ -22,7 +22,7 @@ This variant is a change at a specific point in the <gene_symbol> gene from guan
 
 <C62T variant view with C to T transformation>
 
-This mutation is a change at a specific point in the <gene_symbol> gene from cytosine (C) to thymine (T), resulting in reduced protein creation.  This substitution of a single nucleotide is known as a mis-sense mutation.
+This mutation is a change at a specific point in the <gene_symbol> gene from cytosine (C) to thymine (T), resulting in reduced protein creation.  This substitution of a single nucleotide is known as a missense mutation.
 
 ```
 <user variant viewer>
@@ -32,38 +32,38 @@ This mutation is a change at a specific point in the <gene_symbol> gene from cyt
    <Genotype name=" G158A (A;G)">
      <line_graph level="moderate">
       # What does this mean?
-             People with this variant have one copy of the G158A variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             People with this variant have one copy of the G158A variant. This substitution of a single nucleotide is known as a missense mutation.
       # What is the effect of this variant?
-      You are in the Moderate Loss of Function category.  See below for more information
+      You are in the Moderate Loss of Function category. See below for more information.
       # How common is this gene in the general population?
             <pie_chart level=" G158A (A;G)", frequency>
-            <frequency> of the population has a moderate loss of function
+            <frequency> of the population has a moderate loss of function.
    </Genotype>
    <Genotype name=" G158A (A;A)">
      <line_graph level="severe">
       # What does this mean?
-             People with this variant have two copies of the G158A variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             People with this variant have two copies of the G158A variant. This substitution of a single nucleotide is known as a missense mutation.
       # What is the effect of this variant?
-      You are in the Severe Loss of Function category.  See below for more information
+      You are in the Severe Loss of Function category. See below for more information.
       # How common is this gene in the general population?
             <pie_chart level=" G158A (A;A)", frequency>
-            <frequency> of the population has a severe loss of function
+            <frequency> of the population has a severe loss of function.
      <pie_chart level=" G158A (A;A)", frequency>
-     You are in the Severe Loss of Function category.  See below for more information
+     You are in the Severe Loss of Function category. See below for more information.
    </Genotype>
 
    <Genotype name="G158A (G;G)”>
   # How common is this gene in the general population?
      <pie_chart level="G158A (G;G), frequency>
-      Your <gene_name> is found to have no variants.  A normal gene is referred to as a "wildtype" gene.
+      Your <gene_name> is found to have no variants. A normal gene is referred to as a "wildtype" gene.
    </Genotype>
 
    <Genotype name=" C62T (C;T)">
      <line_graph level="moderate">
       # What does this mean?
-             People with this variant have one copy of the C62T variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             People with this variant have one copy of the C62T variant. This substitution of a single nucleotide is known as a missense mutation.
       # What is the effect of this variant?
-      You are in the Moderate Loss of Function category.  See below for more information
+      You are in the Moderate Loss of Function category. See below for more information.
       # How common is this gene in the general population?
             <pie_chart level="C62T (C;T)", frequency>
             <frequency> of the population has a moderate loss of function
@@ -71,14 +71,14 @@ This mutation is a change at a specific point in the <gene_symbol> gene from cyt
    <Genotype name="C62T (T;T)">
      <line_graph level="severe">
       # What does this mean?
-             People with this variant have two copies of the C62T variant. This substitution of a single nucleotide is known as a mis-sense mutation.
+             People with this variant have two copies of the C62T variant. This substitution of a single nucleotide is known as a missense mutation.
       # What is the effect of this variant?
-      You are in the Severe Loss of Function category.  See below for more information
+      You are in the Severe Loss of Function category. See below for more information.
       # How common is this gene in the general population?
             <pie_chart level="C62T (T;T)", frequency>
-            <frequency> of the population has a severe loss of function
+            <frequency> of the population has a severe loss of function.
      <pie_chart level="C62T (T;T)", frequency>
-     You are in the Severe Loss of Function category.  See below for more information
+     You are in the Severe Loss of Function category. See below for more information.
    </Genotype>
 
    <Genotype name="C62T (C;C)”>
@@ -105,7 +105,7 @@ This mutation is a change at a specific point in the <gene_symbol> gene from cyt
 ```   
 # What are the effects of variants in <gene_symbol>?
 
-For the vast majority of people, the overall risk associated with the common <gene_symbol> variants is small, and do not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene in the gene panel.
+For the vast majority of people, the overall risk associated with the common <gene_symbol> variants is small, and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
 
 <call variants with the multiple categories>
   
