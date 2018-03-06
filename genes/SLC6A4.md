@@ -7,7 +7,7 @@ SLC6A4
 Sodium-dependent serotonin transporter
 
 # What does the <gene_symbol> gene do?
-The SLC6A4 gene creates a protein targeted by many SSRI antidepressants that transports serotonin to be recycled. Variants in this gene cause 5%-95% loss of function for the protein, causing brain fog, anxiety, and post-exertional malaise. It is linked to [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract), [increased susceptibility to CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408), and [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784) like [OCD,](https://www.ncbi.nlm.nih.gov/pubmed/16642437)[depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
+The SLC6A4 gene creates a protein targeted by many SSRI antidepressants that transports serotonin to be recycled. Variants in this gene cause 5%-95% loss of function for the protein, causing brain fog, anxiety, and post-exertional malaise. It is linked to [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract), [increased susceptibility to CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408), and [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784) like [OCD,](https://www.ncbi.nlm.nih.gov/pubmed/16642437) [depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 This gene is located on chromosome 17. The protein it creates acts in your brain and nervous system.
 
