@@ -43,7 +43,7 @@
 	    },
 	    "variant_call": {
 		"genotype": "wild-type",
-		"systematic_name": "NC_000001.11:g.[11796322C=];[11796322C>T]"
+		"systematic_name": "NC_000001.11:g.[11796322=];[11796322C>T]"
 	    },
 	},
     },
@@ -92,7 +92,7 @@
 	    },
 	    "variant_call": {
 		"genotype": "heterozygous",
-		"systematic_name": "NC_000001.11:g.[36209042A=];[36209042A=]"
+		"systematic_name": "NC_000001.11:g.[36209042=];[36209042=]"
 	    },
 	},
     }    
