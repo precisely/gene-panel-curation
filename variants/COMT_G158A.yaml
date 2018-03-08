@@ -1,0 +1,16 @@
+symbol: G158A
+chromosome: 22
+start: ?
+genes:
+  - COMT
+variant_type: SNV
+genotypes:
+  - A:A
+    - effect: moderate_LoF
+    - frequency: 28%
+  - A:G
+    - effect: mild_LoF
+    - frequency: 14%
+  - G:G
+    - effect: wildtype
+    - frequency: 58%

@@ -1,0 +1,15 @@
+symbol: C463T
+chromosome: 17
+start: ?
+genes:
+  - SLC6A4
+variant_type: SNV
+genotypes:
+  - T:T
+    - frequency: 
+    - effect: 
+  - C:T
+    - frequency: 
+    - effect: 
+  - C:C
+    - effect: wildtype
