@@ -1,0 +1,23 @@
+   symbol: CHRNE
+   function: acetylcholine receptor subunit epsilon
+   gene_expression_location:
+      - D001921
+      - D007107
+      - D002319
+      - D009132
+   chromosome: 17
+   start: 4897774
+   end: 4903074
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q04844
+     - HGNC: HGNC:1966
+  - ID: SYMP-1
+  common-name: fatigue
+  SNOMED: F-01360
+  MESH: D005221
+  
+   curators: 
+    - rtearle
+    - taltman
