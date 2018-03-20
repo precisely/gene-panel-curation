@@ -6,10 +6,11 @@ genes:
 variant_type: SNV
 genotypes:
   - T:T
-    - frequency: 
+    - frequency: 1%
     - effect: 
   - C:T
-    - frequency: 
+    - frequency: 50%
     - effect: 
   - C:C
+    - frequency: 49%
     - effect: wildtype
