@@ -143,7 +143,7 @@ A1074G (G;G)
 # Severe Risk
 
 Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. CFS patients have half the cellular efficiency of the normal population with a [17% cellular death
-rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The A1074G variant decreases gene expression in both the DNA and RNA, causing significant reduction in NKC activity. This variant was twice as common in [CFS patients at 62.1%.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)
+rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The A1074G variant decreases gene expression in both the DNA and RNA, causing significant reduction in NKC activity. This variant was twice as common in [CFS patients at 62.1% with an odds ratio of 4.36.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)
 
 # What should I do about this?
 
