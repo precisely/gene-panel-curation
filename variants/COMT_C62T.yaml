@@ -7,9 +7,10 @@ variant_type: SNV
 genotypes:
   - T:T
     - effect: moderate_risk
-    - frequency: 42%
+    - frequency: 27%
   - C:T
     - effect: mild_risk
-    - frequency: 42%
+    - frequency: 43%
   - C:C
+    - frequency: 31%
     - effect: wildtype
