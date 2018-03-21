@@ -1,0 +1,34 @@
+   symbol: TRPM8
+   function: transient receptor potential cation channel subfamily M member 8
+   gene_expression_location:
+      - D001921
+      - D007107
+      - D002319
+      - D012137
+   chromosome: 2
+   start: 233917398
+   end: 234019522
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:17961
+     - UNIPROT: Q7Z2W7
+   - ID: SYMP-10
+   common-name: pain
+   SNOMED: F-A2600
+   MESH: D010146
+   - ID: SYMP-11
+   common-name: muscle aches and pain
+   SNOMED: F-11550
+   MESH: D063806
+   - ID: SYMP-13
+   common-name: headache
+   SNOMED: F-A2700
+   MESH: D006261  
+   - ID: SYMP-15
+   common-name: inflamation
+   SNOMED: C0021368
+   MESH: D007249
+   curators: 
+    - rtearle
+    - taltman
