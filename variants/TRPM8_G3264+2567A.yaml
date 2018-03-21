@@ -1,0 +1,16 @@
+symbol: G3264+2567A
+chromosome: 2
+start: 234010670?
+genes:
+  - TRPM8
+variant_type: SNV
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 38.5%
+  - A:G
+    - effect: high risk
+    - frequency: 42%
+  - A:A
+  - frequency: 19.5%
+    - effect: wildtype
