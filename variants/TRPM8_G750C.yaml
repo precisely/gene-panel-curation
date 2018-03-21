@@ -1,0 +1,16 @@
+symbol: G750C
+chromosome: 2
+start: 233916448?
+genes:
+  - TRPM8
+variant_type: SNV
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 81.2%
+  - G:C
+    - effect: low_risk
+    - frequency: 7.7%
+  - C:C
+  - frequency: 11.1%
+    - effect: high_risk
