@@ -71,3 +71,7 @@
   common-name: multiple chemical sensitivity/allergies
   SNOMED: G-02B6
   MESH: D018777
+  - ID: SYMP-15
+  common-name: inflamation
+  SNOMED: C0021368
+  MESH: D007249
