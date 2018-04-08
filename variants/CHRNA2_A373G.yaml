@@ -1,0 +1,17 @@
+symbol: A373G
+snp: rs891398
+chromosome: 8
+start: ?
+genes:
+  - CHRNA2
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 1.6%
+  - T:C
+    - effect: wildtype
+    - frequency: 49.8%
+  - C:C
+    -effect: wildtype
+    - frequency: 48.6%
