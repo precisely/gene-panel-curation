@@ -1,0 +1,17 @@
+symbol: T78904323A
+snp: rs1426137
+chromosome: 4
+start: ?
+genes:
+  - BMP2K
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 72.8%
+  - T:A
+    - effect: moderate_risk
+    - frequency: 20.7%
+  - A:A
+    -effect: high_risk
+    - frequency: 6.5%
