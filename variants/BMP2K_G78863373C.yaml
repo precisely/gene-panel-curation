@@ -1,7 +1,7 @@
 symbol: G78863373C
 snp: rs3822106
 chromosome: 4
-start: ?
+start: 1067+1905
 genes:
   - BMP2K
 variant_type:snv
