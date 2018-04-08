@@ -1,0 +1,12 @@
+   symbol: CHRNA3
+   function: neuronal acetylcholine receptor subunit alpha-3
+   chromosome: 15
+   start: 78593052
+   end: 78621295
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P32297
+   curators: 
+    - rtearle
+    - taltman
