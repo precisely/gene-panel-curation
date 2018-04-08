@@ -1,0 +1,17 @@
+symbol: C78822912T
+snp: rs3775516
+chromosome: 4
+start: ?
+genes:
+  - BMP2K
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 73.3%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 20.3%
+  - T:T
+    -effect: wildtype
+    - frequency: 6.4%
