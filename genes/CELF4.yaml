@@ -1,0 +1,13 @@
+   symbol: CELF4
+   function: CUGBP Elav-like family member 4
+   chromosome: 18
+   start: 37243047
+   end: 37566037
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9BZC1
+     - HGNC: HGNC:14015
+   curators: 
+    - rtearle
+    - taltman
