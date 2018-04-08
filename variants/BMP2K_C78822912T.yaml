@@ -1,7 +1,7 @@
 symbol: C78822912T
 snp: rs3775516
 chromosome: 4
-start: ?
+start: 179-3125
 genes:
   - BMP2K
 variant_type:snv
