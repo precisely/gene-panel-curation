@@ -1,7 +1,7 @@
 symbol: C78606381T
 snp: rs12914385
 chromosome: 15
-start: ?
+start: 378-4117
 genes:
   - CHRNA3
 variant_type:snv
