@@ -1,0 +1,13 @@
+   symbol: NBAT1
+   synonym: CASC14
+   function: neuroblastoma associated transcript 1
+   chromosome: 6
+   start: 22134957
+   end: 22147193
+   strand: -
+   gene_type: lincRNA
+   unification_links:
+     - HGNC: HGNC:49075
+   curators: 
+    - rtearle
+    - taltman
