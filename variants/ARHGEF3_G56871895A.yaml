@@ -1,0 +1,17 @@
+symbol: G56871895A
+snp: rs6445832
+chromosome: 3
+start: ?
+genes:
+  - ARHGEF3
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: 91.5%
+  - G:A
+    - effect: wildtype
+    - frequency: 6.7%
+  - A:A
+    -effect: wildtype
+    - frequency: 1.8%
