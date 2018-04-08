@@ -1,7 +1,7 @@
 symbol: C22141516T
 snp: rs41378447
 chromosome: 6
-start: ?
+start: 1391+30596
 genes:
   - CASC14
 variant_type:snv
