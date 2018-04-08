@@ -1,7 +1,7 @@
 symbol: A373G
 snp: rs891398
 chromosome: 8
-start: ?
+start: -89
 genes:
   - CHRNA2
 variant_type:snv
