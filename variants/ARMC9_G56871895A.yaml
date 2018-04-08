@@ -1,7 +1,7 @@
 symbol: G56871895A
 snp: rs6445832
 chromosome: 2
-start: ?
+start: 192+10397
 genes:
   - ARMC9
 variant_type:snv
