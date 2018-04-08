@@ -1,0 +1,12 @@
+   symbol: C5orf66
+   function: chromosome 5 open reading frame 66
+   chromosome: 5
+   start: 135033280
+   end: 135358219
+   strand: +
+   gene_type: antisense
+   unification_links:
+     - HGNC: HGNC:48332
+   curators: 
+    - rtearle
+    - taltman
