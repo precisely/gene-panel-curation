@@ -1,7 +1,7 @@
 symbol: T78845523A
 snp: rs1426139
 chromosome: 4
-start: ?
+start: 668+474
 genes:
   - BMP2K
 variant_type:snv
