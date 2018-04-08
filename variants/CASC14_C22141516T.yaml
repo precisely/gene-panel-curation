@@ -1,0 +1,17 @@
+symbol: C22141516T
+snp: rs41378447
+chromosome: 6
+start: ?
+genes:
+  - CASC14
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 93.7%
+  - C:T
+    - effect: wildtype
+    - frequency: 5.0%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.3%
