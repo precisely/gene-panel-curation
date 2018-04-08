@@ -1,7 +1,7 @@
 symbol: T135086514C
 snp: rs254577
 chromosome: 5
-start: ?
+start: -493+33992
 genes:
   - C5orf66
 variant_type:snv
