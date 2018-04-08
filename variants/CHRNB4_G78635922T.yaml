@@ -1,0 +1,17 @@
+symbol: G78635922T
+snp: rs12441088
+chromosome: 15
+start: ?
+genes:
+  - CHRNB4
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 22.3%
+  - G:T
+    - effect: wildtype
+    - frequency: 48.5%
+  - T:T
+    -effect: high_risk
+    - frequency: 29.2%
