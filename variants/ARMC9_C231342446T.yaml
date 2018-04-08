@@ -1,0 +1,17 @@
+symbol: C231342446T
+snp: rs16827966
+chromosome: 2
+start: ?
+genes:
+  - ARMC9
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 92.8%
+  - C:T
+    - effect: wildtype
+    - frequency: 5.7%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.5%
