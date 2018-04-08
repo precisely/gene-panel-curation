@@ -1,0 +1,13 @@
+   symbol: CHRNA5
+   function: neuronal acetylcholine receptor subunit alpha-5
+   chromosome: 15
+   start: 78565520
+   end: 78595269
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P30532
+     - HGNC: HGNC:1959
+   curators: 
+    - rtearle
+    - taltman
