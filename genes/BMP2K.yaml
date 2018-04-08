@@ -1,0 +1,13 @@
+   symbol: BMP2K
+   function: BMP-2-inducible protein kinase
+   chromosome: 4
+   start: 78776342
+   end: 78916372
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9NSY1
+     - HGNC: HGNC:18041
+   curators: 
+    - rtearle
+    - taltman
