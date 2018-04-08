@@ -1,0 +1,17 @@
+symbol: A78778781C
+snp: rs3775525
+chromosome: 4
+start: ?
+genes:
+  - BMP2K
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: -0.7%
+  - A:C
+    - effect: moderate_risk
+    - frequency: 19.6%
+  - C:C
+    -effect: high_risk
+    - frequency: 81.1%
