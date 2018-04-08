@@ -1,7 +1,7 @@
 symbol: C231342446T
 snp: rs16827966
 chromosome: 2
-start: ?
+start: 1879-2529
 genes:
   - ARMC9
 variant_type:snv
