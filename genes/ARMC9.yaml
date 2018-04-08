@@ -1,0 +1,13 @@
+   symbol: ARMC9
+   function: armadillo repeat containing 9
+   chromosome: 2
+   start: 231198546
+   end: 231374837
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:20730
+     - UNIPROT: Q7Z3E5
+   curators: 
+    - rtearle
+    - taltman
