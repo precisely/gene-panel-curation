@@ -1,7 +1,7 @@
 symbol: A239681977T
 snp: rs1867264
 chromosome: 1
-start: ?
+start: -147+3689A
 genes:
   - CHRM3
 variant_type:snv
