@@ -1,7 +1,7 @@
 symbol: A27468610G
 snp: rs2741343
 chromosome: 8
-start: ?
+start: -134+725
 genes:
   - CHRNA2
 variant_type:snv
