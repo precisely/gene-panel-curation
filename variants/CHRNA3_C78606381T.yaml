@@ -1,0 +1,17 @@
+symbol: C78606381T
+snp: rs12914385
+chromosome: 15
+start: ?
+genes:
+  - CHRNA3
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 46.2%
+  - C:T
+    - effect: high_risk
+    - frequency: 37.9%
+  - T:T
+    -effect: high_risk
+    - frequency: 15.9%
