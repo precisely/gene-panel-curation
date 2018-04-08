@@ -1,0 +1,17 @@
+symbol: T135086514C
+snp: rs254577
+chromosome: 5
+start: ?
+genes:
+  - C5orf66
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 29.1%
+  - T:C
+    - effect: wildtype
+    - frequency: 46.2%
+  - C:C
+    -effect: high_risk
+    - frequency: 24.7%
