@@ -1,7 +1,7 @@
 symbol: C65T
 snp: rs2472553
 chromosome: 8
-start: ?
+start: -349
 genes:
   - CHRNA2
 variant_type:snv
