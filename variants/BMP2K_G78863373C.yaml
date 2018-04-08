@@ -1,0 +1,17 @@
+symbol: G78863373C
+snp: rs3822106
+chromosome: 4
+start: ?
+genes:
+  - BMP2K
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 13.7%
+  - C:G
+    - effect: moderate_risk
+    - frequency: 50.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 36.3%
