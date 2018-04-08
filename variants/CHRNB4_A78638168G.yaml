@@ -1,7 +1,7 @@
 symbol: A78638168G
 snp: rs1316971
 chromosome: 15
-start: ?
+start: 56-2581
 genes:
   - CHRNB4
 variant_type:snv
