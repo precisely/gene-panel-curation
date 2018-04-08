@@ -1,0 +1,13 @@
+   symbol: CHRNA2
+   function: neuronal acetylcholine receptor subunit alpha-2
+   chromosome: 8
+   start: 27459761
+   end: 27479883
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q15822
+     - HGNC: HGNC:1956
+   curators: 
+    - rtearle
+    - taltman
