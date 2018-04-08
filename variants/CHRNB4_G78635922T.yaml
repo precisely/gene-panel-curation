@@ -1,7 +1,7 @@
 symbol: G78635922T
 snp: rs12441088
 chromosome: 15
-start: ?
+start: 56-335
 genes:
   - CHRNB4
 variant_type:snv
