@@ -1,0 +1,17 @@
+symbol: A78638168G
+snp: rs1316971
+chromosome: 15
+start: ?
+genes:
+  - CHRNB4
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 17.5%
+  - A:G
+    - effect: high_risk
+    - frequency: 44.3%
+  - G:G
+    -effect: wildtype
+    - frequency: 38.2%
