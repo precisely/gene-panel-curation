@@ -1,0 +1,17 @@
+symbol: C37241025T
+snp: rs948440
+chromosome: 18
+start: ?
+genes:
+  - CELF4
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 75.6%
+  - C:T
+    - effect: wildtype
+    - frequency: 18.7%
+  - T:T
+    -effect: high_risk
+    - frequency: 5.7%
