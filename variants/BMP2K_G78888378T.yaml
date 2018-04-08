@@ -1,0 +1,17 @@
+symbol: G78888378T
+snp: rs6850116
+chromosome: 4
+start: ?
+genes:
+  - BMP2K
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: 57.7%
+  - G:T
+    - effect: moderate_risk
+    - frequency: 30.9%
+  - T:T
+    -effect: wildtype
+    - frequency: 11.4%
