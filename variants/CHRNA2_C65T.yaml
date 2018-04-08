@@ -1,0 +1,17 @@
+symbol: C65T
+snp: rs2472553
+chromosome: 8
+start: ?
+genes:
+  - CHRNA2
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 57.3%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 27.5%
+  - A:A
+    -effect: high_risk
+    - frequency: 15.2%
