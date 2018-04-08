@@ -2,7 +2,7 @@ symbol: T10927C
 chromosome: 17
 start: 4,804,119
 genes:
-  - CHRME
+  - CHRNE
 variant_type: SNV
 genotypes:
   - T:T
