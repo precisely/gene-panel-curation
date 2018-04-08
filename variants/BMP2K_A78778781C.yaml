@@ -1,7 +1,7 @@
 symbol: A78778781C
 snp: rs3775525
 chromosome: 4
-start: ?
+start: 178+2060
 genes:
   - BMP2K
 variant_type:snv
