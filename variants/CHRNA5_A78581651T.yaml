@@ -1,7 +1,7 @@
 symbol: A78581651T
 snp: rs7180002
 chromosome: 15
-start: ?
+start: 258+689
 genes:
   - CHRNA5
 variant_type:snv
