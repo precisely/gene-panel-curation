@@ -1,0 +1,13 @@
+   symbol: ARHGEF3
+   function: rho guanine nucleotide exchange factor 3
+   chromosome: 3
+   start: 56727418
+   end: 57079329
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:683
+     - UNIPROT: Q9NR81
+   curators: 
+    - rtearle
+    - taltman
