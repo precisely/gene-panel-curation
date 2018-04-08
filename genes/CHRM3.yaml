@@ -1,0 +1,13 @@
+   symbol: CHRM3
+   function: cholinergic receptor muscarinic 3
+   chromosome: 1
+   start: 239386565
+   end: 239915452
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:1952
+     - UNIPROT: P20309
+   curators: 
+    - rtearle
+    - taltman
