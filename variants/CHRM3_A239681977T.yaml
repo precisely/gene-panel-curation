@@ -1,0 +1,17 @@
+symbol: A239681977T
+snp: rs1867264
+chromosome: 1
+start: ?
+genes:
+  - CHRM3
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 42.3%
+  - A:T
+    - effect: high_risk
+    - frequency: 40.0%
+  - T:T
+    -effect: wildtype
+    - frequency: 17.7%
