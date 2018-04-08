@@ -1,0 +1,17 @@
+symbol: A78581651T
+snp: rs7180002
+chromosome: 15
+start: ?
+genes:
+  - CHRNA5
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 63.2%
+  - A:T
+    - effect: moderate_risk
+    - frequency: 27.3%
+  - T:T
+    -effect: high_risk
+    - frequency: 9.5%
