@@ -1,0 +1,17 @@
+symbol: A27468610G
+snp: rs2741343
+chromosome: 8
+start: ?
+genes:
+  - CHRNA2
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 3.9%
+  - A:G
+    - effect: wildtype
+    - frequency: 48.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 48.1%
