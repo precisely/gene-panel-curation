@@ -1,0 +1,17 @@
+symbol: G112777818T
+snp: rs2071376
+chromosome: 2
+start: 615+169
+genes:
+  - IL1A
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 26.7%
+  - T:G
+    - effect: moderate_risk
+    - frequency: 47.1%
+  - G:G
+    -effect: high_risk
+    - frequency: 26.2%
