@@ -1,0 +1,17 @@
+"symbol: C10927T
+snp: rs33383
+chromosome: 17
+start: 1185-16253
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 23.9%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 48.0%
+  - T:T
+    -effect: high_risk
+    - frequency: 28.1%"
