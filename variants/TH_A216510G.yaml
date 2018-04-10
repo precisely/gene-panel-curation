@@ -1,0 +1,17 @@
+symbol: A216510G
+snp: rs2070762
+chromosome: 11
+start: ?
+genes:
+  - TH
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 21.1%
+  - A:G
+    - effect: ?
+    - frequency: 48.8%
+  - G:G
+    -effect: ?
+    - frequency: 30.2%
