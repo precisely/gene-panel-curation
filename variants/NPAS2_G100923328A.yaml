@@ -1,0 +1,17 @@
+symbol: G100923328A
+snp: rs356653
+chromosome: 2
+start: 33-1818
+genes:
+  - NPAS2
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 19.3%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 49.2%
+  - A:A
+    -effect: high_risk
+    - frequency: 31.6%
