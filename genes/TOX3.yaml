@@ -1,0 +1,13 @@
+   symbol: TOX3
+   function: TOX high mobility group box family member 3
+   chromosome: 16
+   start: 52438005
+   end: 52547802
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: O15405
+     - HGNC: HGNC:11972
+   curators: 
+    - rtearle
+    - taltman
