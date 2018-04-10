@@ -1,0 +1,17 @@
+symbol: A2984+15G
+snp: rs891512
+chromosome: 13
+start: 2984+15
+genes:
+  - NOS3
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 71.1%
+  - G:A
+    - effect: ?
+    - frequency: 23.6%
+  - A:A
+    -effect: ?
+    - frequency: 5.3%
