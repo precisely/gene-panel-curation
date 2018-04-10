@@ -1,0 +1,17 @@
+symbol: G2137A
+snp: rs1800497
+chromosome: 11
+start: 2137
+genes:
+  - DRD2
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 37.4%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 40.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 22.6%
