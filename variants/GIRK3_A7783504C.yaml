@@ -1,0 +1,17 @@
+symbol: A7783504C
+snp: rs270838
+chromosome: 1
+start: ?
+genes:
+  - GIRK3
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 79.5%
+  - A:C
+    - effect: wildtype
+    - frequency: 15.8%
+  - C:C
+    -effect: wildtype
+    - frequency: 4.7%
