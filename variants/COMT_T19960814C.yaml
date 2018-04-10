@@ -1,0 +1,17 @@
+symbol: T19960814C
+snp: rs4646312
+chromosome: 22
+start: -91-385
+genes:
+  - COMT
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 40.6%
+  - T:C
+    - effect: wildtype
+    - frequency: 40.9%
+  - C:C
+    -effect: high_risk
+    - frequency: 18.5%
