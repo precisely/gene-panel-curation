@@ -4,7 +4,7 @@ chromosome: 17
 start: 1074
 genes:
   - CHRNE
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: high_risk
