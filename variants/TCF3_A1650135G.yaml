@@ -4,7 +4,7 @@ chromosome: 19
 start: 72+42
 genes:
   - TCF3
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
