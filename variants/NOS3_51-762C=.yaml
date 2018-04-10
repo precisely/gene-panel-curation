@@ -1,0 +1,17 @@
+symbol: 51-762C=
+snp: rs2070744
+chromosome: 13
+start: -813
+genes:
+  - NOS3
+variant_type:snv
+genotypes:
+  - :
+    - effect: wildtype
+    - frequency: 49.6%
+  - :C
+    - effect: wildtype
+    - frequency: 35.9%
+  - C:C
+    -effect: high_risk
+    - frequency: 14.5%
