@@ -1,0 +1,17 @@
+symbol: T43768752A
+snp: rs1799836
+chromosome: X
+start: 1348-36
+genes:
+  - MAOB
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 16.0%
+  - A:T
+    - effect: wildtype
+    - frequency: 49.4%
+  - T:T
+    -effect: wildtype
+    - frequency: 34.6%
