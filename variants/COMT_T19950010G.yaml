@@ -1,0 +1,17 @@
+symbol: T19950010G
+snp: rs5993882
+chromosome: 22
+start: -1134
+genes:
+  - COMT
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 46.9%
+  - T:G
+    - effect: moderate_risk
+    - frequency: 37.5%
+  - G:G
+    -effect: high_risk
+    - frequency: 15.6%
