@@ -1,0 +1,12 @@
+   symbol: UBAC2
+   function: ubiquitin-associated domain-containing protein 2
+   chromosome: 13
+   start: 99200774
+   end: 99386434
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8NBM4
+     - HGNC: HGNC:20486
+   curators: 
+    - rtearle
