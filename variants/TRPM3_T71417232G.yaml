@@ -1,0 +1,17 @@
+symbol: T71417232G
+snp: rs12350232
+chromosome: 9
+start: ?
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 17.8%
+  - C:G
+    - effect: ?
+    - frequency: 49.5%
+  - G:G
+    -effect: ?
+    - frequency: 32.7%
