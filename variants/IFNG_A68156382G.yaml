@@ -4,7 +4,7 @@ chromosome: 12
 start: 367-895
 genes:
   - IFNG
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
