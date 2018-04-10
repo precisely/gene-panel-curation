@@ -1,0 +1,17 @@
+symbol: G36091133A
+snp: rs12235235
+chromosome: 9
+start: 522-28
+genes:
+  - RECK
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 83.1%
+  - G:A
+    - effect: wildtype
+    - frequency: 13.1%
+  - A:A
+    -effect: high_risk
+    - frequency: 3.8%
