@@ -1,0 +1,13 @@
+   symbol: TRPC4
+   function: short transient receptor potential channel 4
+   chromosome: 13
+   start: 37636636
+   end: 37870425
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UBN4
+     - HGNC: HGNC:12336
+   curators: 
+    - rtearle
+    - taltman
