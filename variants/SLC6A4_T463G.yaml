@@ -1,0 +1,17 @@
+symbol: T463G
+snp: rs1042173
+chromosome: 17
+start: 463
+genes:
+  - SLC6A4
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 17.5%
+  - T:G
+    - effect: wildtype
+    - frequency: 50.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 32.6%
