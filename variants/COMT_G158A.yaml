@@ -4,7 +4,7 @@ chromosome: 22
 start: 472
 genes:
   - COMT
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
