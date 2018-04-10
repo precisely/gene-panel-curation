@@ -1,0 +1,17 @@
+symbol: T46848951C
+snp: rs1923885
+chromosome: 13
+start: 614-13312
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 31.2%
+  - T:C
+    - effect: ?
+    - frequency: 45.4%
+  - C:C
+    -effect: ?
+    - frequency: 23.5%
