@@ -4,7 +4,7 @@ chromosome: 11
 start: 542-16
 genes:
   - PEX16
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
