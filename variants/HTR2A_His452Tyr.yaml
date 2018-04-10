@@ -1,0 +1,17 @@
+symbol: His452Tyr
+snp: rs6314
+chromosome: 13
+start: 1354
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 81.7%
+  - G:A
+    - effect: ?
+    - frequency: 14.5%
+  - A:A
+    -effect: ?
+    - frequency: 3.8%
