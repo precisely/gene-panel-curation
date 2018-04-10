@@ -1,16 +1,17 @@
 symbol: C62T
+snp: rs4633
 chromosome: 22
-start: ?
+start: 186
 genes:
   - COMT
-variant_type: SNV
+variant_type:snv
 genotypes:
-  - T:T
-    - effect: moderate_risk
-    - frequency: 27%
-  - C:T
-    - effect: mild_risk
-    - frequency: 43%
   - C:C
-    - frequency: 31%
     - effect: wildtype
+    - frequency: 25.5%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 49.8%
+  - T:T
+    -effect: high_risk
+    - frequency: 24.7%
