@@ -1,0 +1,17 @@
+symbol: G45825631A
+snp: rs1396862
+chromosome: 17
+start: 328-3584
+genes:
+  - CRHR1
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 79.6%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 15.7%
+  - A:A
+    -effect: high_risk
+    - frequency: 4.7%
