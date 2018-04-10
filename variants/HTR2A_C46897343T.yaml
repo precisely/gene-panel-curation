@@ -1,0 +1,17 @@
+symbol: C46897343T
+snp: rs6311
+chromosome: 13
+start: -998
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 18.6%
+  - C:T
+    - effect: ?
+    - frequency: 49.4%
+  - T:T
+    -effect: ?
+    - frequency: 32.0%
