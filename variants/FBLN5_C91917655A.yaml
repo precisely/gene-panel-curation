@@ -4,7 +4,7 @@ chromosome: 14
 start: 379+19292
 genes:
   - FBLN5
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
