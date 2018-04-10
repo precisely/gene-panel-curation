@@ -1,0 +1,13 @@
+   symbol: IL12B
+   function: interleukin-12 subunit beta
+   chromosome: 5
+   start: 159314783
+   end: 159330887
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P29460
+     - HGNC: HGNC:5970
+   curators: 
+    - rtearle
+    - taltman
