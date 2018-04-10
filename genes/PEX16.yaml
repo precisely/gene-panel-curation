@@ -1,0 +1,13 @@
+   symbol: PEX16
+   function: peroxisomal membrane protein PEX16
+   chromosome: 11
+   start: 45909669
+   end: 45918812
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9Y5Y5
+     - HGNC: HGNC:8857
+   curators: 
+    - rtearle
+    - taltman
