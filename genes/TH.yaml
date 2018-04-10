@@ -1,0 +1,15 @@
+   symbol: TH
+   function: tyrosine 3-monooxygenase
+   chromosome: 11
+   start: 2163929
+   end: 2171877
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:11782
+     - UNIPROT: P07101
+   go_terms:
+     - GO:0042745: "circadian sleep/wake cycle"
+   curators: 
+    - rtearle
+    - taltman
