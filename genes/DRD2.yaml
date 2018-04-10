@@ -1,0 +1,15 @@
+   symbol: DRD2
+   function: D(2) dopamine receptor
+   chromosome: 11
+   start: 113409615
+   end: 113475691
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P11416
+     - HGNC: HGNC:3023
+   go_terms:
+     - GO:0042321: "negative regulation of circadian sleep/wake cycle, sleep"
+   curators: 
+    - rtearle
+    - taltman
