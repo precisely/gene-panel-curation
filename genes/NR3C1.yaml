@@ -1,0 +1,13 @@
+   symbol: NR3C1
+   function: glucocorticoid receptor
+   chromosome: 5
+   start: 143277931
+   end: 143435512
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P04150
+     - HGNC: HGNC:7978
+   curators: 
+    - rtearle
+    - taltman
