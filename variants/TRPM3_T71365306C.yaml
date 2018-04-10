@@ -1,0 +1,17 @@
+symbol: T71365306C
+snp: rs6560200
+chromosome: 9
+start: ?
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 12.9%
+  - C:T
+    - effect: wildtype
+    - frequency: 50.0%
+  - T:T
+    -effect: wildtype
+    - frequency: 37.1%
