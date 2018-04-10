@@ -1,0 +1,13 @@
+   symbol: GRIK2
+   function: glutamate receptor ionotropic, kainate 2
+   chromosome: 6
+   start: 101398788
+   end: 102070083
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q13002
+     - HGNC: HGNC:4580
+   curators: 
+    - rtearle
+    - taltman
