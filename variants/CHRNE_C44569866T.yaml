@@ -1,0 +1,17 @@
+symbol: C44569866T
+snp: rs244117
+chromosome: 17
+start: -515-12719
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 99.5%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 0.4%
+  - T:T
+    -effect: high_risk
+    - frequency: 0.1%
