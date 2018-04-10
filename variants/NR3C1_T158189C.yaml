@@ -1,0 +1,17 @@
+symbol: T158189C
+snp: rs258750
+chromosome: 5
+start: 2181+244
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 48.2%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 35.8%
+  - C:C
+    -effect: high_risk
+    - frequency: 16.1%
