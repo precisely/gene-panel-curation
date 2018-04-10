@@ -1,16 +1,17 @@
 symbol: G750C
+snp: rs11562975
 chromosome: 2
-start: 233916448?
+start: 750
 genes:
   - TRPM8
-variant_type: SNV
+variant_type:snv
 genotypes:
   - G:G
     - effect: wildtype
-    - frequency: 81.2%
+    - frequency: 70.4%
   - G:C
-    - effect: low_risk
-    - frequency: 7.7%
+    - effect: moderate_risk
+    - frequency: 22.1%
   - C:C
-  - frequency: 11.1%
-    - effect: high_risk
+    -effect: high_risk
+    - frequency: 7.5%
