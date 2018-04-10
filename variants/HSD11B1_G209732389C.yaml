@@ -1,0 +1,17 @@
+symbol: G209732389C
+snp: rs932335
+chromosome: 1
+start: 518-47
+genes:
+  - HSD11B1
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 53.8%
+  - G:C
+    - effect: moderate_risk
+    - frequency: 33.5%
+  - C:C
+    -effect: high_risk
+    - frequency: 12.7%
