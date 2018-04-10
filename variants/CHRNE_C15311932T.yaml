@@ -1,0 +1,17 @@
+symbol: C15311932T
+snp: rs410057
+chromosome: 17
+start: ?
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 72.4%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 20.9%
+  - T:T
+    -effect: high_risk
+    - frequency: 6.7%
