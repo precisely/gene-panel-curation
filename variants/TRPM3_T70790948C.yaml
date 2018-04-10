@@ -1,0 +1,17 @@
+symbol: T70790948C
+snp: rs10118380
+chromosome: 9
+start: ?
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 16.3%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 49.7%
+  - C:C
+    -effect: high_risk
+    - frequency: 34.0%
