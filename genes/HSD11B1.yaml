@@ -1,0 +1,13 @@
+   symbol: HSD11B1
+   function: corticosteroid 11-beta-dehydrogenase isozyme 1
+   chromosome: 1
+   start: 209686178
+   end: 209734950
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:5208
+     - UNIPROT: P28845
+   curators: 
+    - rtearle
+    - taltman
