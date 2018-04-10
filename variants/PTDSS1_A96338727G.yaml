@@ -1,0 +1,17 @@
+symbol: A96338727G
+snp: rs7010471
+chromosome: 8
+start: ?
+genes:
+  - PTDSS1
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 91.2%
+  - A:G
+    - effect: wildtype
+    - frequency: 7.0%
+  - G:G
+    -effect: wildtype
+    - frequency: 1.9%
