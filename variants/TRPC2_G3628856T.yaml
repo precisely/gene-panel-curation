@@ -1,0 +1,17 @@
+symbol: G3628856T
+snp: rs7108612
+chromosome: 11
+start: ?
+genes:
+  - TRPC2
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 64.1%
+  - G:T
+    - effect: high_risk
+    - frequency: 26.7%
+  - T:T
+    -effect: wildtype
+    - frequency: 9.2%
