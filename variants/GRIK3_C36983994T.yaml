@@ -3,7 +3,7 @@ snp: rs3913434
 chromosome: 1
 start: ?
 genes:
-  - GIRK3
+  - GRIK3
 variant_type:snv
 genotypes:
   - C:C
