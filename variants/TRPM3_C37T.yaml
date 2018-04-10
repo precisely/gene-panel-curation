@@ -1,0 +1,17 @@
+symbol: C37T
+snp: rs767146880
+chromosome: 9
+start: ?
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 100.0%
+  - G:A
+    - effect: wildtype
+    - frequency: 0.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 0.0%
