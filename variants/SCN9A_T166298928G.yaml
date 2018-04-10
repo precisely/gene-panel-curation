@@ -4,7 +4,7 @@ chromosome: 2
 start: 1451+87
 genes:
   - SCN9A
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
