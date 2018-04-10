@@ -4,7 +4,7 @@ chromosome: 3
 start: 192+10397
 genes:
   - ARHGEF3
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: high_risk
