@@ -1,0 +1,17 @@
+symbol: T19853C
+snp: rs3095598
+chromosome: 1
+start: .87+13687
+genes:
+  - TOX3
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 0.0%
+  - A:G
+    - effect: wildtype
+    - frequency: 0.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 0.0%
