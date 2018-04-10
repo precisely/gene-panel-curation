@@ -1,0 +1,17 @@
+symbol: T30199457C
+snp: rs4325622
+chromosome: 17
+start: ?
+genes:
+  - SLC6A4
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 17.8%
+  - T:C
+    - effect: wildtype
+    - frequency: 49.5%
+  - C:C
+    -effect: high_risk
+    - frequency: 32.7%"
