@@ -1,0 +1,17 @@
+symbol: T19943884C
+snp: rs933271
+chromosome: 22
+start: -92+1987
+genes:
+  - COMT
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 23.6%
+  - T:C
+    - effect: wildtype
+    - frequency: 48.1%
+  - C:C
+    -effect: high_risk
+    - frequency: 28.3%
