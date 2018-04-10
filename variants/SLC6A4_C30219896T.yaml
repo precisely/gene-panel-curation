@@ -1,0 +1,17 @@
+symbol: C30219896T
+snp: rs2020942
+chromosome: 17
+start: ?
+genes:
+  - SLC6A4
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 46.0%
+  - C:T
+    - effect: high_risk
+    - frequency: 38.0%
+  - T:T
+    -effect: wildtype
+    - frequency: 16.0%
