@@ -1,0 +1,17 @@
+symbol: T119856753C
+snp: rs7849492
+chromosome: 9
+start: ?
+genes:
+  - RECK
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 89.8%
+  - T:C
+    - effect: wildtype
+    - frequency: 8.0%
+  - C:C
+    -effect: wildtype
+    - frequency: 2.2%
