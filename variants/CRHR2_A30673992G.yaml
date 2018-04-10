@@ -4,7 +4,7 @@ chromosome: 7
 start: 230-6679
 genes:
   - CRHR2
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
