@@ -4,7 +4,7 @@ chromosome: 8
 start: -134+725
 genes:
   - CHRNA2
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
