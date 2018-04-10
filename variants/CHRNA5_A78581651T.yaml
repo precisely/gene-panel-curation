@@ -4,7 +4,7 @@ chromosome: 15
 start: 258+689
 genes:
   - CHRNA5
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
