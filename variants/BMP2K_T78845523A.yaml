@@ -4,7 +4,7 @@ chromosome: 4
 start: 668+474
 genes:
   - BMP2K
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
