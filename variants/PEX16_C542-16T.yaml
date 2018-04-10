@@ -1,0 +1,17 @@
+symbol: C542-16T
+snp: rs3802758
+chromosome: 11
+start: 542-16
+genes:
+  - PEX16
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 57.8%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 30.8%
+  - C:C
+    -effect: high_risk
+    - frequency: 11.4%
