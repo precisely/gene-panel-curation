@@ -1,4 +1,4 @@
-"symbol: C10927T
+symbol: C10927T
 snp: rs33383
 chromosome: 17
 start: 1185-16253
@@ -14,4 +14,4 @@ genotypes:
     - frequency: 48.0%
   - T:T
     -effect: high_risk
-    - frequency: 28.1%"
+    - frequency: 28.1%
