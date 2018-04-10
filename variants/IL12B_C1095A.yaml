@@ -4,7 +4,7 @@ chromosome: 5
 start: 1095
 genes:
   - IL12B
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
