@@ -1,0 +1,17 @@
+symbol: C30204775T
+snp: rs3794808
+chromosome: 17
+start: ?
+genes:
+  - SLC6A4
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 18.3%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 49.9%
+  - T:T
+    -effect: high_risk
+    - frequency: 31.8%
