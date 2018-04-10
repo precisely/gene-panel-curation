@@ -1,0 +1,17 @@
+symbol: C209711973A
+snp: rs11119328
+chromosome: 1
+start: 517+4845
+genes:
+  - HSD11B1
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 56.6%
+  - C:A
+    - effect: wildtype
+    - frequency: 31.6%
+  - A:A
+    -effect: high_risk
+    - frequency: 11.8%
