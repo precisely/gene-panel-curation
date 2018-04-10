@@ -1,0 +1,17 @@
+symbol: G1469-16T
+snp: rs6188
+chromosome: 5
+start: 1469-16
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: 44.7%
+  - G:T
+    - effect: wildtype
+    - frequency: 38.8%
+  - T:T
+    -effect: wildtype
+    - frequency: 16.5%
