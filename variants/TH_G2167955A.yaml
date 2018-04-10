@@ -1,0 +1,17 @@
+symbol: G2167955A
+snp: rs4074905
+chromosome: 11
+start: ?
+genes:
+  - TH
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 40.3%
+  - G:A
+    - effect: ?
+    - frequency: 40.4%
+  - A:A
+    -effect: ?
+    - frequency: 19.3%
