@@ -1,0 +1,17 @@
+symbol: C932G
+snp: rs1801028
+chromosome: 11
+start: 932
+genes:
+  - DRD2
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 93.0%
+  - C:G
+    - effect: wildtype
+    - frequency: 5.1%
+  - G:G
+    -effect: high_risk
+    - frequency: 1.9%
