@@ -4,7 +4,7 @@ chromosome: 21
 start: -49+2847
 genes:
   - AGPAT3
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: high_risk
