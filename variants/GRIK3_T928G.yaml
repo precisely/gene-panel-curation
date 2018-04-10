@@ -1,19 +1,19 @@
 symbol: T928G
+snp: rs6691840
 chromosome: 1
-start: 1063
+start: 928
 genes:
   - GRIK3
 variant_type: SNV
 genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 37.1%
   - T:G
-    - frequency: 0.1%
-    - effect: Increased risk of schizophrenia and depression
-  - A:A
-    - frequency: 37%
-    - effect: wildtype
-  - A:C
-    - frequency: 43%
-    - effect: wildtype
-  - C:C
-    - frequency: 31%
-    - effect: wildtype
+    - effect: moderate_risk
+    - frequency: 43.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 19.9%"
+
+
