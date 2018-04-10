@@ -4,7 +4,7 @@ chromosome: 1
 start: 517+4845
 genes:
   - HSD11B1
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
