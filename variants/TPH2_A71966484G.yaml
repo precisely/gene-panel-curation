@@ -4,7 +4,7 @@ chromosome: 12
 start: 609-6035
 genes:
   - TPH2
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
