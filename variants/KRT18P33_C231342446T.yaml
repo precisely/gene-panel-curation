@@ -4,7 +4,7 @@ chromosome: 2
 start: 1879-2529
 genes:
   - KRT18P33
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: high_risk
