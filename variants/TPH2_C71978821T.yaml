@@ -1,0 +1,17 @@
+symbol: C71978821T
+snp: rs4760816
+chromosome: 12
+start: 806-131
+genes:
+  - TPH2
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: ?
+    - frequency: 16.4%
+  - T:C
+    - effect: ?
+    - frequency: 49.7%
+  - C:C
+    -effect: wildtype
+    - frequency: 33.9%
