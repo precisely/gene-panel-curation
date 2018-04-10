@@ -1,0 +1,17 @@
+symbol: C865T
+snp: rs121909511
+chromosome: 17
+start: 865
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: ?
+  - G:A
+    - effect: moderate_risk
+    - frequency: ?
+  - A:A
+    -effect: high_risk
+    - frequency: ?
