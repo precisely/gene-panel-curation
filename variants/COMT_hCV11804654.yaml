@@ -1,0 +1,17 @@
+symbol: hCV11804654
+snp: hCV11804654
+chromosome: 22
+start: ?
+genes:
+  - COMT
+variant_type:snv
+genotypes:
+  - :
+    - effect: 
+    - frequency: ?
+  - :
+    - effect: 
+    - frequency: ?
+  - :
+    -effect: 
+    - frequency: ?
