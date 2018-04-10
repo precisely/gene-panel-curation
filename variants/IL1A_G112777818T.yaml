@@ -4,7 +4,7 @@ chromosome: 2
 start: 615+169
 genes:
   - IL1A
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
