@@ -1,0 +1,17 @@
+symbol: C91917655A
+snp: rs2249954
+chromosome: 14
+start: 379+19292
+genes:
+  - FBLN5
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 65.7%
+  - C:A
+    - effect: wildtype
+    - frequency: 25.6%
+  - A:A
+    -effect: high_risk
+    - frequency: 8.7%
