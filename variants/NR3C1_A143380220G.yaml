@@ -4,7 +4,7 @@ chromosome: 5
 start: 1184+19436
 genes:
   - NR3C1
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
