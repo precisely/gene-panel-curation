@@ -1,0 +1,13 @@
+   symbol: FBLN5
+   function: fibulin-5
+   chromosome: 14
+   start: 91869412
+   end: 91947987
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UBX5
+     - HGNC: HGNC:3602
+   curators: 
+    - rtearle
+    - taltman
