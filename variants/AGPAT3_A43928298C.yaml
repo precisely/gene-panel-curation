@@ -1,0 +1,17 @@
+symbol: A43928298C
+snp: rs3788079
+chromosome: 21
+start: -49+2847
+genes:
+  - AGPAT3
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 96.8%
+  - A:C
+    - effect: wildtype
+    - frequency: 2.5%
+  - C:C
+    -effect: wildtype
+    - frequency: 0.7%
