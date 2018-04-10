@@ -4,7 +4,7 @@ chromosome: 11
 start: 932
 genes:
   - DRD2
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
