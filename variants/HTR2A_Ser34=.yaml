@@ -1,0 +1,17 @@
+symbol: Ser34=
+snp: rs6313
+chromosome: 13
+start: 102
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 19.6%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 48.3%
+  - A:A
+    -effect: high_risk
+    - frequency: 32.1%
