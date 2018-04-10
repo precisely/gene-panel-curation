@@ -4,7 +4,7 @@ chromosome: 15
 start: 378-4117
 genes:
   - CHRNA3
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
