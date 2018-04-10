@@ -1,0 +1,17 @@
+symbol: G4904631A
+snp: rs3760490
+chromosome: 17
+start: -1568
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 57.6%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 31.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 11.4%
