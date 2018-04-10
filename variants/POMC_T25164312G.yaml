@@ -1,0 +1,17 @@
+symbol: T25164312G
+snp: rs12473543
+chromosome: 2
+start: 132+329
+genes:
+  - POMC
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 31.6%
+  - T:G
+    - effect: wildtype
+    - frequency: 45.2%
+  - G:G
+    -effect: high_risk
+    - frequency: 23.2%
