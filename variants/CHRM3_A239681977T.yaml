@@ -4,7 +4,7 @@ chromosome: 1
 start: -147+3689A
 genes:
   - CHRM3
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
