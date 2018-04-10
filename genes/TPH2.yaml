@@ -1,0 +1,15 @@
+   symbol: TPH2
+   function: tryptophan 5-hydroxylase 2
+   chromosome: 12
+   start: 71938846
+   end: 72186618
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8IWU9
+     - HGNC: HGNC:20692
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
