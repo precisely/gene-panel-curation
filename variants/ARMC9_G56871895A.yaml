@@ -4,7 +4,7 @@ chromosome: 2
 start: 192+10397
 genes:
   - ARMC9
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: high_risk
