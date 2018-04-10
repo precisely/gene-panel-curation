@@ -1,0 +1,12 @@
+   symbol: KRT18P33
+   function: keratin 18 pseudogene 33
+   chromosome: 2
+   start: 65666695
+   end: 65667737
+   strand: +
+   gene_type: processed_pseudogene
+   unification_links:
+     - HGNC: HGNC:33402
+   curators: 
+    - rtearle
+    - taltman
