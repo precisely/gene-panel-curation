@@ -1,0 +1,17 @@
+symbol: A150998920G
+snp: rs1007311
+chromosome: 13
+start: 817-26
+genes:
+  - NOS3
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 17.0%
+  - A:G
+    - effect: ?
+    - frequency: 49.4%
+  - G:G
+    -effect: ?
+    - frequency: 33.6%
