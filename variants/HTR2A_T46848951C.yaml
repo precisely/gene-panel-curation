@@ -4,7 +4,7 @@ chromosome: 13
 start: 614-13312
 genes:
   - HTR2A
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
