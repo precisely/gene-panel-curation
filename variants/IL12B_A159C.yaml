@@ -1,0 +1,17 @@
+symbol: A159C
+snp: rs3212227
+chromosome: 5
+start: 159
+genes:
+  - IL12B
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 1.5%
+  - T:G
+    - effect: high_risk
+    - frequency: 46.0%
+  - G:G
+    -effect: wildtype
+    - frequency: 52.5%
