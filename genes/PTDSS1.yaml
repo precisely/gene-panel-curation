@@ -1,0 +1,13 @@
+   symbol: PTDSS1
+   function: phosphatidylserine synthase 1
+   chromosome: 8
+   start: 96261715
+   end: 96336995
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P48651
+     - HGNC: HGNC:9587
+   curators: 
+    - rtearle
+    - taltman
