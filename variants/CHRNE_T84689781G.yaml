@@ -4,7 +4,7 @@ chromosome: 17
 start: ?
 genes:
   - CHRNE
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
