@@ -1,0 +1,17 @@
+symbol: C36983994T
+snp: rs3913434
+chromosome: 1
+start: ?
+genes:
+  - GIRK3
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 97.8%
+  - C:T
+    - effect: wildtype
+    - frequency: 1.8%
+  - T:T
+    -effect: wildtype
+    - frequency: 0.5%
