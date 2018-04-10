@@ -1,0 +1,17 @@
+symbol: G113412737A
+snp: rs6277
+chromosome: 11
+start: 957
+genes:
+  - DRD2
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 22.0%
+  - C:T
+    - effect: wildtype
+    - frequency: 48.6%
+  - T:T
+    -effect: high_risk
+    - frequency: 29.4%
