@@ -1,0 +1,17 @@
+symbol: T143342788C
+snp: rs2918419
+chromosome: 5
+start: 1185-28620
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 72.8%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 20.7%
+  - C:C
+    -effect: high_risk
+    - frequency: 6.5%
