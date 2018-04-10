@@ -4,7 +4,7 @@ chromosome: 2
 start: 132+329
 genes:
   - POMC
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
