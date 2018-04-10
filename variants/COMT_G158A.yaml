@@ -1,16 +1,17 @@
 symbol: G158A
+snp: rs4680
 chromosome: 22
-start: ?
+start: 472
 genes:
   - COMT
-variant_type: SNV
+variant_type:snv
 genotypes:
-  - A:A
-    - effect: moderate_LoF
-    - frequency: 26%
-  - A:G
-    - effect: mild_LoF
-    - frequency: 42%
   - G:G
     - effect: wildtype
-    - frequency: 32%
+    - frequency: 25.7%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 49.9%
+  - A:A
+    -effect: high_risk
+    - frequency: 24.4%
