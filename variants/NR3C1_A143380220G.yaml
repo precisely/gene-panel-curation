@@ -1,0 +1,17 @@
+symbol: A143380220G
+snp: rs1866388
+chromosome: 5
+start: 1184+19436
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 53.4%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 33.6%
+  - G:G
+    -effect: high_risk
+    - frequency: 13.0%
