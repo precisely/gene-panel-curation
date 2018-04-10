@@ -4,7 +4,7 @@ chromosome: 2
 start: 33-1818
 genes:
   - NPAS2
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
