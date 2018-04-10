@@ -1,0 +1,13 @@
+   symbol: CLYBL
+   function: citrate lyase subunit beta-like protein, mitochondrial
+   chromosome: 13
+   start: 99606669
+   end: 99897134
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q8N0X4
+     - HGNC: HGNC:18355
+   curators: 
+    - rtearle
+    - taltman
