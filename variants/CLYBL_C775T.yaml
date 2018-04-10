@@ -1,0 +1,17 @@
+symbol: C775T
+snp: rs41281112
+chromosome: 13
+start: 775
+genes:
+  - CLYBL
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 93.8%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 5.3%
+  - T:T
+    -effect: high_risk
+    - frequency: 0.9%
