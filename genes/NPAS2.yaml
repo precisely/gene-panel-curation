@@ -1,0 +1,15 @@
+   symbol: NPAS2
+   function: neuronal PAS domain protein 2
+   chromosome: 2
+   start: 100820152
+   end: 100996829
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:7895
+     - UNIPROT: Q99743
+   go_terms:
+     - GO:0007623: "circadian rhythm"
+   curators: 
+    - rtearle
+    - taltman
