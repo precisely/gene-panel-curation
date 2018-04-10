@@ -1,0 +1,13 @@
+   symbol: SLC18A2
+   function: synaptic vesicular amine transporter
+   chromosome: 10
+   start: 117241093
+   end: 117279430
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q05940
+     - HGNC: HGNC:10935
+   curators: 
+    - rtearle
+    - taltman
