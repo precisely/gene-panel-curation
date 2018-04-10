@@ -1,0 +1,15 @@
+   symbol: HTR2A
+   function: 5-hydroxytryptamine receptor 2A
+   chromosome: 13
+   start: 46831550
+   end: 46897076
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P28223
+     - HGNC: HGNC:5293
+   go_terms:
+     - GO:0030431: "sleep"
+   curators: 
+    - rtearle
+    - taltman
