@@ -4,7 +4,7 @@ chromosome: 15
 start: 646+28904
 genes:
   - SLCO3A1
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
