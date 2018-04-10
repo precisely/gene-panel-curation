@@ -4,7 +4,7 @@ chromosome: 10
 start: 1327-223
 genes:
   - EIF3A
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
