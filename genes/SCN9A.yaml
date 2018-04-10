@@ -1,0 +1,13 @@
+   symbol: SCN9A
+   function: sodium voltage-gated channel alpha subunit 9
+   chromosome: 2
+   start: 166195185
+   end: 166375993
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:10597
+     - UNIPROT: Q15858
+   curators: 
+    - rtearle
+    - taltman
