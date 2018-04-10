@@ -4,7 +4,7 @@ chromosome: 14
 start: ?
 genes:
   - FBLN5
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: high_risk
