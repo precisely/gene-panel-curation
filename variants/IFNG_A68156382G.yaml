@@ -1,0 +1,17 @@
+symbol: A68156382G
+snp: rs2069718
+chromosome: 12
+start: 367-895
+genes:
+  - IFNG
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 26.2%
+  - A:G
+    - effect: wildtype
+    - frequency: 47.3%
+  - G:G
+    -effect: high_risk
+    - frequency: 26.5%
