@@ -1,0 +1,17 @@
+symbol: G91945362A
+snp: rs8029503
+chromosome: 15
+start: 646+28904
+genes:
+  - SLCO3A1
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 94.0%
+  - G:A
+    - effect: wildtype
+    - frequency: 4.8%
+  - A:A
+    -effect: high_risk
+    - frequency: 1.2%
