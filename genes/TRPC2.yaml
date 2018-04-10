@@ -1,0 +1,12 @@
+   symbol: TRPC2
+   function: transient receptor potential cation channel subfamily C member 2, pseudogene
+   chromosome: 11
+   start: 609901
+   end: 3637559
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:12334
+   curators: 
+    - rtearle
+    - taltman
