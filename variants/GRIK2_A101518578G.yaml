@@ -1,0 +1,17 @@
+symbol: A101518578G
+snp: rs2247215
+chromosome: 6
+start: 116-103370
+genes:
+  - GRIK2
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 52.1%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 34.4%
+  - G:G
+    -effect: high_risk
+    - frequency: 13.5%
