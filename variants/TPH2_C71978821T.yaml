@@ -4,7 +4,7 @@ chromosome: 12
 start: 806-131
 genes:
   - TPH2
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: ?
