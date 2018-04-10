@@ -1,0 +1,13 @@
+   symbol: TRPM3
+   function: transient receptor potential cation channel subfamily M member 3
+   chromosome: 9
+   start: 70529063
+   end: 71446904
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9HCF6
+     - HGNC: HGNC:17992
+   curators: 
+    - rtearle
+    - taltman
