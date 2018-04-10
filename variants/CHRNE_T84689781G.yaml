@@ -1,0 +1,17 @@
+symbol: T84689781G
+snp: rs33387
+chromosome: 17
+start: ?
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 56.6%
+  - T:G
+    - effect: moderate_risk
+    - frequency: 31.6%
+  - G:G
+    -effect: high_risk
+    - frequency: 11.8%
