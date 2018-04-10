@@ -1,0 +1,17 @@
+symbol: T209714373C
+snp: rs846906
+chromosome: 1
+start: 517+7245
+genes:
+  - HSD11B1
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 87.2%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 10.0%
+  - T:T
+    -effect: wildtype
+    - frequency: 2.8%
