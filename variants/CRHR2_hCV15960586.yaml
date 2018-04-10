@@ -1,0 +1,17 @@
+symbol: hCV15960586
+snp: hCV15960586
+chromosome: 7
+start: ?
+genes:
+  - CRHR2
+variant_type:snv
+genotypes:
+  - :
+    - effect: 
+    - frequency: ?
+  - :
+    - effect: 
+    - frequency: ?
+  - :
+    -effect: 
+    - frequency: ?
