@@ -1,16 +1,17 @@
 symbol: C-990T
+snp: rs10166942
 chromosome: 2
-start: 233916448?
+start: -990
 genes:
   - TRPM8
-variant_type: SNV
+variant_type:snv
 genotypes:
-  - C:C
-    - effect: low_risk
-    - frequency: 18.8%
-  - C:T
-    - effect: low_risk
-    - frequency: 47%
   - T:T
-  - frequency: moderage_risk
-    - effect: wildtype
+    - effect: high_risk
+    - frequency: 19.9%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 49.7%
+  - C:C
+    -effect: wildtype
+    - frequency: 30.4%
