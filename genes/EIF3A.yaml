@@ -1,0 +1,13 @@
+   symbol: EIF3A
+   function: eukaryotic translation initiation factor 3 subunit A
+   chromosome: 10
+   start: 119033670
+   end: 119080823
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q14152
+     - HGNC: 3271
+   curators: 
+    - rtearle
+    - taltman
