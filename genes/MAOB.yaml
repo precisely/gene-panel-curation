@@ -1,0 +1,13 @@
+   symbol: MAOB
+   function: amine oxidase [flavin-containing] B
+   chromosome: X
+   start: 43766611
+   end: 43882447
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P27338
+     - HGNC: HGNC:6834
+   curators: 
+    - rtearle
+    - taltman
