@@ -1,0 +1,13 @@
+   symbol: CRHR1
+   function: corticotropin-releasing factor receptor 1
+   chromosome: 17
+   start: 45620344
+   end: 45835826
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P34998
+     - HGNC: HGNC:2357
+   curators: 
+    - rtearle
+    - taltman
