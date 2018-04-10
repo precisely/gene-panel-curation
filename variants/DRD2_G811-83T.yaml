@@ -1,0 +1,17 @@
+symbol: G811-83T
+snp: rs1076560
+chromosome: 11
+start: 811-83
+genes:
+  - DRD2
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 50.5%
+  - G:T
+    - effect: wildtype
+    - frequency: 35.4%
+  - T:T
+    -effect: high_risk
+    - frequency: 14.1%
