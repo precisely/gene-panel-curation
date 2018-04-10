@@ -1,0 +1,13 @@
+   symbol: POMC
+   function: proopiomelanocortin
+   chromosome: 2
+   start: 25160853
+   end: 25168903
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:9201
+     - UNIPROT: P01189
+   curators: 
+    - rtearle
+    - taltman
