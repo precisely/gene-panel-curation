@@ -4,7 +4,7 @@ chromosome: 8
 start: ?
 genes:
   - PTDSS1
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: high_risk
