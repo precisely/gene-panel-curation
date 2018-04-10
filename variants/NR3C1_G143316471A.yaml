@@ -1,0 +1,17 @@
+symbol: G143316471A
+snp: rs860458
+chromosome: 5
+start: 1185-2303
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 73.6%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 20.1%
+  - A:A
+    -effect: high_risk
+    - frequency: 6.3%
