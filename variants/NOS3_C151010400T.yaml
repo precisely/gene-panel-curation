@@ -4,7 +4,7 @@ chromosome: 13
 start: 2685+113
 genes:
   - NOS3
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
