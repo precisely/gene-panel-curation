@@ -4,7 +4,7 @@ chromosome: 6
 start: 116-103370
 genes:
   - GRIK2
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
