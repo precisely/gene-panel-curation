@@ -1,0 +1,17 @@
+symbol: C113282275A
+snp: rs1124492
+chromosome: 11
+start: 1139-633
+genes:
+  - DRD2
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 38.5%
+  - C:A
+    - effect: moderate_risk
+    - frequency: 42.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 19.5%
