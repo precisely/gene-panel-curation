@@ -4,7 +4,7 @@ chromosome: X
 start: 1348-36
 genes:
   - MAOB
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: high_risk
