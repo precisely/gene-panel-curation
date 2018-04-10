@@ -1,0 +1,17 @@
+symbol: A119059941G
+snp: rs10787901
+chromosome: 10
+start: 1327-223
+genes:
+  - EIF3A
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 35.3%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 43.6%
+  - G:G
+    -effect: high_risk
+    - frequency: 21.2%
