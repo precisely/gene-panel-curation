@@ -1,0 +1,17 @@
+symbol: C46866425T
+snp: rs2770296
+chromosome: 13
+start: 613+25965
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 49.2%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 36.2%
+  - C:C
+    -effect: wildtype
+    - frequency: 14.7%
