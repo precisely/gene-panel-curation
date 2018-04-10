@@ -1,0 +1,17 @@
+symbol: G37668344T
+snp: rs1570612
+chromosome: 13
+start: ?
+genes:
+  - TRPC4
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: 29.1%
+  - G:T
+    - effect: wildtype
+    - frequency: 46.2%
+  - T:T
+    -effect: wildtype
+    - frequency: 24.7%
