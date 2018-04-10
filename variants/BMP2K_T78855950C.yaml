@@ -4,7 +4,7 @@ chromosome: 4
 start: 884-3634
 genes:
   - BMP2K
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: high_risk
