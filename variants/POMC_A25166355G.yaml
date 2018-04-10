@@ -4,7 +4,7 @@ chromosome: 2
 start: ?
 genes:
   - POMC
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
