@@ -1,0 +1,17 @@
+symbol: A45815234G
+snp: rs242940
+chromosome: 17
+start: 122-1230
+genes:
+  - CRHR1
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 16.3%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 48.4%
+  - G:G
+    -effect: high_risk
+    - frequency: 35.3%
