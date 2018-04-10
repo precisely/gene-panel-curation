@@ -1,0 +1,17 @@
+symbol: A143281925G
+snp: rs6196
+chromosome: 5
+start: 2298
+genes:
+  - NR3C1
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 71.2%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 22.6%
+  - G:G
+    -effect: high_risk
+    - frequency: 6.2%
