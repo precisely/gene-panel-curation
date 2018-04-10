@@ -1,0 +1,13 @@
+   symbol: IFNG
+   function: interferon gamma
+   chromosome: 12
+   start: 68154768
+   end: 68159747
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P01579
+     - HGNC: HGNC:5438
+   curators: 
+    - rtearle
+    - taltman
