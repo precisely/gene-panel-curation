@@ -1,0 +1,17 @@
+symbol: A30673992G
+snp: rs2284217
+chromosome: 7
+start: 230-6679
+genes:
+  - CRHR2
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 35.3%
+  - A:G
+    - effect: moderate_risk
+    - frequency: 43.5%
+  - G:G
+    -effect: high_risk
+    - frequency: 21.2%
