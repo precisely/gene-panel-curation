@@ -4,7 +4,7 @@ chromosome: 15
 start: 56-2581
 genes:
   - CHRNB4
-variant_type:snv
+variant_type: snv
 genotypes:
   - A:A
     - effect: wildtype
