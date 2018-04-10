@@ -1,0 +1,17 @@
+symbol: T166298928G
+snp: rs6754031
+chromosome: 2
+start: 1451+87
+genes:
+  - SCN9A
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 30.2%
+  - T:G
+    - effect: wildtype
+    - frequency: 45.8%
+  - G:G
+    -effect: high_risk
+    - frequency: 24.1%
