@@ -1,0 +1,17 @@
+symbol: A97300204T
+snp: rs1523773
+chromosome: 3
+start: 1606+55917
+genes:
+  - EPHA6
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 93.0%
+  - A:T
+    - effect: wildtype
+    - frequency: 5.5%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.5%
