@@ -4,7 +4,7 @@ chromosome: 9
 start: 522-28
 genes:
   - RECK
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
