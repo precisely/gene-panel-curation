@@ -1,0 +1,17 @@
+symbol: A25166355G
+snp: rs934778
+chromosome: 2
+start: ?
+genes:
+  - POMC
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 59.1%
+  - A:G
+    - effect: wildtype
+    - frequency: 30.0%
+  - G:G
+    -effect: high_risk
+    - frequency: 10.9%
