@@ -1,0 +1,13 @@
+   symbol: NOS3
+   function: nitric oxide synthase, endothelial
+   chromosome: 13
+   start: 150990995
+   end: 151014588
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P29474
+     - HGNC: HGNC:7876
+   curators: 
+    - rtearle
+    - taltman
