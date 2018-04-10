@@ -1,0 +1,13 @@
+   symbol: EPHA6
+   function: ephrin type-A receptor 6
+   chromosome: 3
+   start: 96814581
+   end: 97752460
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UF33
+     - HGNC: HGNC:19296
+   curators: 
+    - rtearle
+    - taltman
