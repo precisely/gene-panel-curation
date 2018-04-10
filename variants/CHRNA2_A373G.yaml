@@ -4,7 +4,7 @@ chromosome: 8
 start: -89
 genes:
   - CHRNA2
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: high_risk
