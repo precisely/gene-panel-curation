@@ -1,0 +1,17 @@
+symbol: A99394905T
+snp: rs9585049
+chromosome: 13
+start: ?
+genes:
+  - UBAC2
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 98.1%
+  - A:T
+    - effect: wildtype
+    - frequency: 1.5%
+  - T:T
+    -effect: wildtype
+    - frequency: 0.4%
