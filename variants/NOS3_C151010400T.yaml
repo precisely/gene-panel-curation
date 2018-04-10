@@ -1,0 +1,17 @@
+symbol: C151010400T
+snp: rs743507
+chromosome: 13
+start: 2685+113
+genes:
+  - NOS3
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 77.3%
+  - T:C
+    - effect: ?
+    - frequency: 0.0%
+  - C:C
+    -effect: ?
+    - frequency: 22.7%
