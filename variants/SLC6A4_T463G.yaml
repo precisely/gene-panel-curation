@@ -4,7 +4,7 @@ chromosome: 17
 start: 463
 genes:
   - SLC6A4
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
