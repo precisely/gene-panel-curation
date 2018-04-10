@@ -1,0 +1,13 @@
+   symbol: CRHR2
+   function: corticotropin-releasing factor receptor 2
+   chromosome: 7
+   start: 30651943
+   end: 30700129
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q13324
+     - HGNC: HGNC:2358
+   curators: 
+    - rtearle
+    - taltman
