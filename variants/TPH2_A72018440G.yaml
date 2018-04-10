@@ -1,0 +1,17 @@
+symbol: A72018440G
+snp: rs1386486
+chromosome: 12
+start: 1069-3959
+genes:
+  - TPH2
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 16.4%
+  - A:G
+    - effect: ?
+    - frequency: 49.7%
+  - G:G
+    -effect: ?
+    - frequency: 33.9%
