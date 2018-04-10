@@ -4,7 +4,7 @@ chromosome: 9
 start: ?
 genes:
   - RECK
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: high_risk
