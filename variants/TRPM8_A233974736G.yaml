@@ -1,0 +1,17 @@
+symbol: A233974736G
+snp: rs6719311
+chromosome: 2
+start: 2355+4310
+genes:
+  - TRPM8
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 81.6%
+  - G:A
+    - effect: high_risk
+    - frequency: 14.2%
+  - A:A
+    -effect: wildtype
+    - frequency: 4.2%
