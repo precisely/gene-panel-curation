@@ -1,0 +1,13 @@
+   symbol: IL1A
+   function: interleukin 1 alpha
+   chromosome: 2
+   start: 112773915
+   end: 112784590
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - HGNC: HGNC:5991
+     - UNIPROT: P01583
+   curators: 
+    - rtearle
+    - taltman
