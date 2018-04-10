@@ -4,7 +4,7 @@ chromosome: 17
 start: ?
 genes:
   - SLC6A4
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
