@@ -1,0 +1,17 @@
+symbol: A1650135G
+snp: rs1860661
+chromosome: 19
+start: 72+42
+genes:
+  - TCF3
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 37.3%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 49.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 13.7%
