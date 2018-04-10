@@ -1,0 +1,17 @@
+symbol: C1095A
+snp: rs1368439
+chromosome: 5
+start: 1095
+genes:
+  - IL12B
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 81.0%
+  - T:G
+    - effect: ?
+    - frequency: 14.7%
+  - G:G
+    -effect: ?
+    - frequency: 4.3%
