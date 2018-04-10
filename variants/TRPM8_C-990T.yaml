@@ -4,7 +4,7 @@ chromosome: 2
 start: -990
 genes:
   - TRPM8
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: high_risk
