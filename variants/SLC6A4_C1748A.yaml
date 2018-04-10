@@ -1,0 +1,17 @@
+symbol: C1748A
+snp: rs7224199
+chromosome: 17
+start: 1748
+genes:
+  - SLC6A4
+variant_type:snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: ?
+  - C:A
+    - effect: high_risk
+    - frequency: ?
+  - A:A
+    -effect: wildtype
+    - frequency: ?
