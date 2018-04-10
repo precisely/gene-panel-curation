@@ -1,0 +1,17 @@
+symbol: T159323005C
+snp: rs2288831
+chromosome: 5
+start: ?
+genes:
+  - IL12B
+variant_type:snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 34.1%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 39.7%
+  - C:C
+    -effect: high_risk
+    - frequency: 26.2%
