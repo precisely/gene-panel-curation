@@ -4,7 +4,7 @@ chromosome: 10
 start: 991+1723
 genes:
   - SLC18A2
-variant_type:snv
+variant_type: snv
 genotypes:
   - C:C
     - effect: wildtype
