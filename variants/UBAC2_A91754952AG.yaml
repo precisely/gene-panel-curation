@@ -1,0 +1,17 @@
+symbol: A91754952AG
+snp: rs12312259
+chromosome: 13
+start: ?
+genes:
+  - UBAC2
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 71.2%
+  - A:G
+    - effect: wildtype
+    - frequency: 21.8%
+  - G:G
+    -effect: wildtype
+    - frequency: 7.0%
