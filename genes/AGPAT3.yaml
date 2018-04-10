@@ -1,0 +1,13 @@
+   symbol: AGPAT3
+   function: 1-acyl-sn-glycerol-3-phosphate acyltransferase gamma
+   chromosome: 21
+   start: 43865186
+   end: 43986536
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9NRZ7
+     - HGNC: HGNC:326
+   curators: 
+    - rtearle
+    - taltman
