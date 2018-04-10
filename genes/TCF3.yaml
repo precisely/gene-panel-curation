@@ -1,0 +1,12 @@
+   symbol: TCF3
+   function: transcription factor 3
+   chromosome: 19
+   start: 1609290
+   end: 1652605
+   strand: -
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: P15923
+     - HGNC: HGNC:11633
+   curators: 
+    - taltman
