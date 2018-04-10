@@ -1,0 +1,17 @@
+symbol: A84743518T
+snp: rs17120254
+chromosome: 14
+start: ?
+genes:
+  - FBLN5
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: high_risk
+    - frequency: 95.3%
+  - A:T
+    - effect: wildtype
+    - frequency: 3.7%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.0%
