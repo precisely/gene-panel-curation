@@ -4,7 +4,7 @@ chromosome: 5
 start: -493+33992
 genes:
   - C5orf66
-variant_type:snv
+variant_type: snv
 genotypes:
   - T:T
     - effect: wildtype
