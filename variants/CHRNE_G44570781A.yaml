@@ -1,0 +1,17 @@
+symbol: G44570781A
+snp: rs244116
+chromosome: 17
+start: -515-11804
+genes:
+  - CHRNE
+variant_type:snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 99.5%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 0.4%
+  - A:A
+    -effect: high_risk
+    - frequency: 0.1%
