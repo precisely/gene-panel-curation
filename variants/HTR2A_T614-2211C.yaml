@@ -1,0 +1,17 @@
+symbol: T614-2211C
+snp: rs7997012
+chromosome: 13
+start: 614-2211
+genes:
+  - HTR2A
+variant_type:snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 42.9%
+  - A:G
+    - effect: ?
+    - frequency: 39.7%
+  - G:G
+    -effect: ?
+    - frequency: 17.4%
