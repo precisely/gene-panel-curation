@@ -4,7 +4,7 @@ chromosome: 11
 start: ?
 genes:
   - TH
-variant_type:snv
+variant_type: snv
 genotypes:
   - G:G
     - effect: wildtype
