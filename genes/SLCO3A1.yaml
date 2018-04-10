@@ -1,0 +1,13 @@
+   symbol: SLCO3A1
+   function: solute carrier organic anion transporter family member 3A1
+   chromosome: 15
+   start: 91853695
+   end: 92172435
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: Q9UIG8
+     - HGNC: HGNC:10952
+   curators: 
+    - rtearle
+    - taltman
