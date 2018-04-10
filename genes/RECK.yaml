@@ -1,0 +1,13 @@
+   symbol: RECK
+   function: reversion-inducing cysteine-rich protein with Kazal motifs
+   chromosome: 9
+   start: 36036433
+   end: 36124451
+   strand: +
+   gene_type: protein_coding
+   unification_links:
+     - UNIPROT: O95980
+     - HGNC: HGNC:11345
+   curators: 
+    - rtearle
+    - taltman
