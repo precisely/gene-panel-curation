@@ -6,7 +6,7 @@ changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance
 This gene is located on chromosome 2.  The enzyme it creates acts in your  brain and nervous system, liver, kidney, and blood
 
 
-<TissueList brain, liver, Kidney and urinary bladder, circulatory and cardiovascular system />
+<TissueList brain liver Kidney and urinary bladder circulatory and cardiovascular system />
 
 <GeneAnalysis gene="COMT" interval=" NC_000002.12 :g.233917342_234019522"> 
 
@@ -48,82 +48,82 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 <# G158A #>
   <Genotype hgvs="NC_000022.11:g.[19963748G>A];[19963748=]" name="G158A"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Moderate Loss of Function category. See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=49.9 />
   </Genotype>
   <Genotype hgvs="NC_000022.11:g.[19963748G>A];[19963748G>A]" name="G158A"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category. See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=24.4 />
   </Genotype>
   <Genotype hgvs="NC_000022.11:g.[19963748=];[19963748=]" name="G158A"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=25.7 />
   </Genotype>
 <# C62T #>
   <Genotype hgvs="NC_000022.11:g.[19962712C>T];[19962712=]" name="C62T"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Moderate Loss of Function category. See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=49.8 />
   </Genotype>
   <Genotype hgvs="NC_000022.11:g.[19962712C>T];[19962712C>T]" name="C62T"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category. See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=24.7 />
   </Genotype>
   <Genotype hgvs="NC_000022.11:g.[19962712=];[19962712=]" name="C62T"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
@@ -134,86 +134,86 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 <# T19943884C #>
   <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906=]" name="T19943884C"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the T19943884C variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=48.1 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906G>C]" name="T19943884C"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the T19943884C variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=28.3 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233945906=];[233945906=]" name="T19943884C"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=23.6 />
   </Genotype>
 <# T19960814C #>
   <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448=]" name="T19960814C"> 
 
- # What does this mean?
+          # What does this mean?
  
          People with this variant have one copy of the [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=40.9 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448T>C]" name="T19960814C"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=18.5 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233916448=];[233916448=]" name="T19960814C"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=40.6 />
   </Genotype>
@@ -221,71 +221,71 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 <# T19950010G #>
   <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736=]" name="T19950010G"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Moderate Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=37.5 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736A>G]" name="T19950010G"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=15.6 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233974736=];[233974736=]" name="T19950010G"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=46.9 />
   </Genotype>
   <Genotype hgvs="unknown"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT has an unknown variant.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          The effect is unknown.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage= />
   </Genotype>
   <Genotype hgvs="wildtype">
  
- # What does this mean?
+         # What does this mean?
 
          Your COMT has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage= />
   </Genotype>
