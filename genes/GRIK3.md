@@ -35,161 +35,163 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 <# T928G #>
   <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
 
- # What does this mean?
- 
-         People with this variant have one copy of the T928G variant. This substitution of a single nucleotide is known as a missense mutation.
+         # What does this mean?
 
-# What is the effect of this variant?
+         NC000001_1.11:g.
 
-         You are at greater risk for schizophrenia, depression, and glutamate problems.  See below for more information.
+         # What is the effect of this variant?
 
-# How common is this genotype in the general population?
+         [2222T>G]
+
+         # How common is this genotype in the general population?
 
    <piechart percentage=43 />
   </Genotype>
   <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222T>G]" name="T928G"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the T928G variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are at greater risk for schizophrenia, depression, and glutamate problems.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=19.9 />
   </Genotype>
   <Genotype hgvs="NC000001_1.11:g.[2222=];[2222=]" name="T928G"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=37.1 />
   </Genotype>
 <# C36983994T #>
   <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504=]" name=""> 
 
- # What does this mean?
- 
-         People with this variant have one copy of the C36983994T variant. This substitution of a single nucleotide is known as a missense mutation.
+         # What does this mean?
 
-# What is the effect of this variant?
+         NC_000002.11:g
 
-         People with this variant have an increased risk of CFS.  See below for more information.
+         # What is the effect of this variant?
 
-# How common is this genotype in the general population?
+         [7783504A>C]
+
+         # How common is this genotype in the general population?
 
    <piechart percentage=15.8 />
   </Genotype>
   <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504A>C]" name=""> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the C36983994T variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=4.7 />
   </Genotype>
   <Genotype hgvs="NC_000002.11:g[7783504=];[7783504=]" name=""> 
  
- # What does this mean?
+         # What does this mean?
 
          Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=79.5 />
   </Genotype>
 <# A7783504C #>
   <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name=""> 
 
- # What does this mean?
- 
-         People with this variant have one copy of the A7783504C variant. This substitution of a single nucleotide is known as a missense mutation.
+         # What does this mean?
 
-# What is the effect of this variant?
+         NC_000001.11:g.
 
-         People with this variant have an increased risk of CFS.  See below for more information.
+         # What is the effect of this variant?
 
-# How common is this genotype in the general population?
+         [36983994C>T]
+
+         # How common is this genotype in the general population?
 
    <piechart percentage=1.8 />
   </Genotype>
   <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name=""> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the A7783504C variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=0.5 />
   </Genotype>
   <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name=""> 
  
- # What does this mean?
+         # What does this mean?
 
          Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=97.8 />
   </Genotype>
   <Genotype hgvs="unknown"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your GRIK3 has an unknown variant.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          The effect of this variant is unknown.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=0 />
   </Genotype>
   <Genotype hgvs="wildtype">
  
- # What does this mean?
+         # What does this mean?
 
          Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=37.1 />
   </Genotype>
 </GeneAnalysis>
+
+
 
 # How do changes in GRIK3 affect people?
 
@@ -207,7 +209,7 @@ CFS is linked to improper Glutamate:GABA balance, as well as exposure to extrace
 
 Helpful dietary supplements may include:  [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)  
 
-<symptoms depression, stress, problems with thinking or memory, brain fog, pain />
+<symptoms depression stress problems with thinking or memory brain fog pain />
 
 
 
