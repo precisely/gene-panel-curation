@@ -10,8 +10,8 @@ genotypes:
     - effect: wildtype
     - frequency: 83.1%
   - G:A
-    - effect: wildtype
+    - effect: high_risk
     - frequency: 13.1%
   - A:A
-    -effect: high_risk
+    -effect: wildtype
     - frequency: 3.8%
