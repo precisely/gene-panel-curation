@@ -14,36 +14,38 @@ This gene is located on chromosome 2.  The cation channel it creates acts in you
  
 There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G750C](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract), [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969).
 
+<# G3264+630A #>
   <Variant hgvs="NC_000002.12:g.234008733G>A" name="G3264+630A"> 
 
     This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
  
 </Variant>
- 
+<# G3264+2567A #>
   <Variant hgvs="NC_000002.12:g.234010670G>A" name="G3264+2567A"> 
 
     This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
- 
+<# G750C #>
   <Variant hgvs="NC_000002.12:g.233945906G>C" name="G750C"> 
 
     This variant is a change at a specific point in the TPRM8 gene from guanine (G) to cytosine (C) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
-
+<# T-990C #>
   <Variant hgvs="NC_000002.12:g.233916448T>C" name="T-990C"> 
 
     This variant is a change at a specific point in the TPRM8 gene from thymine (T) to cytosine (C) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
- 
+ <# A7783504C #>
   <Variant hgvs="NC_000002.12:g.233974736A>G" name="A7783504C"> 
 
     This variant is a change at a specific point in the TPRM8 gene from adenine (A) to guanine (G) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
 
+<# G3264+630A #>
   <Genotype hgvs="NC000001_1.11:g.[234008733G>A];[234008733=]" name="G3264+630A"> 
 
  # What does this mean?
@@ -86,6 +88,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
    <piechart percentage=61.8 />
   </Genotype>
+<# G3264+2567A #>
   <Genotype hgvs="NC_000002.12:g.[234010670G>A];[234010670=]" name="G3264+2567A"> 
 
  # What does this mean?
@@ -128,6 +131,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
    <piechart percentage=37.2 />
   </Genotype>
+<# G750C #>
   <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906=]" name="G750C"> 
 
  # What does this mean?
@@ -170,6 +174,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
    <piechart percentage=70.4 />
   </Genotype>
+<# T-990C #>
   <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448=]" name="T-990C"> 
 
  # What does this mean?
@@ -213,6 +218,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
    <piechart percentage=19.9 />
   </Genotype>
   </Genotype>
+ <# A7783504C #>
   <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736=]" name="A7783504C"> 
 
  # What does this mean?
@@ -369,8 +375,8 @@ The homozygous GG variant has greatly decreased gene function, causing greatly [
 
 # What should I do about this?
 
-"Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
-reducing bronchia shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). Users should avoid alcohol and smoking.
+Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
+reducing bronchial shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). Users should avoid alcohol and smoking.
 
 <# G750C (C;C) C-990T (C;T) #>
 
@@ -399,7 +405,6 @@ Many compounds may decrease pain due to TRMP8 variants.
 - [Nerve growth factor](https://www.ncbi.nlm.nih.gov/pubmed/18511441) administered topically decreases thermal and mechanical pain
 
 Other therapies may include [antibodies, siRNA, gene therapy](https://www.ncbi.nlm.nih.gov/pubmed/18511441), and avoiding air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7).
-
 
 <# A233974736G (G;G), A233974736G (A;A) #>
 
