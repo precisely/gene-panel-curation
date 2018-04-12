@@ -6,7 +6,7 @@ changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance
 This gene is located on chromosome 2.  The cation channel it creates acts in your nervous, immune, and sensory systems
 
 
-<TissueList brain, bone marrow and immune system, circulatory and cardiovascular system, respiratory system and lung />
+<TissueList brain bone marrow and immune system circulatory and cardiovascular system respiratory system and lung />
 
 <GeneAnalysis gene="TPRM8" interval=" NC_000002.12 :g.233917342_234019522"> 
 
@@ -48,172 +48,172 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 <# G3264+630A #>
   <Genotype hgvs="NC000001_1.11:g.[234008733G>A];[234008733=]" name="G3264+630A"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Risk category.  See below for more information
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=28.2 />
   </Genotype>
   <Genotype hgvs="NC000001_1.11:g.[234008733G>A];[234008733G>A]" name="G3264+630A"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          Your variant is not associated with any loss of function
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=10 />
   </Genotype>
   <Genotype hgvs="NC000001_1.11:g.[234008733=];[234008733=]" name="G3264+630A"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=61.8 />
   </Genotype>
 <# G3264+2567A #>
   <Genotype hgvs="NC_000002.12:g.[234010670G>A];[234010670=]" name="G3264+2567A"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Risk category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=43.2 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[234010670G>A];[234010670G>A]" name="G3264+2567A"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=19.6 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[234010670=];[234010670=]" name="G3264+2567A"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=37.2 />
   </Genotype>
 <# G750C #>
   <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906=]" name="G750C"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the G750C variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with Moderate Loss of Function.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=22.1 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906G>C]" name="G750C"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the G750C variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=7.5 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233945906=];[233945906=]" name="G750C"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          No medical therapies are indicated at the moment.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=70.4 />
   </Genotype>
 <# T-990C #>
   <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448=]" name="T-990C"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=49.7 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448T>C]" name="T-990C"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          You are in the Severe Loss of Function category.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=30.4 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233916448=];[233916448=]" name="T-990C"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=19.9 />
   </Genotype>
@@ -221,71 +221,71 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
  <# A7783504C #>
   <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736=]" name="A7783504C"> 
 
- # What does this mean?
+         # What does this mean?
  
          People with this variant have one copy of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          People with this variant have an increased risk of CFS.  See below for more information.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=14.2 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736A>G]" name="A7783504C"> 
  
- # What does this mean?
+         # What does this mean?
 
          People with this variant have two copies of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=81.6 />
   </Genotype>
   <Genotype hgvs="NC_000002.12:g.[233974736=];[233974736=]" name="A7783504C"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=4.2 />
   </Genotype>
   <Genotype hgvs="unknown"> 
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 has an unknown variant.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          The effect is unknown.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage= />
   </Genotype>
   <Genotype hgvs="wildtype">
  
- # What does this mean?
+         # What does this mean?
 
          Your TPRM8 has no variants. A normal gene is referred to as a "wildtype" gene.
 
-# What is the effect of this variant?
+         # What is the effect of this variant?
 
          This variant is not associated with increased risk.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage= />
   </Genotype>
