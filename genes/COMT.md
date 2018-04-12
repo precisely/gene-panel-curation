@@ -422,7 +422,7 @@ The normal dopamine levels allow for good [pain tolerance](https://www.ncbi.nlm.
 
 # What should I do about this?
 
-Consider using other antidepressant medications than paroxetine.Do not drink alcohol or use cannabis.
+Consider using other antidepressant medications than paroxetine.  Do not drink alcohol or use cannabis.
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
@@ -457,7 +457,11 @@ G158A (A;A)
   
 # Severe Loss of Function
 
-The (A) substitution polymorphism changes the amino acid to a methionine, reducing enzymatic activity by 25% and greatly increasing dopamine levels.  [78% of AA experience chronic pain](https://www.ncbi.nlm.nih.gov/pubmed/21120493?dopt=Abstract) compared to 28% of the general population, and the [pain threshold](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) is greatly reduced.  Although [thinking is very poor under stress](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract), information processing is better than average under non-stressful conditions.  It is also linked to [CFS and POTS](https://www.ncbi.nlm.nih.gov/pubmed/21059181) during tilt table testing, and daytime [sleepiness](https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract) and fatigue. Other issues include:
+The (A) substitution polymorphism changes the amino acid to a methionine, reducing enzymatic activity by 25% and greatly increasing dopamine levels.  [78% of AA experience chronic pain](https://www.ncbi.nlm.nih.gov/pubmed/21120493?dopt=Abstract) compared to 28% of the general population, and the [pain threshold](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) is greatly reduced.  Although [thinking is very poor under stress](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract), information processing is better than average under non-stressful conditions.  
+
+This variant also is more common in [CFS patients](https://www.ncbi.nlm.nih.gov/pubmed/21059181).  After excercise, the COMT gene showed [more activation](https://www.ncbi.nlm.nih.gov/pubmed/22110941) than healthy patients.  CFS patients have [higher cortisol levels, enhanced IgE, diminished IgG3 levels, and an increased susceptibility to respiratory tract infections](https://www.ncbi.nlm.nih.gov/pubmed/26272340). It is linked to increased [POTS](https://www.ncbi.nlm.nih.gov/pubmed/21059181) during tilt table testing in CFS patients, daytime [sleepiness](https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract), and fatigue. 
+
+Other issues include:
 
 * [Greatest COMT gene activation after moderate exercise causing muscle fatigue and pain](https://www.ncbi.nlm.nih.gov/pubmed/19647494)
 * Highest sensitivity to [thermal and pressure pain](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract) and worst [psychological and functional response to pain](https://www.ncbi.nlm.nih.gov/pubmed/21895373?dopt=Abstract)
@@ -469,10 +473,13 @@ The (A) substitution polymorphism changes the amino acid to a methionine, reduci
 # What should I do about this?
 
 * Avoid all stress and moderate exercise to improve pain sensitivity, muscle fatigue and thinking. Consider using [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78)
-* To relieve POTS, remain well hydrated and take [3-5g of salt daily.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600095/)
 * Consider using [light therapy](https://www.ncbi.nlm.nih.gov/pubmed/23728717?dopt=Abstract) to regulate sleep.
-* Check homocysteine levels, and consider taking [folate]( https://medlineplus.gov/druginfo/natural/1017.html) if elevated
 * Do not use antipsychotics like clozapine, nicotine, or cocaine.
+* Avoid taking [clonidine](https://www.ncbi.nlm.nih.gov/pubmed/27457818), which is linked to lower numbers of daily steps, porr sleep quality, and low quality of life.
+* To relieve POTS, remain well hydrated and take [3-5g of salt daily.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600095/)
+* Check homocysteine levels, and consider taking [folate]( https://medlineplus.gov/druginfo/natural/1017.html) if elevated.
+* Check [IgE and IgG3 levels](https://www.ncbi.nlm.nih.gov/pubmed/26272340). If IgG deficiency is caused by immunodeficiency, consider [early use of antibiotics](http://www.piduk.org/static/media/up/IgG%20subclass%20Patient%20Information%20Sheet.pdf) and a home supply of antibiotics.  For patients with frequent severe infections, regular [low dose (prophylactic) antibiotics]( http://www.piduk.org/static/media/up/IgG%20subclass%20Patient%20Information%20Sheet.pdf) may prevent development of infections.
+* Check [cortisol levels](https://www.ncbi.nlm.nih.gov/pubmed/26272340).  If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [Omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365).
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
