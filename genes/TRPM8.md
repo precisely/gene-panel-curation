@@ -1,3 +1,339 @@
+# What does the TPRM8 gene do?
+
+"The TRPM8 gene encodes a cation channel that allows the movement of sodium, potassium, calcium, and cesium across plasma barriers activated by [low temperatures](https://www.ncbi.nlm.nih.gov/pubmed/14757700?dopt=Abstract).  It allows the body to detect [temperature
+changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance calcium in the body, and feel the cooling effects of menthol.   Variants in TRPM8 are associated with [breast](https://www.ncbi.nlm.nih.gov/pubmed/20482834), [pancreatic](https://www.ncbi.nlm.nih.gov/pubmed/27038374), [lung](https://www.ncbi.nlm.nih.gov/pubmed/24037916), and [prostate](https://www.ncbi.nlm.nih.gov/pubmed/25065497) cancer.  Additional issues include increased susceptibility to [metabolic syndrome](https://www.ncbi.nlm.nih.gov/pubmed/25967713), [migraines](https://www.ncbi.nlm.nih.gov/pubmed/23294458?dopt=Abstract), [alcohol dependence](https://www.ncbi.nlm.nih.gov/pubmed/23942779?dopt=Abstract), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/27789940), [pain](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract) and [cold sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract), [asthma](https://www.ncbi.nlm.nih.gov/pubmed/26272603), and [inflammation](https://www.ncbi.nlm.nih.gov/pubmed/26660531).  Other variants reduce natural killer cell function in the immune system and are associated with [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524)."
+
+This gene is located on chromosome 2.  The cation channel it creates acts in your nervous, immune, and sensory systems
+
+
+<TissueList brain, bone marrow and immune system, circulatory and cardiovascular system, respiratory system and lung />
+
+<GeneAnalysis gene="TPRM8" interval=" NC_000002.12 :g.233917342_234019522"> 
+
+ # What are some common mutations of TPRM8?
+ 
+There are 6 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G750C](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract), [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969).
+
+  <Variant hgvs="NC_000002.12:g.234008733G>A" name="G3264+630A"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+ 
+</Variant>
+ 
+  <Variant hgvs="NC_000002.12:g.234010670G>A" name="G3264+2567A"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+
+</Variant>
+ 
+  <Variant hgvs="NC_000002.12:g.233945906G>C" name="G750C"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to cytosine (C) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+
+</Variant>
+
+  <Variant hgvs="NC_000002.12:g.233916448T>C" name="T-990C"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from thymine (T) to cytosine (C) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+
+</Variant>
+
+  <Variant hgvs="NC_000002.11:g.234883380A>G" name="A7783504C"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from adenine (A) to guanine (G) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+
+</Variant>
+ 
+  <Variant hgvs="NC_000002.12:g.233974736A>G" name="A7783504C"> 
+
+    This variant is a change at a specific point in the TPRM8 gene from adenine (A) to guanine (G) resulting in incorrect cation channel function.  This substitution of a single nucleotide is known as a missense variant.
+
+</Variant>
+
+  <Genotype hgvs="NC000001_1.11:g.[234008733G>A];[234008733=]" name="G3264+630A"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         You are in the Severe Risk category.  See below for more information
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=28.2 />
+  </Genotype>
+  <Genotype hgvs="NC000001_1.11:g.[234008733G>A];[234008733G>A]" name="G3264+630A"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         Your variant is not associated with any loss of function
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=10 />
+  </Genotype>
+  <Genotype hgvs="NC000001_1.11:g.[234008733=];[234008733=]" name="G3264+630A"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         No medical therapies are indicated at the moment.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=61.8 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[234010670G>A];[234010670=]" name="G3264+2567A"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         You are in the Severe Risk category.  See below for more information.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=43.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[234010670G>A];[234010670G>A]" name="G3264+2567A"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         No medical therapies are indicated at the moment.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=19.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[234010670=];[234010670=]" name="G3264+2567A"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         No medical therapies are indicated at the moment.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=37.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906=]" name="G750C"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the G750C variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         This variant is not associated with Moderate Loss of Function.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=22.1 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233945906G>C];[233945906G>C]" name="G750C"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the G750C variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         You are in the Severe Loss of Function category.  See below for more information.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=7.5 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233945906=];[233945906=]" name="G750C"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         No medical therapies are indicated at the moment.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=70.4 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448=]" name="T-990C"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=49.7 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233916448T>C];[233916448T>C]" name="T-990C"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         You are in the Severe Loss of Function category.  See below for more information.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=30.4 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233916448=];[233916448=]" name="T-990C"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=19.9 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.11:g.[234883380A>G];[234883380=]" name="A7783504C"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         This variant may have an increased risk of CFS.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=14.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.11:g.[234883380A>G];[234883380A>G]" name="A7783504C"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27099524) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         This variant may have an increased risk of CFS.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=81.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.11:g.[234883380=];[234883380=]" name="A7783504C"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=4.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736=]" name="A7783504C"> 
+
+ # What does this mean?
+ 
+         People with this variant have one copy of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         People with this variant have an increased risk of CFS.  See below for more information.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=14.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233974736A>G];[233974736A>G]" name="A7783504C"> 
+ 
+ # What does this mean?
+
+         People with this variant have two copies of the [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=81.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.12:g.[233974736=];[233974736=]" name="A7783504C"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage=4.2 />
+  </Genotype>
+  <Genotype hgvs="unknown"> 
+ 
+ # What does this mean?
+
+         Your TPRM8 has an unknown variant.
+
+# What is the effect of this variant?
+
+         The effect is unknown.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage= />
+  </Genotype>
+  <Genotype hgvs="wildtype">
+ 
+ # What does this mean?
+
+         Your TPRM8 has no variants. A normal gene is referred to as a "wildtype" gene.
+
+# What is the effect of this variant?
+
+         This variant is not associated with increased risk.
+
+# How common is this genotype in the general population?
+
+   <piechart percentage= />
+  </Genotype>
+</GeneAnalysis>
+
+
+
 # Gene symbol 
 TRPM8
 
@@ -64,12 +400,12 @@ This mutation is a change at a specific point in the <gene_symbol> gene from cyt
      You are in the Severe Loss of Function category.  See below for more information
    </Genotype>
 
-   <Genotype name=" G3264+2567A (G;G)”>
+   <Genotype name=" G3264+630A (G;G)”>
   # How common is this gene in the general population?
-     <pie_chart level=" G3264+2567A (G;G), frequency>
+     <pie_chart level=" G3264+630A (G;G), frequency>
       Your <gene_name> is found to have no variants.  A normal gene is referred to as a "wildtype" gene.
    </Genotype>
-   <Genotype name=" G3264+2567A (G;A)">
+   <Genotype name=" G3264+630A (G;A)">
       # What does this mean?
              People with this variant have one copy of the G3264+2567A variant. This substitution of a single nucleotide is known as a mis-sense mutation.
       # What is the effect of this variant?
