@@ -29,7 +29,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 <# T19943884C #>
   <Variant hgvs="NC_000022.11:g.19943884T>C" name="T19943884C"> 
 
-    This variant is a change at a specific point in the COMT gene from guanine (G) to cytosine (C) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the COMT gene from thymine (T) to cytosine (C) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
 <# T19960814C #>
@@ -41,7 +41,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
  <# T19950010G #>
   <Variant hgvs="NC_000022.11:g.19950010T>G" name="T19950010G"> 
 
-    This variant is a change at a specific point in the COMT gene from adenine (A) to guanine (G) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the COMT gene from thymine (T) to guanine (G) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
 
