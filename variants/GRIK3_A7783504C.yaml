@@ -7,10 +7,10 @@ genes:
 variant_type: snv
 genotypes:
   - A:A
-    - effect: high_risk
+    - effect: wildtype
     - frequency: 79.5%
   - A:C
-    - effect: wildtype
+    - effect: high_risk
     - frequency: 15.8%
   - C:C
     -effect: wildtype
