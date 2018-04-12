@@ -13,25 +13,26 @@ This gene is located on chromosome 1.  The protein it creates acts in your brain
  
 There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) [polymorphism](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract), [C36983994T](https://www.ncbi.nlm.nih.gov/pubmed/27835969), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/26859813).
 
+<# T928G #>
   <Variant hgvs="NC000001_1.11:g.2222T>G" name="T928G"> 
 
     This variant is a change at a specific point in the GRIK3 gene from thymine (T) to guanine (G) resulting in incorrect protein function.  This substitution of a single nucleotide is known as a missense variant.
  
 </Variant>
- 
+<# C36983994T #>
   <Variant hgvs="NC_000001.11:g.36983994C>T" name="C36983994T"> 
 
     This variant is a change at a specific point in the GRIK3 gene from cytosine (C) to thymine (T) resulting in incorrect protein function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
  
- 
+<# A7783504C #>
   <Variant hgvs="NC_000002.11:g.7783504A>C" name="A7783504C"> 
 
     This variant is a change at a specific point in the GRIK3 gene from adenine (A) to cytosine (C) resulting in incorrect protein function.  This substitution of a single nucleotide is known as a missense variant.
 
 </Variant>
-
+<# T928G #>
   <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
 
  # What does this mean?
@@ -74,6 +75,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
    <piechart percentage=37.1 />
   </Genotype>
+<# C36983994T #>
   <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504=]" name=""> 
 
  # What does this mean?
@@ -116,6 +118,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
    <piechart percentage=79.5 />
   </Genotype>
+<# A7783504C #>
   <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name=""> 
 
  # What does this mean?
@@ -204,7 +207,8 @@ CFS is linked to improper Glutamate:GABA balance, as well as exposure to extrace
 
 Helpful dietary supplements may include:  [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)  
 
-<symptoms depression, stress, problems with thinking or memory, brain fog, pain/>
+<symptoms depression, stress, problems with thinking or memory, brain fog, pain />
+
 
 
 # Gene symbol 
