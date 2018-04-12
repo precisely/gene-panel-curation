@@ -36,12 +36,12 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
   <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
 
          # What does this mean?
-
-         NC000001_1.11:g.
+ 
+         People with this variant have one copy of the T928G variant. This substitution of a single nucleotide is known as a missense mutation.
 
          # What is the effect of this variant?
 
-         [2222T>G]
+         You are at greater risk for schizophrenia, depression, and glutamate problems.  See below for more information.
 
          # How common is this genotype in the general population?
 
@@ -65,7 +65,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
  
          # What does this mean?
 
-         Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
+         Your GRIK3 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
          # What is the effect of this variant?
 
@@ -79,12 +79,12 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
   <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504=]" name=""> 
 
          # What does this mean?
-
-         NC_000002.11:g
+ 
+         People with this variant have one copy of the C36983994T variant. This substitution of a single nucleotide is known as a missense mutation.
 
          # What is the effect of this variant?
 
-         [7783504A>C]
+         People with this variant have an increased risk of CFS.  See below for more information.
 
          # How common is this genotype in the general population?
 
@@ -108,7 +108,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
  
          # What does this mean?
 
-         Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
+         Your GRIK3 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
          # What is the effect of this variant?
 
@@ -122,12 +122,12 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
   <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name=""> 
 
          # What does this mean?
-
-         NC_000001.11:g.
+ 
+         People with this variant have one copy of the A7783504C variant. This substitution of a single nucleotide is known as a missense mutation.
 
          # What is the effect of this variant?
 
-         [36983994C>T]
+         People with this variant have an increased risk of CFS.  See below for more information.
 
          # How common is this genotype in the general population?
 
@@ -151,7 +151,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
  
          # What does this mean?
 
-         Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
+         Your GRIK3 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
          # What is the effect of this variant?
 
@@ -165,7 +165,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
  
          # What does this mean?
 
-         Your GRIK3 has an unknown variant.
+         Your GRIK3 gene has an unknown variant.
 
          # What is the effect of this variant?
 
@@ -179,7 +179,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
  
          # What does this mean?
 
-         Your GRIK3 has no variants. A normal gene is referred to as a "wildtype" gene.
+         Your GRIK3 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
          # What is the effect of this variant?
 
@@ -190,8 +190,6 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
    <piechart percentage=37.1 />
   </Genotype>
 </GeneAnalysis>
-
-
 
 # How do changes in GRIK3 affect people?
 
