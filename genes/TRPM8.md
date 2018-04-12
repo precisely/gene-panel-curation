@@ -364,7 +364,7 @@ The heterozygous GC variant has multiple effects.  Firstly, it causes [increase
 
 # What should I do about this?
 
-If possible, avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
+If possible, avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
 reducing bronchial shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700), but this variant causes [lower menthol efficacy](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract). Users should avoid alcohol and smoking.
 
 <# G750C (C;C) #>
@@ -375,7 +375,7 @@ The homozygous GG variant has greatly decreased gene function, causing greatly [
 
 # What should I do about this?
 
-Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
+Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
 reducing bronchial shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). Users should avoid alcohol and smoking.
 
 <# G750C (C;C) C-990T (C;T) #>
@@ -400,7 +400,7 @@ TRPM8 a cold and cold-burning pain receptor linked to [migraines](https://www.nc
 
 Many compounds may decrease pain due to TRMP8 variants.
 
-- [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative) has much higher potency and is twice as efficient as menthol as therapy for chronic neuropathic pain
+- [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative) has much higher potency and is twice as efficient as menthol as therapy for chronic neuropathic pain
 - Cannabinoid receptors [CB1 and CB2](https://www.ncbi.nlm.nih.gov/pubmed/18511441) are associated with pain modulation, but smoking should be avoided to reduce COPD and lung cancer risk.
 - [Nerve growth factor](https://www.ncbi.nlm.nih.gov/pubmed/18511441) administered topically decreases thermal and mechanical pain
 
@@ -424,10 +424,10 @@ The A233974736G A:G heterozygous variant has an increased risk of CFS, with an [
 
 # What should I do about this?
 
-Some general therapies are associated with TPRM8 variants.  Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
+Some general therapies are associated with TPRM8 variants.  Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
 
 
-<symptoms pain, muscle pain, headache, inflammation />
+<symptoms pain muscle pain headache inflammation />
 
 
 
@@ -727,7 +727,7 @@ The heterozygous GC variant has multiple effects.  Firstly, it causes [increase
 
 # What should I do about this?
 
-If possible, avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
+If possible, avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene,
 reducing bronchial shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700), but this variant causes [lower menthol efficacy](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract). Users should avoid alcohol and smoking.
 
 G750C (C;C)
@@ -782,7 +782,7 @@ TRPM8 a cold and cold-burning pain receptor linked to [migraines](https://www.nc
 
 Many compounds may decrease pain due to TRMP8 variants.
 
-- [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858)(a menthol derivative) has much higher potency and is twice as efficient as menthol as therapy for chronic neuropathic pain
+- [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative) has much higher potency and is twice as efficient as menthol as therapy for chronic neuropathic pain
 - Cannabinoid receptors [CB1 and CB2](https://www.ncbi.nlm.nih.gov/pubmed/18511441) are associated with pain modulation, but smoking should be avoided to reduce COPD and lung cancer risk.
 - [Nerve growth factor](https://www.ncbi.nlm.nih.gov/pubmed/18511441) administered topically decreases thermal and mechanical pain
 
