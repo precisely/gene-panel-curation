@@ -68,7 +68,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         Your variant is not associated with any loss of function
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -82,7 +82,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -111,7 +111,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -125,7 +125,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -168,7 +168,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -183,7 +183,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         This variant is not associated with increased risk.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -211,7 +211,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         This variant is not associated with increased risk.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -241,7 +241,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
 
          # What is the effect of this variant?
 
-         This variant is not associated with increased risk.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -265,7 +265,7 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
  
          # What does this mean?
 
-         Your TPRM8 has an unknown variant.
+         Your TPRM8 gene has an unknown variant.
 
          # What is the effect of this variant?
 
@@ -279,17 +279,18 @@ There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.
  
          # What does this mean?
 
-         Your TPRM8 has no variants. A normal gene is referred to as a "wildtype" gene.
+         Your TPRM8 gene has no variants. A normal gene is referred to as a "wildtype" gene.
 
          # What is the effect of this variant?
 
-         This variant is not associated with increased risk.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
    <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
+
 
 <# G3264+630A (G;G), G3264+630A (A;A) #>
 
