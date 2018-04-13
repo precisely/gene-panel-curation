@@ -20,8 +20,8 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
     This variant is a change at a specific point in the MTHFR gene from cytosine (C) to thymine (T) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
  
 </Variant>
-<# A1298C  #>
-  <Variant hgvs="NC_000022.11:g.19962712C>T" name="A1298C "> 
+<# A1298C #>
+  <Variant hgvs="NC_000022.11:g.19962712C>T" name="A1298C"> 
 
     This variant is a change at a specific point in the MTHFR gene from adenine (A) to cytosine (C) resulting in incorrect enzyme function.  This substitution of a single nucleotide is known as a missense variant.
 
@@ -70,8 +70,8 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
 
    <piechart percentage=61 />
   </Genotype>
-<# A1298C  #>
-  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="A1298C "> 
+<# A1298C #>
+  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="A1298C"> 
 
          # What does this mean?
  
@@ -85,7 +85,7 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
 
    <piechart percentage=20 />
   </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T>G]" name="A1298C "> 
+  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T>G]" name="A1298C"> 
  
          # What does this mean?
 
@@ -99,7 +99,7 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
 
    <piechart percentage=4 />
   </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[11794419T=];[11794419T=]" name="A1298C "> 
+  <Genotype hgvs="NC_000001.11:g.[11794419T=];[11794419T=]" name="A1298C"> 
  
          # What does this mean?
 
@@ -109,16 +109,16 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
 
          Your variant is not associated with any loss of function.
 
-         # How common is this genotype in the general population?
+# How common is this genotype in the general population?
 
    <piechart percentage=76 />
   </Genotype>
 <# C677T (C;T) ; A1298C (A;C) #>
-  <Genotype hgvs="NC_00001.11:g.[12345C>T];[12345=]" hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="C677T A1298C "> 
+  <Genotype hgvs="NC_00001.11:g.[12345C>T];[12345=]" hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="C677T A1298C"> 
 
          # What does this mean?
  
-         People with this variant have one copy of the C677T variant and the  A1298C  variant. This substitution of a single nucleotide is known as a missense mutation.
+         People with this variant have one copy of the C677T variant and the A1298C variant. This substitution of a single nucleotide is known as a missense mutation.
 
          # What is the effect of this variant?
  
