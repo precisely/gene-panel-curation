@@ -69,7 +69,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -98,7 +98,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -112,7 +112,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -141,7 +141,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -155,7 +155,7 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -183,13 +183,15 @@ There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/g
 
          # What is the effect of this variant?
 
-         No medical therapies are indicated at the moment.
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
    <piechart percentage=37.1 />
   </Genotype>
 </GeneAnalysis>
+
+
 
 # How do changes in GRIK3 affect people?
 
