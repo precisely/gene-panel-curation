@@ -12,6 +12,16 @@
    unification_links:
      - HGNC: HGNC:7436
      - UNIPROT: P42898
+     
+  common-name: fatigue
+  SNOMED: F-01360
+  MESH: D005221
+  common-name: memory problems
+  SNOMED: D386807006
+  MESH: D008569
+  common-name: inflamation
+  SNOMED: C0021368
+  MESH: D007249
    curators: 
      - rtearle
      - taltman
