@@ -1,4 +1,5 @@
 symbol: T19943884C
+−2080T>C
 snp: rs933271
 chromosome: 22
 start: -92+1987
@@ -10,7 +11,7 @@ genotypes:
     - effect: wildtype
     - frequency: 23.6%
   - T:C
-    - effect: wildtype
+    - effect: moderate risk
     - frequency: 48.1%
   - C:C
     -effect: high_risk
