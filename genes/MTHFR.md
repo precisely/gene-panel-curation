@@ -13,6 +13,7 @@ This gene is located on chromosome 1.  The enzyme it creates acts in your endocr
  # What are some common mutations of MTHFR?
  
 There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.org/variant/1-11856378-G-A) and [A1298C ](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131).
+
 <# C677T #>
   <Variant hgvs="NC_000022.11:g.19963748G>A" name="C677T"> 
 
@@ -108,7 +109,7 @@ There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.o
 
          Your variant is not associated with any loss of function.
 
-# How common is this genotype in the general population?
+         # How common is this genotype in the general population?
 
    <piechart percentage=76 />
   </Genotype>
