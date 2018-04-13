@@ -82,7 +82,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 
          # What is the effect of this variant?
 
-         Your variant is not associated with any loss of function
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -125,7 +125,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 
          # What is the effect of this variant?
 
-         Your variant is not associated with any loss of function
+         Your variant is not associated with any loss of function.
 
 # How common is this genotype in the general population?
 
@@ -168,7 +168,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 
          # What is the effect of this variant?
 
-         Your variant is not associated with any loss of function
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -255,7 +255,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 
          # What is the effect of this variant?
 
-         Your variant is not associated with any loss of function
+         Your variant is not associated with any loss of function.
 
          # How common is this genotype in the general population?
 
@@ -290,6 +290,7 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
    <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
+
 
 <# G158A (G;G) #>
 
