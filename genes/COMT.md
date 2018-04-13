@@ -332,6 +332,7 @@ To improve cognition, people should avoid stress and consider [meditation, tai-c
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
+
 <# G158A (A;A) #>
 
 # Severe Loss of Function
@@ -362,11 +363,11 @@ Other issues include:
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-<# C62T (C;C) #>
+<# C62T (C;C) #>  <# T19943884C (T;T) #> <# T19950010G (T;T) #>
 
 # Normal Function
 
-The COMT enzyme allows fully functional estrogen metabolic pathways, with no increase in a risk for endometrial or breast cancer.
+The COMT enzyme allows fully functional estrogen metabolic pathways, with no increase in a risk for diabetes, CFS, or cancer.
 
 # What should I do about this?
 
@@ -442,7 +443,7 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
-<# T19943884C (T;C) #>
+<# T19943884C (T;C) #> <# T19950010G (T;G) #>
 
 # Moderate Risk
 
@@ -454,16 +455,6 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
-
-<# T19943884C (T;T) #>
-
-# Normal Function
-
-The COMT enzyme is fully functional.
-
-# What should I do about this?
-
-No therapies are medically indicated at the moment.
 
 <# T19950010G (G;G) #>
 
@@ -477,29 +468,5 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
-
-<# T19950010G (T;G) #>
-
-# Moderate Risk
-
-This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
-
-# What should I do about this?
-
-Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-* Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
-* Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-* Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
-
-<# T19950010G (T;T) #>
-
-# Normal Function
-
-The COMT enzyme is fully functional.
-
-# What should I do about this?
-
-No therapies are medically indicated at the moment.
-
 
 <symptoms pain muscle fatigue POTS stress problems with thinking or memor, brain fog post exertional malaise sleep disorder depression anxiety />
