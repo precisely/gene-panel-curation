@@ -1,14 +1,12 @@
 # What does the COMT gene do?
 
-The TRPM8 gene encodes a cation channel that allows the movement of sodium, potassium, calcium, and cesium across plasma barriers activated by [low temperatures](https://www.ncbi.nlm.nih.gov/pubmed/14757700?dopt=Abstract).  It allows the body to detect [temperature
-changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance calcium in the body, and feel the cooling effects of menthol.   Variants in TRPM8 are associated with [breast](https://www.ncbi.nlm.nih.gov/pubmed/20482834), [pancreatic](https://www.ncbi.nlm.nih.gov/pubmed/27038374), [lung](https://www.ncbi.nlm.nih.gov/pubmed/24037916), and [prostate](https://www.ncbi.nlm.nih.gov/pubmed/25065497) cancer.  Additional issues include increased susceptibility to [metabolic syndrome](https://www.ncbi.nlm.nih.gov/pubmed/25967713), [migraines](https://www.ncbi.nlm.nih.gov/pubmed/23294458?dopt=Abstract), [alcohol dependence](https://www.ncbi.nlm.nih.gov/pubmed/23942779?dopt=Abstract), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/27789940), [pain](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract) and [cold sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract), [asthma](https://www.ncbi.nlm.nih.gov/pubmed/26272603), and [inflammation](https://www.ncbi.nlm.nih.gov/pubmed/26660531).  Other variants reduce natural killer cell function in the immune system and are associated with [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+The COMT gene creates an enzyme that helps break down and balance levels of dopamine and norepinephrine in nerve cells. It also detoxifies [estrogen](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) in the liver, kidneys, and blood. Variants may cause [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/16232322?dopt=Abstract), [depression](https://www.ncbi.nlm.nih.gov/pubmed/19520435?dopt=Abstract), muscle pain and fatigue, and [reduced pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract). They are linked to [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and [breast](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) cancer, [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), [endometriosis](https://www.ncbi.nlm.nih.gov/pubmed/24965973), [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), and [nicotine](https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract) dependency.
 
-This gene is located on chromosome 2.  The enzyme it creates acts in your  brain and nervous system, liver, kidney, and blood
+This gene is located on chromosome 22.  The enzyme it creates acts in your brain and nervous system, liver, kidney, and blood.
 
+<TissueList brain liver kidney blood D001921 D005221 D005221 D002319  />
 
-<TissueList brain liver Kidney and urinary bladder circulatory and cardiovascular system />
-
-<GeneAnalysis gene="COMT" interval="NC_000002.12 :g.233917342_234019522"> 
+<GeneAnalysis gene="COMT" interval="NC_000022.11:g.19941740_19969975"> 
 
  # What are some common mutations of COMT?
  
