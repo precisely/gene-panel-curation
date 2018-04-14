@@ -8,9 +8,9 @@ This gene is located on chromosome 2.  The cation channel it creates acts in you
 
 <TissueList brain bone marrow and immune system circulatory and cardiovascular system respiratory system and lung />
 
-<GeneAnalysis gene="TPRM8" interval=" NC_000002.12 :g.233917342_234019522"> 
+<GeneAnalysis gene="TPRM8" interval="NC_000002.12 :g.233917342_234019522"> 
 
- # What are some common mutations of TPRM8?
+ # What are some common mutations of TPRM8
  
 There are 5 well known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G750C](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract), [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969).
 
