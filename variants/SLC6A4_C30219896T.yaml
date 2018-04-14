@@ -13,5 +13,5 @@ genotypes:
     - effect: high_risk
     - frequency: 38.0%
   - T:T
-    -effect: wildtype
+    -effect: high_risk
     - frequency: 16.0%
