@@ -292,11 +292,22 @@ There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pu
 </GeneAnalysis>
 
 
+<# T19960814C TT #>
+
+# Normal Function
+
+Although this is the wildtype form, it is associated with a greater incidence of [type 2 diabetes mellitus]( https://www.ncbi.nlm.nih.gov/pubmed/25927430).  Risk factors to develop diabetes include being [overweight, high blood pressure, high cholesterol, an inactive lifestyle, heart attack or stroke, depression, PCOS, and smoking](https://medlineplus.gov/howtopreventdiabetes.html).
+
+# What should I do about this?
+
+* Test your [blood sugar levels](https://medlineplus.gov/howtopreventdiabetes.html to monitor diabetes risk).  
+* If overweight, lose [weight](https://medlineplus.gov/howtopreventdiabetes.html and keep it off). 
+* Follow a [healthy eating plan](https://medlineplus.gov/howtopreventdiabetes.html) with less fat and sugar, a large amount of whole grains, fruits, and vegetables, and minimal red and processed meats.
+* [Exercise](https://medlineplus.gov/howtopreventdiabetes.html) 30 minutes 5 days a week.  
+* Do not [smoke](https://medlineplus.gov/howtopreventdiabetes.html).  
+
 <# G158A (G;G) #>
 
-# How do changes in COMT affect people?
-
-For the vast majority of people, the overall risk associated with the common COMT variants is small, and do not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene in the gene panel.
 
 # Normal Function
 
@@ -333,7 +344,6 @@ To improve cognition, people should avoid stress and consider [meditation, tai-c
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-
 <# G158A (A;A) #>
 
 # Severe Loss of Function
@@ -364,16 +374,6 @@ Other issues include:
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-<# C62T (C;C) #>  <# T19943884C (T;T) #> <# T19950010G (T;T) #>
-
-# Normal Function
-
-The COMT enzyme allows fully functional estrogen metabolic pathways, with no increase in a risk for diabetes, CFS, or cancer.
-
-# What should I do about this?
-
-No therapies are medically indicated at the moment.
-
 <# C62T (C;T) #>
 
 # Moderate Loss of Function
@@ -386,7 +386,7 @@ In estrogen metabolic pathways, the COMT enzyme is related to detoxification.  T
 * Consult with your doctor to ensure you maintain normal estrogen levels.
 * [Drink green tea](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract)
 
-Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
 <# C62T (T;T) #>
 
@@ -400,7 +400,20 @@ In estrogen metabolic pathways, the COMT enzyme is related to detoxification. Th
 * Consult with your doctor to reduce elevated estrogen levels
 * [Maintain a healthy weight, get adequate sleep, limit alcohol, avoid radiation](https://www.cdc.gov/cancer/breast/basic_info/prevention.htm), and [drink green tea](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract)
 
-Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide,  S-Adenosylmethionine,  Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+<# T19943884C (T;C) #> <# T19950010G (T;G) #>
+
+# Moderate Risk
+
+This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
+
+# What should I do about this?
+
+Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+* Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+* Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
+* Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
 <# T19960814C TC; T19960814C CC #>
 
@@ -417,23 +430,9 @@ This variant has a variety of effects:
 
 Be careful if taking [Tacrolimus]( https://www.ncbi.nlm.nih.gov/pubmed/24465960).  Avoid cold temperatures or temperature shock.
 
-<# T19960814C TT #>
-
-# Normal Function
-
-Although this is the wildtype form, it is associated with a greater incidence of [type 2 diabetes mellitus]( https://www.ncbi.nlm.nih.gov/pubmed/25927430).  Risk factors to develop diabetes include being [overweight, high blood pressure, high cholesterol, an inactive lifestyle, heart attack or stroke, depression, PCOS, and smoking](https://medlineplus.gov/howtopreventdiabetes.html).
-
-# What should I do about this?
-
-* Test your [blood sugar levels](https://medlineplus.gov/howtopreventdiabetes.html to monitor diabetes risk).  
-* If overweight, lose [weight](https://medlineplus.gov/howtopreventdiabetes.html and keep it off). 
-* Follow a [healthy eating plan](https://medlineplus.gov/howtopreventdiabetes.html) with less fat and sugar, a large amount of whole grains, fruits, and vegetables, and minimal red and processed meats.
-* [Exercise](https://medlineplus.gov/howtopreventdiabetes.html) 30 minutes 5 days a week.  
-* Do not [smoke](https://medlineplus.gov/howtopreventdiabetes.html).  
-
 <# T19943884C (C;C) #>
 
-# High Risk
+# Severe Risk
 
 This variant is associated with an increased risk of [CFS](https://www.ncbi.nlm.nih.gov/pubmed/19540336) as well as [major depressive disorder with melancholic features](https://www.ncbi.nlm.nih.gov/pubmed/19540336).  This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
 
@@ -444,22 +443,9 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
-<# T19943884C (T;C) #> <# T19950010G (T;G) #>
-
-# Moderate Risk
-
-This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
-
-# What should I do about this?
-
-Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-* Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
-* Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-* Consider eating [red and purple berries like blueberries and cranberries, orange and dark, leafy green veggies like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
-
 <# T19950010G (G;G) #>
 
-# High Risk
+# Severe Risk
 
 This variant is associated with an increased risk of [CFS](https://www.ncbi.nlm.nih.gov/pubmed/19540336) as well as [major depressive disorder with melancholic features](https://www.ncbi.nlm.nih.gov/pubmed/19540336).  This variant is also associated with lower [verbal learning and memory scores](https://www.ncbi.nlm.nih.gov/pubmed/27039372), and lower scores on a [cognitive control](https://www.ncbi.nlm.nih.gov/pubmed/27039372) tasks.  The missense variant also causes increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
 
