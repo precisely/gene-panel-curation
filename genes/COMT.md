@@ -8,7 +8,7 @@ This gene is located on chromosome 2.  The enzyme it creates acts in your  brain
 
 <TissueList brain liver Kidney and urinary bladder circulatory and cardiovascular system />
 
-<GeneAnalysis gene="COMT" interval=" NC_000002.12 :g.233917342_234019522"> 
+<GeneAnalysis gene="COMT" interval="NC_000002.12 :g.233917342_234019522"> 
 
  # What are some common mutations of COMT?
  
