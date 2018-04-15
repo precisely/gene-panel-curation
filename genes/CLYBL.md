@@ -1,6 +1,6 @@
 # What does the CLYBL gene do?
 
-CLYBL ([Citramalyl-CoA lyase, mitochondrial](http://www.uniprot.org/uniprot/Q8N0X4#pathology_and_biotech)) creates a mitochondrial enzyme involved in the vitamin B12 metabolism.  It also mediates magnesium ion and metal binding and malate synthase. Vitamins B12 (cobalamin) plays a fundamental role as a cofactor in several metabolic pathways, including [detoxification](https://www.ncbi.nlm.nih.gov/pubmed/19409980) due to its substantial [antioxidant] (https://www.ncbi.nlm.nih.gov/pubmed/19799418) properties.  Vitamin B12 deficiency is linked with [pernicious anemia, neurodegenerative disorder, cardiovascular disease, gastrointestinal disease]( https://www.ncbi.nlm.nih.gov/pubmed/22367966), and [ME/CFS]( https://www.ncbi.nlm.nih.gov/pubmed/29100069).
+CLYBL ([Citramalyl-CoA lyase, mitochondrial](http://www.uniprot.org/uniprot/Q8N0X4#pathology_and_biotech)) creates a mitochondrial enzyme involved in the vitamin B12 metabolism.  It also mediates magnesium ion and metal binding and malate synthase. Vitamins B12 (cobalamin) plays a fundamental role as a cofactor in several metabolic pathways, including [detoxification](https://www.ncbi.nlm.nih.gov/pubmed/19409980) due to its substantial [antioxidant](https://www.ncbi.nlm.nih.gov/pubmed/19799418) properties.  Vitamin B12 deficiency is linked with [pernicious anemia, neurodegenerative disorder, cardiovascular disease, gastrointestinal disease]( https://www.ncbi.nlm.nih.gov/pubmed/22367966), and [ME/CFS]( https://www.ncbi.nlm.nih.gov/pubmed/29100069).
 
 This gene is located on chromosome 13.  The mitochondrial enzyme it creates acts in your [kidney, liver](https://www.ncbi.nlm.nih.gov/gene/171425#gene-expression), and blood.
 
@@ -11,7 +11,8 @@ This gene is located on chromosome 13.  The mitochondrial enzyme it creates acts
 
  # What are some common mutations of CLYBL?
  
-There are 1 well known variant in CLYBL: [C775T](https://www.ncbi.nlm.nih.gov/pubmed/29100069) (Arg259Ter).
+There is 1 well known variant in CLYBL: [C775T](https://www.ncbi.nlm.nih.gov/pubmed/29100069) (Arg259Ter).
+
 <# C775T #>
   <Variant hgvs="NC_000013.11:g.99866380C>T" name="C775T"> 
 
