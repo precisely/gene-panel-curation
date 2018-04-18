@@ -1,0 +1,17 @@
+symbol: G2691A
+snp: rs121908909
+chromosome: 2
+start: 2691
+genes:
+  - SCN9A
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: ?
+  - G:A
+    - effect: wildtype
+    - frequency: ?
+  - A:A
+    -effect: high_risk
+    - frequency: ?
