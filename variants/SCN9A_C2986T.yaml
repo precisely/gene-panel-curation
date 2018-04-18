@@ -1,0 +1,17 @@
+symbol: C2986T
+snp: rs121908910  
+chromosome: 2
+start: 2986
+genes:
+  - SCN9A
+variant_type: snv
+genotypes:
+  - CT:CT
+    - effect: wildtype
+    - frequency: 99.9%
+  - CT:T
+    - effect: wildtype
+    - frequency: 0.1%
+  - T:T
+    -effect: high_risk
+    - frequency: 0.0%
