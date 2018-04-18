@@ -9,7 +9,7 @@ This gene is located on chromosome 15.  The protein it creates acts in your brai
 
 <GeneAnalysis gene="CHRNA3" interval="NC_000015.10:g.78593052_78621295"> 
 
- # What are some common mutations of CHRNA3?
+# What are some common mutations of CHRNA3?
  
 There are two well known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12914385) and [C645T](https://www.ncbi.nlm.nih.gov/clinvar/variation/17503/).
 
