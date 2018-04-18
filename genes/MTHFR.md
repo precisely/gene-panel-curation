@@ -10,7 +10,7 @@ This gene is located on chromosome 1.  The enzyme it creates acts in your endocr
 
 <GeneAnalysis gene="MTHFR" interval="NC_000001.11 :g.11785730_11806103"> 
 
- # What are some common mutations of MTHFR?
+# What are some common mutations of MTHFR?
  
 There are 2 well known variants in MTHFR: [C677T](http://gnomad.broadinstitute.org/variant/1-11856378-G-A) and [A1298C ](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131).
 
