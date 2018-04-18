@@ -1,5 +1,8 @@
    symbol: CHRNA3
    function: neuronal acetylcholine receptor subunit alpha-3
+   gene_expression_location:
+      - D001921
+      - D007107 
    chromosome: 15
    start: 78593052
    end: 78621295
@@ -7,6 +10,11 @@
    gene_type: protein_coding
    unification_links:
      - UNIPROT: P32297
+   symptoms:
+     - fatigue D005221 
+     - inflamation D007249 
+     - anxiety D001007 
+     - depression D003863
    curators: 
     - rtearle
     - taltman
