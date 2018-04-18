@@ -8,7 +8,7 @@ This gene is located on chromosome 17.  The protein it creates acts in your immu
 
 <GeneAnalysis gene="CHRNE" interval="NC_000017.11 :g.4897769_4905019"> 
 
- # What are some common mutations of CHRNE?
+# What are some common mutations of CHRNE?
  
 There are 2 well known variants in CHRNE: [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) and  [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/).
 
