@@ -1,0 +1,17 @@
+symbol: C984A
+snp: rs121908917   
+chromosome: 2
+start: 984
+genes:
+  - SCN9A
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 100.0%
+  - C:A
+    - effect: wildtype
+    - frequency: 0.0%
+  - A:A
+    -effect: high_risk
+    - frequency: 0.0%
