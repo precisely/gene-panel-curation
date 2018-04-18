@@ -1,0 +1,17 @@
+symbol: C829T
+snp: rs121908916     
+chromosome: 2
+start: 829
+genes:
+  - SCN9A
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 100.0%
+  - C:T
+    - effect: wildtype
+    - frequency: 0.0%
+  - T:T
+    -effect: high_risk
+    - frequency: 0.0%
