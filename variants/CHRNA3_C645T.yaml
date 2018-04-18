@@ -1,0 +1,17 @@
+symbol: C645T
+snp: rs1051730
+chromosome: 15
+start: 645
+genes:
+  - CHRNA3
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 42.9%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 39.7%
+  - T:T
+    -effect: high_risk
+    - frequency: 17.4%
