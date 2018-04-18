@@ -1,8 +1,8 @@
 # What does the CHRNA3 gene do?
 
-CHRNA3 (Neuronal acetylcholine receptor subunit alpha-3) encodes a nicotine neurotransmitter receptor protein called [acetylcholine](http://www.uniprot.org/citations/8906617).  It also controls [ion](http://www.uniprot.org/citations/20438829) and [serotonin](https://www.ebi.ac.uk/QuickGO/term/GO:0022850) channels in the brain.   Variants in this gene have been associated with [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/22290489), increased daily [cigarette consumption](https://www.ncbi.nlm.nih.gov/pubmed/23870182), [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/19836008), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328), and [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). 
+CHRNA3 (Neuronal acetylcholine receptor subunit alpha-3) encodes a nicotine neurotransmitter receptor protein called [acetylcholine](http://www.uniprot.org/citations/8906617) that regulates nicotine receptor proliferation and destruction and nicotine dependence.  It also controls [ion](http://www.uniprot.org/citations/20438829) and [serotonin](https://www.ebi.ac.uk/QuickGO/term/GO:0022850) channels in the brain.   Variants in this gene have been associated with [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/22290489), increased daily [cigarette consumption](https://www.ncbi.nlm.nih.gov/pubmed/23870182), [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/19836008), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328), and [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). 
 
-This gene is located on chromosome 15.  The protein it creates acts in your brain and nervous system and immune system.
+This gene is located on chromosome 15.  The protein it creates acts in your brain, nervous system, and immune system.
 
 
 <TissueList brain D001921 bone marrow and immune system D007107   />
@@ -154,7 +154,15 @@ The CHRNA3 protein plays a role in developing nicotine dependence and regulating
 
 # What should I do about this?
 
-People also should not smoke or use cocaine.  If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
+People should not smoke or use cocaine.  If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+*   Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
+*   Have less than one alcoholic drink per day.
+*   Practice safe sex, and avoid HIV infection
+*   Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*   Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*   [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
 [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
@@ -169,7 +177,15 @@ rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The C78606381T (T;T) varian
 
 # What should I do about this?
 
-People also should not smoke or use cocaine.  If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer.
+People should not smoke or use cocaine.  If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+*   Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
+*   Have less than one alcoholic drink per day.
+*   Practice safe sex, and avoid HIV infection
+*   Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*   Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*   [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
 [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
@@ -179,3 +195,45 @@ Many dietary supplements have been found to increase or decrease natural killer 
 *   [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity.
 *   [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits may improve NKC and T cell function.
 *   [Histone deacetylase inhibitors (HDACi) including suberoylanilide hydroxamic acid and valproric acid](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
+
+<# C645T (C;T) #>
+
+# Mild Risk
+
+This heterozygous variant causes increased risk of [adenocarcinoma](https://www.ncbi.nlm.nih.gov/pubmed/27072204) and [squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 2.25](https://www.ncbi.nlm.nih.gov/pubmed/24337855), but not in East Asians or never-smokers.  It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390).  There is a [2.9% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed Nicotine replacement therapy (NRT) dose, and a [1.0mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment.  Physical changes associated with one T allele include [0.59 kg lower body weight, 0.23 kg/m(2) lower body mass index, 0.32 cm lower waist circumference, and 0.45 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141).  It also is associated with [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305).
+
+# What should I do about this?
+
+People should not smoke.  If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+*   Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
+*   Have less than one alcoholic drink per day.
+*   Practice safe sex, and avoid HIV infection
+*   Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*   Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*   [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+
+[Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
+
+<# C645T (T;T) #>
+
+# Moderate Risk
+
+This homozygous variant causes increased risk of [adenocarcinoma and squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 1.9](https://www.ncbi.nlm.nih.gov/pubmed/25233467), but not East Asians or never-smokers.   It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390).  There is a [5.8% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed Nicotine replacement therapy (NRT) dose, and a [2.0mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment.  T alleles were associated with [1.18 kg lower body weight, 0.46 kg/m(2) lower body mass index, 0.64 cm lower waist circumference, and 0.90 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141).  It also causes [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305). Among people who smoke more than 30 cigarettes per day, [fatigue and hopelessness](https://www.ncbi.nlm.nih.gov/pubmed/27613883) are also greatly increased.  Homozygotes had increased risk of [antipsychotic medication and schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/26054357).
+
+# What should I do about this?
+
+People should not smoke.  If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer.  Monitor signs of schizophrenia and antipsychotic medication side effects.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+*   Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
+*   Have less than one alcoholic drink per day.
+*   Practice safe sex, and avoid HIV infection
+*   Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*   Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*   [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+
+[Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
+
+<symptoms fatigue D005221 inflamation D007249 anxiety D001007 depression D003863 />
