@@ -8,7 +8,7 @@ This gene is located on chromosome 22.  The enzyme it creates acts in your brain
 
 <GeneAnalysis gene="COMT" interval="NC_000022.11:g.19941740_19969975"> 
 
- # What are some common mutations of COMT?
+# What are some common mutations of COMT?
  
 There are 5 well known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336).
 
