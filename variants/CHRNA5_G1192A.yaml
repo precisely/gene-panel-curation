@@ -1,0 +1,17 @@
+symbol: G1192A
+snp: rs16969968    
+chromosome: 15
+start: 1192
+genes:
+  - CHRNA5
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 55.6%
+  - G:A
+    - effect: moderate_risk
+    - frequency: 39.2%
+  - A:A
+    -effect: high_risk
+    - frequency: 5.2%
