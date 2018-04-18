@@ -8,7 +8,7 @@ This gene is located on chromosome 17.  The protein it creates acts in your brai
 
 <GeneAnalysis gene="SLCA4" interval="NC_000017.11:g.30194319_30235968"> 
 
- # What are some common mutations of SLCA4?
+# What are some common mutations of SLCA4?
  
 There are 7 well known variants in SLCA4: [5-HTTLPR](https://www.ncbi.nlm.nih.gov/pubmed/26473596), [A3609G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=25531), [T463G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1042173), [T30199457C](https://www.ncbi.nlm.nih.gov/pubmed/18986552), [C30219896T](http://institutferran.org/documentos/estudio_genetico/JCR%20106%20140408.pdf) , [C30204775T](http://institutferran.org/documentos/estudio_genetico/JCR%20106%20140408.pdf), and [C1748A](https://www.ncbi.nlm.nih.gov/pubmed/20981038).
 
