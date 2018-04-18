@@ -1,0 +1,17 @@
+symbol: G1376C
+snp: rs121908908   
+chromosome: 2
+start: 1376
+genes:
+  - SCN9A
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: ?
+  - G:C
+    - effect: wildtype
+    - frequency: ?
+  - C:C
+    -effect: wildtype
+    - frequency: ?
