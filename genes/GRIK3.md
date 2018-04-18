@@ -4,12 +4,11 @@ The GRIK3 gene creates a protein that helps form receptors for the transmitter [
 
 This gene is located on chromosome 1.  The protein it creates acts in your brain and nervous system.
 
-
 <TissueList brain   />
 
 <GeneAnalysis gene="GRIK3" interval="NC000001_1.11:g.1111_9999"> 
 
- # What are some common mutations of GRIK3?
+# What are some common mutations of GRIK3?
  
 There are 3 well known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) [polymorphism](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract), [C36983994T](https://www.ncbi.nlm.nih.gov/pubmed/27835969), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/26859813).
 
