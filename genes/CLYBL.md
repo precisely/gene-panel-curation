@@ -9,7 +9,7 @@ This gene is located on chromosome 13.  The mitochondrial enzyme it creates acts
 
 <GeneAnalysis gene="CLYBL" interval="NC_000013.11:g.99606664_99909459"> 
 
- # What are some common mutations of CLYBL?
+# What are some common mutations of CLYBL?
  
 There is 1 well known variant in CLYBL: [C775T](https://www.ncbi.nlm.nih.gov/pubmed/29100069) (Arg259Ter).
 
