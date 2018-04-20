@@ -83,7 +83,7 @@ There are six well known variants in SCN9A: [T166298928G](https://www.ncbi.nlm.n
  
      # What does this mean?
 
-     Your  gene has no variants. A normal gene is referred to as a "wild-type" gene.
+     Your SCN9A gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
      # What is the effect of this variant?
 
@@ -267,7 +267,7 @@ There are six well known variants in SCN9A: [T166298928G](https://www.ncbi.nlm.n
   <piechart percentage=? />
  </Genotype>
 <# G1376C #>
- <Genotype hgvs="NC_000002.12:g.[166286562G>C];[166286562=]" name=""> 
+ <Genotype hgvs="NC_000002.12:g.[166286562G>C];[166286562=]" name="G1376C"> 
 
      # What does this mean?
  
@@ -281,7 +281,7 @@ There are six well known variants in SCN9A: [T166298928G](https://www.ncbi.nlm.n
 
   <piechart percentage=? />
  </Genotype>
- <Genotype hgvs="NC_000002.12:g.[166286562G>C];[166286562G>C]" name=""> 
+ <Genotype hgvs="NC_000002.12:g.[166286562G>C];[166286562G>C]" name="G1376C"> 
  
      # What does this mean?
 
@@ -295,7 +295,7 @@ There are six well known variants in SCN9A: [T166298928G](https://www.ncbi.nlm.n
 
   <piechart percentage=? />
  </Genotype>
- <Genotype hgvs="NC_000002.12:g.[166286562=];[166286562=]" name=""> 
+ <Genotype hgvs="NC_000002.12:g.[166286562=];[166286562=]" name="G1376C"> 
  
      # What does this mean?
 
@@ -304,6 +304,7 @@ There are six well known variants in SCN9A: [T166298928G](https://www.ncbi.nlm.n
      # What is the effect of this variant?
 
      You are in the Severe Risk category. See below for more information.
+
 
      # How common is this genotype in the general population?
 
@@ -379,6 +380,5 @@ Chronic pain relief may include:
 *  [Gabapentin, duloxetine or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/)
 *  [Cyclobenzaprine, pregabalin, duloxetine, or milnacipran](https://www.ncbi.nlm.nih.gov/pubmed/19410099/)
 *  [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
-
 
 <symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 joint pain without swelling or redness D018771 inflamation D007249 />
