@@ -2,9 +2,7 @@
 
 # What are some common mutations of ARMC9?
        
-There are two well-known variants in ARMC9: [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=16827966) and [G56871895A
-](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832
-).
+There are two well-known variants in ARMC9: [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=16827966) and [G56871895A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832).
 
 <# C231342446T #>
  <Variant hgvs="NC_000002.12:g.231342446C>T" name="C231342446T"> 
@@ -67,9 +65,7 @@ There are two well-known variants in ARMC9: [C78606381T](https://www.ncbi.nlm.ni
        
      # What does this mean?
        
-     People with this variant have one copy of the [G56871895A
-](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832
-) variant. This substitution of a single nucleotide is known as a missense mutation.
+     People with this variant have one copy of the [G56871895A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832) variant. This substitution of a single nucleotide is known as a missense mutation.
        
      # What is the effect of this variant?
 
@@ -83,9 +79,7 @@ There are two well-known variants in ARMC9: [C78606381T](https://www.ncbi.nlm.ni
        
      # What does this mean?
        
-     People with this variant have two copies of the [G56871895A
-](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832
-) variant. This substitution of a single nucleotide is known as a missense mutation.
+     People with this variant have two copies of the [G56871895A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832) variant. This substitution of a single nucleotide is known as a missense mutation.
        
      # What is the effect of this variant?
 
