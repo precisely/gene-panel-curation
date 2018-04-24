@@ -13,7 +13,7 @@ There is one well-known variant in ARHGEF3: [G56871895A](https://www.ncbi.nlm.ni
 
 <# G56871895A #>
  <Genotype hgvs="NC_000003.12:g.[56871895G>A];[56871895=]" name="G56871895A"> 
-       [G56871895A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832)
+
      # What does this mean?
  
      People with this variant have one copy of the [G56871895A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6445832) variant. This substitution of a single nucleotide is known as a missense mutation.
