@@ -14,26 +14,26 @@ This gene is located on chromosome 1. The protein it creates acts in your brain 
 There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) [polymorphism](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract), [C36983994T](https://www.ncbi.nlm.nih.gov/pubmed/27835969), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/26859813).
 
 <# T928G #>
- <Variant hgvs="NC000001_1.11:g.2222T>G" name="T928G"> 
+  <Variant hgvs="NC000001_1.11:g.2222T>G" name="T928G"> 
 
     This variant is a change at a specific point in the GRIK3 gene from thymine (T) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
  
-</Variant>
+  </Variant>
 <# C36983994T #>
- <Variant hgvs="NC_000001.11:g.36983994C>T" name="C36983994T"> 
+  <Variant hgvs="NC_000001.11:g.36983994C>T" name="C36983994T"> 
 
     This variant is a change at a specific point in the GRIK3 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
-</Variant>
+  </Variant>
  
 <# A7783504C #>
- <Variant hgvs="NC_000002.11:g.7783504A>C" name="A7783504C"> 
+  <Variant hgvs="NC_000002.11:g.7783504A>C" name="A7783504C"> 
 
     This variant is a change at a specific point in the GRIK3 gene from adenine (A) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
-</Variant>
+  </Variant>
 <# T928G #>
- <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
+  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
 
     # What does this mean?
  
@@ -45,9 +45,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=43 />
- </Genotype>
- <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222T>G]" name="T928G"> 
+    <piechart percentage=43 />
+  </Genotype>
+  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222T>G]" name="T928G"> 
  
     # What does this mean?
 
@@ -59,9 +59,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=19.9 />
- </Genotype>
- <Genotype hgvs="NC000001_1.11:g.[2222=];[2222=]" name="T928G"> 
+    <piechart percentage=19.9 />
+  </Genotype>
+  <Genotype hgvs="NC000001_1.11:g.[2222=];[2222=]" name="T928G"> 
  
     # What does this mean?
 
@@ -73,10 +73,10 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=37.1 />
- </Genotype>
+    <piechart percentage=37.1 />
+  </Genotype>
 <# C36983994T #>
- <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504=]" name=""> 
+  <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504=]" name="C36983994T"> 
 
     # What does this mean?
  
@@ -88,9 +88,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=15.8 />
- </Genotype>
- <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504A>C]" name=""> 
+    <piechart percentage=15.8 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.11:g[7783504A>C];[7783504A>C]" name="C36983994T"> 
  
     # What does this mean?
 
@@ -102,9 +102,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=4.7 />
- </Genotype>
- <Genotype hgvs="NC_000002.11:g[7783504=];[7783504=]" name=""> 
+    <piechart percentage=4.7 />
+  </Genotype>
+  <Genotype hgvs="NC_000002.11:g[7783504=];[7783504=]" name="C36983994T"> 
  
     # What does this mean?
 
@@ -116,10 +116,10 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=79.5 />
- </Genotype>
+    <piechart percentage=79.5 />
+  </Genotype>
 <# A7783504C #>
- <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name=""> 
+  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name="A7783504C"> 
 
     # What does this mean?
  
@@ -131,9 +131,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=1.8 />
- </Genotype>
- <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name=""> 
+    <piechart percentage=1.8 />
+  </Genotype>
+  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name="A7783504C"> 
  
     # What does this mean?
 
@@ -145,9 +145,9 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=0.5 />
- </Genotype>
- <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name=""> 
+    <piechart percentage=0.5 />
+  </Genotype>
+  <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name="A7783504C"> 
  
     # What does this mean?
 
@@ -159,9 +159,10 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=97.8 />
- </Genotype>
- <Genotype hgvs="unknown"> 
+    <piechart percentage=97.8 />
+  </Genotype>
+<# unknown #>
+  <Genotype hgvs="unknown"> 
  
     # What does this mean?
 
@@ -173,9 +174,10 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=0 />
- </Genotype>
- <Genotype hgvs="wild-type">
+    <piechart percentage=0 />
+  </Genotype>
+<# wildtype #>
+  <Genotype hgvs="wildtype">
  
     # What does this mean?
 
@@ -187,8 +189,8 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-  <piechart percentage=37.1 />
- </Genotype>
+    <piechart percentage=37.1 />
+  </Genotype>
 </GeneAnalysis>
 
 # How do changes in GRIK3 affect people?
