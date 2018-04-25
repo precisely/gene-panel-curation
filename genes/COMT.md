@@ -458,6 +458,6 @@ This variant is associated with an increased risk of [CFS](https://www.ncbi.nlm.
 Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
 * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-* Consider eating [red,blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+* Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
 <symptoms pain muscle fatigue POTS stress problems with thinking or memor, brain fog post exertional malaise sleep disorder depression anxiety />
