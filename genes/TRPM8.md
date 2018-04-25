@@ -260,6 +260,7 @@ There are five well-known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.n
     
     <piechart percentage=4.2 />
   </Genotype>
+<# unknown #>
   <Genotype hgvs="unknown"> 
  
     # What does this mean?
@@ -271,9 +272,10 @@ There are five well-known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.n
     The effect is unknown.
 
     # How common is this genotype in the general population?
-    
+
     <piechart percentage= />
   </Genotype>
+<# wildtype #>
   <Genotype hgvs="wildtype">
  
     # What does this mean?
@@ -281,11 +283,11 @@ There are five well-known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.n
     Your TPRM8 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
     # What is the effect of this variant?
-    
+
     Your variant is not associated with any loss of function.
 
     # How common is this genotype in the general population?
-    
+
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
