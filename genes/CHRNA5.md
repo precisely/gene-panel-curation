@@ -216,29 +216,30 @@ For the vast majority of people, the overall risk associated with the common CHR
 # Moderate Risk
 
 
-<# A78573551G (A;G) #>
+<# A78573551G (A;G) A78573551G (G;G) #>
 
-| Variant       | Population %         
-| ------------- |:-------------:|
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
 | A78573551G (A;G)      | 39.2%     |
-
-# Mild Risk
-
-
-# What should I do about this?
-
-
-<# A78573551G (G;G) #>
-
-| Variant       | Population %         
-| ------------- |:-------------:|
 | A78573551G (G;G)     | 17.9%     |
 
 # Moderate Risk
 
-
+This variant acts in the brain in the [frontal cortex, temporal cortex, and pons](https://www.ncbi.nlm.nih.gov/pubmed/26220977), controlling message transmission between the cortex and cerebellum, motor function, problem solving, memory formation and processing, language, judgement, impulse control, and sexual behavior. Each recessive A allele [increases mRNA expression](https://www.ncbi.nlm.nih.gov/pubmed/21229299) in the brain, which in turn impacts body’s the response to nicotine. This variant is associated with increased [risk of adenocarcinoma (ADC)](https://www.ncbi.nlm.nih.gov/pubmed/25233467) [(lung cancer)](https://www.ncbi.nlm.nih.gov/pubmed/21229299) with an odds ratio of 0.86 and [nicotine addiction](https://www.ncbi.nlm.nih.gov/pubmed/28132300) or dependence, especially in Caucasians with an [odds ratio of 2.07](https://www.ncbi.nlm.nih.gov/pubmed/26270548).
 
 # What should I do about this?
+
+People should not smoke. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking. Consider regular checks for lung cancer.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+*  Have less than one alcoholic drink per day.
+*  Practice safe sex, and avoid HIV infection.
+*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+
+[Medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) used for treating CHRNA5 issues include [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
 
 
