@@ -166,7 +166,7 @@ Many dietary supplements have been found to increase or decrease natural killer 
   sufficient body concentration can only be achieved through supplementation.
 *  [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity.
 *  [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function.
-*  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproric acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
+*  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
 
 <# T10927C (C;C) #>
 
