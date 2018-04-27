@@ -345,6 +345,13 @@ For the vast majority of people, the overall risk associated with the common SCN
 
 <# C984A (A;A) C829T (T;T) G2691A (A;A) G1376C (G;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G1376C (G;G) | Unknown |
+| G2691A (A;A) | Unknown      |
+| C829T (T;T) | 0.01%     |
+| C984A (A;A)| 0.01%     |
+
 # Severe Risk
 
 [Congenital indifference to pain (CIP)](https://www.omim.org/entry/243000) is a rare disorder where individuals cannot feel pain, although they feel sensations of touch, hot, cold, and pressure.  They may have [frequent injuries](https://www.ncbi.nlm.nih.gov/pubmed/17167479) or [recurrent illness](https://www.ncbi.nlm.nih.gov/pubmed/22845492) and [ulcerations, which may result in the need for amputation](https://www.ncbi.nlm.nih.gov/medgen/C2752089) due to the inability to feel or respond appropriately to pain. 
@@ -352,8 +359,11 @@ For the vast majority of people, the overall risk associated with the common SCN
 # What should I do about this?
 
 The [opioids](https://www.ncbi.nlm.nih.gov/pubmed/6462379) [naloxone](https://www.ncbi.nlm.nih.gov/pubmed/6085681) and [naltrexone](https://www.ncbi.nlm.nih.gov/pubmed/26634308) may allow patients to feel and respond to pain.  Other medicines used to SCN9A variants include [Lacosamide](https://www.drugbank.ca/drugs/DB06218), [Lidocaine](https://www.drugbank.ca/drugs/DB00281), [Ranolazine](https://www.drugbank.ca/drugs/DB00243), [Rufinamide](https://www.drugbank.ca/drugs/DB06201), [Valproic Acid](https://www.drugbank.ca/drugs/DB00313), and [Zonisamide]( https://www.drugbank.ca/drugs/DB00909). 
-
 <#  C2986T (T;T) #>
+
+| Variant      |Population %           | 
+| :-------------: |:-------------:|
+| C2986T (T;T) | 0.01% |
 
 # Moderate Risk
 
@@ -366,6 +376,10 @@ Paroxysmal extreme pain disorder (PEPD) patients may consider trying [Carbamazep
 Other medicines used to SCN9A variants include [Lacosamide](https://www.drugbank.ca/drugs/DB06218), [Lidocaine](https://www.drugbank.ca/drugs/DB00281), [Ranolazine](https://www.drugbank.ca/drugs/DB00243), [Rufinamide](https://www.drugbank.ca/drugs/DB06201), [Valproic Acid](https://www.drugbank.ca/drugs/DB00313), and [Zonisamide]( https://www.drugbank.ca/drugs/DB00909).
 
 <# T166298928G (G;G) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T166298928G (G;G)| 24.1%     |
 
 # Moderate Risk
 
@@ -382,3 +396,4 @@ Chronic pain relief may include:
 *  [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
 <symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 joint pain without swelling or redness D018771 inflamation D007249 />
+
