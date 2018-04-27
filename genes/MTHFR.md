@@ -162,6 +162,11 @@ There are two well-known variants in MTHFR: [C677T](http://gnomad.broadinstitute
 
 <# A1298C (C:C) C677T (C:T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| A1298C (C:C)  | 4% |
+| C677T (C:T) | 30%      |
+
 # How do changes in MTHFR affect people?
 
 For the vast majority of people, the overall risk associated with the common MTHFR variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
@@ -176,6 +181,11 @@ Some people with mild loss of function variant may benefit from supplementing th
 
 <# A1298C (A:C) C677T (T:T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| A1298C (A:C)  | 20% |
+| C677T (T:T) | 9%      |
+
 # Moderate Loss of Function
 
 People with the following mutations have a drastically reduced efficacy of processing folate ([30% of normal function)](https://www.ncbi.nlm.nih.gov/pubmed/25902009).  In ME/CFS, [hypomethylation](http://dx.doi.org/10.4172/2155-9899.1000228), which is greatly affected by the vitamins B12 and folate, is seen in a majority of certain immune cells. The low B12 and higher homocysteine levels correlate significantly with ratings of [mental fatigue](https://www.ncbi.nlm.nih.gov/pubmed/25902009).
@@ -185,6 +195,10 @@ People with the following mutations have a drastically reduced efficacy of proce
 Most people with the moderate loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. However, opioid analgesics and other drugs that have to be demethylated (the removal of one methyl CH3 group) as part of their metabolism negatively impact MTHFR function.  Consult your physician. 
 
 <# C677T (C;T) ; A1298C (A;C) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C677T (C;T) ; A1298C (A;C) | 6% |
 
 # Severe Loss of Function
 
