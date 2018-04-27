@@ -359,6 +359,7 @@ For the vast majority of people, the overall risk associated with the common SCN
 # What should I do about this?
 
 The [opioids](https://www.ncbi.nlm.nih.gov/pubmed/6462379) [naloxone](https://www.ncbi.nlm.nih.gov/pubmed/6085681) and [naltrexone](https://www.ncbi.nlm.nih.gov/pubmed/26634308) may allow patients to feel and respond to pain.  Other medicines used to SCN9A variants include [Lacosamide](https://www.drugbank.ca/drugs/DB06218), [Lidocaine](https://www.drugbank.ca/drugs/DB00281), [Ranolazine](https://www.drugbank.ca/drugs/DB00243), [Rufinamide](https://www.drugbank.ca/drugs/DB06201), [Valproic Acid](https://www.drugbank.ca/drugs/DB00313), and [Zonisamide]( https://www.drugbank.ca/drugs/DB00909). 
+
 <#  C2986T (T;T) #>
 
 | Variant      |Population %           | 
