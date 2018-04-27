@@ -101,6 +101,10 @@ For the vast majority of people, the overall risk associated with the common CLY
 
 <# C775T (C:T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C775T (C:T) | 5.3% |
+
 # Mild Loss of Function
 
 This variant [changes an amino acid in the protein](https://www.ncbi.nlm.nih.gov/pubmed/22367966), which causes the length to be prematurely truncated. The protein may then may bind incorrectly with ions and metals, leading to [malabsorption of vitamin B12 and mental fatigue](https://www.ncbi.nlm.nih.gov/pubmed/25902009). People with this variant have serum vitamin B12 levels [88.9% lower](https://www.ncbi.nlm.nih.gov/pubmed/22367966) than normal and may have higher homocysteine levels. This variant is also more common in people with [ME/CFS]( https://www.ncbi.nlm.nih.gov/pubmed/29100069).
@@ -111,6 +115,10 @@ This variant [changes an amino acid in the protein](https://www.ncbi.nlm.nih.gov
 * Be cautious when taking [opioids, duloxetine, pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/25902009), and [metformin](https://www.ncbi.nlm.nih.gov/pubmed/20488910?dopt=Abstract), which lower B12 levels.
 
 <# C775T (T:T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C775T (T:T) | 0.9% |
 
 # Severe Loss of Function
 
