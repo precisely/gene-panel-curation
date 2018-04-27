@@ -394,6 +394,11 @@ For the vast majority of people, the overall risk associated with the common SLC
 
 <# 5-HTTLPR (L;L) G3609A (G;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| 5-HTTLPR (L;L) | 63.2% |
+| G3609A (G;G) | 63.2%      |
+
 # Serotonin Deficiency
 
 The LL variant causes a serotonin deficit in the body, and it is linked to increasing the risk of [obsessive compulsive disorder (OCD) 1.8X](https://www.ncbi.nlm.nih.gov/pubmed/16642437) and greatly worsened [verbal memory](https://www.ncbi.nlm.nih.gov/pubmed/26231032) when consuming substances like MDMA (ecstasy).  However, this variant also causes improved response to [SSRI medication.](https://www.ncbi.nlm.nih.gov/pubmed/12476327)
@@ -408,6 +413,11 @@ Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, dox
 
 <# 5-HTTLPR (S;L) G3609A (A;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| 5-HTTLPR (S;L)  | 23.7% |
+| G3609A (A;G) | 23.7%      |
+
 # Balanced Serotonin
 
 This variant has one short and one long copy of this gene. The gene has diminished function and increased serotonin levels, causing [fear and anxiety-related behaviors](https://www.ncbi.nlm.nih.gov/pubmed/12130784) as well as [higher neuroticism, lower extraversion and openness](https://www.ncbi.nlm.nih.gov/pubmed/18486105?dopt=Abstract), and increased risk for [depression.](https://www.ncbi.nlm.nih.gov/pubmed/26979101)  However, this variant has [2.37 odds](https://www.ncbi.nlm.nih.gov/pubmed/17414739) for adverse reactions to selective serotonin reuptake inhibitors (SSRIs). Additional issues include increased risk for [alcoholism](http://www.omim.org/entry/103780), [reduced physical activity, and increased disability in CFS patients.](https://www.ncbi.nlm.nih.gov/pubmed/26473596)
@@ -419,6 +429,11 @@ People with this variant should avoid alcohol use. However, research indicates [
 Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 <# 5-HTTLPR (S;S) G3609A (A;A) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| 5-HTTLPR (S;S)  | 13.1% |
+| G3609A (A;A) | 13.1%      |
 
 # Serotonin Excess
 
@@ -434,6 +449,10 @@ Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, dox
 
 <# T463G (T;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T463G (T;T) | 17.5% |
+
 # Severe Risk
 
 The T allele causes lower protein levels and reduced serotonin. Individuals with this variant have higher drinking intensity and higher urges and cravings for alcohol, leading to an increased risk of [alcohol dependence.](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract)
@@ -444,6 +463,10 @@ Avoid alcohol. Early intervention by parents can also reduce the risk of [develo
 
 <# C30204775T (T;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C30204775T (T;T) | 31.8% |
+
 # Severe Risk
 
 This variant causes an increased likelihood of [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/19381154) such as [depression](https://www.ncbi.nlm.nih.gov/pubmed/20981038). The efficacy of SSRI or SNRI drugs is also [affected](https://www.ncbi.nlm.nih.gov/pubmed/26674707).
@@ -453,6 +476,10 @@ This variant causes an increased likelihood of [mood disorders](https://www.ncbi
 Users should carefully monitor mood and look for signs of mood disorders or depression. If taking SSRIs or SNRIs, consult with your physician to see if this variant is affecting their efficacy. Drugs currently used for SLC6A4 problems include [antidepressants, dopamine, doxepin, tramadol, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 <# C30219896T (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C30219896T (T;T) | 16.0% |
 
 # Severe Risk
 
@@ -467,6 +494,14 @@ Pregnant women should avoid:
 * [Vitamin deficiencies](https://med.virginia.edu/pediatrics/about/clinical-and-patient-services/patient-tutorials/cleft-lip-palate/causes-of-cleft-lip-palate/) during early pregnancy.
 
 <# T30199457C (C;C) C30219896T (C;T) C30204775T (C;T) C30204775T (T;T) C1748A (C;A) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T30199457C (C;C)    | 32.7% |
+|  C30219896T (C;T) | 38.0%      |
+| C30204775T (C;T) | 49.9%      |
+| C30204775T (T;T)| 31.8%      |
+| C1748A (C;A)| Unknown    |
 
 # Severe Risk
 
