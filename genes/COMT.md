@@ -295,7 +295,11 @@ There are five well-known variants in COMT: [G158A](https://www.ncbi.nlm.nih.gov
 
 For the vast majority of people, the overall risk associated with the common COMT variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
 
-<# T19960814C TT #>
+<# T19960814C (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T19960814C (T;T)  | 40.6% |
 
 # Normal Function
 
@@ -311,6 +315,9 @@ Although this is the wild-type form with no variants, it is associated with a gr
 
 <# G158A (G;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G158A (G;G)  | 25.7% |
 
 # Normal Function
 
@@ -330,6 +337,10 @@ Medications indicated for use in treating COMT issues include: [Clonidine, BIA, 
 
 <# G158A (A;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G158A (A;G)  | 49.9% |
+
 # Moderate Loss of Function
 
 This variant decreases COMT enzymatic activity by as much as 25% and increases dopamine levels. It also decreases the [pain tolerance with higher pain ratings](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and increases sensitivity to [thermal and pressure pain](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract).  Although it causes worse thinking under stress, information processing is better than average under non-stressful conditions. Other issues include:
@@ -347,8 +358,11 @@ To improve cognition, people should avoid stress and consider [meditation, tai-c
 
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
-
 <# G158A (A;A) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G158A (A;A)  | 24.4% |
 
 # Severe Loss of Function
 
@@ -380,6 +394,10 @@ Medications indicated for use in treating COMT issues include: [Clonidine, BIA, 
 
 <# C62T (C;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C62T (C;T) | 49.8% |
+
 # Moderate Loss of Function
 
 In estrogen metabolic pathways, the COMT enzyme is related to detoxification. The slightly impaired detoxification pathway may increase the risk for [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and [breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract).
@@ -393,6 +411,10 @@ In estrogen metabolic pathways, the COMT enzyme is related to detoxification. Th
 Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
 <# C62T (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C62T (T;T)  | 24.7% |
 
 # Severe Loss of Function
 
@@ -408,6 +430,11 @@ Medications indicated for use in treating COMT issues include: [Clonidine, BIA, 
 
 <# T19943884C (T;C) #> <# T19950010G (T;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T19943884C (T;C)   | 48.1% |
+| T19950010G (T;G) | 37.5%     |
+
 # Moderate Risk
 
 This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
@@ -419,7 +446,12 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [ red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
-<# T19960814C TC; T19960814C CC #>
+<# T19960814C (T;C)  T19960814C (C;C) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T19960814C (T;C)  | 40.9% |
+| T19960814C (C;C)  | 18.5%      |
 
 # Severe Risk
 
@@ -436,6 +468,10 @@ Be careful if taking [Tacrolimus]( https://www.ncbi.nlm.nih.gov/pubmed/24465960)
 
 <# T19943884C (C;C) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T19943884C (C;C) | 28.3% |
+
 # Severe Risk
 
 This variant is associated with an increased risk of [CFS](https://www.ncbi.nlm.nih.gov/pubmed/19540336) as well as [major depressive disorder with melancholic features](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
@@ -449,6 +485,10 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 
 <# T19950010G (G;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T19950010G (G;G)  | 15.6% |
+
 # Severe Risk
 
 This variant is associated with an increased risk of [CFS](https://www.ncbi.nlm.nih.gov/pubmed/19540336) as well as [major depressive disorder with melancholic features](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This variant is also associated with lower [verbal learning and memory scores](https://www.ncbi.nlm.nih.gov/pubmed/27039372), and lower scores on a [cognitive control](https://www.ncbi.nlm.nih.gov/pubmed/27039372) tasks. The missense variant also causes increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162).
@@ -461,3 +501,4 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
 <symptoms pain muscle fatigue POTS stress problems with thinking or memor, brain fog post exertional malaise sleep disorder depression anxiety />
+
