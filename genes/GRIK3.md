@@ -197,6 +197,13 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
 The variants in GRIK3 have strong associations with increased risk of schizophrenia, but for most patients this may not change treatment for CFS. However, the associations with glutamate and other neurological issues may interact with other genes, so we have included it in this disease panel.
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| A7783504C (A;C) | 15.8% |
+| C36983994T (C;T) | 1.8%     |
+| T928G (T;G) | 43.0%      |
+| T928G (G;G) | 19.9%      |
+
 [This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) 
 
 GRIK3 Ser310Ala polymorphism has been linked to [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) and [major depression.](https://www.ncbi.nlm.nih.gov/pubmed/16958029) The Ser310Ala allele in homozygosity is associated with higher scores in [harm avoidance, anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) This pattern of scores is akin to that observed in [depressed patients.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) GRIK3 rs6691840 polymorphism was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%.](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) Microdeletions have also been indicated in [severe developmental delays.](https://www.ncbi.nlm.nih.gov/pubmed/24449200/)
