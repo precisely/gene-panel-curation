@@ -300,6 +300,11 @@ For the vast majority of people, the overall risk associated with the common TPR
     
 <# G750C (C;C) C-990T (C;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G750C (C;C)  | 7.5% |
+| C-990T (C;T)  | 49.7%      |
+
 # Normal Function
     
 TRPM8 a cold and cold-burning pain receptor linked to [migraines](https://www.ncbi.nlm.nih.gov/pubmed/23294458?dopt=Abstract),
@@ -310,6 +315,10 @@ TRPM8 a cold and cold-burning pain receptor linked to [migraines](https://www.nc
 No therapies are medically indicated at the moment.
 
 <# G750C (G;C) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G750C (G;C) | 22.1% |
 
 # Moderate Risk
 
@@ -322,6 +331,10 @@ reducing bronchial shock.  Other medications include [menthol and eucalyptol](h
 
 <# G750C (C;C) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G750C (C;C)  | 7.5% |
+
 # Severe Risk
 
 The homozygous GG variant has greatly decreased gene function, causing greatly [increased sensitivity to cold](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract) and greatly increased [inflammation](https://www.ncbi.nlm.nih.gov/pubmed/26660531). This may cause increased [asthmatic attacks](https://www.ncbi.nlm.nih.gov/pubmed/26272603) in cold weather and decreased lung function.
@@ -332,6 +345,10 @@ Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carbox
 reducing bronchial shock.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). Users should avoid alcohol and smoking.
 
 <# C-990T (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C-990T (T;T)  | 19.9%      |
 
 # Severe Risk
 
@@ -348,8 +365,12 @@ Many compounds may decrease pain due to TRMP8 variants.
 
 Other therapies may include [antibodies, siRNA, gene therapy](https://www.ncbi.nlm.nih.gov/pubmed/18511441), and avoiding air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7).
 
-
 <# G3264+2567A (G;A) G3264+630A (G;A) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G3264+2567A (G;A)  | 43.2% |
+| G3264+630A (G;A)  | 28.2%      |
 
 # Severe Risk
 
@@ -365,6 +386,10 @@ Many dietary supplements have been found to increase or decrease natural killer 
 - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
 
 <# A233974736G (G;A) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| A233974736G (G;A)  | 14.2%      |
 
 # Severe Risk
 
