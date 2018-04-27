@@ -145,6 +145,10 @@ There are two well-known variants in CHRNE: [G1074A](https://www.ncbi.nlm.nih.go
 
 <# G1074A (G;G) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| G1074A (G;G)  | 92.7% |
+
 # How do changes in CHRNE affect people?
 
 For the vast majority of people, the overall risk associated with the common CHRNE variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
@@ -165,6 +169,10 @@ Many dietary supplements have been found to increase or decrease natural killer 
 *  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproric acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
 
 <# T10927C (C;C) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| T10927C (C;C)  | 23.9% |
 
 # Severe Risk
 
