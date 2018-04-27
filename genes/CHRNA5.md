@@ -151,7 +151,7 @@ There are three well-known variants in CHRNA5: [G1192A (Asp398Asn)](https://www.
  
     # What does this mean?
 
-    Your  gene has no variants. A normal gene is referred to as a "wild-type" gene.
+    Your CHRNA5 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
     # What is the effect of this variant?
 
