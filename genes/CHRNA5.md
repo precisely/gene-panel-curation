@@ -205,7 +205,21 @@ For the vast majority of people, the overall risk associated with the common CHR
 
 # Mild Risk
 
+This heterozygous variant affects the brain in a variety of ways. This variant controls [cognitive function, working memory, and gray matter volume in the brain](https://www.ncbi.nlm.nih.gov/pubmed/24819610). Males have faster [information processing](https://www.ncbi.nlm.nih.gov/pubmed/25674902), including [better behavioral performance, more efficient cortex activity, and larger gray matter volume](https://www.ncbi.nlm.nih.gov/pubmed/24819610), while women have slower information processing. In general, people have worse [visual cognitive control](https://www.ncbi.nlm.nih.gov/pubmed/24934182). The brain changes caused by this variant is the [strongest genetic risk factor for developing nicotine dependence in African Americans and Caucasians, with an odds ratio of 1.3](https://www.ncbi.nlm.nih.gov/pubmed/26239294), causes difficulties with smoking cessation, and increases the number of [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27344179). People are [15% less likely](https://www.ncbi.nlm.nih.gov/pubmed/24727484) to be able to quit smoking, and they respond less well to [nicotine replacement therapy(NRT)](https://www.ncbi.nlm.nih.gov/pubmed/28884473). This may be caused due to the variant [increasing the pleasure and mental stimulation experienced after smoking, as well as withdrawal severity](https://www.ncbi.nlm.nih.gov/pubmed/25948103). This variant is also associated with a greater risk for [lung cancer and COPD](https://www.ncbi.nlm.nih.gov/pubmed/27344179).
 
+# What should I do about this?
+
+People should not smoke. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking. Consider regular checks for lung cancer.
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+*  Have less than one alcoholic drink per day.
+*  Practice safe sex, and avoid HIV infection.
+*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+
+[Medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) used for treating CHRNA5 issues include [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
 <# G1192A (G;G) #>
 
@@ -214,6 +228,22 @@ For the vast majority of people, the overall risk associated with the common CHR
 | G1192A (A;A)      | 5.2%     |
 
 # Moderate Risk
+
+This variant controls [cognitive function, working memory, and gray matter volume in the brain](https://www.ncbi.nlm.nih.gov/pubmed/24819610). Males have much faster [information processing](https://www.ncbi.nlm.nih.gov/pubmed/25674902), including [much better behavioral performance, more efficient cortex activity, and the largest gray matter volume](https://www.ncbi.nlm.nih.gov/pubmed/24819610), while women have much slower information processing. In general, [visual cognitive control is impaired](https://www.ncbi.nlm.nih.gov/pubmed/24934182). The brain changes caused by this variant is the [strongest genetic risk factor for developing nicotine dependence in African Americans and Caucasians, with an odds ratio of 1.3](https://www.ncbi.nlm.nih.gov/pubmed/26239294), causes difficulties with smoking cessation, and greatly increases the number of [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27344179). People are [15% less likely](https://www.ncbi.nlm.nih.gov/pubmed/24727484) to be able to quit smoking, and they respond much less well to [nicotine replacement therapy(NRT)](https://www.ncbi.nlm.nih.gov/pubmed/28884473). This may be caused due to the variant [greatly increasing the pleasure and mental stimulation experienced after smoking, as well as withdrawal severity](https://www.ncbi.nlm.nih.gov/pubmed/25948103). The AA homozygous variant is associated with greatly elevated risk and earlier diagnosis of [lung cancer with an odds ratio of 1.65](https://www.ncbi.nlm.nih.gov/pubmed/27543155), but not in [Asians](https://www.ncbi.nlm.nih.gov/pubmed/26434895). It is also associated with [COPD](https://www.ncbi.nlm.nih.gov/pubmed/26771213) and [newborn pulmonary disfunction and respiratory morbidities](https://www.ncbi.nlm.nih.gov/pubmed/24838476) in the children of smoking mothers.
+
+# What should I do about this?
+
+People should not smoke. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking. Consider regular checks for lung cancer. Pregnant women should consider [supplemental vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/24838476).
+
+[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+*  Have less than one alcoholic drink per day.
+*  Practice safe sex, and avoid HIV infection.
+*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+*  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and sir pollution.
+*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+
+[Medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) used for treating CHRNA5 issues include [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
 
 <# A78573551G (A;G) A78573551G (G;G) #>
