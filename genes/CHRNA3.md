@@ -149,6 +149,10 @@ For the vast majority of people, the overall risk associated with the common CHR
 
 <# C78606381T (C;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C78606381T (C;T) | 37.9% |
+
 # Mild Risk
 
 Incorrect formation of the CHRNA3 nicotine neurotransmitter receptor protein has a variety of effects. This heterozygous variant causes increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/23094028), with an [odds ratio of 1.2]( https://www.ncbi.nlm.nih.gov/pubmed/28827732), and [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), with an [odds ratio of 1.39](https://www.ncbi.nlm.nih.gov/pubmed/24621683). It causes an [increase](https://www.ncbi.nlm.nih.gov/pubmed/29030599) of [one](https://www.ncbi.nlm.nih.gov/pubmed/21559498) [cigarette](https://www.ncbi.nlm.nih.gov/pubmed/23870182) [per day](https://www.ncbi.nlm.nih.gov/pubmed/20418890) and may also cause [smoking persistence]( https://www.ncbi.nlm.nih.gov/pubmed/22290489). However, the C allele is protective, with a [decrease of 3.25 packs per year per C allele](https://www.ncbi.nlm.nih.gov/pubmed/21436384). Finally, this variant may cause an increase in [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328).
@@ -168,6 +172,10 @@ People also should not smoke or use cocaine. If you do smoke, be aware of your r
 [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
 <# C78606381T (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C78606381T (T;T) | 15.9% |
 
 # Moderate Risk
 
@@ -199,6 +207,10 @@ Many dietary supplements have been found to increase or decrease natural killer 
 
 <# C645T (C;T) #>
 
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C645T (C;T) | 39.7% |
+
 # Mild Risk
 
 This heterozygous variant causes increased risk of [adenocarcinoma](https://www.ncbi.nlm.nih.gov/pubmed/27072204) and [squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 2.25](https://www.ncbi.nlm.nih.gov/pubmed/24337855), but not in East Asians or people who have never smoked. It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390). There is a [2.9% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed nicotine replacement therapy (NRT) dose, and a [1.0 mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment. Physical changes associated with one T allele include [0.59 kg lower body weight, 0.23 kg/m(2) lower body mass index, 0.32 cm lower waist circumference, and 0.45 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141). It also is associated with [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305).
@@ -218,6 +230,10 @@ People also should not smoke. If you do smoke, be aware of your risk for depende
 [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
 <# C645T (T;T) #>
+
+| Variant       |Population %           | 
+| :-------------: |:-------------:|
+| C645T (T;T) | 17.4% |
 
 # Moderate Risk
 
