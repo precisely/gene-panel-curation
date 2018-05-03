@@ -1,0 +1,17 @@
+symbol: A70542500G
+snp: rs10780944
+chromosome: 9
+start: ?
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 69.0%
+  - A:G
+    - effect: ?
+    - frequency: 23.9%
+  - G:G
+    -effect: ?
+    - frequency: 7.1%
