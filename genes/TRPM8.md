@@ -1,4 +1,4 @@
-# What does the TPRM8 gene do?
+# What does the TRPM8 gene do?
 
 The TRPM8 gene encodes a cation channel active at [low temperatures](https://www.ncbi.nlm.nih.gov/pubmed/14757700?dopt=Abstract) that allows the movement of sodium, potassium, calcium, and cesium across plasma barriers. It allows the body to detect [temperature
 changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance calcium in the body, and feel the cooling effects of menthol.   Variants in TRPM8 are associated with [breast](https://www.ncbi.nlm.nih.gov/pubmed/20482834), [pancreatic](https://www.ncbi.nlm.nih.gov/pubmed/27038374), [lung](https://www.ncbi.nlm.nih.gov/pubmed/24037916), and [prostate](https://www.ncbi.nlm.nih.gov/pubmed/25065497) cancer.  Additional issues include increased susceptibility to [metabolic syndrome](https://www.ncbi.nlm.nih.gov/pubmed/25967713), [migraines](https://www.ncbi.nlm.nih.gov/pubmed/23294458?dopt=Abstract), [alcohol dependence](https://www.ncbi.nlm.nih.gov/pubmed/23942779?dopt=Abstract), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/27789940), [pain](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract) and [cold sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/21542321?dopt=Abstract), [asthma](https://www.ncbi.nlm.nih.gov/pubmed/26272603), and [inflammation](https://www.ncbi.nlm.nih.gov/pubmed/26660531).  Other variants reduce natural killer cell function in the immune system and are associated with [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
@@ -7,28 +7,28 @@ This gene is located on chromosome 2. The cation channel it creates acts in your
 
 <TissueList brain, bone marrow and immune system, circulatory and cardiovascular system, respiratory system and lung />
 
-<GeneAnalysis gene="TPRM8" interval="NC_000002.12:g.233917342_234019522"> 
+<GeneAnalysis gene="TRPM8" interval="NC_000002.12:g.233917342_234019522"> 
 
-# What are some common mutations of TPRM8?
+# What are some common mutations of TRPM8?
  
-There are five well-known variants in TPRM8: [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G750C](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract), [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969).
+There are five well-known variants in TRPM8: [G3264+630A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G3264+2567A](https://www.ncbi.nlm.nih.gov/pubmed/27099524), [G750C](https://www.ncbi.nlm.nih.gov/pubmed/22072275?dopt=Abstract), [T-990C](https://www.ncbi.nlm.nih.gov/pubmed/27099524), and [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/27835969).
 
 <# G3264+630A #>
   <Variant hgvs="NC_000002.12:g.234008733G>A" name="G3264+630A"> 
 
-    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the TRPM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
  
   </Variant>
 <# G3264+2567A #>
   <Variant hgvs="NC_000002.12:g.234010670G>A" name="G3264+2567A"> 
 
-    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the TRPM8 gene from guanine (G) to adenine (A) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# G750C #>
   <Variant hgvs="NC_000002.12:g.233945906G>C" name="G750C"> 
 
-    This variant is a change at a specific point in the TPRM8 gene from guanine (G) to cytosine (C) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the TRPM8 gene from guanine (G) to cytosine (C) resulting in incorrect cation channel function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# T-990C #>
@@ -397,6 +397,6 @@ The A233974736G A:G heterozygous variant has an increased risk of CFS, with an [
 
 # What should I do about this?
 
-Some general therapies are associated with TPRM8 variants. Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
+Some general therapies are associated with TRPM8 variants. Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
 
 <symptoms pain, muscle pain, headache, inflammation />
