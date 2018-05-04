@@ -1,0 +1,17 @@
+symbol: C78631645T
+snp: rs17487223
+chromosome: 15
+start: 205-313
+genes:
+  -  CHRNB4
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 60.6%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 29.0%
+  - T:T
+    -effect: high_risk
+    - frequency: 10.4%
