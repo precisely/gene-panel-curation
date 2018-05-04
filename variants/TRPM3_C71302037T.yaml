@@ -1,0 +1,17 @@
+symbol: C71302037T
+snp: rs1504401
+chromosome: 9
+start: 
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 56.1%
+  - T:C
+    - effect: high_risk
+    - frequency: 31.9%
+  - C:C
+    -effect: wildtype
+    - frequency: 12.0%
