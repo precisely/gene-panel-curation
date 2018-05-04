@@ -1,0 +1,17 @@
+symbol: G70589515A
+snp: rs7865858
+chromosome: 9
+start: 
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: high_risk
+    - frequency: 25.2%
+  - G:A
+    - effect: high_risk
+    - frequency: 47.6%
+  - A:A
+    -effect: wildtype
+    - frequency: 27.2%
