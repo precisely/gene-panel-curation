@@ -1,10 +1,19 @@
    symbol: TRPM3
    function: transient receptor potential cation channel subfamily M member 3
+   gene_expression_location:
+      - D001921 
+      - D005221    
    chromosome: 9
    start: 70529063
    end: 71446904
    strand: -
    gene_type: protein_coding
+   symptoms:
+     -  vision problems D014786 
+     - pain D010146 
+     - chills and night sweats D023341 
+     - multiple chemical sensitivity/allergies D018777 
+     - inflamation D007249   
    unification_links:
      - UNIPROT: Q9HCF6
      - HGNC: HGNC:17992
