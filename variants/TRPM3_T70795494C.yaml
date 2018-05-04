@@ -1,0 +1,17 @@
+symbol: T70795494C
+snp: rs4454352
+chromosome: 9
+start: 515-11215
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 50.6%
+  - T:C
+    - effect: high_risk
+    - frequency: 35.3%
+  - C:C
+    -effect: wildtype
+    - frequency: 14.1%
