@@ -1,0 +1,17 @@
+symbol: C70801146T
+snp: rs1328153
+chromosome: 9
+start: 515-16867
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 46.3%
+  - T:C
+    - effect: high_risk
+    - frequency: 47.6%
+  - C:C
+    -effect: wildtype
+    - frequency: 6.1%
