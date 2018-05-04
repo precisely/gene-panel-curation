@@ -1,10 +1,15 @@
    symbol: CHRNB4
    function: neuronal acetylcholine receptor subunit beta-4
+   gene_expression_location:
+     - male tissue D005837  
+     - endocrine tissues D004703 
    chromosome: 15
    start: 78624119
    end: 78727754
    strand: -
    gene_type: protein_coding
+   symptoms:
+     - inflamation
    unification_links:
      - UNIPROT: P30926
      - HGNC: HGNC:1964
