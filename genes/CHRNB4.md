@@ -1,8 +1,8 @@
 # What does the CHRNB4 gene do?
 
-0
+The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489).  Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) disfunction.
 
-This gene is located on chromosome 15. The beta subunits of the nicotinic acetylcholine receptor it creates acts in your testis and adrenal glands.
+This gene is located on chromosome 15. The protein it creates acts in your testis and adrenal glands.
 
 
 <TissueList male tissue D005837  endocrine tissues D004703  />
@@ -16,19 +16,19 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 <# C78631645T #>
   <Variant hgvs="NC_000015.10:g.78631645C>T" name="C78631645T"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from cytosine (C) to thymine (T) resulting in incorrect beta subunits of the nicotinic acetylcholine receptor function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the CHRNB4 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# G78635922T #>
   <Variant hgvs="NC_000015.10:g.78635922G>T" name="G78635922T"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from guanine (G) to thymine (T) resulting in incorrect beta subunits of the nicotinic acetylcholine receptor function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the CHRNB4 gene from guanine (G) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# A78638168G #>
   <Variant hgvs="NC_000015.10:g.78638168A>G" name="A78638168G"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from adenine (A) to guanine (G) resulting in incorrect beta subunits of the nicotinic acetylcholine receptor function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the CHRNB4 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 
@@ -253,7 +253,7 @@ People should not smoke. If you do smoke, be aware of your risk for dependency. 
 *  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
 *  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
-[Medications]( http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)"
+[Medications]( http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
 
 <# C78631645T (T;T)   #>
 
@@ -277,6 +277,6 @@ People should not smoke. If you do smoke, be aware of your risk for dependency. 
 *  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
 *  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
-[Medications]( http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)
+[Medications]( http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
 
 <symptoms inflamation D007249 />
