@@ -9,7 +9,7 @@
    strand: -
    gene_type: protein_coding
    symptoms:
-     - inflamation
+     - inflamation D007249
    unification_links:
      - UNIPROT: P30926
      - HGNC: HGNC:1964
