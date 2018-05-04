@@ -4,14 +4,57 @@ TRPM3 (transient receptor potential cation channel subfamily M member 3) control
 
 This gene is located on chromosome 9. The protein it creates acts in your brain and kidneys.
 
+
 <TissueList brain D001921 Kidney D005221  />
 
 <GeneAnalysis gene="TRPM3" interval="NC_000009.12:g.70529063_71446950"> 
 
 # What are some common mutations of TRPM3?
  
-There are thirteen well-known variants in TRPM3: [G71427327T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142822), [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380), [A70542500G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10780944), [C71402258T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1106948), [C70616746T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142508), [T71417232G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12350232), [A70605775G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12682832), [C71403580T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1891301), [T70610886A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3763619), [T71365306C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6560200), [G70820112A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7022747), [A70822908G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7038646), and [C37T](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/).
+There are twenty variants in TRPM3: [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147), [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147), [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147), [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147), [G70589515A](http://journals.sagepub.com/doi/10.4137/III.S25147), [C71302037T](http://journals.sagepub.com/doi/10.4137/III.S25147), [C70691635A](http://journals.sagepub.com/doi/10.4137/III.S25147), [G71427327T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142822), [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380), [A70542500G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10780944), [C71402258T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1106948), [C70616746T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142508), [T71417232G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12350232), [A70605775G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12682832), [C71403580T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1891301), [T70610886A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3763619), [T71365306C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6560200), [G70820112A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7022747), [A70822908G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7038646), and [C37T](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/).
 
+<# A70699095G #>
+  <Variant hgvs="NC_000009.12:g.70699095A>G" name="A70699095G"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# T70795494C #>
+  <Variant hgvs="NC_000009.12:g.70795494C>T" name="T70795494C"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# C70801146T #>
+  <Variant hgvs="NC_000009.12:g.70801146G>A" name="C70801146T"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# A70610886C #>
+  <Variant hgvs="NC_000009.12:g.70610886T>A" name="A70610886C"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from adenine (A) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# G70589515A #>
+  <Variant hgvs="NC_000009.12:g.70589515A>G" name="G70589515A"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# C71302037T #>
+  <Variant hgvs="NC_000009.12:g.71302037T>C" name="C71302037T"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from thymine (T) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# C70691635A #>
+  <Variant hgvs="NC_000009.12:g.70691635C>A" name="C70691635A"> 
+
+    This variant is a change at a specific point in the TRPM3 gene from adenine (A) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
 <# G71427327T #>
   <Variant hgvs="NC_000009.12:g.71427327G>T" name="G71427327T"> 
 
@@ -27,7 +70,7 @@ There are thirteen well-known variants in TRPM3: [G71427327T](https://www.ncbi.n
 <# A70542500G #>
   <Variant hgvs="NC_000009.12:g.70542500G>A" name="A70542500G"> 
 
-    This variant is a change at a specific point in the  gene from adenine (A) to guanine (G) resulting in incorrect thirteen function. This substitution of a single nucleotide is known as a missense variant.
+    This variant is a change at a specific point in the TRPM3 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# C71402258T #>
@@ -91,6 +134,307 @@ There are thirteen well-known variants in TRPM3: [G71427327T](https://www.ncbi.n
 
   </Variant>
 
+<# A70699095G #>
+  <Genotype hgvs="NC_000009.12:g.70699095A>G[70699095A>G];[70699095=]" name="A70699095G"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=50 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70699095A>G[70699095A>G];[70699095A>G]" name="A70699095G"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=37.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70699095A>G[70699095=];[70699095=]" name="A70699095G"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=12.8 />
+  </Genotype>
+<# T70795494C #>
+  <Genotype hgvs="NC_000009.12:g.70795494C>T[70795494C>T];[70795494=]" name="T70795494C"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=35.3 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70795494C>T[70795494C>T];[70795494C>T]" name="T70795494C"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=14.1 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70795494C>T[70795494=];[70795494=]" name="T70795494C"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=50.6 />
+  </Genotype>
+<# C70801146T #>
+  <Genotype hgvs="NC_000009.12:g.70801146G>A[70801146G>A];[70801146=]" name="C70801146T"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=47.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70801146G>A[70801146G>A];[70801146G>A]" name="C70801146T"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=6.1 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70801146G>A[70801146=];[70801146=]" name="C70801146T"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=46.3 />
+  </Genotype>
+<# A70610886C #>
+  <Genotype hgvs="NC_000009.12:g.70610886T>A[70610886T>A];[70610886=]" name="A70610886C"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=49.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70610886T>A[70610886T>A];[70610886T>A]" name="A70610886C"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=45.4 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70610886T>A[70610886=];[70610886=]" name="A70610886C"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=5 />
+  </Genotype>
+<# G70589515A #>
+  <Genotype hgvs="NC_000009.12:g.70589515A>G[70589515A>G];[70589515=]" name="G70589515A"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [G70589515A](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=47.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70589515A>G[70589515A>G];[70589515A>G]" name="G70589515A"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [G70589515A](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=27.2 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70589515A>G[70589515=];[70589515=]" name="G70589515A"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=25.2 />
+  </Genotype>
+<# C71302037T #>
+  <Genotype hgvs="NC_000009.12:g.71302037T>C[71302037T>C];[71302037=]" name="C71302037T"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [C71302037T](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=31.9 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.71302037T>C[71302037T>C];[71302037T>C]" name="C71302037T"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [C71302037T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=12 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.71302037T>C[71302037=];[71302037=]" name="C71302037T"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=56.1 />
+  </Genotype>
+<# C70691635A #>
+  <Genotype hgvs="NC_000009.12:g.70691635C>A[70691635C>A];[70691635=]" name="C70691635A"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [C70691635A](http://journals.sagepub.com/doi/10.4137/III.S25147)
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=48.3 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70691635C>A[70691635C>A];[70691635C>A]" name="C70691635A"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [C70691635A](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=28.7 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.70691635C>A[70691635=];[70691635=]" name="C70691635A"> 
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=23 />
+  </Genotype>
 <# G71427327T #>
   <Genotype hgvs="NC_000009.12:g.[71427327G>T];[71427327=]" name="G71427327T"> 
 
@@ -681,3 +1025,7 @@ There are thirteen well-known variants in TRPM3: [G71427327T](https://www.ncbi.n
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
+
+# How do changes in TRPM3 affect people?
+
+For the vast majority of people, the overall risk associated with the common TRPM3 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
