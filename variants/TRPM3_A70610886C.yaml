@@ -1,0 +1,17 @@
+symbol: A70610886C
+snp: rs3763619
+chromosome: 9
+start: 2491-137
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 5.0%
+  - A:C
+    - effect: high_risk
+    - frequency: 49.6%
+  - C:C
+    -effect: high_risk
+    - frequency: 45.4%
