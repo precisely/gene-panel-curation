@@ -1,0 +1,17 @@
+symbol: C70691635A
+snp: rs10115622
+chromosome: 9
+start: 
+genes:
+  - TRPM3
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: high_risk
+    - frequency: 23.0%
+  - C:A
+    - effect: high_risk
+    - frequency: 48.3%
+  - A:A
+    -effect: wildtype
+    - frequency: 28.7%
