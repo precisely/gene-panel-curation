@@ -1,10 +1,18 @@
    symbol: CHRNA5
    function: neuronal acetylcholine receptor subunit alpha-5
+   gene_expression_location:
+      - brain D001921  
+      - respiratory system and lung D012137  
+      - bone marrow and immune system D007107   
    chromosome: 15
    start: 78565520
    end: 78595269
    strand: +
    gene_type: protein_coding
+   symptoms:
+     - anxiety D001007 
+     - pain D010146 
+     - inflamation: D007249
    unification_links:
      - UNIPROT: P30532
      - HGNC: HGNC:1959
