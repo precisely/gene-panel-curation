@@ -1,9 +1,8 @@
 # What does the TRPM3 gene do?
 
-TRPM3 (transient receptor potential cation channel subfamily M member 3) controls [calcium channels](http://www.uniprot.org/uniprot/Q9HCF6#expression)
+TRPM3 (transient receptor potential cation channel subfamily M member 3) controls [calcium channels](http://www.uniprot.org/uniprot/Q9HCF6#expression). These channels help to detect temperature and pain to maintain homeostasis in the body, and incorrect function may lead to [generalized pain and central nervous system impairments](https://link.springer.com/article/10.1007/s10067-006-0433-9).  Linked health issues include [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines](http://jme.endocrinology-journals.org/content/50/3/R75.short). In CFS/ME patients, [insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short), [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), [problems maintaining body temperature](http://pediatrics.aappublications.org/content/120/1/e129.short), and [impaired natural killer cell (NKC) function leading to increased inflammation and illness](https://www.ncbi.nlm.nih.gov/pubmed/27245705) may be linked to variants.
 
 This gene is located on chromosome 9. The protein it creates acts in your brain and kidneys.
-
 
 <TissueList brain D001921 Kidney D005221  />
 
@@ -1048,7 +1047,7 @@ For the vast majority of people, the overall risk associated with the common TRP
 
 # Moderate Risk
 
-Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes.  They kill viral infected cells and tumorous cells.  Many patients with ME/CFS have NK cells with lower functional ability to fight infections, where [the level of impairment of NKC function is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524).  
+Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes.  They kill viral infected cells and tumorous cells.  Many patients with ME/CFS have NK cells with lower functional ability to fight infections, where [the level of impairment of NKC function is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
 
 The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.  
 
