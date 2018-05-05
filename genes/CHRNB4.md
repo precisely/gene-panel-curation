@@ -1,6 +1,6 @@
 # What does the CHRNB4 gene do?
 
-The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction, and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) disfunction.
+The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction, and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) dysfunction.
 
 This gene is located on chromosome 15. The protein it creates acts in the adrenal glands and male testis.
 
