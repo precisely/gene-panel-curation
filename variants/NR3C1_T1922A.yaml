@@ -1,0 +1,17 @@
+symbol: T1922A
+snp: rs31186
+chromosome: 5
+start: 1922
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 11.7%
+  - T:A
+    - effect: wildtype
+    - frequency: 44.4%
+  - A:A
+    -effect: high_risk
+    - frequency: 43.9%
