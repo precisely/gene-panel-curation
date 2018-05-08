@@ -1,0 +1,17 @@
+symbol: A1676G
+snp: rs31190
+chromosome: 5
+start: 1676
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 19.9%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 49.1%
+  - T:T
+    -effect: wildtype
+    - frequency: 31.0%
