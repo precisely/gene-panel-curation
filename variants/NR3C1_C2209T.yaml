@@ -1,0 +1,17 @@
+symbol: C2209T
+snp: rs31197
+chromosome: 5
+start: 2209
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: moderate_risk
+    - frequency: 90.9%
+  - C:T
+    - effect: wildtype
+    - frequency: 7.2%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.9%
