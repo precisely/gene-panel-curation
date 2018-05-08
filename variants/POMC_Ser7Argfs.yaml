@@ -1,0 +1,17 @@
+symbol: Ser7Argfs
+snp: rs511414
+chromosome: 2
+start: 
+genes:
+  - POMC
+variant_type: frameshift
+genotypes:
+  - :
+    - effect: wildtype
+    - frequency: 99.9%
+  - :CCACCCGAGGGGCCCCCGAGGGCCC
+    - effect: wildtype
+    - frequency: 0.1%
+  - CCACCCGAGGGGCCCCCGAGGGCCC:CCACCCGAGGGGCCCCCGAGGGCCC
+    -effect: high_risk
+    - frequency: 0.0%
