@@ -1,0 +1,17 @@
+symbol: G1430A
+snp: rs31195
+chromosome: 5
+start: 1430
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 90.9%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 7.2%
+  - T:T
+    -effect: wildtype
+    - frequency: 1.9%
