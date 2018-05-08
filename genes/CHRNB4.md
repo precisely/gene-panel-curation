@@ -36,7 +36,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What does this mean?
  
-    People with this variant have one copy of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223)
+    People with this variant have one copy of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -79,7 +79,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What does this mean?
  
-    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -122,7 +122,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What does this mean?
  
-    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
