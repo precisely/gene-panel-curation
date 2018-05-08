@@ -133,7 +133,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -176,7 +176,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -219,7 +219,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -262,7 +262,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -305,7 +305,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [G70589515A](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [G70589515A](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -348,7 +348,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C71302037T](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [C71302037T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -391,7 +391,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C70691635A](http://journals.sagepub.com/doi/10.4137/III.S25147)
+    People with this variant have one copy of the [C70691635A](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -434,7 +434,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [G71427327T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142822)
+    People with this variant have one copy of the [G71427327T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142822) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -477,7 +477,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380)
+    People with this variant have one copy of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -520,7 +520,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C71402258T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1106948)
+    People with this variant have one copy of the [C71402258T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1106948) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -563,7 +563,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C70616746T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142508)
+    People with this variant have one copy of the [C70616746T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=11142508) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -606,7 +606,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [T71417232G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12350232)
+    People with this variant have one copy of the [T71417232G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12350232) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -649,7 +649,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [A70605775G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12682832)
+    People with this variant have one copy of the [A70605775G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12682832) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -692,7 +692,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C71403580T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1891301)
+    People with this variant have one copy of the [C71403580T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1891301) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -735,7 +735,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [T70610886A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3763619)
+    People with this variant have one copy of the [T70610886A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3763619) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -778,7 +778,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [T71365306C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6560200)
+    People with this variant have one copy of the [T71365306C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6560200) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -821,7 +821,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [G70820112A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7022747)
+    People with this variant have one copy of the [G70820112A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7022747) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -864,7 +864,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [A70822908G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7038646)
+    People with this variant have one copy of the [A70822908G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7038646) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -907,7 +907,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What does this mean?
  
-    People with this variant have one copy of the [C37T](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/)
+    People with this variant have one copy of the [C37T](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
