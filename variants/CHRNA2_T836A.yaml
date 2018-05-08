@@ -1,0 +1,17 @@
+symbol: T836A
+snp: rs104894063  
+chromosome: 8
+start: 836
+genes:
+  - CHRNA2
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency:  
+  - A:T
+    - effect: wildtype
+    - frequency:  
+  - T:T
+    -effect: high_risk
+    - frequency:  
