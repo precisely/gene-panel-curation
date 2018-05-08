@@ -1,0 +1,17 @@
+symbol: T2259A
+snp: rs31188
+chromosome: 5
+start: 2259
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 27.5%
+  - T:A
+    - effect: wildtype
+    - frequency: 46.8%
+  - A:A
+    -effect: high_risk
+    - frequency: 25.7%
