@@ -1,0 +1,17 @@
+symbol: T889A
+snp: rs522582
+chromosome: 8
+start: 889
+genes:
+  - CHRNA2
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 50.5%
+  - T:A
+    - effect: wildtype
+    - frequency: 35.4%
+  - A:A
+    -effect: high_risk
+    - frequency: 14.1%
