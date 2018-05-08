@@ -1,0 +1,17 @@
+symbol: 113475530insA
+snp: rs1799732   
+chromosome: 11
+start: -486_-485
+genes:
+  - DRD2
+variant_type: insertion
+genotypes:
+  - :
+    - effect: wildtype
+    - frequency: 48.4%
+  - :A
+    - effect: wildtype
+    - frequency: 36.6%
+  - A:A
+    -effect: high_risk
+    - frequency: 15.0%
