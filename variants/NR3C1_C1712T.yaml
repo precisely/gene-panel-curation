@@ -1,0 +1,17 @@
+symbol: C1712T
+snp: rs31192
+chromosome: 5
+start: 1712
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 16.9%
+  - A:G
+    - effect: wildtype
+    - frequency: 49.9%
+  - G:G
+    -effect: high_risk
+    - frequency: 33.2%
