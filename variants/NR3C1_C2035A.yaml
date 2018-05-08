@@ -1,0 +1,17 @@
+symbol: C2035A
+snp: rs31196
+chromosome: 5
+start: 2035
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - C:C
+    - effect: wildtype
+    - frequency: 15.4%
+  - C:T
+    - effect: moderate_risk
+    - frequency: 49.8%
+  - T:T
+    -effect: wildtype
+    - frequency: 34.8%
