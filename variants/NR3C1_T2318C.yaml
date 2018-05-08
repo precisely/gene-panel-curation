@@ -1,0 +1,17 @@
+symbol: T2318C
+snp: rs31194
+chromosome: 5
+start: 2318
+genes:
+  - NR3C1
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: high_risk
+    - frequency: 66.3%
+  - T:C
+    - effect: wildtype
+    - frequency: 25.2%
+  - C:C
+    -effect: wildtype
+    - frequency: 8.5%
