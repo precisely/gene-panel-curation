@@ -1,0 +1,17 @@
+symbol: 1891_1892+2delGAGT
+snp: rs31187
+chromosome: 5
+start: 1891_1892+2
+genes:
+  - NR3C1
+variant_type: deletion
+genotypes:
+  - :
+    - effect: wildtype
+    - frequency: 25.8%
+  - :GAGT
+    - effect: wildtype
+    - frequency: 47.4%
+  - GAGT:GAGT
+    -effect: high_risk
+    - frequency: 26.8%
