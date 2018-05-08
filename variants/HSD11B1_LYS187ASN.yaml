@@ -1,0 +1,17 @@
+symbol: LYS187ASN
+snp: rs40273
+chromosome: 1
+start: *354
+genes:
+  - HSD11B1
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 92.2%
+  - T:C
+    - effect: high_risk
+    - frequency: 3.8%
+  - C:C
+    -effect: wildtype
+    - frequency: 4.1%
