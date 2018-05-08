@@ -1,0 +1,17 @@
+symbol: Ile197Val
+snp: rs6304   
+chromosome: 13
+start: 589
+genes:
+  - HTR2A
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 96.9%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 1.3%
+  - C:C
+    -effect: high_risk
+    - frequency: 1.8%
