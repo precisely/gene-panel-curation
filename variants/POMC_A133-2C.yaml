@@ -1,0 +1,17 @@
+symbol: A133-2C
+snp: RS428043
+chromosome: 2
+start: 133-2
+genes:
+  - POMC
+variant_type: snv
+genotypes:
+  - A:A
+    - effect: wildtype
+    - frequency: 20.8%
+  - A:C
+    - effect: wildtype
+    - frequency: 45.6%
+  - C:C
+    -effect: high_risk
+    - frequency: 33.6%
