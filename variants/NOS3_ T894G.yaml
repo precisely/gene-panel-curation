@@ -1,0 +1,17 @@
+symbol:  T894G
+snp: rs29054
+chromosome: 7
+start: 894
+genes:
+  - NOS3
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 96.3%
+  - T:G
+    - effect: wildtype
+    - frequency: 2.9%
+  - G:G
+    -effect: high_risk
+    - frequency: 0.8%
