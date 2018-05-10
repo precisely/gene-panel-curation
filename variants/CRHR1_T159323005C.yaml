@@ -1,0 +1,17 @@
+symbol: T159323005C
+snp: rs1218523
+chromosome: 17
+start: 1415-10892
+genes:
+  - CRHR1
+variant_type: snv
+genotypes:
+  - T:T
+    - effect: wildtype
+    - frequency: 69.7%
+  - T:C
+    - effect: moderate_risk
+    - frequency: 15.7%
+  - C:C
+    -effect: high_risk
+    - frequency: 14.6%
