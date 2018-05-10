@@ -1,0 +1,17 @@
+symbol: G-179T
+snp: rs29763
+chromosome: 12
+start: -179
+genes:
+  - IFNG
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 97.8%
+  - G:T
+    - effect: high_risk
+    - frequency: 1.7%
+  - T:T
+    -effect: high_risk
+    - frequency: 0.5%
