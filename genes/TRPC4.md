@@ -11,7 +11,7 @@ This gene is located on chromosome 13. The protein it creates acts in your endom
 
 # What are some common mutations of TRPC4?
  
-There are three variants in TRPC4: [G37668344T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1570612), [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2985167), and [G37793875T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=655207).
+There are four common variants in TRPC4: [G37668344T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1570612), [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2985167), [G37793875T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=655207), and [C37793812T](https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=6650469).
 
 <# G37668344T #>
   <Variant hgvs="NC_000013.11:g.37668344G>T" name="G37668344T"> 
@@ -29,6 +29,12 @@ There are three variants in TRPC4: [G37668344T](https://www.ncbi.nlm.nih.gov/pro
   <Variant hgvs="NC_000013.11:g.37793875G>T" name="G37793875T"> 
 
     This variant is a change at a specific point in the TRPC4 gene from cytosine (C) to adenine (A) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+
+  </Variant>
+<# C37793812T #>
+  <Variant hgvs="NC_000013.11:g.37793812C>T" name="C37793812T"> 
+
+    This variant is a change at a specific point in the TRPC4 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 
@@ -160,6 +166,49 @@ There are three variants in TRPC4: [G37668344T](https://www.ncbi.nlm.nih.gov/pro
     # How common is this genotype in the general population?
 
     <piechart percentage=25.6 />
+  </Genotype>
+<# C37793812T #>
+  <Genotype hgvs="NC_000013.11:g.[37793812C>T];[37793812=]" name="C37793812T"> 
+
+    # What does this mean?
+ 
+    People with this variant have one copy of the [C37793812T](https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=6650469) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=48 />
+  </Genotype>
+  <Genotype hgvs="NC_000013.11:g.[37793812C>T];[37793812C>T]" name="C37793812T"> 
+ 
+    # What does this mean?
+
+    People with this variant have two copies of the [C37793812T](https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=6650469) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    You are in the Moderate Loss of Function category. See below for more information.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=28 />
+  </Genotype>
+  <Genotype hgvs="NC_000013.11:g.[37793812=];[37793812=]" name="C37793812T"> 
+ 
+    # What does this mean?
+
+    Your TRPC4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=24 />
   </Genotype>
 <# unknown #>
   <Genotype hgvs="unknown"> 
