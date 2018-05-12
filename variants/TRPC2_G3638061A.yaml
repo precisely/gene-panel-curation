@@ -1,0 +1,17 @@
+symbol: G3638061A
+snp: rs6578398
+chromosome: 11
+start: ?
+genes:
+  - TRPC2
+variant_type: snv
+genotypes:
+  - G:G
+    - effect: wildtype
+    - frequency: 30.6%
+  - G:A
+    - effect: high_risk
+    - frequency: 45.6%
+  - A:A
+    -effect: wildtype
+    - frequency: 23.8%
