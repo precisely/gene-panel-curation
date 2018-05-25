@@ -134,3 +134,5 @@ This variant is much more common in people with [ME/CFS]( https://www.ncbi.nlm.n
 * Watch for eye lens dislocations, unusual (Marfan type) body shape, stroke, blood clotting abnormalities, and low thyroid hormones (hypothyroidism).
 
 <symptoms fatigue D005221 memory problems D008569 inflamation D007249 muscle aches and pain D063806 />
+
+<diseases D000740 D019636 D000752 D002318 D005767 D015673 D003327 D020521 D016491 D005222 />
