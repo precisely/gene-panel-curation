@@ -398,3 +398,4 @@ Chronic pain relief may include:
 
 <symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 joint pain without swelling or redness D018771 inflamation D007249 />
 
+<diseases D007249 D000699 D003294 D004198 D004827 D004916 D005356 D009477 D010146 D010523 D015673 D018856 D020022 D043183 D059350 />
