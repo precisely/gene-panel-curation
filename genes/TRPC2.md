@@ -179,3 +179,5 @@ Many dietary supplements have been found to increase natural killer cell functio
 - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
 <symptoms fatigue D005221 pain D010146 tender lymph nodes D000072281 inflamation D007249 />
+
+<diseases D015673 D004198 D020022 />
