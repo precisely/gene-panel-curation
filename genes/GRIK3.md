@@ -217,3 +217,5 @@ CFS is linked to improper Glutamate:GABA balance, as well as exposure to extrace
 Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
 
 <symptoms depression, stress, problems with thinking or memory, brain fog, pain />
+
+<diseases D012559 D003866 D015673 D004198 D020022 />
