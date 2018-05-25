@@ -512,3 +512,5 @@ These variants are more common in [CFS](http://institutferran.org/documentos/est
 Drugs currently used for SLC6A4 issues include [antidepressants, dopamine, doxepin, tramadol, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 <symptoms fatigue D005221 depression D003863 stress D040701 anxiety D001007 />
+
+<diseases D000437 D015673 D001008 D003866 D009771 D019964 D001714 D005222 D018763 D005221 D001008 D000075384 D019964 />
