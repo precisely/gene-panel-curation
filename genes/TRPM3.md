@@ -1110,3 +1110,5 @@ This variant causes [retinal dystrophy and iris coloboma with or without congeni
 Symptoms may improve after removal of cataracts, and should be monitored carefully to prevent further lens and iris adhesion due to [incorrect surgery](https://www.ncbi.nlm.nih.gov/pubmed/19246951).
 
 <symptoms  vision problems D014786 pain D010146 chills and night sweats D023341 multiple chemical sensitivity/allergies D018777 inflamation D007249 />
+
+<disease D010146 D059350 D019636 D002386 D005901 D001168 D001172 D003920 D015673 D004198 D020022 D006706 D007249 D010146 D059350 D053201 D029424 D006332 D000544 D009369 D010523 D012871 D058499 />
