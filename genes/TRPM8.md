@@ -400,3 +400,5 @@ The A233974736G A:G heterozygous variant has an increased risk of CFS, with an [
 Some general therapies are associated with TRPM8 variants. Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
 
 <symptoms pain, muscle pain, headache, inflammation />
+
+<diseases D001943 D024821 D008881 D010190 D011471 D000437 D029424 D001249 D007249 D010146 D059350 D010523 D015673 />
