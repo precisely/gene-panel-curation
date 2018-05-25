@@ -217,3 +217,5 @@ opioid analgesics and other drugs that have to be demethylated (the removal of o
 * Low thyroid hormones (hypothyroidism)
 
 <symptoms fatigue D005221 memory problems D008569 inflamation D007249 />
+
+<disease D005221 D005222 D018763 D003866 D007037 />
