@@ -305,7 +305,7 @@ Many dietary supplements have been found to increase natural killer cell functio
 - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
 - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726)
 
-<# symptoms: anxiety; pain; inflamation;  />
+<# symptoms: anxiety; pain; inflamation;  #>
 
 <symptoms D001007 D010146  D007249 />
 
