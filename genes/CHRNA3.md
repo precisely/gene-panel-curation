@@ -1,8 +1,14 @@
+<Gene_Name CHRNA3 />
+
+<GeneName_full Neuronal acetylcholine receptor subunit alpha-3 />
+
 # What does the CHRNA3 gene do?
 
 CHRNA3 (Neuronal acetylcholine receptor subunit alpha-3) encodes a nicotine neurotransmitter receptor protein called [acetylcholine](http://www.uniprot.org/citations/8906617) that regulates nicotine dependence and nicotine receptor proliferation and destruction. It also controls [ion](http://www.uniprot.org/citations/20438829) and [serotonin](https://www.ebi.ac.uk/QuickGO/term/GO:0022850) channels in the brain.  Variants in this gene have been associated with [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/22290489), increased daily [cigarette consumption](https://www.ncbi.nlm.nih.gov/pubmed/23870182), [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/19836008), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). 
 
 This gene is located on chromosome 15. The protein it creates acts in your brain, nervous system, and immune system.
+
+<# tissue brain bone marrow and immune system #>
 
 <TissueList brain D001921 bone marrow and immune system D007107  />
 
