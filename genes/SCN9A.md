@@ -1,10 +1,16 @@
+<Gene_Name SCN9A />
+
+<GeneName_full sodium channel protein type 9 subunit alpha />
+
 # What does the SCN9A gene do?
 
 SCN9A (sodium channel protein type 9 subunit alpha) control [sodium channels](http://www.uniprot.org/citations/17145499) in neurons that are part of the autonomic (involuntary) nervous system.  The channels are controlled by voltage differences across membranes and help to [feel pain](http://www.uniprot.org/citations/17145499) and develop [inflammatory pain](http://www.uniprot.org/citations/17167479).  Numerous diseases are caused by [variants](https://www.ncbi.nlm.nih.gov/pubmed/23129781) in SCN9A, such as [congenital insensitivity or indifference to pain (CIP)](https://www.ncbi.nlm.nih.gov/pubmed/20635406), [primary erythromelalgia (PERYTHM)](https://www.ncbi.nlm.nih.gov/pubmed/14985375), [paroxysmal extreme pain disorder (PEPD)](https://www.ncbi.nlm.nih.gov/pubmed/17145499), [generalized epilepsy with febrile seizures](https://www.ncbi.nlm.nih.gov/pubmed/19763161), [fibromyalgia](https://www.ncbi.nlm.nih.gov/pubmed/29392201), and [CFS](https://www.ncbi.nlm.nih.gov/pubmed/29392201). 
 
 This gene is located on chromosome 2. The protein it creates acts in your nervous system and brain.
 
-<TissueList brain D001921 />
+<# TissueList brain D001921 #>
+
+<TissueList D001921 />
 
 <GeneAnalysis gene="SCN9A" interval="NC_000002.12:g.166195185_166375987">
 
@@ -396,6 +402,12 @@ Chronic pain relief may include:
 *  [Cyclobenzaprine, pregabalin, duloxetine, or milnacipran](https://www.ncbi.nlm.nih.gov/pubmed/19410099/)
 *  [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
-<symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 joint pain without swelling or redness D018771 inflamation D007249 />
+<# symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 joint pain without swelling or redness D018771 inflamation D007249 #>
+
+<symptoms D005221 D010146 D063806 D018771 D007249 />
+
+<# diseases inflammation	D007249 pain, congenital insensitivity or indifference to pain (CIP)	D000699 febrile seizures	D003294
+ Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 epilepsy	D004827
+pain, primary erythromelalgia (PERYTHM)	D004916 fibromyalgia	D005356 pain, Hereditary sensory and autonomic neuropathy type II (HSAN2)	pain, paroxysmal extreme pain disorder (PEPD D009477 pain  	D010146 pain, neuropathy	D010523 ME/CFS	D015673 interstitial cystitis	D018856 disease, Genetic Predisposition to Disease	D020022 irritable bowel syndrome (IBS)	D043183 pain, chronic pain	D059350 />
 
 <diseases D007249 D000699 D003294 D004198 D004827 D004916 D005356 D009477 D010146 D010523 D015673 D018856 D020022 D043183 D059350 />
