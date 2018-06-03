@@ -522,6 +522,6 @@ Drugs currently used for SLC6A4 issues include [antidepressants, dopamine, doxep
 <symptoms D005221 D003863 D040701 D001007 />
 
 <# diseases alcohol dependence D000437 ME/CFS D015673 anxiety D001008 depression D003866 OCD
-OCD	D009771 mood disorder	D019964 bipolar disorder	D001714 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 fatigue	D005221 anxiety	D001008neuroticism	D000075384mood disorder	D019964 #>
+OCD	D009771 mood disorder	D019964 bipolar disorder	D001714 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 fatigue	D005221 anxiety	D001008 neuroticism	D000075384 mood disorder	D019964 #>
 
 <diseases D000437 D015673 D001008 D003866 D009771 D019964 D001714 D005222 D018763 D005221 D001008 D000075384 D019964 />
