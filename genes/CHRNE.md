@@ -1,10 +1,16 @@
+<Gene_Name CHRNE />
+
+<GeneName_full AchR epsilon subunit />
+
 # What does the CHRNE gene do?
 
 The CHRNE gene encodes a protein found in neuromuscular junctions that opens ion-conducting channels across cell membranes. It is involved in [muscle contractions, response to nicotine, synaptic transmission, and transport](http://www.uniprot.org/uniprot/Q04844#function). Variants in CHRNE are associated with the autoimmune disorder [myasthenia gravis](https://www.omim.org/entry/254200) as well as congenital myasthenic syndrome [4a](https://www.omim.org/entry/605809), [4b](https://www.omim.org/entry/616324), and [4c](https://www.omim.org/entry/608931), which cause progressive muscle weakness. Other variants reduce natural killer cell function in the immune system and are associated with [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). 
 
 This gene is located on chromosome 17. The protein it creates acts in your immune system and muscles.
 
-<TissueList brain immune circularity muscles D001921 D007107 D002319 D009132 />
+<# TissueList brain immune circularity muscles #>
+
+<TissueList 001921 D007107 D002319 D009132 />
 
 <GeneAnalysis gene="CHRNE" interval="NC_000017.11 :g.4897769_4905019"> 
 
@@ -183,4 +189,10 @@ Congenital myasthenic syndromes are a group of rare disorders that affects the p
 
 Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
 
+<# symptoms fatigue D005221 #>
+
 <symptoms fatigue D005221 />
+
+<# diseases autoimmune disorder	D001327 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 disease, Genetic Predisposition to Disease	D020022 ME/CFS	D015673 fatigue	D005221 fatigue, muscle fatigue	D018763 scoliosis	D012600 Myasthenia Gravis	D009157 Muscle Weakness	D018908 #>
+
+<diseases D001327	D020022	D015673	D005221	D018763	D012600	D009157	D018908 />
