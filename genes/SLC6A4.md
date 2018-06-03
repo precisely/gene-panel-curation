@@ -1,10 +1,16 @@
+<Gene_Name SLCA4 />
+
+<GeneName_full Sodium-driven chloride bicarbonate exchanger />
+
 # What does the SLCA4 gene do?
 
 The SLC6A4 gene creates a protein targeted by many SSRI antidepressants that transports serotonin to be recycled. Variants in this gene cause 5%-95% loss of protein function, causing brain fog, anxiety, and post-exertional malaise. It is linked to [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22355291?dopt=Abstract), [increased susceptibility to ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/14592408), and [mood disorders](https://www.ncbi.nlm.nih.gov/pubmed/12130784), such as [OCD,](https://www.ncbi.nlm.nih.gov/pubmed/16642437) [depression,](https://www.ncbi.nlm.nih.gov/pubmed/26979101) and [bipolar disorder.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
 This gene is located on chromosome 17. The protein it creates acts in your brain and nervous system.
 
-<TissueList brain D001921 />
+<# TissueList brain D001921 #>
+
+<TissueList D001921 />
 
 <GeneAnalysis gene="SLCA4" interval="NC_000017.11:g.30194319_30235968"> 
 
@@ -511,6 +517,11 @@ These variants are more common in [CFS](http://institutferran.org/documentos/est
 
 Drugs currently used for SLC6A4 issues include [antidepressants, dopamine, doxepin, tramadol, and many more.](http://www.uniprot.org/uniprot/P31645#pathology_and_biotech)
 
-<symptoms fatigue D005221 depression D003863 stress D040701 anxiety D001007 />
+<# symptoms fatigue D005221 depression D003863 stress D040701 anxiety D001007 #>
+
+<symptoms D005221 D003863 D040701 D001007 />
+
+<# diseases alcohol dependence D000437 ME/CFS D015673 anxiety D001008 depression D003866 OCD
+OCD	D009771 mood disorder	D019964 bipolar disorder	D001714 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 fatigue	D005221 anxiety	D001008neuroticism	D000075384mood disorder	D019964 #>
 
 <diseases D000437 D015673 D001008 D003866 D009771 D019964 D001714 D005222 D018763 D005221 D001008 D000075384 D019964 />
