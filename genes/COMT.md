@@ -1,10 +1,16 @@
+<Gene_Name COMT />
+
+<GeneName_full Catechol O-methyltransferase />
+
 # What does the COMT gene do?
 
 The COMT gene creates an enzyme that helps break down and balance levels of dopamine and norepinephrine in nerve cells. It also detoxifies [estrogen](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) in the liver, kidneys, and blood. Variants may cause [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/16232322?dopt=Abstract), [depression](https://www.ncbi.nlm.nih.gov/pubmed/19520435?dopt=Abstract), muscle pain and fatigue, and [reduced pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/22528689?dopt=Abstract). They are linked to [endometrial](https://www.ncbi.nlm.nih.gov/pubmed/18324659?dopt=Abstract) and [breast](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) cancer, [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), [endometriosis](https://www.ncbi.nlm.nih.gov/pubmed/24965973), [alcoholism](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract), and [nicotine](https://www.ncbi.nlm.nih.gov/pubmed/16395295?dopt=Abstract) dependency.
 
 This gene is located on chromosome 22. The enzyme it creates acts in your brain, nervous system, liver, kidney, and blood.
 
-<TissueList brain liver kidney blood D001921 D005221 D005221 D002319  />
+<# TissueList brain liver kidney blood D001921 D005221 D005221 D002319  #>
+
+<TissueList D001921 D005221 D005221 D002319  />
 
 <GeneAnalysis gene="COMT" interval="NC_000022.11:g.19941740_19969975"> 
 
@@ -500,5 +506,13 @@ Oxidative stress may be mitigated through environmental changes, [antioxidants](
 * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
 * Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
 
-<symptoms pain muscle fatigue POTS stress problems with thinking or memor, brain fog post exertional malaise sleep disorder depression anxiety />
+<#symptoms pain muscle fatigue POTS stress problems with thinking or memor, brain fog post exertional malaise sleep disorder depression anxiety #>
 
+<symptoms D010146 D063806 D054971 D040701 D008569 C2721712 D012893 D003863 D001007 />
+
+<# diseases  cancer	D009369 cancer, breast	D001943 cancer, endometrial cancer	D016889 fatigue, mental fatigue	D005222
+depression	D003866 ME/CFS	D015673 pain  	D010146 pain, paroxysmal extreme pain disorder (PEPD	D009477 homeostasis	D006706 nicotine dependency	D014029 alcohol dependence	D000437 cocaine dependence	D019970 metabolic syndrome	D024821 venous thrombosis	D020246 stroke	D020521 coronary heart disease	D003327 Postural Orthostatic Tachycardia Syndrome	D054972 pain, chronic pain	D059350
+fatigue	D005221 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 schizophrenia	D012559 diabetes	D003920
+anxiety	D001008 pain, muscle pain	D063806 endometriosis	D004715 #>
+
+<diseases	D009369	D001943	D016889	D005222	D003866	D015673	D010146	D006706	D014029	D000437	D019970	D024821	D020246	D020521	D003327	D054972	D059350	D005221	D005222	D018763	D012559	D003920	D001008	D063806	D004715 />
