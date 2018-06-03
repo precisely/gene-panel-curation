@@ -1,3 +1,7 @@
+<Gene_Name TRPM8 />
+
+<GeneName_full Transient receptor potential cation channel subfamily M member 8 />
+
 # What does the TRPM8 gene do?
 
 The TRPM8 gene encodes a cation channel active at [low temperatures](https://www.ncbi.nlm.nih.gov/pubmed/14757700?dopt=Abstract) that allows the movement of sodium, potassium, calcium, and cesium across plasma barriers. It allows the body to detect [temperature
@@ -5,7 +9,9 @@ changes](https://www.ncbi.nlm.nih.gov/pubmed/17217067), respond to cold, balance
 
 This gene is located on chromosome 2. The cation channel it creates acts in your nervous, immune, and sensory systems
 
-<TissueList brain, bone marrow and immune system, circulatory and cardiovascular system, respiratory system and lung />
+<# TissueList brain, bone marrow and immune system, circulatory and cardiovascular system, respiratory system and lung #>
+
+<TissueList D001921 D012137 D007107 D002319 />
 
 <GeneAnalysis gene="TRPM8" interval="NC_000002.12:g.233917342_234019522"> 
 
@@ -399,6 +405,10 @@ The A233974736G A:G heterozygous variant has an increased risk of CFS, with an [
 
 Some general therapies are associated with TRPM8 variants. Avoid cold air [below 25˚ C](http://www.uniprot.org/uniprot/Q7Z2W7). The carboxamide [WS-12](https://www.ncbi.nlm.nih.gov/pubmed/18930858) (a menthol derivative with much higher efficacy and potency) or [icilin](https://www.ncbi.nlm.nih.gov/pubmed/17517434) may protect against increased cold perception by upregulating the TRPM8 gene.  Other medications include [menthol and eucalyptol](https://www.ncbi.nlm.nih.gov/pubmed/14757700). 
 
-<symptoms pain, muscle pain, headache, inflammation />
+<# symptoms pain, muscle pain, headache, inflammation #>
+
+<symptoms D010146 D063806 D006261 D007249 />
+
+<# diseases: cancer, breast; metabolic syndrome; migraine; cancer, pancreatic; cancer; cancer, prostate cancer; alcohol dependence COPD asthma; inflammation; pain; pain, chronic pain; pain, neuropathy; ME/CFS #>
 
 <diseases D001943 D024821 D008881 D010190 D011471 D000437 D029424 D001249 D007249 D010146 D059350 D010523 D015673 />
