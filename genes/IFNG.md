@@ -183,7 +183,7 @@ This pathogenic, or disease causing variant, is associated with [rapid progressi
 
 People who are HIV positive should carefully monitor CD4 levels. [Medications](http://www.uniprot.org/uniprot/P01579) used for IFNG variants include: [Apremilast](https://www.drugbank.ca/drugs/DB05676), [Fontolizumab](https://www.drugbank.ca/drugs/DB05111), [Glucosamine](https://www.drugbank.ca/drugs/DB01296), [Olsalazine](https://www.drugbank.ca/drugs/DB01250), and [VIR201](https://www.drugbank.ca/drugs/DB05110).
 
-<#symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 tender lymph nodes D000072281 inflamation D007249 #>
+<# symptoms fatigue D005221 pain D010146 muscle aches and pain D063806 tender lymph nodes D000072281 inflamation D007249 #>
 
 <symptoms D005221 D010146 D063806 D000072281 D007249 />
 
