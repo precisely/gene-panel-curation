@@ -1,10 +1,16 @@
+<Gene_Name CLYBL />
+
+<GeneName_full Citramalyl-CoA lyase, mitochondrial />
+
 # What does the CLYBL gene do?
 
 CLYBL ([Citramalyl-CoA lyase, mitochondrial)](http://www.uniprot.org/uniprot/Q8N0X4#pathology_and_biotech) creates a mitochondrial enzyme involved  in the metabolism of vitamin B12 (cobalamin). It also mediates magnesium ion and metal binding and malate synthase. Vitamin B12 plays a fundamental role as a cofactor in several metabolic pathways, including [detoxification](https://www.ncbi.nlm.nih.gov/pubmed/19409980) due to its substantial [antioxidant](https://www.ncbi.nlm.nih.gov/pubmed/19799418) properties. Vitamin B12 deficiency is linked to [pernicious anemia, neurodegenerative disorder, cardiovascular disease, gastrointestinal disease](https://www.ncbi.nlm.nih.gov/pubmed/22367966), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/29100069).
 
 This gene is located on chromosome 13. The mitochondrial enzyme it creates acts in your [kidney, liver](https://www.ncbi.nlm.nih.gov/gene/171425#gene-expression), and blood.
+
+<# TissueList circulatory and cardiovascular system D002319 Kidney and urinary bladder D005221 liver D008099  #>
  
-<TissueList circulatory and cardiovascular system D002319 Kidney and urinary bladder D005221 liver D008099  />
+<TissueList D002319 D005221 D008099  />
 
 <GeneAnalysis gene="CLYBL" interval="NC_000013.11:g.99606664_99909459"> 
 
@@ -133,6 +139,12 @@ This variant is much more common in people with [ME/CFS]( https://www.ncbi.nlm.n
 * Check homocysteine levels, and consider taking [folate](https://medlineplus.gov/druginfo/natural/1017.html) if elevated.
 * Watch for eye lens dislocations, unusual (Marfan type) body shape, stroke, blood clotting abnormalities, and low thyroid hormones (hypothyroidism).
 
+<# symptoms D005221 D008569 D007249 D063806 #>
+
 <symptoms fatigue D005221 memory problems D008569 inflamation D007249 muscle aches and pain D063806 />
 
-<diseases D000740 D019636 D000752 D002318 D005767 D015673 D003327 D020521 D016491 D005222 />
+<# diseases anemia	D000740 neurodegenerative disorder	D019636 anemia, pernicious anemia	D000752 cardiovascular disease	D002318
+ gastrointestinal disease	D005767 ME/CFS	D015673 coronary heart disease	D003327 stroke	D020521 peripheral vascular disease	D016491
+ fatigue, mental fatigue	D005222 fatigue	D005221 #>
+
+<diseases D000740 D019636 D000752 D002318 D005767 D015673 D003327 D020521 D016491 D005222 D005221 />
