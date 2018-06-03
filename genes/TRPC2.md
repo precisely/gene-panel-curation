@@ -1,10 +1,16 @@
+<Gene_Name TRPC2 />
+
+<GeneName_full transient receptor potential cation channel, subfamily C, member 2 />
+
 # What does the TRPC2 gene do?
 
 TPRC [(transient receptor potential cation channel, subfamily C, member 2)](https://www.ncbi.nlm.nih.gov/gene/7221) is a pseudogene, or partially functional gene found in other species such as mouse and monkey, that encodes a protein. This may help form [permeable calcium cation channels](https://www.ncbi.nlm.nih.gov/pubmed/17517433) that are active in [neurons and sperm cells](https://www.ncbi.nlm.nih.gov/pubmed/17217050). These pathways are activated by pheromones and moderate [aggression and the immune system](https://www.ncbi.nlm.nih.gov/pubmed/17217050). Variants have been linked to [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to impaired natural killer cell activity.
 
 This gene is located on chromosome 11. The protein it creates acts in your bone marrow and lungs.
 
-<TissueList respiratory system and lung D012137  bone marrow and immune system D007107   />
+<# TissueList respiratory system and lung D012137  bone marrow and immune system D007107   #>
+
+<TissueList D012137 D007107   />
 
 <GeneAnalysis gene="TRPC2" interval="NC_000011.10:g.3626460_3637559"> 
 
@@ -178,6 +184,10 @@ Many dietary supplements have been found to increase natural killer cell functio
 - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
 - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
-<symptoms fatigue D005221 pain D010146 tender lymph nodes D000072281 inflamation D007249 />
+<# symptoms fatigue D005221 pain D010146 tender lymph nodes D000072281 inflamation D007249 #>
+
+<symptoms D005221 D010146 D000072281 D007249 />
+
+<# diseases ME/CFS	D015673 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections D004198 disease, Genetic Predisposition to Disease D020022 #>
 
 <diseases D015673 D004198 D020022 />
