@@ -1,3 +1,7 @@
+<Gene_Name MTHFR />
+
+<GeneName_full Methylenetetrahydrofolate reductase />
+
 # What does the MTHFR gene do?
 
 MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
@@ -5,8 +9,9 @@ methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hyperme
 
 This gene is located on chromosome 1. The enzyme it creates acts in your endocrine system and pancreas.
 
+<# TissueList D004703 D010179 endocrine pancreas #>
 
-<TissueList D004703 D010179 endocrine pancreas />
+<TissueList D004703 D010179 />
 
 <GeneAnalysis gene="MTHFR" interval="NC_000001.11 :g.11785730_11806103"> 
 
@@ -216,6 +221,11 @@ opioid analgesics and other drugs that have to be demethylated (the removal of o
 * Blood clotting abnormalities
 * Low thyroid hormones (hypothyroidism)
 
-<symptoms fatigue D005221 memory problems D008569 inflamation D007249 />
+<# symptoms fatigue D005221 memory problems D008569 inflamation D007249 #>
+
+<symptoms D005221 D008569 D007249 />
+
+<# disease fatigue	D005221 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 depression	D003866
+ hypothyroid	D007037 #>
 
 <disease D005221 D005222 D018763 D003866 D007037 />
