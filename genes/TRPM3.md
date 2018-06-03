@@ -1,11 +1,16 @@
+<Gene_Name TRPM3 />
+
+<GeneName_full transient receptor potential cation channel subfamily M member 3 />
+
 # What does the TRPM3 gene do?
 
 TRPM3 (transient receptor potential cation channel subfamily M member 3) controls [calcium channels](http://www.uniprot.org/uniprot/Q9HCF6#expression). These channels help to detect temperature and pain to maintain homeostasis in the body, and incorrect function may lead to [generalized pain and central nervous system impairments](https://link.springer.com/article/10.1007/s10067-006-0433-9). Linked health issues include [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines](http://jme.endocrinology-journals.org/content/50/3/R75.short). In ME/CFS patients, variants may be linked to [insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short), [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), [problems maintaining body temperature](http://pediatrics.aappublications.org/content/120/1/e129.short), and [impaired natural killer cell (NKC) function, which may lead to increased inflammation and illness](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
 
 This gene is located on chromosome 9. The protein it creates acts in your brain and kidneys.
 
+<# TissueList brain Kidney #>
 
-<TissueList brain D001921 Kidney D005221  />
+<TissueList D001921 D005221  />
 
 <GeneAnalysis gene="TRPM3" interval="NC_000009.12:g.70529063_71446950"> 
 
@@ -1109,6 +1114,10 @@ This variant causes [retinal dystrophy and iris coloboma with or without congeni
 
 Symptoms may improve after removal of cataracts, and should be monitored carefully to prevent further lens and iris adhesion due to [incorrect surgery](https://www.ncbi.nlm.nih.gov/pubmed/19246951).
 
-<symptoms  vision problems D014786 pain D010146 chills and night sweats D023341 multiple chemical sensitivity/allergies D018777 inflamation D007249 />
+<# <symptoms  vision problems D014786 pain D010146 chills and night sweats D023341 multiple chemical sensitivity/allergies D018777 inflamation D007249 #>
+
+<symptoms  D014786 D010146 D023341 D018777 D007249 />
+
+<# disease pain pain, chronic pain neurodegenerative disorder cataracts	D002386 glaucoma	D005901 arthritis	D001168 arthritis, rheumatoid arthritis	D001172 diabetes	D003920 ME/CFS	D015673 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 disease, Genetic Predisposition to Disease	D020022 homeostasis	D006706 inflammation	D007249 pain  	D010146 pain, chronic pain	D059350 overactive bladder	D053201 COPD	D029424 cardiac hypertrophy	D006332 alzheimers	D000544 cancer	D009369 pain, neuropathy	D010523 skin diseases	D012871 RETINAL DYSTROPHY AND IRIS COLOBOMA WITH OR WITHOUT CONGENITAL CATARACT; RDICC	D058499 #>
 
 <disease D010146 D059350 D019636 D002386 D005901 D001168 D001172 D003920 D015673 D004198 D020022 D006706 D007249 D010146 D059350 D053201 D029424 D006332 D000544 D009369 D010523 D012871 D058499 />
