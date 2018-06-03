@@ -1,11 +1,16 @@
+<Gene_Name CHRNA5 />
+
+<GeneName_full neuronal acetylcholine receptor subunit alpha-5 />
+
 # What does the CHRNA5 gene do?
 
 The CHRNA5 ([neuronal acetylcholine receptor subunit alpha-5](http://www.uniprot.org/uniprot/P30532)) gene creates a protein that operates [ion and cation channels](http://www.uniprot.org/citations/20438829) in the plasma membranes in neurons. These channels control [fast signal transmission at synapses](https://www.ncbi.nlm.nih.gov/gene/1138) and cause the body’s response to [nicotine](http://www.uniprot.org/citations/18227835) and [neuromuscular synaptic transmission](http://www.uniprot.org/uniprot/P30532). Variants in CHRNA5 cause [increased](https://www.ncbi.nlm.nih.gov/pubmed/19443489) [susceptibility](https://www.ncbi.nlm.nih.gov/pubmed/18385738) to [lung](https://www.ncbi.nlm.nih.gov/pubmed/20643934) [cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385739) and [chronic obstructive pulmonary disease (COPD)](https://www.ncbi.nlm.nih.gov/pubmed/26771213). Variants that cause [increased](https://www.ncbi.nlm.nih.gov/pubmed/1944348) [risk](https://www.ncbi.nlm.nih.gov/pubmed/18385738) of [smoking](https://www.ncbi.nlm.nih.gov/pubmed/18385739) also causes greater [difficulty](https://www.ncbi.nlm.nih.gov/pubmed/20643934) in [cessation](https://www.ncbi.nlm.nih.gov/pubmed/28884473), greater numbers of [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27344179), and higher rates of [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/25826680). Variants are also associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) dysfunction.
 
 This gene is located on chromosome 15. The protein it creates acts in your lungs, immune system, nervous system, and brain.
 
+<# TissueList brain D001921  respiratory system and lung D012137  bone marrow and immune system D007107 #>
 
-<TissueList brain D001921  respiratory system and lung D012137  bone marrow and immune system D007107 />
+<TissueList D001921 D012137 D007107 />
 
 <GeneAnalysis gene="CHRNA5" interval="NC_000015.10:G.78565520_78595269"> 
 
