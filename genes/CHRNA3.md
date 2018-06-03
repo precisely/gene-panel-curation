@@ -253,4 +253,10 @@ People also should not smoke. If you do smoke, be aware of your greatly increase
 
 [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
-<symptoms fatigue D005221 inflamation D007249 anxiety D001007 depression D003863 />
+<# symptoms: fatigue; inflamation; anxiety; depression;  #>
+
+<symptoms D005221 D007249 D001007 D003863  />
+
+<#diseases: cancer;	 cancer, lung cancer; COPD; anxiety;	ME/CFS;	nicotine dependency;	autoimmune disorder;	Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections;	disease, Genetic Predisposition to Disease	mood disorder	cocaine dependence; schizophrenia, fatigue; 	depression; coronary heart disease; 	inflammation; 	#>
+
+<disease D009369	D008175	D029424	D001008	D015673	D014029	D001327	D004198	D020022	D019964 cocaine dependence	D019970 D012559 D005221 D003866	D003327	D007249 />
