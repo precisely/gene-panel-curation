@@ -10,7 +10,9 @@ This gene is located on chromosome 17. The protein it creates acts in your immun
 
 <# TissueList brain immune circularity muscles #>
 
+
 <TissueList 001921 D007107 D002319 D009132 />
+
 
 <GeneAnalysis gene="CHRNE" interval="NC_000017.11 :g.4897769_4905019"> 
 
