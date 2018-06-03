@@ -1,11 +1,16 @@
+<Gene_Name GRIK3 />
+
+<GeneName_full Glutamate receptor ionotropic, kainate 3 />
+
 # What does the GRIK3 gene do?
 
 The GRIK3 gene creates a protein that helps form receptors for the transmitter [glutamate.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Problems creating or absorbing glutamate are linked to [schizophrenia, depression, and memory problems.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Sustained exposure to excess glutamate in CFS patients causes sickness, neurotoxicity, stress, and peripheral nervous sensitivity. Currently, GRIK3 variants are linked to recurrent [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [developmental delays](https://www.ncbi.nlm.nih.gov/pubmed/24449200/), and a [30% increase](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) in the [risk](https://www.ncbi.nlm.nih.gov/pubmed/11986986) for [schizophrenia.](https://www.ncbi.nlm.nih.gov/pubmed/19921975/)
 
 This gene is located on chromosome 1. The protein it creates acts in your brain and nervous system.
 
+<# TissueList brain  #>
 
-<TissueList brain  />
+<TissueList D001921 />
 
 <GeneAnalysis gene="GRIK3" interval="NC000001_1.11:g.1111_9999"> 
 
@@ -216,6 +221,10 @@ CFS is linked to improper Glutamate:GABA balance, as well as exposure to extrace
 
 Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
 
-<symptoms depression, stress, problems with thinking or memory, brain fog, pain />
+<# symptoms depression, stress, problems with thinking or memory, brain fog, pain #>
+
+<symptoms D003863 D040701 D008569 D010146 />
+
+<# diseases schizophrenia	D012559 depression	D003866 ME/CFS	D015673 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 disease, Genetic Predisposition to Disease	D020022 #>
 
 <diseases D012559 D003866 D015673 D004198 D020022 />
