@@ -1,0 +1,219 @@
+- ID: 
+  common-name: alcohol dependence	
+  MESH: D000437
+- ID: 
+  common-name: alzheimers	
+  MESH: D000544
+- ID: 
+  common-name: anemia	
+  MESH: D000740
+- ID: 
+  common-name: anemia, aplastic	
+  MESH: D000741
+- ID:
+  common-name: anemia, pernicious anemia	
+  MESH: D000752
+- ID:   
+  common-name: anxiety	
+  MESH: D001008
+- ID:   
+  common-name: arthritis	
+  MESH: D001168
+- ID:
+  common-name: arthritis, rheumatoid arthritis	
+  MESH: D001172
+- ID:
+  common-name: asthma	
+  MESH: D001249
+- ID:
+  common-name: autoimmune disorder	
+  MESH: D001327
+- ID:
+  common-name: autism	
+  MESH: D001321
+- ID:
+  common-name: bipolar disorder	
+  MESH: D001714
+- ID:
+  common-name: cancer	
+  MESH: D009369
+- ID:
+  common-name: cancer, breast	
+  MESH: D001943
+- ID:
+  common-name: cancer, endometrial cancer	
+  MESH: D016889
+- ID:
+  common-name: cancer, lung cancer	
+  MESH: D008175
+- ID:
+  common-name: cancer, pancreatic cancer	
+  MESH: D010190
+- ID:
+  common-name: cancer, prostate cancer	
+  MESH: D011471
+- ID:
+  common-name: cardiac hypertrophy	
+  MESH: D006332
+- ID:
+  common-name: cardiovascular disease	
+  MESH: D002318
+- ID:
+  common-name: cataracts	
+  MESH: D002386
+- ID:
+  common-name: cocaine dependence	
+  MESH: D019970
+- ID:
+  common-name: COPD	
+  MESH: D029424
+- ID:
+  common-name: coronary heart disease	
+  MESH: D003327
+- ID:
+  common-name: depression	
+  MESH: D003866
+- ID:
+  common-name: diabetes	
+  MESH: D003920
+- ID:
+  common-name: Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	
+  MESH: D004198
+- ID:
+  common-name: disease, Genetic Predisposition to Disease	
+  MESH: D020022
+- ID:
+  common-name: endometriosis	
+  MESH: D004715
+- ID:
+  common-name: epilepsy	
+  MESH: D004827
+- ID:
+  common-name: fatigue	
+  MESH: D005221
+- ID:
+  common-name: fatigue, mental fatigue	
+  MESH: D005222
+- ID:
+  common-name: fatigue, muscle fatigue	
+  MESH: D018763
+- ID:
+  common-name: febrile seizures	
+  MESH: D003294
+- ID:
+  common-name: fibromyalgia	
+  DMESH: 005356
+- ID:
+  common-name: gastrointestinal disease	
+  MESH: D005767
+- ID:
+  common-name: glaucoma	
+  MESH: D005901
+- ID:
+  common-name: homeostasis	
+  MESH: D006706
+- ID:
+  common-name: hypothyroid	
+  MESH: D007037
+- ID:
+  common-name: inflammation	
+  MESH: D007249
+- ID:
+  common-name: insomnia	
+  MESH: D007319
+- ID:
+  common-name: interstitial cystitis	
+  MESH: D018856
+- ID:
+  common-name: irritable bowel syndrome (IBS)	
+  MESH: D043183
+- ID:
+  common-name: ME/CFS	
+  MESH: D015673
+- ID:
+  common-name: metabolic syndrome	
+  MESH: D024821
+- ID:
+  common-name: migraines	
+  MESH: D008881
+- ID:
+  common-name: mood disorder	
+  MESH: D019964
+- ID:
+  common-name: multiple chemical sensitivity	
+  MESH: D018777
+- ID:
+  common-name: neurodegenerative disorder	
+  MESH: D019636
+- ID:
+  common-name: neuroticism	
+  MESH: D000075384
+- ID:
+  common-name: nicotine dependency	
+  MESH: D014029
+- ID:
+  common-name: OCD	
+  MESH: D009771
+- ID:
+  common-name: overactive bladder	
+  MESH: D053201
+- ID:
+  common-name: pain  	
+  MESH: D010146
+- ID:
+  common-name: pain, chronic pain	
+  MESH: D059350
+- ID:
+  common-name: pain, congenital insensitivity or indifference to pain (CIP)	
+  MESH: D000699
+- ID:
+  common-name: pain, Hereditary sensory and autonomic neuropathy type II (HSAN2)	
+  MESH: D009477
+- ID:
+  common-name: pain, muscle pain	
+  MESH: D063806
+- ID:
+  common-name: pain, myasthenia gravis	
+  MESH: D009157
+- ID:
+  common-name: pain, neuropathy	
+  MESH: D010523
+- ID:
+  common-name: pain, paroxysmal extreme pain disorder (PEPD	
+  MESH: D009477
+- ID:
+  common-name: pain, primary erythromelalgia (PERYTHM)	
+  MESH: D004916
+- ID:
+  common-name: peripheral vascular disease	
+  MESH: D016491
+- ID:
+  common-name: RETINAL DYSTROPHY AND IRIS COLOBOMA WITH OR WITHOUT CONGENITAL CATARACT; RDICC	
+  MESH: D058499
+- ID:
+  common-name: schizophrenia	
+  MESH: D012559
+- ID:
+  common-name: scoliosis	
+  MESH: D012600
+- ID:
+  common-name: skin diseases	
+  MESH: D012871
+- ID:
+  common-name: small fiber neuropathy	
+  MESH: D000071075
+- ID:
+  common-name: stroke	
+  MESH: D020521
+- ID:
+  common-name: systemic lupus erythematosus	
+  MESH: D008180
+- ID:   
+  common-name: tuberculosis	
+  MESH: D014376
+- ID:   
+  common-name: tuberculosis, pulmonary tuberculosis	
+  MESH: D014397
+- ID: 
+  common-name: venous thrombosis	
+  MESH: D020246
