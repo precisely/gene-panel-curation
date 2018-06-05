@@ -43,12 +43,12 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     
     Incorrect formation of the CHRNA3 nicotine neurotransmitter receptor protein has a variety of effects. This heterozygous variant causes increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/23094028), with an [odds ratio of 1.2]( https://www.ncbi.nlm.nih.gov/pubmed/28827732), and [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), with an [odds ratio of 1.39](https://www.ncbi.nlm.nih.gov/pubmed/24621683). It causes an [increase](https://www.ncbi.nlm.nih.gov/pubmed/29030599) of [one](https://www.ncbi.nlm.nih.gov/pubmed/21559498) [cigarette](https://www.ncbi.nlm.nih.gov/pubmed/23870182) [per day](https://www.ncbi.nlm.nih.gov/pubmed/20418890) and may also cause [smoking persistence]( https://www.ncbi.nlm.nih.gov/pubmed/22290489). However, the C allele is protective, with a [decrease of 3.25 packs per year per C allele](https://www.ncbi.nlm.nih.gov/pubmed/21436384). Finally, this variant may cause an increase in [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328).
 
-# What should I do about this?
+    # What should I do about this?
 
-People also should not smoke or use cocaine. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
+    People also should not smoke or use cocaine. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
 
-[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+    *  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
 *  Have less than one alcoholic drink per day.
 *  Practice safe sex, and avoid HIV infection.
 *  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
