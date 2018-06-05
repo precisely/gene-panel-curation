@@ -100,13 +100,11 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
 
     Your CHRNA3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=46.2 />
+
+
   </Genotype>
 <# C645T  #>
   <Genotype hgvs="NC_000017.11:g.[30237328T>C];[30237328=]" name="C645T "> 
@@ -127,19 +125,19 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     
     This heterozygous variant causes increased risk of [adenocarcinoma](https://www.ncbi.nlm.nih.gov/pubmed/27072204) and [squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 2.25](https://www.ncbi.nlm.nih.gov/pubmed/24337855), but not in East Asians or people who have never smoked. It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390). There is a [2.9% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed nicotine replacement therapy (NRT) dose, and a [1.0 mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment. Physical changes associated with one T allele include [0.59 kg lower body weight, 0.23 kg/m(2) lower body mass index, 0.32 cm lower waist circumference, and 0.45 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141). It also is associated with [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305).
 
-# What should I do about this?
+    # What should I do about this?
 
-People also should not smoke. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
+    People also should not smoke. If you do smoke, be aware of your risk for dependency and increased difficulty of quitting smoking.
 
-[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
-*  Have less than one alcoholic drink per day.
-*  Practice safe sex, and avoid HIV infection.
-*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
-*  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
-*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+    *  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+    *  Have less than one alcoholic drink per day.
+    *  Practice safe sex, and avoid HIV infection.
+    *  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+    *  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
+    *  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
-[Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
+    [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
   </Genotype>
   <Genotype hgvs="NC_000017.11:g.[30237328T>C];[30237328T>C]" name="C645T "> 
  
@@ -157,19 +155,19 @@ People also should not smoke. If you do smoke, be aware of your risk for depende
     
     This homozygous variant causes increased risk of [adenocarcinoma and squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 1.9](https://www.ncbi.nlm.nih.gov/pubmed/25233467), but not East Asians or people who have never smoked.  It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390). There is a [5.8% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed nicotine replacement therapy (NRT) dose, and a [2.0 mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment. Two T alleles were associated with [1.18 kg lower body weight, 0.46 kg/m(2) lower body mass index, 0.64 cm lower waist circumference, and 0.90 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141). It also causes [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305). Among people who smoke more than 30 cigarettes per day, [fatigue and hopelessness](https://www.ncbi.nlm.nih.gov/pubmed/27613883) greatly increase. Homozygotes have an increased risk of [antipsychotic medication and schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/26054357).
 
-# What should I do about this?
+    # What should I do about this?
 
-People also should not smoke. If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer. Monitor signs of schizophrenia and antipsychotic medication side effects.
+    People also should not smoke. If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer. Monitor signs of schizophrenia and antipsychotic medication side effects.
 
-[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-*  Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
-*  Have less than one alcoholic drink per day.
-*  Practice safe sex, and avoid HIV infection.
-*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
-*  Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
-*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+    *  Avoid cigarette, cigar, pipe smoking, and secondhand smoke.
+    *  Have less than one alcoholic drink per day.
+    *  Practice safe sex, and avoid HIV infection.
+    *  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+    *  Avoid environmental toxins such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
+    *  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
-[Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
+    [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
     
   </Genotype>
   <Genotype hgvs="NC_000017.11:g.[30237328=];[30237328=]" name="C645T "> 
