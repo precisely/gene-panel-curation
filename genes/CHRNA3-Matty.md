@@ -112,11 +112,7 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     # What does this mean?
  
     People with this variant have one copy of the [C645T](https://www.ncbi.nlm.nih.gov/clinvar/variation/17503/) variant. This substitution of a single nucleotide is known as a missense mutation.
-
-    # What is the effect of this variant?
-
-    You are in the Mild Loss of Function category. See below for more information.
-
+        
     # How common is this genotype in the general population?
 
     <piechart percentage=39.7 />
@@ -150,8 +146,6 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     <piechart percentage=42.9 />
     
      # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
     
     This homozygous variant causes increased risk of [adenocarcinoma and squamous cell lung cancer among Caucasians and African Americans](https://www.ncbi.nlm.nih.gov/pubmed/24254305), with an [odds ratio of 1.9](https://www.ncbi.nlm.nih.gov/pubmed/25233467), but not East Asians or people who have never smoked.  It causes an increase in [cigarettes smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/27663783) [(odds ratio 2.66)](https://www.ncbi.nlm.nih.gov/pubmed/25632390) and [severity of nicotine addiction (odds ratio 2.6)](https://www.ncbi.nlm.nih.gov/pubmed/25632390). There is a [5.8% decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in adherence to prescribed nicotine replacement therapy (NRT) dose, and a [2.0 mg decrease](https://www.ncbi.nlm.nih.gov/pubmed/25891233) in daily NRT consumption up to 28 days after beginning treatment. Two T alleles were associated with [1.18 kg lower body weight, 0.46 kg/m(2) lower body mass index, 0.64 cm lower waist circumference, and 0.90 cm lower hip circumference](https://www.ncbi.nlm.nih.gov/pubmed/25777141). It also causes [higher resting heart rate, lower systolic blood pressure, and higher HDL cholesterol](https://www.ncbi.nlm.nih.gov/pubmed/24867305). Among people who smoke more than 30 cigarettes per day, [fatigue and hopelessness](https://www.ncbi.nlm.nih.gov/pubmed/27613883) greatly increase. Homozygotes have an increased risk of [antipsychotic medication and schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/26054357).
 
