@@ -34,15 +34,13 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
  
     People with this variant have one copy of the [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12914385) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-    # What is the effect of this variant?
-
-    You are in the Mild Loss of Function category. See below for more information.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=37.9 />
     
     # What is the effect of this variant?
+    
     Incorrect formation of the CHRNA3 nicotine neurotransmitter receptor protein has a variety of effects. This heterozygous variant causes increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/23094028), with an [odds ratio of 1.2]( https://www.ncbi.nlm.nih.gov/pubmed/28827732), and [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), with an [odds ratio of 1.39](https://www.ncbi.nlm.nih.gov/pubmed/24621683). It causes an [increase](https://www.ncbi.nlm.nih.gov/pubmed/29030599) of [one](https://www.ncbi.nlm.nih.gov/pubmed/21559498) [cigarette](https://www.ncbi.nlm.nih.gov/pubmed/23870182) [per day](https://www.ncbi.nlm.nih.gov/pubmed/20418890) and may also cause [smoking persistence]( https://www.ncbi.nlm.nih.gov/pubmed/22290489). However, the C allele is protective, with a [decrease of 3.25 packs per year per C allele](https://www.ncbi.nlm.nih.gov/pubmed/21436384). Finally, this variant may cause an increase in [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328).
 
 # What should I do about this?
