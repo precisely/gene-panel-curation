@@ -34,7 +34,6 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
  
     People with this variant have one copy of the [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12914385) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-
     # How common is this genotype in the general population?
 
     <piechart percentage=37.9 />
@@ -63,39 +62,37 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     # What does this mean?
 
     People with this variant have two copies of the [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12914385) variant. This substitution of a single nucleotide is known as a missense mutation.
+    
+    # How common is this genotype in the general population?
+
+    <piechart percentage=15.9 />
 
     # What is the effect of this variant?
 
     This homozygous variant causes a greatly increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/23094028), with an [odds ratio of 1.44](https://www.ncbi.nlm.nih.gov/pubmed/21559498), and [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683), with an [odds ratio of 1.39](https://www.ncbi.nlm.nih.gov/pubmed/24621683).   It also causes an [increase](https://www.ncbi.nlm.nih.gov/pubmed/29030599) of [two](https://www.ncbi.nlm.nih.gov/pubmed/21559498) [cigarettes](https://www.ncbi.nlm.nih.gov/pubmed/23870182) [smoked per day](https://www.ncbi.nlm.nih.gov/pubmed/20418890) and may also cause greatly increased [smoking persistence]( https://www.ncbi.nlm.nih.gov/pubmed/22290489). This variant may cause an increase in [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328).  
 
-Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. CFS patients have half the cellular efficiency of the normal population with a [17% cellular death
-rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The C78606381T (T;T) variant decreases gene expression in both the DNA and RNA, causing significant reduction in NKC activity. This variant was five times as common in [CFS patients at 85.7% with an odds ratio of 6.22.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. CFS patients have half the cellular efficiency of the normal population with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The C78606381T (T;T) variant decreases gene expression in both the DNA and RNA, causing significant reduction in NKC activity. This variant was five times as common in [CFS patients at 85.7% with an odds ratio of 6.22.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)
 
-# What should I do about this?
+    # What should I do about this?
 
-People also should not smoke or use cocaine. If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer.
+    People also should not smoke or use cocaine. If you do smoke, be aware of your greatly increased risk for dependency and difficulty of quitting smoking, and consider regular checks for lung cancer.
 
-[Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-*  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
-*  Have less than one alcoholic drink per day.
-*  Practice safe sex, and avoid HIV infection.
-*  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
-*  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
-*  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
+    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
+    *  Avoid cigarettes, cigars, pipe smoking, and secondhand smoke.
+    *  Have less than one alcoholic drink per day.
+    *  Practice safe sex, and avoid HIV infection.
+    *  Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon.
+    *  Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution.
+    *  [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers.
 
-[Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
+    [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
 
-Many dietary supplements have been found to increase or decrease natural killer cell function.
-*  [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but
-  sufficient body concentration can only be achieved through supplementation.
-*  [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity.
-*  [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function.
-*  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
+    Many dietary supplements have been found to increase or decrease natural killer cell function.
+    *  [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation.
+    *  [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity.
+    *  [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function.
+    *  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
 
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=15.9 />
   </Genotype>
   <Genotype hgvs="NC_000015.10:g.[78606381=];[78606381=]" name="C78606381T"> 
  
