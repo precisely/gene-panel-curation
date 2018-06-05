@@ -263,6 +263,6 @@ People also should not smoke. If you do smoke, be aware of your greatly increase
 
 <symptoms D005221 D007249 D001007 D003863  />
 
-<#diseases: cancer;	 cancer, lung cancer; COPD; anxiety;	ME/CFS;	nicotine dependency;	autoimmune disorder;	Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections;	disease, Genetic Predisposition to Disease	mood disorder	cocaine dependence; schizophrenia, fatigue; 	depression; coronary heart disease; 	inflammation; 	#>
+<#diseases: cancer;	 cancer, lung cancer; COPD; anxiety;	ME/CFS;	nicotine dependency;	autoimmune disorder;	Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections;	disease, Genetic Predisposition to Disease;	mood disorder;	cocaine dependence; schizophrenia, fatigue; 	depression; coronary heart disease; 	inflammation; 	#>
 
 <disease D009369	D008175	D029424	D001008	D015673	D014029	D001327	D004198	D020022	D019964 cocaine dependence	D019970 D012559 D005221 D003866	D003327	D007249 />
