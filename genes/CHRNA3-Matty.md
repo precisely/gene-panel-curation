@@ -36,7 +36,7 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=37.9 />
+    <piechart percentage=37.9 /> 
     
     # What is the effect of this variant?
     
@@ -57,7 +57,12 @@ There are two well-known variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.n
     [Medications](http://www.uniprot.org/uniprot/P32297) indicated for use for CHRNA3 issues include: [Bupropion](https://www.drugbank.ca/drugs/DB01156), [Cytisine](https://www.drugbank.ca/drugs/DB09028), [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levamisole](https://www.drugbank.ca/drugs/DB00848), [Levomethadyl Acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), [Pentolinium](https://www.drugbank.ca/drugs/DB01090), and [Varenicline](https://www.drugbank.ca/drugs/DB01273).
         
   </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78606381C>T];[78606381C>T]" name="C78606381T"> 
+  <Genotype select={ 
+                  variant("NC_000015.10:g.[78606381C>T];[78606381C>T]") 
+              and (variant("....") 
+                   or variant("....")) 
+                   } 
+             name="C78606381T"> 
  
     # What does this mean?
 
