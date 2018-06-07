@@ -1,10 +1,10 @@
+<GeneName_full neuronal acetylcholine receptor subunit beta-4 />
+
 # What does the CHRNB4 gene do?
 
-The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction, and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) dysfunction.
+The CHRNB4 (http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction, and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) dysfunction.
 
 This gene is located on chromosome 15. The protein it creates acts in the adrenal glands and male testis.
-
-<TissueList male tissue D005837  endocrine tissues D004703  />
 
 <GeneAnalysis gene="CHRNB4" interval="NC_000015.10:g.78623282_78655586"> 
 
@@ -280,5 +280,7 @@ People should not smoke. If you do smoke, be aware of your risk for dependency. 
 - [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers. 
 
 [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+
+<TissueList male tissue D005837  endocrine tissues D004703  />
 
 <symptoms inflamation D007249 />
