@@ -8,12 +8,6 @@ The CHRNE gene encodes a protein found in neuromuscular junctions that opens ion
 
 This gene is located on chromosome 17. The protein it creates acts in your immune system and muscles.
 
-<# TissueList brain immune circularity muscles #>
-
-
-<TissueList 001921 D007107 D002319 D009132 />
-
-
 <GeneAnalysis gene="CHRNE" interval="NC_000017.11 :g.4897769_4905019"> 
 
 # What are some common mutations of CHRNE?
@@ -190,6 +184,10 @@ Congenital myasthenic syndromes are a group of rare disorders that affects the p
 # What should I do about this?
 
 Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
+
+<# TissueList brain immune circularity muscles #>
+
+<TissueList 001921 D007107 D002319 D009132 />
 
 <# symptoms fatigue D005221 #>
 
