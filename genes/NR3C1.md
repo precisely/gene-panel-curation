@@ -1,3 +1,7 @@
+<Gene_Name NR3C1 />
+
+<GeneName_full  />
+
 # What does the NR3C1 gene do?
 
 0
@@ -5,7 +9,6 @@
 This gene is located on chromosome 5. The glucocortisoid receptor it creates acts in your adipose tissue and lungs.
 
 
-<TissueList adipose and soft tissue D000273 respiratory system and lung D012137  />
 
 <GeneAnalysis gene="NR3C1" interval="NC_000005.10:g.143277931_143435512"> 
 
@@ -139,10 +142,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=53.4 />
@@ -182,10 +181,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=48.2 />
@@ -224,10 +219,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
     # What does this mean?
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -311,10 +302,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=71.2 />
@@ -354,10 +341,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=50.1 />
@@ -396,10 +379,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
     # What does this mean?
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -483,10 +462,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=25.8 />
@@ -555,10 +530,6 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     People with this variant have two copies of the [G2035A (p.Gly679Ser)](https://www.ncbi.nlm.nih.gov/clinvar/variation/16157/) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=34.8 />
@@ -612,16 +583,12 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=90.9 />
   </Genotype>
 <# T2259A #>
-  <Genotype hgvs="NC_000005.10:g.[143281964T>A];[143281964=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143281964T>A];[143281964=]" name="T2259A"> 
 
     # What does this mean?
  
@@ -649,22 +616,18 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     <piechart percentage=25.7 />
   </Genotype>
-  <Genotype hgvs="NC_000005.10:g.[143281964=];[143281964=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143281964=];[143281964=]" name="T2259A"> 
  
     # What does this mean?
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=27.5 />
   </Genotype>
 <# T2318C #>
-  <Genotype hgvs="NC_000005.10:g.[143281905A>G];[143281905=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143281905A>G];[143281905=]" name="T2318C"> 
 
     # What does this mean?
  
@@ -678,7 +641,7 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     <piechart percentage=25.2 />
   </Genotype>
-  <Genotype hgvs="NC_000005.10:g.[143281905A>G];[143281905A>G]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143281905A>G];[143281905A>G]" name="T2318C"> 
  
     # What does this mean?
 
@@ -692,22 +655,18 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     <piechart percentage=8.5 />
   </Genotype>
-  <Genotype hgvs="NC_000005.10:g.[143281905=];[143281905=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143281905=];[143281905=]" name="T2318C"> 
  
     # What does this mean?
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=66.3 />
   </Genotype>
 <# G1430A #>
-  <Genotype hgvs="NC_000005.10:g.[143310135C>T];[143310135=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143310135C>T];[143310135=]" name="G1430A"> 
 
     # What does this mean?
  
@@ -721,7 +680,7 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     <piechart percentage=7.2 />
   </Genotype>
-  <Genotype hgvs="NC_000005.10:g.[143310135C>T];[143310135C>T]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143310135C>T];[143310135C>T]" name="G1430A"> 
  
     # What does this mean?
 
@@ -735,15 +694,11 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     <piechart percentage=1.9 />
   </Genotype>
-  <Genotype hgvs="NC_000005.10:g.[143310135=];[143310135=]" name=""> 
+  <Genotype hgvs="NC_000005.10:g.[143310135=];[143310135=]" name="G1430A"> 
  
     # What does this mean?
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -771,16 +726,24 @@ There are sixteen common variants in NR3C1: [A143380220G](https://www.ncbi.nlm.n
 
     Your NR3C1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in NR3C1 affect people?
+<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
 
-For the vast majority of people, the overall risk associated with the common NR3C1 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D014786 D010146 D023341 D018777 D007249 />
+
+<# Tissue List adipose and soft tissue; respiratory system and lung; #>
+
+<TissueList D000273 D012137  />
+
+<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
+
+<Pathways D011978 D017136 D015640 />
+
+<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
+
+<diseases D009369 D008175 D004198 D01402 />
