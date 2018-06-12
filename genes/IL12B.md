@@ -1,3 +1,7 @@
+<Gene_Name IL12B />
+
+<GeneName_full  />
+
 # What does the IL12B gene do?
 
 0
@@ -5,13 +9,12 @@
 This gene is located on chromosome 5. The protein it creates acts in your immune system.
 
 
-<TissueList brain D001921 />
 
 <GeneAnalysis gene="IL12B" interval="NC_000005.10:g.159314783_159330473"> 
 
 # What are some common mutations of IL12B?
  
-There are three variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar/variation/352554/), [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2288831), and [A159C](https://www.ncbi.nlm.nih.gov/clinvar/variation/352569/).
+There are three common variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar/variation/352554/), [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2288831), and [A159C](https://www.ncbi.nlm.nih.gov/clinvar/variation/352569/).
 
 <# C1095A #>
   <Variant hgvs="NC_000005.10:g.159315006G>T" name="C1095A"> 
@@ -67,10 +70,6 @@ There are three variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar
 
     Your IL12B gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-     
-
     # How common is this genotype in the general population?
 
     <piechart percentage=81 />
@@ -109,10 +108,6 @@ There are three variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar
     # What does this mean?
 
     Your IL12B gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -153,14 +148,9 @@ There are three variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar
 
     Your IL12B gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=1.5 />
-  </Genotype>
   </Genotype>
 <# unknown #>
   <Genotype hgvs="unknown"> 
@@ -194,6 +184,18 @@ There are three variants in IL12B: [C1095A](https://www.ncbi.nlm.nih.gov/clinvar
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in IL12B affect people?
+<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
 
-For the vast majority of people, the overall risk associated with the common IL12B variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D014786 D010146 D023341 D018777 D007249 />
+
+<# Tissue List brain; #>
+
+<TissueList D001921 />
+
+<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
+
+<Pathways D011978 D017136 D015640 />
+
+<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
+
+<diseases D009369 D008175 D004198 D01402 />
