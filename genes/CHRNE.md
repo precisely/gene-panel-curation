@@ -185,7 +185,7 @@ Congenital myasthenic syndromes are a group of rare disorders that affects the p
 
 Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
 
-<# TissueList brain immune circularity muscles #>
+<# TissueList brain; immune; circulatory; muscles #>
 
 <TissueList 001921 D007107 D002319 D009132 />
 
