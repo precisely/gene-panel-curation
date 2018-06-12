@@ -1,3 +1,7 @@
+<Gene_Name TPH2 />
+
+<GeneName_full  />
+
 # What does the TPH2 gene do?
 
 0
@@ -5,7 +9,6 @@
 This gene is located on chromosome 12. The protein it creates acts in your brain.
 
 
-<TissueList brain D001921 />
 
 <GeneAnalysis gene="TPH2" interval="NC_000012.12:g.71938846_72032441"> 
 
@@ -73,10 +76,6 @@ There are four common variants in TPH2: [A71942732G](https://www.ncbi.nlm.nih.go
 
     Your TPH2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=30.3 />
@@ -115,10 +114,6 @@ There are four common variants in TPH2: [A71942732G](https://www.ncbi.nlm.nih.go
     # What does this mean?
 
     Your TPH2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -159,10 +154,6 @@ There are four common variants in TPH2: [A71942732G](https://www.ncbi.nlm.nih.go
 
     Your TPH2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=23.6 />
@@ -202,10 +193,6 @@ There are four common variants in TPH2: [A71942732G](https://www.ncbi.nlm.nih.go
 
     Your TPH2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=16.4 />
@@ -242,6 +229,18 @@ There are four common variants in TPH2: [A71942732G](https://www.ncbi.nlm.nih.go
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in TPH2 affect people?
+<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
 
-For the vast majority of people, the overall risk associated with the common TPH2 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D014786 D010146 D023341 D018777 D007249 />
+
+<# Tissue List brain #>
+
+<TissueList D001921 />
+
+<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
+
+<Pathways D011978 D017136 D015640 />
+
+<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
+
+<diseases D009369 D008175 D004198 D01402 />
