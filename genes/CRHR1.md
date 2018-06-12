@@ -1,3 +1,7 @@
+<Gene_Name CRHR1 />
+
+<GeneName_full  />
+
 # What does the CRHR1 gene do?
 
 0
@@ -5,7 +9,6 @@
 This gene is located on chromosome 17. The protein it creates acts in your endometrium and brain.
 
 
-<TissueList brain D001921 female tissue D005836 />
 
 <GeneAnalysis gene="CRHR1" interval="NC_000017.11:g.45784280_45835828"> 
 
@@ -66,10 +69,6 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
     # What does this mean?
 
     Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -153,10 +152,6 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=79.6 />
@@ -193,6 +188,18 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in CRHR1 affect people?
+<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
 
-For the vast majority of people, the overall risk associated with the common CRHR1 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D014786 D010146 D023341 D018777 D007249 />
+
+<# Tissue List brain; female tissue; #>
+
+<TissueList D001921 D005836 />
+
+<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
+
+<Pathways D011978 D017136 D015640 />
+
+<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
+
+<diseases D009369 D008175 D004198 D01402 />
