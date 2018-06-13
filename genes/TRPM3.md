@@ -8,10 +8,6 @@ TRPM3 (transient receptor potential cation channel subfamily M member 3) control
 
 This gene is located on chromosome 9. The protein it creates acts in your brain and kidneys.
 
-<# TissueList brain Kidney #>
-
-<TissueList D001921 D005221  />
-
 <GeneAnalysis gene="TRPM3" interval="NC_000009.12:g.70529063_71446950"> 
 
 # What are some common mutations of TRPM3?
@@ -142,7 +138,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -156,7 +177,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -167,10 +213,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -185,7 +227,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -213,7 +280,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -228,7 +320,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -256,7 +373,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -271,7 +413,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -285,7 +452,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -296,10 +488,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -314,7 +502,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -342,7 +555,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -357,7 +595,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -385,7 +648,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -400,7 +688,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -428,7 +741,32 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
+
+    TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
+
+    These TRPM3 variants are more common in CFS patients versus the general population.
+
+    - [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
+    - [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
 
     # How common is this genotype in the general population?
 
@@ -457,7 +795,43 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
@@ -468,10 +842,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -486,7 +856,43 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
@@ -500,7 +906,43 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
@@ -511,10 +953,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -543,7 +981,43 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
@@ -554,10 +1028,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -600,7 +1070,43 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
@@ -643,14 +1149,50 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=17.8 />
   </Genotype>
 <# A70605775G #>
-  <Genotype hgvs="NC_000009.12:g.[70605775A>G];[70605775=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70605775A>G];[70605775=]" name="A70605775G"> 
 
     # What does this mean?
  
@@ -664,7 +1206,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=49.6 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70605775A>G];[70605775A>G]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70605775A>G];[70605775A>G]" name="A70605775G"> 
  
     # What does this mean?
 
@@ -678,7 +1220,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=33 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70605775=];[70605775=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70605775=];[70605775=]" name="A70605775G"> 
  
     # What does this mean?
 
@@ -686,14 +1228,50 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=17.4 />
   </Genotype>
 <# C71403580T #>
-  <Genotype hgvs="NC_000009.12:g.[71403580C>T];[71403580=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71403580C>T];[71403580=]" name="C71403580T"> 
 
     # What does this mean?
  
@@ -707,7 +1285,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=49.2 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[71403580C>T];[71403580C>T]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71403580C>T];[71403580C>T]" name="C71403580T"> 
  
     # What does this mean?
 
@@ -715,28 +1293,60 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=19.6 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[71403580=];[71403580=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71403580=];[71403580=]" name="C71403580T"> 
  
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=31.2 />
   </Genotype>
 <# T70610886A #>
-  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886=]" name="T70610886A"> 
 
     # What does this mean?
  
@@ -750,7 +1360,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=49.6 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886T>A]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886T>A]" name="T70610886A"> 
  
     # What does this mean?
 
@@ -758,28 +1368,60 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=13.2 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70610886=];[70610886=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70610886=];[70610886=]" name="T70610886A"> 
  
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=37.2 />
   </Genotype>
 <# T71365306C #>
-  <Genotype hgvs="NC_000009.12:g.[71365306T>C];[71365306=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71365306T>C];[71365306=]" name="T71365306C"> 
 
     # What does this mean?
  
@@ -793,7 +1435,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=50 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[71365306T>C];[71365306T>C]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71365306T>C];[71365306T>C]" name="T71365306C"> 
  
     # What does this mean?
 
@@ -801,28 +1443,60 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=12.3 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[71365306=];[71365306=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[71365306=];[71365306=]" name="T71365306C"> 
  
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=37.1 />
   </Genotype>
 <# G70820112A #>
-  <Genotype hgvs="NC_000009.12:g.[70820112G>A];[70820112=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70820112G>A];[70820112=]" name="G70820112A"> 
 
     # What does this mean?
  
@@ -836,7 +1510,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=18.1 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70820112G>A];[70820112G>A]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70820112G>A];[70820112G>A]" name="G70820112A"> 
  
     # What does this mean?
 
@@ -850,7 +1524,7 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=5.5 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70820112=];[70820112=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70820112=];[70820112=]" name="G70820112A"> 
  
     # What does this mean?
 
@@ -858,14 +1532,50 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+
+    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+
+    - [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
+    - [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
+    - [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
+    - [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
+    - [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
+    - [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
+    - [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
+    - [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
+    - [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
+    - [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
+    - [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
+
+    # What should I do about this?
+
+    Some pharmaceuticals may increase or decrease natural killer cell function:
+
+    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
+    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    - Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
+
+    Many dietary supplements have been found to increase natural killer cell function:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=76.4 />
   </Genotype>
 <# A70822908G #>
-  <Genotype hgvs="NC_000009.12:g.[70822908A>G];[70822908=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70822908A>G];[70822908=]" name="A70822908G"> 
 
     # What does this mean?
  
@@ -873,13 +1583,19 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    # Moderate Risk
+
+    Calcium mobilization into white blood cells is reduced by the A70822908G (A;G) variant, which may cause increased immune system dysfunction, such as improper development of antibodies and increased symptom severity. This variant is [2.2X](https://www.ncbi.nlm.nih.gov/pubmed/27834303) more common in CFS patients compared to the general population.
+
+    # What should I do about this?
+
+    [Anti-CD20 intervention](https://www.ncbi.nlm.nih.gov/pubmed/27834303) may help CFS patients, and has shown to increase muscarinic antibody positivity and reduced symptoms.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=44.8 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70822908A>G];[70822908A>G]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70822908A>G];[70822908A>G]" name="A70822908G"> 
  
     # What does this mean?
 
@@ -893,22 +1609,18 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=32.5 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70822908=];[70822908=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70822908=];[70822908=]" name="A70822908G"> 
  
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=22.7 />
   </Genotype>
 <# C37T #>
-  <Genotype hgvs="NC_000009.12:g.[70810048G>A];[70810048=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70810048G>A];[70810048=]" name="C37T"> 
 
     # What does this mean?
  
@@ -916,13 +1628,19 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     # What is the effect of this variant?
 
-    You are in the High Risk category. See below for more details.
+    # High Risk
+
+    This variant causes [retinal dystrophy and iris coloboma with or without congenital cataract](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/). Abnormalities include [adhesions between the iris and lens](https://www.ncbi.nlm.nih.gov/medgen/488784), [visual impairment or vision loss](https://www.ncbi.nlm.nih.gov/medgen/65889), and [retinal atrophy](https://www.ncbi.nlm.nih.gov/medgen/101075). It may also cause [decreased color vision, degradation of retinal veins, and congenital cataracts](http://www.malacards.org/card/retinal_dystrophy_and_iris_coloboma_with_or_without_congenital_cataract).
+
+    # What should I do about this?
+
+    Symptoms may improve after removal of cataracts, and should be monitored carefully to prevent further lens and iris adhesion due to [incorrect surgery](https://www.ncbi.nlm.nih.gov/pubmed/19246951).
 
     # How common is this genotype in the general population?
 
     <piechart percentage=0.01 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70810048G>A];[70810048G>A]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70810048G>A];[70810048G>A]" name="C37T"> 
  
     # What does this mean?
 
@@ -936,15 +1654,11 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     <piechart percentage=0.01 />
   </Genotype>
-  <Genotype hgvs="NC_000009.12:g.[70810048=];[70810048=]" name=""> 
+  <Genotype hgvs="NC_000009.12:g.[70810048=];[70810048=]" name="C37T"> 
  
     # What does this mean?
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -957,10 +1671,6 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     Your TRPM3 gene has an unknown variant.
 
-    # What is the effect of this variant?
-
-    The effect is unknown.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
@@ -972,152 +1682,24 @@ There are nineteen variants in TRPM3: [A70699095G](http://journals.sagepub.com/d
 
     Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in TRPM3 affect people?
+<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
 
-For the vast majority of people, the overall risk associated with the common TRPM3 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D014786 D010146 D023341 D018777 D007249 />
 
-<# G71427327T (T;T) T70790948C (T;C) T70790948C (C;C) C71402258T (T;T) C70616746T (C;C) T71417232G (T;T) A70605775G (A;A) C71403580T (T;T) T70610886A (A;A) T71365306C (C;C) G70820112A (G;G) #>
+<# Tissue List brain; Kidney; #>
 
-| Variant       |Population %           | Odds Ratio           |
-| :-------------: |:-------------:| :-------------:|
-| G71427327T (T;T) | 58.6% | 5.14 |
-| T70790948C (T;C) | 49.7%     | 3.39 |
-| T70790948C (C;C) | 16.3%     | 1.07 |
-| C71402258T (T;T) | 13.3%     | 4.06 |
-| C70616746T (C;C) | 18.6%     | 2.5 |
-| T71417232G (T;T) | 17.8%     | 3.13 |
-| A70605775G (A;A) | 17.4%     | 2.703 |
-| C71403580T (T;T) | 19.6%     | 3.64 |
-| T70610886A (A;A) | 13.2%     | 2.222 |
-| T71365306C (C;C) | 12.3%     | 5.63 |
-| G70820112A (G;G) | 76.4%     | 10.9 |
+<TissueList D005837 D004703 />
 
-# Moderate Risk
+<# Pathways ion transport, ion channel gating, Calcium Channels; Body Temperature Regulation; #>
 
-Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). In CFS patients, TRPM3 variants cause [incorrect cell surface expression in NKC, as well as decreased intracellular calcium](https://www.ncbi.nlm.nih.gov/pubmed/27245705).
+<Pathways D017136 D015640 D015220 D001833 />
 
-The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
+<# Diseases disease pain pain, chronic pain neurodegenerative disorder cataracts D002386 glaucoma D005901 arthritis D001168 arthritis, rheumatoid arthritis D001172 diabetes D003920 ME/CFS D015673 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections D004198 disease, Genetic Predisposition to Disease D020022 homeostasis; inflammation; pain; pain, chronic pain; overactive bladder; COPD; cardiac hypertrophy; alzheimers; cancer; pain, neuropathy; skin diseases; RETINAL DYSTROPHY AND IRIS COLOBOMA WITH OR WITHOUT CONGENITAL CATARACT; RDICC; #>
 
-- [T71365306C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.2X] more common in CFS patients. 
-- [G71427327T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.7X] more common in CFS patients. 
-- [C71402258T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.7X] more common in CFS patients. 
-- [C71403580T (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3.5X] more common in CFS patients. 
-- [T71417232G (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [3X] more common in CFS patients. 
-- [T70790948C (T;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [2.6X] more common in CFS patients. 
-- [T70790948C (C;C)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.2X] more common in CFS patients. 
-- [G70820112A (G;G)](https://www.ncbi.nlm.nih.gov/pubmed/27835969) is [1.4X] more common in CFS patients. 
-- [C70616746T (C;C)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.5X] more common in CFS patients. 
-- [A70605775G (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.7X] more common in CFS patients. 
-- [T70610886A (A;A)](http://journals.sagepub.com/doi/pdf/10.4137/III.S37042) is [2.2X] more common in CFS patients.
-
-# What should I do about this?
-
-Some pharmaceuticals may increase or decrease natural killer cell function:
-
-- [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
-- [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
-- [Therapies for papillomaviruses, topical agents, physical approaches and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
-- [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
-- Consider the [HPV vaccine](https://www.ncbi.nlm.nih.gov/pubmed/23993353) as issues with natural killer cells cause higher susceptibility. 
-
-Many dietary supplements have been found to increase natural killer cell function:
-
-- [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
-- [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
-- [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
-- [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
-- [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
-- [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-- [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
-
-<#  A70822908G (A;G)  #>
-
-| Variant       |Population %           | Odds Ratio           |
-| :-------------: |:-------------:| :-------------:|
-| A70822908G (A;G) | 44.8%     | 7.88 |
-
-# Moderate Risk
-
-Calcium mobilization into white blood cells is reduced by the A70822908G (A;G) variant, which may cause increased immune system dysfunction, such as improper development of antibodies and increased symptom severity. This variant is [2.2X](https://www.ncbi.nlm.nih.gov/pubmed/27834303) more common in CFS patients compared to the general population.
-
-# What should I do about this?
-
-[Anti-CD20 intervention](https://www.ncbi.nlm.nih.gov/pubmed/27834303) may help CFS patients, and has shown to increase muscarinic antibody positivity and reduced symptoms.
-
-<#  A70699095G (A;G)  A70699095G (G;G) T70795494C (T;C) T70795494C (T;T)  C70801146T (C;T) C70801146T (C;C)  A70610886C (A;C)A70610886C (C;C)  G70589515A (G;A) G70589515A (G;G) C71302037T (C;T)  C71302037T (C;C)  C70691635A (C;A)  C70691635A (C;C)   #>
-
-| Variant       |Population %           | 
-| :-------------: |:-------------:| 
-| A70699095G (A;G) | 50% | 
-| A70699095G (G;G) | 37.2% | 
-| T70795494C (T;C) | 35.3%     | 
-| T70795494C (T;T) | 50.6%     | 
-| C70801146T (C;T) | 47.6%     | 
-| C70801146T (C;C) | 6.1%     | 
-| A70610886C (A;C) | 49.6%     | 
-| A70610886C (C;C) | 45.4%     | 
-| G70589515A (G;A) | 47.6%     | 
-| G70589515A (G;G) | 25.2%     | 
-| C71302037T (C;T) | 31.9%     | 
-| C71302037T (C;C) | 56.1%     | 
-| C70691635A (C;A) | 48.3%     | 
-| C70691635A (C;C) | 23%     | 
-
-# Moderate Risk
-
-Biological processes responsible for the varied symptoms reported for [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) may involve ion channels and receptors that are located on cells throughout the body. These channels maintain homeostasis, and incorrect function has been linked to [chronic pain, overactive bladder, diabetes, chronic obstructive pulmonary disease, cardiac hypertrophy, familial Alzheimer’s disease, skin diseases, neuropathy, and cancer](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In CFS patients, TRP channels are targeted during inflammatory reactions, and may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147).
-
-TRPM3 channels transport calcium and zinc and incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), inflammatory pain syndromes, rheumatoid arthritis, and secretion of proinflammatory cytokines, as well as [insulin and glucose dysregulation in CFS patients](http://jme.endocrinology-journals.org/content/50/3/R75.short). These channels help detect heat and pain transmission, and dysregulation may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in CFS patients.
-
-These TRPM3 variants are more common in CFS patients versus the general population.
-
-- [A70699095G](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [T70795494C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [C70801146T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [A70610886C](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [G70589515A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [C71302037T](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.7X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common. 
-- [C70691635A](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.3X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common.
-
-# What should I do about this?
-
-CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
-
-Chronic pain relief may include:
-
-- [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
-- [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
-- [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
-- [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
-
-<# C37T (C;T)  #>
-
-| Variant       |Population %           | 
-| :-------------: |:-------------:|
-| C37T (C;T) | 0.01%     |
-
-# High Risk
-
-This variant causes [retinal dystrophy and iris coloboma with or without congenital cataract](https://www.ncbi.nlm.nih.gov/clinvar/variation/218881/). Abnormalities include [adhesions between the iris and lens](https://www.ncbi.nlm.nih.gov/medgen/488784), [visual impairment or vision loss](https://www.ncbi.nlm.nih.gov/medgen/65889), and [retinal atrophy](https://www.ncbi.nlm.nih.gov/medgen/101075). It may also cause [decreased color vision, degradation of retinal veins, and congenital cataracts](http://www.malacards.org/card/retinal_dystrophy_and_iris_coloboma_with_or_without_congenital_cataract).
-
-# What should I do about this?
-
-Symptoms may improve after removal of cataracts, and should be monitored carefully to prevent further lens and iris adhesion due to [incorrect surgery](https://www.ncbi.nlm.nih.gov/pubmed/19246951).
-
-<# <symptoms  vision problems D014786 pain D010146 chills and night sweats D023341 multiple chemical sensitivity/allergies D018777 inflamation D007249 #>
-
-<symptoms  D014786 D010146 D023341 D018777 D007249 />
-
-<# disease pain pain, chronic pain neurodegenerative disorder cataracts	D002386 glaucoma	D005901 arthritis	D001168 arthritis, rheumatoid arthritis	D001172 diabetes	D003920 ME/CFS	D015673 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 disease, Genetic Predisposition to Disease	D020022 homeostasis	D006706 inflammation	D007249 pain  	D010146 pain, chronic pain	D059350 overactive bladder	D053201 COPD	D029424 cardiac hypertrophy	D006332 alzheimers	D000544 cancer	D009369 pain, neuropathy	D010523 skin diseases	D012871 RETINAL DYSTROPHY AND IRIS COLOBOMA WITH OR WITHOUT CONGENITAL CATARACT; RDICC	D058499 #>
-
-<disease D010146 D059350 D019636 D002386 D005901 D001168 D001172 D003920 D015673 D004198 D020022 D006706 D007249 D010146 D059350 D053201 D029424 D006332 D000544 D009369 D010523 D012871 D058499 />
+<diseases D010146 D059350 D019636 D002386 D005901 D001168 D001172 D003920 D015673 D004198 D020022 D006706 D007249 D010146 D059350 D053201 D029424 D006332 D000544 D009369 D010523 D012871 D058499 />
