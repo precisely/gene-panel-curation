@@ -196,6 +196,9 @@
 - ID:
   common-name: scoliosis	
   MESH: D012600
+ - ID:
+  common-name: Seasonal Affective Disorder	
+  MESH: D016574
 - ID:
   common-name: skin diseases	
   MESH: D012871
