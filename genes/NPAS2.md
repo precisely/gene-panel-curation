@@ -1,11 +1,12 @@
+<Gene_Name NPAS2 />
+
+<GeneName_full Neuronal PAS domain-containing protein 2 />
+
 # What does the NPAS2 gene do?
 
-0
+NPAS2 (Neuronal PAS domain-containing protein 2) encodes a protein that helps bind RNA to DNA to begin transcription, or expression, of the gene. This protein is a core component of the 24-hour circadian clock in the brain, which may be controlled through light, neurological, and hormonal cues. NPAS2 synchronizes hunger with food availability, maintains sleep/wake cycles due to light interactions in the retina, and helps regulate cell cycles in the liver that repair DNA.  Disruptions in the circadian rhythm may contribute to cardiovascular disease, cancer, metabolic syndrome, and aging. Variants in NPAS2 are associated with major depressive disorder, seasonal affective disorder, and ME/CFS.
 
 This gene is located on chromosome 2. The protein it creates acts in your esophagus and bladder.
-
-
-<TissueList gastrointestinal tract D041981 Kidney and urinary bladder D005221  />
 
 <GeneAnalysis gene="NPAS2" interval="NC_000002.12:g.100820151_100996829"> 
 
@@ -29,7 +30,22 @@ There is one common variant in NPAS2: [G100923328A](https://www.ncbi.nlm.nih.gov
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    NPAS2 variants may be linked to sleep problems, metabolic imbalances, and mood disorders in ME/CFS patients due to disrupted circadian rhythms.  Your T allele is 1.9X more common in ME/CFS patients compared to the normal population, and it causes a 10-fold increase in NPAS2 gene expression. This may disrupt hunger cues and sleep cycles, causing impaired cued and contextual memory, depression, or seasonal affective disorder. 
+
+    # What should I do about this?
+
+    Patients should monitor their dietary intake and hunger cues to maintain weight.
+    
+    Lifestyle changes to help with circadian rhythm disruption sleep problems may include:
+    - Go to bed the same time every night.
+    - Do not nap in the daytime or spend time in bed during the day.
+    - Minimize light and sound in your bedroom, including television, computers, and cell phones.
+    - Work fewer night and evening shifts.
+    - Walk or exercise 30 minutes most days.
+    - Minimize alcohol, tobacco, caffeine, and cold medications.
+    - Properly treat any bipolar, depression, anxiety, or other mood disorders.
+
+    Medications to aid sleep include Zolpidem (Ambien), Zaleplon (Sonata), Eszoicolone (Lunesta), Ramelteon (Rozerem), and antihistamines.  Consult your doctor.
 
     # How common is this genotype in the general population?
 
@@ -43,7 +59,22 @@ There is one common variant in NPAS2: [G100923328A](https://www.ncbi.nlm.nih.gov
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    NPAS2 variants may be linked to sleep problems, metabolic imbalances, and mood disorders in ME/CFS patients due to disrupted circadian rhythms.  Your T allele is 1.9X more common in ME/CFS patients compared to the normal population, and it causes a 10-fold increase in NPAS2 gene expression. This may disrupt hunger cues and sleep cycles, causing impaired cued and contextual memory, depression, or seasonal affective disorder. 
+
+    # What should I do about this?
+
+    Patients should monitor their dietary intake and hunger cues to maintain weight.
+    
+    Lifestyle changes to help with circadian rhythm disruption sleep problems may include:
+    - Go to bed the same time every night.
+    - Do not nap in the daytime or spend time in bed during the day.
+    - Minimize light and sound in your bedroom, including television, computers, and cell phones.
+    - Work fewer night and evening shifts.
+    - Walk or exercise 30 minutes most days.
+    - Minimize alcohol, tobacco, caffeine, and cold medications.
+    - Properly treat any bipolar, depression, anxiety, or other mood disorders.
+
+    Medications to aid sleep include Zolpidem (Ambien), Zaleplon (Sonata), Eszoicolone (Lunesta), Ramelteon (Rozerem), and antihistamines.  Consult your doctor.
 
     # How common is this genotype in the general population?
 
@@ -54,10 +85,6 @@ There is one common variant in NPAS2: [G100923328A](https://www.ncbi.nlm.nih.gov
     # What does this mean?
 
     Your NPAS2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
 
     # How common is this genotype in the general population?
 
@@ -70,10 +97,6 @@ There is one common variant in NPAS2: [G100923328A](https://www.ncbi.nlm.nih.gov
 
     Your NPAS2 gene has an unknown variant.
 
-    # What is the effect of this variant?
-
-    The effect is unknown.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
@@ -85,16 +108,20 @@ There is one common variant in NPAS2: [G100923328A](https://www.ncbi.nlm.nih.gov
 
     Your NPAS2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in NPAS2 affect people?
+<# symptoms fatigue D005221; depression D003863; sleep disorder D012893;  memory problems D008569;  #>
 
-For the vast majority of people, the overall risk associated with the common NPAS2 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D005221 D003863 D012893 D008569 />
+
+<# Tissue List gastrointestinal tract; Kidney and urinary bladder;  #>
+
+<TissueList D041981 D005221  />
+
+<# Diseases Depression D003866; insomnia D007319; ME/CFS D015673; metabolic syndrome  D024821; cardiovascular disease D002318; cancer D009369; Seasonal Affective Disorder D016574; #>
+
+<diseases D003866 D007319 D015673 D024821 D002318 D009369 D016574 />
