@@ -1,31 +1,23 @@
 <Gene_Name CRHR1 />
 
-<GeneName_full  />
+<GeneName_full Corticotropin-releasing factor receptor 1 />
 
 # What does the CRHR1 gene do?
 
-0
+CRHR1 (Corticotropin-releasing factor receptor 1) encodes a protein that binds to a neurotransmitter in the corticotropin releasing hormone family (CRH). This hormone is necessary for normal embryonic development and acts in the hypothalamic-pituitary-adrenal (HPA) pathway, controlling stress, reproduction, immune response, and obesity. CRHR1 also helps activate enzymes to increase levels of cAMP (a messenger that transfers the effects of hormones into cells and activates proteins). Variants in CRHR1 have been linked with depression, Parkinson’s, and ME/CFS.
 
 This gene is located on chromosome 17. The protein it creates acts in your endometrium and brain.
-
-
 
 <GeneAnalysis gene="CRHR1" interval="NC_000017.11:g.45784280_45835828"> 
 
 # What are some common mutations of CRHR1?
  
-There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940), [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=685828), and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862).
+There are two common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862).
 
 <# A45815234G #>
   <Variant hgvs="NC_000017.11:g.45815234A>G" name="A45815234G"> 
 
     This variant is a change at a specific point in the CRHR1 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
-
-  </Variant>
-<# T159323005C #>
-  <Variant hgvs="NC_000011.10:g.101073644G>T" name="T159323005C"> 
-
-    This variant is a change at a specific point in the CRHR1 gene from guanine (G) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
 
   </Variant>
 <# G45825631A #>
@@ -44,7 +36,26 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     # What is the effect of this variant?
 
-    This variant is not associated with increased risk.
+    Your variant may cause a change in the HPA axis and is mildly associated with increased severity of ME/CFS.
+
+    ME/CFS has been associated with lower levels of HPA activity, which may be caused by a variety of immune system abnormalities, inflammation, and oxidative stress. This may cause mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response, which correlate with increased disability and poorer response to standard treatment. 
+
+    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The CRF system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It maintains blood pressure and heart function, mediates the immune response, and controls the metabolism. Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including pain, fatigue, muscle weakness, and POTS.
+
+    The HPA axis disturbance of the immune system is also linked to CFS.  Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack.  This hyper-immune state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    # What should I do about this?
+
+    Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
+    * Consider eating [ red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to inactivity, depression, or early-life stress.  
+    * If too low, consider psychotropic medication and cognitive behavioral therapy (CBT). Consult your physician.  
+    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician.  
+
+    CRHR1 medication includes Corticorelin ovine triflutate, but steroid replacement is not recommended.
 
     # How common is this genotype in the general population?
 
@@ -58,7 +69,26 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    Your variant may cause a change in the HPA axis and is mildly associated with increased severity of ME/CFS.
+
+    ME/CFS has been associated with lower levels of HPA activity, which may be caused by a variety of immune system abnormalities, inflammation, and oxidative stress. This may cause mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response, which correlate with increased disability and poorer response to standard treatment. 
+
+    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The CRF system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It maintains blood pressure and heart function, mediates the immune response, and controls the metabolism. Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including pain, fatigue, muscle weakness, and POTS.
+
+    The HPA axis disturbance of the immune system is also linked to CFS.  Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack.  This hyper-immune state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    # What should I do about this?
+
+    Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
+    * Consider eating [ red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to inactivity, depression, or early-life stress.  
+    * If too low, consider psychotropic medication and cognitive behavioral therapy (CBT). Consult your physician.  
+    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician.  
+
+    CRHR1 medication includes Corticorelin ovine triflutate, but steroid replacement is not recommended.
 
     # How common is this genotype in the general population?
 
@@ -74,49 +104,6 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     <piechart percentage=16.3 />
   </Genotype>
-<# T159323005C #>
-  <Genotype hgvs="NC_000011.10:g.[101073644G>T];[101073644=]" name="T159323005C"> 
-
-    # What does this mean?
- 
-    People with this variant have one copy of the [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=685828) variant. This substitution of a single nucleotide is known as a missense mutation.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=15.7 />
-  </Genotype>
-  <Genotype hgvs="NC_000011.10:g.[101073644G>T];[101073644G>T]" name="T159323005C"> 
- 
-    # What does this mean?
-
-    People with this variant have two copies of the [T159323005C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=685828) variant. This substitution of a single nucleotide is known as a missense mutation.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=14.6 />
-  </Genotype>
-  <Genotype hgvs="NC_000011.10:g.[101073644=];[101073644=]" name="T159323005C"> 
- 
-    # What does this mean?
-
-    Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=69.7 />
-  </Genotype>
 <# G45825631A #>
   <Genotype hgvs="NC_000017.11:g.[45825631G>A];[45825631=]" name="G45825631A"> 
 
@@ -126,7 +113,26 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    Your variant is one of the top 10 genetic markers with the highest chance of being associated with CFS.  It may also act alongside rs12185233, which is associated with Parkinson’s disease. Your variant was studied due to CRHR1’s effects in the HPA axis.  
+
+    ME/CFS has been associated with lower levels of HPA activity, which may be caused by a variety of immune system abnormalities, inflammation, and oxidative stress. This may cause mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response, which correlate with increased disability and poorer response to standard treatment. 
+
+    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The CRF system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It maintains blood pressure and heart function, mediates the immune response, and controls the metabolism. Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including pain, fatigue, muscle weakness, and POTS.
+
+    The HPA axis disturbance of the immune system is also linked to CFS.  Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack.  This hyper-immune state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    # What should I do about this?
+
+    Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
+    * Consider eating [ red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to inactivity, depression, or early-life stress.  
+    * If too low, consider psychotropic medication and cognitive behavioral therapy (CBT). Consult your physician.  
+    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician.  
+
+    CRHR1 medication includes Corticorelin ovine triflutate, but steroid replacement is not recommended.
 
     # How common is this genotype in the general population?
 
@@ -140,7 +146,26 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
 
     # What is the effect of this variant?
 
-    You are in the Moderate Loss of Function category. See below for more information.
+    Your variant is one of the top 10 genetic markers with the highest chance of being associated with CFS.  It may also act alongside rs12185233, which is associated with Parkinson’s disease. Your variant was studied due to CRHR1’s effects in the HPA axis.  
+
+    ME/CFS has been associated with lower levels of HPA activity, which may be caused by a variety of immune system abnormalities, inflammation, and oxidative stress. This may cause mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response, which correlate with increased disability and poorer response to standard treatment. 
+
+    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The CRF system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It maintains blood pressure and heart function, mediates the immune response, and controls the metabolism. Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including pain, fatigue, muscle weakness, and POTS.
+
+    The HPA axis disturbance of the immune system is also linked to CFS.  Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack.  This hyper-immune state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    # What should I do about this?
+
+    Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
+    * Consider eating [ red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to inactivity, depression, or early-life stress.  
+    * If too low, consider psychotropic medication and cognitive behavioral therapy (CBT). Consult your physician.  
+    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician.  
+
+    CRHR1 medication includes Corticorelin ovine triflutate, but steroid replacement is not recommended.
 
     # How common is this genotype in the general population?
 
@@ -188,18 +213,14 @@ There are three common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.
   </Genotype>
 </GeneAnalysis>
 
-<# symptoms  vision problems; pain; chills and night sweats; multiple chemical sensitivity/allergies; inflamation; #>
+<# symptoms fatigue D005221; depression D003863; stress D040701; orthostatic intolerance (POTS) D054971; pain D010146; inflamation D007249 #>
 
-<symptoms D014786 D010146 D023341 D018777 D007249 />
+<symptoms D005221 D003863 D040701 D054971 D010146 D007249 />
 
 <# Tissue List brain; female tissue; #>
 
 <TissueList D001921 D005836 />
 
-<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
+<# Diseases depression D003866; ME/CFS D015673; hypothyroid D007037; Parkinson Disease D010300; #>
 
-<Pathways D011978 D017136 D015640 />
-
-<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
-
-<diseases D009369 D008175 D004198 D01402 />
+<diseases D003866 D015673 D007037 D010300 />
