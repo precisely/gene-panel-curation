@@ -185,6 +185,9 @@
   common-name: pain, primary erythromelalgia (PERYTHM)	
   MESH: D004916
 - ID:
+  common-name: Parkinson Disease
+  MESH: D010300 
+- ID:
   common-name: peripheral vascular disease	
   MESH: D016491
 - ID:
