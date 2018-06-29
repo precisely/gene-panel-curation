@@ -192,10 +192,6 @@ There are two common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.go
 
     Your CRHR1 gene has an unknown variant.
 
-    # What is the effect of this variant?
-
-    The effect is unknown.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
@@ -206,10 +202,6 @@ There are two common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.go
     # What does this mean?
 
     Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
 
     # How common is this genotype in the general population?
 
