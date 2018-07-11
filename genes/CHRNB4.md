@@ -8,6 +8,8 @@ The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.
 
 This gene is located on chromosome 15. The protein it creates acts in the adrenal glands and male testis.
 
+
+
 <GeneAnalysis gene="CHRNB4" interval="NC_000015.10:g.78623282_78655586"> 
 
 # What are some common mutations of CHRNB4?
@@ -42,7 +44,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What is the effect of this variant?
 
-    # Moderate Risk
+"    # Moderate Loss of Function
 
     CHRN genes pay a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated with a [higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract), with an [odds ratio of 1.45](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) for a risk of heavy smoking and an increased [odds ratio of 1.33](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) for [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract). There is also an increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract).
 
@@ -59,7 +61,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
     - Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution. 
     - [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers. 
 
-    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)."
 
     # How common is this genotype in the general population?
 
@@ -73,7 +75,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What is the effect of this variant?
 
-    # High Risk
+"    # Severe Loss of Function
 
     This homozygous CHRNB4 variant is associated with a [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract). The risk of heavy smoking has an [odds ratio of 1.64](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract), and the risk for [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) has [odds ratio of 1.33](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract). There is also an greatly increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract), with an odds ratio of 1.28.
 
@@ -90,7 +92,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
     - Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution. 
     - [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers. 
 
-    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)."
 
     # How common is this genotype in the general population?
 
@@ -129,7 +131,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What is the effect of this variant?
 
-    # Moderate Risk
+"    # Moderate Loss of Function
 
     Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
@@ -155,7 +157,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
     - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
     - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity."
 
     # How common is this genotype in the general population?
 
@@ -180,7 +182,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     # What is the effect of this variant?
 
-    # Moderate Risk
+"    # Moderate Loss of Function
 
     Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
@@ -200,13 +202,13 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     Many dietary supplements have been found to increase natural killer cell function:
 
-    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but     sufficient body concentration can only be achieved through supplementation. 
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
     - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
     - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
     - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
     - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity."
 
     # How common is this genotype in the general population?
 
@@ -243,6 +245,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
 
     Your CHRNB4 gene has an unknown variant.
 
+
     # How common is this genotype in the general population?
 
     <piechart percentage= />
@@ -253,6 +256,7 @@ There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/pr
     # What does this mean?
 
     Your CHRNB4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
 
     # How common is this genotype in the general population?
 
