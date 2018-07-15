@@ -1,46 +1,45 @@
+<Gene_Name CHRNA2 />
+
+<GeneName_full Cholinergic Receptor Nicotinic Alpha 2 Subunit />
+
 # What does the CHRNA2 gene do?
 
-0
-
-This gene is located on chromosome 8. The protein it creates acts in your brain and prostate.
-
-
-<TissueList male tissue D005837 brain D001921 />
+[CHRNA2](http://www.uniprot.org/uniprot/Q15822) creates a protein that is part of a nicotine receptor in the brain. This receptor binds to [acetylcholine](https://www.britannica.com/science/acetylcholine), the chief neurotransmitter controlling muscle contraction, blood vessel dilation, and heart rate. After it binds to acetylcholine, channels in cells are opened to transport [electrically charged particles (ions) essential for cellular function.](https://www.uniprot.org/uniprot/Q15822) Variants in CHRNA2 are linked to [epilepsy](http://www.uniprot.org/diseases/DI-00821), [seizures](https://www.omim.org/entry/601764), [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/24467848), and [ME](https://www.ncbi.nlm.nih.gov/pubmed/27099524)[/CFS](https://www.ncbi.nlm.nih.gov/pubmed/24253422). This gene is located on chromosome 8.
 
 <GeneAnalysis gene="CHRNA2" interval="NC_000008.11:g.27459761_27479296"> 
 
 # What are some common mutations of CHRNA2?
  
-There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128740/), [A27468610G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2741343), [A373G (p.Thr125Ala)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128739/), [T836A (p.Ile279Asn)](https://www.ncbi.nlm.nih.gov/clinvar/variation/17504/), and [889A>T (p.Ile297Phe)](https://www.ncbi.nlm.nih.gov/clinvar/variation/522582/).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128740/), [A27468610G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2741343), [A373G (p.Thr125Ala)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128739/), [T836A (p.Ile279Asn)](https://www.ncbi.nlm.nih.gov/clinvar/variation/17504/), and[889A>T (p.Ile297Phe)](https://www.ncbi.nlm.nih.gov/clinvar/variation/522582/).
 
 <# C65T #>
   <Variant hgvs="NC_000008.11:g.27470994G>A" name="C65T"> 
 
-    This variant is a change at a specific point in the CHRNA2 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of cytosine (C), there is a thymine (T) nucleotide.
 
   </Variant>
 <# A27468610G #>
   <Variant hgvs="NC_000008.11:g.27468610A>G" name="A27468610G"> 
 
-    This variant is a change at a specific point in the CHRNA2 gene from thymine (T) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of thymine (T), there is a cytosine (C) nucleotide.
 
   </Variant>
 <# A373G #>
   <Variant hgvs="NC_000008.11:g.27467305T>C" name="A373G"> 
 
-    This variant is a change at a specific point in the CHRNA2 gene from thymine (T) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of thymine (T), there is a cytosine (C) nucleotide.
 
   </Variant>
 <# T836A #>
   <Variant hgvs="NC_000008.11:g.27463607A>T" name="T836A"> 
 
-    This variant is a change at a specific point in the CHRNA2 gene from thymine (T) to adenine (A) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of thymine (T), there is an adenine (A) nucleotide.
 
   </Variant>
 <# T889A #>
   <Variant hgvs="NC_000008.11:g.27463554T>A" name="T889A"> 
 
-    This variant is a change at a specific point in the CHRNA2 gene from thymine (T) to adenine (A) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of thymine (T), there is an adenine (A) nucleotide.
 
   </Variant>
 
@@ -78,10 +77,6 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
     # What does this mean?
 
     Your CHRNA2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
 
     # How common is this genotype in the general population?
 
@@ -122,10 +117,6 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
 
     Your CHRNA2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=3.9 />
@@ -164,10 +155,6 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
     # What does this mean?
 
     Your CHRNA2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    You are in the Moderate Loss of Function category. See below for more information.
 
     # How common is this genotype in the general population?
 
@@ -251,10 +238,6 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
 
     Your CHRNA2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
     # How common is this genotype in the general population?
 
     <piechart percentage=50.5 />
@@ -265,10 +248,6 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
     # What does this mean?
 
     Your CHRNA2 gene has an unknown variant.
-
-    # What is the effect of this variant?
-
-    The effect is unknown.
 
     # How common is this genotype in the general population?
 
@@ -281,16 +260,20 @@ There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.n
 
     Your CHRNA2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
     # How common is this genotype in the general population?
 
     <piechart percentage= />
   </Genotype>
 </GeneAnalysis>
 
-# How do changes in CHRNA2 affect people?
+<# symptoms anxiety D001007 inflammation D007249 #>
 
-For the vast majority of people, the overall risk associated with the common CHRNA2 variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
+<symptoms D001007 D007249 />
+
+<# Tissue List male tissue; brain; #>
+
+<TissueList D005837 D001921 />
+
+<# Diseases epilepsy  D004827; febrile seizures D003294; ME/CFS D015673; nicotine dependency D014029; #>
+
+<diseases D004827 D003294 D015673 D014029 />
