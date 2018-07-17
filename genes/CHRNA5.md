@@ -8,7 +8,7 @@
 
 <GeneAnalysis gene="CHRNA5" interval="NC_000015.10:G.78565520_78595269"> 
 
-# What are some common mutations of CHRNA5?
+# What are some common variants of CHRNA5?
  
 A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are three common variants in CHRNA5: [G1192A (Asp398Asn)](https://www.ncbi.nlm.nih.gov/clinvar/variation/17497/), [A78573551G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6495306), and [A78581651T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=7180002).
 
