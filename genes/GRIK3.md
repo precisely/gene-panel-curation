@@ -32,9 +32,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
   </Variant>
 
 <# T928G #>
-  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="T928G"> 
+  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222=]" name="A7783504C"> 
 
-    # What does this mean?
+    # What does this mean?   <# [2222T>G];[2222=], one variant #> 
  
     People with this variant have one copy of the [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -50,9 +50,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=43 />
   </Genotype>
-  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222T>G]" name="T928G"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC000001_1.11:g.[2222T>G];[2222T>G]" name="A7783504C"> 
+
+    # What does this mean?  <# [2222T>G];[2222T>G], two variants #> 
 
     People with this variant have two copies of the [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -68,9 +68,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=19.9 />
   </Genotype>
-  <Genotype hgvs="NC000001_1.11:g.[2222=];[2222=]" name="T928G"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC000001_1.11:g.[2222=];[2222=]" name="A7783504C"> 
+
+    # What does this mean? <# wildtype #> 
 
     Your GRIK3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
@@ -79,9 +79,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     <piechart percentage=37.1 />
   </Genotype>
 <# C36983994T #>
-  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name="C36983994T"> 
+  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994=]" name=""> 
 
-    # What does this mean?
+    # What does this mean?   <# [36983994C>T];[36983994=], one variant #> 
  
     People with this variant have one copy of the [C36983994T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3913434) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -107,9 +107,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=1.8 />
   </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name="C36983994T"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name=""> 
+
+    # What does this mean?  <# [36983994C>T];[36983994C>T], two variants #> 
 
     People with this variant have two copies of the [C36983994T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3913434) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -121,9 +121,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=0.5 />
   </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name="C36983994T"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name=""> 
+
+    # What does this mean? <# wildtype #> 
 
     Your GRIK3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
@@ -132,9 +132,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     <piechart percentage=97.8 />
   </Genotype>
 <# A7783504C #>
-  <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504=]" name="A7783504C"> 
+  <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504=]" name=""> 
 
-    # What does this mean?
+    # What does this mean?   <# [7783504A>C];[7783504=], one variant #> 
  
     People with this variant have one copy of the [A7783504C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=270838) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -160,9 +160,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=15.8 />
   </Genotype>
-  <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504A>C]" name="A7783504C"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504A>C]" name=""> 
+
+    # What does this mean?  <# [7783504A>C];[7783504A>C], two variants #> 
 
     People with this variant have two copies of the [A7783504C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=270838) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -174,9 +174,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=4.7 />
   </Genotype>
-  <Genotype hgvs="NC_000002.11:g.[7783504=];[7783504=]" name="A7783504C"> 
- 
-    # What does this mean?
+  <Genotype hgvs="NC_000002.11:g.[7783504=];[7783504=]" name=""> 
+
+    # What does this mean? <# wildtype #> 
 
     Your GRIK3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
