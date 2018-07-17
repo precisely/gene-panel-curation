@@ -8,7 +8,7 @@
 
 <GeneAnalysis gene="CHRNA2" interval="NC_000008.11:g.27459761_27479296"> 
 
-# What are some common mutations of CHRNA2?
+# What are some common variants of CHRNA2?
  
 A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are five common variants in CHRNA2: [C65T (p.Thr22Ile)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128740/), [A27468610G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2741343), [A373G (p.Thr125Ala)](https://www.ncbi.nlm.nih.gov/clinvar/variation/128739/), [T836A (p.Ile279Asn)](https://www.ncbi.nlm.nih.gov/clinvar/variation/17504/), and[889A>T (p.Ile297Phe)](https://www.ncbi.nlm.nih.gov/clinvar/variation/522582/).
 
