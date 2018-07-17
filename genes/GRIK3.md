@@ -8,7 +8,7 @@ The GRIK3 gene creates a protein that helps form receptors for the neurotransmit
 
 <GeneAnalysis gene="GRIK3" interval="NC000001_1.11:g.1111_9999"> 
 
-# What are some common mutations of GRIK3?
+# What are some common variants of GRIK3?
  
 A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are three common variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986), [C36983994T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3913434), and [A7783504C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=270838).
 
