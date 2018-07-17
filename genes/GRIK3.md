@@ -4,32 +4,30 @@
 
 # What does the GRIK3 gene do?
 
-The GRIK3 gene creates a protein that helps form receptors for the transmitter [glutamate.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Problems creating or absorbing glutamate are linked to [schizophrenia, depression, and memory problems.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Sustained exposure to excess glutamate in CFS patients causes sickness, neurotoxicity, stress, and peripheral nervous sensitivity. Currently, GRIK3 variants are linked to recurrent [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [developmental delays](https://www.ncbi.nlm.nih.gov/pubmed/24449200/), and a [30% increase](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) in the [risk](https://www.ncbi.nlm.nih.gov/pubmed/11986986) for [schizophrenia.](https://www.ncbi.nlm.nih.gov/pubmed/19921975/)
-
-This gene is located on chromosome 1. The protein it creates acts in your brain and nervous system.
+The GRIK3 gene creates a protein that helps form receptors for the neurotransmitter [glutamate](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). It increases the chance neurons will fire and enhances the electrical flow among brain cells, but elevated levels of glutamate are toxic to neurons. Problems creating or absorbing glutamate are linked to ME/CFS, [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/), [and memory problems](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). This gene is located on chromosome 1.
 
 <GeneAnalysis gene="GRIK3" interval="NC000001_1.11:g.1111_9999"> 
 
 # What are some common mutations of GRIK3?
  
-There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986), [C36983994T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3913434), and [A7783504C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=270838).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are three common variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986), [C36983994T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=3913434), and [A7783504C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=270838).
 
 <# T928G #>
   <Variant hgvs="NC000001_1.11:g.2222T>G" name="T928G"> 
 
-    This variant is a change at a specific point in the GRIK3 gene from thymine (T) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of thymine (T), there is an guanine (G) nucleotide.
 
   </Variant>
 <# C36983994T #>
   <Variant hgvs="NC_000001.11:g.36983994C>T" name="C36983994T"> 
 
-    This variant is a change at a specific point in the GRIK3 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of cytosine (C), there is a thymine (T) nucleotide.
 
   </Variant>
 <# A7783504C #>
   <Variant hgvs="NC_000002.11:g.7783504A>C" name="A7783504C"> 
 
-    This variant is a change at a specific point in the GRIK3 gene from adenine (A) to cytosine (C) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+    Instead of adenine (A), there is a cytosine (C) nucleotide.
 
   </Variant>
 
@@ -38,17 +36,15 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # What does this mean?
  
-    People with this variant have one copy of the [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
+    People with this variant have one copy of the [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-     [This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) 
-
-    GRIK3 Ser310Ala polymorphism has been linked to [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) and [major depression.](https://www.ncbi.nlm.nih.gov/pubmed/16958029) The Ser310Ala allele in homozygosity is associated with higher scores in [harm avoidance, anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) This pattern of scores is akin to that observed in [depressed patients.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) GRIK3 rs6691840 polymorphism was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%.](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) Microdeletions have also been indicated in [severe developmental delays.](https://www.ncbi.nlm.nih.gov/pubmed/24449200/)
+    Having one copy of this variant has been linked [recurrent major depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/16958029) and was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract).
 
     # What should I do about this?
 
-    Medications may include [L-Glutamic Acid.](https://www.drugbank.ca/drugs/DB00142) Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
+    Patients should be aware of their greater risk of depression, and consult with their physician regarding medication, including [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142). Treatments include psychotherapy, light therapy (being in bright sunlight for 20-30 minutes), art therapy, and animal therapy."
 
     # How common is this genotype in the general population?
 
@@ -58,17 +54,15 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
  
     # What does this mean?
 
-    People with this variant have two copies of the [T928G](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) [(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
+    People with this variant have two copies of the [T928G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=6691840)[(Ser310Ala)](https://www.ncbi.nlm.nih.gov/pubmed/11986986) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-     [This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) 
-
-    GRIK3 Ser310Ala polymorphism has been linked to [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) and [major depression.](https://www.ncbi.nlm.nih.gov/pubmed/16958029) The Ser310Ala allele in homozygosity is associated with higher scores in [harm avoidance, anticipatory worry, and shyness, with lower scores in exploratory excitability, responsibility, resourcefulness, helpfulness, compassion, self-directedness, and cooperativeness.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) This pattern of scores is akin to that observed in [depressed patients.](https://www.ncbi.nlm.nih.gov/pubmed/19221446/) GRIK3 rs6691840 polymorphism was found to increase the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%.](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) Microdeletions have also been indicated in [severe developmental delays.](https://www.ncbi.nlm.nih.gov/pubmed/24449200/)
+    This variant is linked to increasing the risk of [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/) by [30%](https://www.ncbi.nlm.nih.gov/pubmed/25054019?dopt=Abstract) and [recurrent major depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/16958029). Having two copies of this variant is associated with personality differences.  These include higher scores in [harm avoidance, anxiety, and shyness, and lower scores in novelty seeking, responsibility, resourcefulness, helpfulness, compassion, self motivation, and cooperativeness](https://www.ncbi.nlm.nih.gov/pubmed/19221446/). This pattern of scores is similar to that observed in [depressed patients](https://www.ncbi.nlm.nih.gov/pubmed/19221446/).
 
     # What should I do about this?
 
-    Medications may include [L-Glutamic Acid.](https://www.drugbank.ca/drugs/DB00142) Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
+    Patients should be aware of their greater risk of depression, and consult with their physician regarding medication, including [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142). Treatments include psychotherapy, light therapy (being in bright sunlight for 20-30 minutes), art therapy, and animal therapy."
 
     # How common is this genotype in the general population?
 
@@ -93,17 +87,25 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # What is the effect of this variant?
 
-     [This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli. Sustained exposure to extracellular glutamate in CFS patients causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
-
-    Two genotypes of GRIK3 are associated with CFS, the heterozygous A:C [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/26859813) and the heterozygous C:T [C36983994T](https://www.ncbi.nlm.nih.gov/pubmed/27835969). A:C A7783504C was found in 71.4% of CFS patients, compared with 2.6% of healthy patients. C:T C36983994T was found in 90.5% of CFS patients, compared with 21.1% of healthy patients.
+    This variant was found was found in [90.5% of ME/CFS patients](https://www.ncbi.nlm.nih.gov/pubmed/27835969), compared with 21.1% of healthy patients. Changes to the glutamate receptor caused by this variant may impair [electrical flow among brain cells and reduce glutamate binding ability.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Elevated levels of glutamate outside of cells ([extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)) causes [excitotoxicity](https://www.ncbi.nlm.nih.gov/books/NBK10807/), a process when nerve cells are damaged or killed by excessive stimulation. For ME/CFS patients, sustained exposure to excess [extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity, including weakness, numbness and pain.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) ME/CFS is also linked to an incorrect ratio of[glutamate to GABA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/). Excess glutamate and low GABA may cause increased pain, anxiety, and an inability to focus. 
 
     # What should I do about this?
 
-    Medications may include [L-Glutamic Acid.](https://www.drugbank.ca/drugs/DB00142) Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
+    For elevated glutamate levels:
+
+    - Medications may include: [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Ketamine, Riluzole, Lamotrigine, and Memantine](http://web.stanford.edu/group/hopes/cgi-bin/hopes_test/glossary/anti-glutamate/). 
+    - Dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
+
+    For low GABA levels:
+
+    - Medications may include: benzodiazepines, such as clonazepam and Xanax, and sleep medications, including Ambien and Lunesta. 
+    - Dietary supplements may include: 5-HTP (a synthetic form of tryptophan), glutamine (found in meat, fish, eggs, dairy, and wheat), and Taurine (found in meat and seafood).  
+
+    Lifestyle changes to improve anxiety, stress, and pain include [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78)."
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=15.8 />
+    <piechart percentage=1.8 />
   </Genotype>
   <Genotype hgvs="NC_000001.11:g.[36983994C>T];[36983994C>T]" name="C36983994T"> 
  
@@ -117,7 +119,7 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=4.7 />
+    <piechart percentage=0.5 />
   </Genotype>
   <Genotype hgvs="NC_000001.11:g.[36983994=];[36983994=]" name="C36983994T"> 
  
@@ -127,7 +129,7 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=79.5 />
+    <piechart percentage=97.8 />
   </Genotype>
 <# A7783504C #>
   <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504=]" name="A7783504C"> 
@@ -138,17 +140,25 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # What is the effect of this variant?
 
-    [This gene creates a protein that helps form receptors for glutamate that act as excitatory neurotransmitters in your brain and nervous system.](https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2899) Excitatory transmitters increase the chance that the neuron will fire, [enhancing electrical flow among brain cells.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Glutamate is the most important transmitter for normal brain function, but [elevated levels are toxic to neurons.](https://www.ncbi.nlm.nih.gov/books/NBK10807/) CFS is linked to improper Glutamate:GABA balance, as well as exposure to extracellular glutamate caused by neuroinflammatory stimuli. Sustained exposure to extracellular glutamate in CFS patients causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
-
-    Two genotypes of GRIK3 are associated with CFS, the heterozygous A:C [A7783504C](https://www.ncbi.nlm.nih.gov/pubmed/26859813) and the heterozygous C:T [C36983994T](https://www.ncbi.nlm.nih.gov/pubmed/27835969). A:C A7783504C was found in 71.4% of CFS patients, compared with 2.6% of healthy patients. C:T C36983994T was found in 90.5% of CFS patients, compared with 21.1% of healthy patients.
+    This variant was found was found in [71.4% of ME/CFS patients](https://www.ncbi.nlm.nih.gov/pubmed/26859813), compared with 2.6% of healthy patients. Changes to the glutamate receptor caused by this variant may impair [electrical flow among brain cells and reduce glutamate binding ability.](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml) Elevated levels of glutamate outside of cells ([extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)) causes [excitotoxicity](https://www.ncbi.nlm.nih.gov/books/NBK10807/), a process when nerve cells are damaged or killed by excessive stimulation. For ME/CFS patients, sustained exposure to excess [extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity, including weakness, numbness and pain.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) ME/CFS is also linked to an incorrect ratio of[glutamate to GABA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/). Excess glutamate and low GABA may cause increased pain, anxiety, and an inability to focus. 
 
     # What should I do about this?
 
-    Medications may include [L-Glutamic Acid.](https://www.drugbank.ca/drugs/DB00142) Helpful dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
+    For elevated glutamate levels:
+
+    - Medications may include: [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Ketamine, Riluzole, Lamotrigine, and Memantine](http://web.stanford.edu/group/hopes/cgi-bin/hopes_test/glossary/anti-glutamate/). 
+    - Dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
+
+    For low GABA levels:
+
+    - Medications may include: benzodiazepines, such as clonazepam and Xanax, and sleep medications, including Ambien and Lunesta. 
+    - Dietary supplements may include: 5-HTP (a synthetic form of tryptophan), glutamine (found in meat, fish, eggs, dairy, and wheat), and Taurine (found in meat and seafood).  
+
+    Lifestyle changes to improve anxiety, stress, and pain include [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78)."
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=1.8 />
+    <piechart percentage=15.8 />
   </Genotype>
   <Genotype hgvs="NC_000002.11:g.[7783504A>C];[7783504A>C]" name="A7783504C"> 
  
@@ -162,7 +172,7 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=0.5 />
+    <piechart percentage=4.7 />
   </Genotype>
   <Genotype hgvs="NC_000002.11:g.[7783504=];[7783504=]" name="A7783504C"> 
  
@@ -172,7 +182,7 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=97.8 />
+    <piechart percentage=79.5 />
   </Genotype>
 <# unknown #>
   <Genotype hgvs="unknown"> 
@@ -202,14 +212,10 @@ There are three well-known variants in GRIK3: [T928G](https://www.ncbi.nlm.nih.g
 
 <symptoms D003863 D040701 D008569 D010146 />
 
-<# Tissue List brain #>
+<# Tissue List brain D001921 #>
 
 <TissueList D001921 />
 
-<# Pathways Ion Transport; Ion Channel Gating; Receptors, Ionotropic Glutamate;  Ion Channels, Ligand-Gated;  #>
+<# Diseases schizophrenia D012559; major depressive disorder D003866; ME/CFS D015673;  #>
 
-<Pathways D017136 D015640 D058468  D058446 />
-
-<# Diseases diseases schizophrenia D012559; depression D003866; ME/CFS D015673; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections D004198; disease, Genetic Predisposition to Disease D020022; #>
-
-<diseases D012559 D003866 D015673 D004198 D020022 />
+<diseases D012559 D003866 D015673 />
