@@ -8,7 +8,7 @@ CHRNA3 encodes a neurotransmitter called [acetylcholine](http://www.uniprot.org/
 
 <GeneAnalysis gene="CHRNA3" interval="NC_000015.10:g.78593052_78621295"> 
 
-# What are some common mutations of CHRNA3?
+# What are some common variants of CHRNA3?
  
 A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are two common variants in CHRNA3: [C78606381T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=12914385) and [C645T](https://www.ncbi.nlm.nih.gov/clinvar/variation/17503/).
 
