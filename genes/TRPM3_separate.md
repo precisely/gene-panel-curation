@@ -154,60 +154,60 @@ Dietary supplements that increase natural killer cell function include:
 - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726)
 
   <Genotype hgvs="NC_000009.12:g.[70790948T>C];[70790948=]" name="T70790948C"> 
-
-    # What does this mean?   <# [70790948T>C];[70790948=], one variant #> 
+     
+      # What does this mean?   <# [70790948T>C];[70790948=], one variant #> 
  
-    People with this variant have one copy of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
+      People with this variant have one copy of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-    # What is the effect of this variant?
+      # What is the effect of this variant?
 
-    # How common is this genotype in the general population?
+      # How common is this genotype in the general population?
 
-    <piechart percentage=5.3 />
+      <piechart percentage=5.3 />
   </Genotype>
   <Genotype hgvs="NC_000009.12:g.[70790948T>C];[70790948T>C]" name="T70790948C"> 
+    
+      # What does this mean?  <# [70790948T>C];[70790948T>C], two variants #> 
 
-    # What does this mean?  <# [70790948T>C];[70790948T>C], two variants #> 
+      People with this variant have two copies of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-    People with this variant have two copies of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
+      # What is the effect of this variant?
 
-    # What is the effect of this variant?
+      Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27835969) more common in ME/CFS patients. It causes the CHRNB4 protein to be malformed, which impacts natural killer cell (NKC) activity. Natural killer cells are a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NKC with lower functional ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
-    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27835969) more common in ME/CFS patients. It causes the CHRNB4 protein to be malformed, which impacts natural killer cell (NKC) activity. Natural killer cells are a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NKC with lower functional ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+      # What should I do about this?
 
-    # What should I do about this?
+      [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
 
-    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+      Pharmaceuticals that increase natural killer cell function include:
 
-    Pharmaceuticals that increase natural killer cell function include:
+      - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+      - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+      - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
 
-    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
-    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
-    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+      Dietary supplements that increase natural killer cell function include:
 
-    Dietary supplements that increase natural killer cell function include:
+      - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+      - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+      - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+      - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+      - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+      - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity. 
+      - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726)
 
-    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
-    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
-    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
-    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
-    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity. 
-    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726)
+      # How common is this genotype in the general population?
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0.9 />
+      <piechart percentage=0.9 />
   </Genotype>
   <Genotype hgvs="NC_000009.12:g.[70790948=];[70790948=]" name="T70790948C"> 
 
-    # What does this mean? <# wildtype #> 
+      # What does this mean? <# wildtype #> 
 
-    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+      Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
+      # How common is this genotype in the general population?
 
-    <piechart percentage=93.8 />
+      <piechart percentage=93.8 />
   </Genotype>
   
 <# A70699095G [70699095A>G];[70699095=], one variant #>
@@ -237,7 +237,7 @@ Chronic pain relief may include:
  
     People with this variant have one copy of the [A70699095G](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
-# What is the effect of this variant?
+    # What is the effect of this variant?
 
     # How common is this genotype in the general population?
 
