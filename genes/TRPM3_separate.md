@@ -129,7 +129,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
   
-<# T70790948C [70790948T>C];[70790948=], one variant #>
+<# T70790948C TC #>
 
 Your variant is [2.6X](https://www.ncbi.nlm.nih.gov/pubmed/27835969) more common in ME/CFS patients. It causes the CHRNB4 protein to be malformed, which impacts natural killer cell (NKC) activity. Natural killer cells are a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NKC with lower functional ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
@@ -154,7 +154,7 @@ Dietary supplements that increase natural killer cell function include:
 - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726)
 
   <Genotype hgvs="NC_000009.12:g.[70790948T>C];[70790948=]" name="T70790948C"> 
-     
+
       # What does this mean?   <# [70790948T>C];[70790948=], one variant #> 
  
       People with this variant have one copy of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
@@ -163,10 +163,10 @@ Dietary supplements that increase natural killer cell function include:
 
       # How common is this genotype in the general population?
 
-      <piechart percentage=5.3 />
+      <piechart percentage=49.7 />
   </Genotype>
   <Genotype hgvs="NC_000009.12:g.[70790948T>C];[70790948T>C]" name="T70790948C"> 
-    
+
       # What does this mean?  <# [70790948T>C];[70790948T>C], two variants #> 
 
       People with this variant have two copies of the [T70790948C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=10118380) variant. This substitution of a single nucleotide is known as a missense mutation.
@@ -197,7 +197,7 @@ Dietary supplements that increase natural killer cell function include:
 
       # How common is this genotype in the general population?
 
-      <piechart percentage=0.9 />
+      <piechart percentage=16.3 />
   </Genotype>
   <Genotype hgvs="NC_000009.12:g.[70790948=];[70790948=]" name="T70790948C"> 
 
@@ -207,7 +207,7 @@ Dietary supplements that increase natural killer cell function include:
 
       # How common is this genotype in the general population?
 
-      <piechart percentage=93.8 />
+      <piechart percentage=34 />
   </Genotype>
   
 <# A70699095G [70699095A>G];[70699095=], one variant #>
