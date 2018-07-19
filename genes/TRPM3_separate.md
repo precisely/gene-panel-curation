@@ -285,6 +285,188 @@ Chronic pain relief may include:
 
     <piechart percentage=12.8 />
   </Genotype>
+<# C70801146T #>
+  <Genotype hgvs="NC_000009.12:g.[70801146G>A];[70801146=]" name="C70801146T"> 
+
+    # What does this mean?   <# [70801146G>A];[70801146=], one variant #> 
+ 
+    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    Your [variant](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common in ME/CFS patients than in the general population. TRPM3 channels transport calcium and zinc and maintains the body’s homeostasis. Incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [heart problems, and skin diseases](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) patients, TRP channels targeted during inflammatory reactions, may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), because they cause the body releases excess numbers of inflammation causing white blood cells. [Insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short) (diabetes) is also found in ME/CFS patients with TRPM3 variants.
+
+    Improper functioning of the pain channels may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). This includes:
+    - [chronic inflammatory pain syndromes](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+    - [rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+    - [neuropathy](https://www.ncbi.nlm.nih.gov/pubmed/27835969)   
+
+    [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in ME/CFS patients. This may be connected to improper functioning of TRPM3 temperature receptors.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+
+    [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=47.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.[70801146G>A];[70801146G>A]" name="C70801146T"> 
+
+    # What does this mean?  <# [70801146G>A];[70801146G>A], two variants #> 
+
+    People with this variant have two copies of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=6.1 />
+  </Genotype>
+
+<# wildtype #>
+
+Your [variant](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common in ME/CFS patients than in the general population. TRPM3 channels transport calcium and zinc and maintains the body’s homeostasis. Incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [heart problems, and skin diseases](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) patients, TRP channels targeted during inflammatory reactions, may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), because they cause the body releases excess numbers of inflammation causing white blood cells. [Insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short) (diabetes) is also found in ME/CFS patients with TRPM3 variants.
+
+Improper functioning of the pain channels may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). This includes:
+- [chronic inflammatory pain syndromes](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+- [rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+- [neuropathy](https://www.ncbi.nlm.nih.gov/pubmed/27835969)   
+
+[Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in ME/CFS patients. This may be connected to improper functioning of TRPM3 temperature receptors.
+
+# What should I do about this?
+
+CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+Chronic pain relief may include:
+- [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+- [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+- [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+
+[Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
+    
+  <Genotype hgvs="NC_000009.12:g.[70801146=];[70801146=]" name="C70801146T"> 
+
+    # What does this mean? <# wildtype #> 
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # What is the effect of this variant?
+
+    Your [variant](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.75X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common in ME/CFS patients than in the general population. TRPM3 channels transport calcium and zinc and maintains the body’s homeostasis. Incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [heart problems, and skin diseases](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) patients, TRP channels targeted during inflammatory reactions, may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), because they cause the body releases excess numbers of inflammation causing white blood cells. [Insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short) (diabetes) is also found in ME/CFS patients with TRPM3 variants.
+
+    Improper functioning of the pain channels may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). This includes:
+    - [chronic inflammatory pain syndromes](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+    - [rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+    - [neuropathy](https://www.ncbi.nlm.nih.gov/pubmed/27835969)   
+
+    [Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in ME/CFS patients. This may be connected to improper functioning of TRPM3 temperature receptors.
+
+    # What should I do about this?
+
+    CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+    Chronic pain relief may include:
+    - [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+    - [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+    - [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+
+    [Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=46.3 />
+  </Genotype>
+<# A70610886C one variant #>
+
+Your [variant](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) is [1.4X](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147) more common in ME/CFS patients than in the general population. TRPM3 channels transport calcium and zinc and maintains the body’s homeostasis. Incorrect function has been linked to [cataracts, glaucoma](https://link.springer.com/chapter/10.1007/978-3-642-54215-2_17), [heart problems, and skin diseases](https://www.ncbi.nlm.nih.gov/pubmed/27835969). In [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27835969) patients, TRP channels targeted during inflammatory reactions, may play a role in [multiple chemical sensitivity (MCS)](http://journals.sagepub.com/doi/pdf/10.4137/III.S25147), because they cause the body releases excess numbers of inflammation causing white blood cells. [Insulin and glucose dysregulation](http://jme.endocrinology-journals.org/content/50/3/R75.short) (diabetes) is also found in ME/CFS patients with TRPM3 variants.
+
+Improper functioning of the pain channels may lead to [generalized pain and central nervous system impairments without tissue damage](https://link.springer.com/article/10.1007/s10067-006-0433-9). This includes:
+- [chronic inflammatory pain syndromes](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+- [rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/27835969) 
+- [neuropathy](https://www.ncbi.nlm.nih.gov/pubmed/27835969)   
+
+[Incorrect thermoregulatory responses, including significantly more shivering, sweating, sudden change of skin color, and feeling unusually warm,](http://pediatrics.aappublications.org/content/120/1/e129.short) have been reported in ME/CFS patients. This may be connected to improper functioning of TRPM3 temperature receptors.
+
+# What should I do about this?
+
+CFS patients should be aware of their difficulty in maintaining a stable body temperature and avoid large temperature swings. Blood sugar should be checked regularly to avoid insulin and blood sugar issues.
+
+Chronic pain relief may include:
+- [Nonsteroidal anti-inflammatory drugs](https://www.ncbi.nlm.nih.gov/pubmed/14997317/) 
+- [Tricyclic antidepressants](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+- [Gabapentin, duloxetine, or pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/19410099/) 
+
+[Multidisciplinary pain management programs](https://www.ncbi.nlm.nih.gov/pubmed/22550986), such as [cognitive behavioral therapy](https://www.ncbi.nlm.nih.gov/pubmed/11166973/)
+
+  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886=]" name="A70610886C"> 
+
+    # What does this mean?   <# [70610886T>A];[70610886=], one variant #> 
+ 
+    People with this variant have one copy of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?   
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=49.6 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.[70610886T>A];[70610886T>A]" name="A70610886C"> 
+
+    # What does this mean?  <# [70610886T>A];[70610886T>A], two variants #> 
+
+    People with this variant have two copies of the [A70610886C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is not associated with increased risk.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=45.4 />
+  </Genotype>
+  <Genotype hgvs="NC_000009.12:g.[70610886=];[70610886=]" name="A70610886C"> 
+
+    # What does this mean? <# wildtype #> 
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=5 />
+  </Genotype>
+<# unknown #>
+  <Genotype hgvs="unknown"> 
+ 
+    # What does this mean? <# unknown #>
+
+    Your TRPM3 gene has an unknown variant.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Genotype>
+<# wildtype #>
+  <Genotype hgvs="wildtype">
+ 
+    # What does this mean?
+
+    Your TRPM3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Genotype>
 
 <# unknown #>
   <Genotype hgvs="unknown"> 
