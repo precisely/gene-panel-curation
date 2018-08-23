@@ -4,34 +4,46 @@
 
 # What does the MTHFR gene do?
 
-MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
-methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1.
+"MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
+methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1."
 
-<GeneAnalysis gene="MTHFR" interval="NC_000001.11 :g.11785730_11806103"> 
+<GeneMap name= "MTHFR" interval="NC_000001.11 :g.11785730_11806103=">
 
-# What are some common mutations of MTHFR?
+# What are some common variants of MTHFR?
  
-A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect enzyme function. There are two well-known variants in MTHFR: [C677T](https://www.ncbi.nlm.nih.gov/clinvar/variation/3520/) and [A1298C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect enzyme function. There are two common variants in MTHFR: [C677T](http://gnomad.broadinstitute.org/variant/1-11856378-G-A) and [A1298C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131).
 
 <# C677T #>
-  <Variant hgvs="NC_000001.11:g.11796321G>A" name="C677T"> 
 
-    This variant is a change at a specific point in the MTHFR gene from cytosine (C) to thymine (T) resulting in incorrect enzyme function. This substitution of a single nucleotide is known as a missense variant.
- 
+  <Variant hgvs="NC_000001.10:g.11856378G>A" name="C677T"> 
+
+    Instead of cytosine (C), there is a thymine (T) nucleotide.
+
   </Variant>
+
 <# A1298C #>
-  <Variant hgvs="NC_000001.11:g.11794419T>G" name="A1298C"> 
 
-    This variant is a change at a specific point in the MTHFR gene from adenine (A) to cytosine (C) resulting in incorrect enzyme function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000001.10:g.11854476T>G" name="A1298C"> 
+
+    Instead of adenine (A), there is a cytosine (C) nucleotide.
 
   </Variant>
 
-<# C677T #>
-  <Genotype hgvs="NC_00001.11:g.[14783C>T];[14783=]" name="C677T"> 
+</GeneMap>
+
+<AnalysisBox>
+
+<# C677T (C;T) #>
+
+  <Analysis name="C677T (C;T)"
+          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+                  } > 
 
     # What does this mean?
- 
-    People with this variant have one copy of the [C677T](https://www.ncbi.nlm.nih.gov/clinvar/variation/3520/) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    People with this variant have one copy of the [C677T](http://gnomad.broadinstitute.org/variant/1-11856378-G-A) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -44,12 +56,18 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=30 />
-  </Genotype>
-  <Genotype hgvs="NC_00001.11:g.[14783C>T];[14783C>T]" name="C677T"> 
- 
+  </Analysis>
+<# C677T (T;T) #>
+
+  <Analysis name="C677T (T;T)"
+          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378G>A]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+                  } > 
+
     # What does this mean?
 
-    People with this variant have two copies of the [C677T](https://www.ncbi.nlm.nih.gov/clinvar/variation/3520/) variant. This substitution of a single nucleotide is known as a missense mutation.
+    People with this variant have two copies of the [C677T](http://gnomad.broadinstitute.org/variant/1-11856378-G-A) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -62,22 +80,17 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=9 />
-  </Genotype>
-  <Genotype hgvs="NC_00001.11:g.[14783=];[14783=]" name="C677T"> 
- 
-    # What does this mean?
+  </Analysis>
+<# A1298C (A;C) #>
 
-    Your MTHFR gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=61 />
-  </Genotype>
-<# A1298C #>
-  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="A1298C"> 
+  <Analysis name="A1298C (A;C)"
+          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
+                  } > 
 
     # What does this mean?
- 
+
     People with this variant have one copy of the [A1298C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
@@ -91,9 +104,15 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=20 />
-  </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[11794419T>G];[11794419T>G]" name="A1298C"> 
- 
+  </Analysis>
+<# A1298C (C;C) #>
+
+  <Analysis name="A1298C (C;C)"
+          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476T>G]")
+                  } > 
+
     # What does this mean?
 
     People with this variant have two copies of the [A1298C](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1801131) variant. This substitution of a single nucleotide is known as a missense mutation.
@@ -109,23 +128,18 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=4 />
-  </Genotype>
-  <Genotype hgvs="NC_000001.11:g.[11794419T=];[11794419T=]" name="A1298C"> 
- 
-    # What does this mean?
+  </Analysis>
+<# C677T (C;T) and A1298C (A;C) #>
 
-    Your MTHFR gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=76 />
-  </Genotype>
-<# C677T (C;T) ; A1298C (A;C) #>
-  <Genotype hgvs="NC_00001.11:g.[14783C>T];[14783=]" hgvs="NC_000001.11:g.[11794419T>G];[11794419T=]" name="C677T A1298C"> 
+  <Analysis name="C677T (C;T) and A1298C (A;C)"
+          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
+                  } > 
 
     # What does this mean?
- 
-    People with this variant have one copy of the C677T variant and the A1298C variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    People with this variant have two copies of the  variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
@@ -146,45 +160,45 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=6 />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
+  </Analysis>
+<# Wild type #>
+
+  <Analysis name="Wild type"
+          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                      and
+                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+                  } > 
+
     # What does this mean?
 
-    Your MTHFR gene has an unknown variant.
+    Your MTHFR gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
+    # How common is this genotype in the general population?
+
+    <piechart percentage=61 />
+  </Analysis>
+<# Unknown #>
+
+  <Analysis name="Unknown" case=true>
+
+    # What does this mean?
 
     The effect is unknown.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
-    # What does this mean?
+    <piechart percentage=0 />
+  </Analysis>
+</AnalysisBox>
 
-    Your MTHFR gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# Tissues endocrineSystem and pancreas #>
 
+<TopicBar endocrineSystem pancreas />
 
-    # How common is this genotype in the general population?
+<# Symptoms fatigue D005221 memory problems D008569 inflamation D007249 #>
 
-    <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
+<TopicBar mesh_D005221 mesh_D008569 mesh_D007249 />
 
-<# TissueList D004703 D010179 endocrine pancreas #>
+<# Diseases depression D003866 hypothyroid D007037  #>
 
-<TissueList D004703 D010179 />
-
-<# symptoms fatigue D005221 memory problems D008569 inflamation D007249 #>
-
-<symptoms D005221 D008569 D007249 />
-
-<# disease fatigue	D005221 fatigue, mental fatigue	D005222 fatigue, muscle fatigue	D018763 depression	D003866
- hypothyroid	D007037 #>
-
-<disease D005221 D005222 D018763 D003866 D007037 />
+<TopicBar mesh_D003866 mesh_D007037  />
