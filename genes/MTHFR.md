@@ -4,8 +4,8 @@
 
 # What does the MTHFR gene do?
 
-"MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
-methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1."
+MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
+methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1.
 
 <GeneMap name= "MTHFR" interval="NC_000001.11 :g.11785730_11806103=">
 
@@ -36,9 +36,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# C677T (C;T) #>
 
   <Analysis name="C677T (C;T)"
-          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+            case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
                   } > 
 
     # What does this mean?
@@ -51,7 +51,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What should I do about this?
 
-    Some people with mild loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. Consult your physician. 
+    Some people with mild loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. Consult your physician.
 
     # How common is this genotype in the general population?
 
@@ -60,9 +60,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# C677T (T;T) #>
 
   <Analysis name="C677T (T;T)"
-          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378G>A]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+            case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378G>A]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
                   } > 
 
     # What does this mean?
@@ -75,7 +75,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What should I do about this?
 
-    Most people with the moderate loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. However, opioid analgesics and other drugs that have to be demethylated (the removal of one methyl CH3 group) as part of their metabolism negatively impact MTHFR function.  Consult your physician. 
+    Most people with the moderate loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. However, opioid analgesics and other drugs that have to be demethylated (the removal of one methyl CH3 group) as part of their metabolism negatively impact MTHFR function.  Consult your physician.
 
     # How common is this genotype in the general population?
 
@@ -84,9 +84,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# A1298C (A;C) #>
 
   <Analysis name="A1298C (A;C)"
-          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
+            case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
                   } > 
 
     # What does this mean?
@@ -99,7 +99,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What should I do about this?
 
-    Most people with the moderate loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. However, opioid analgesics and other drugs that have to be demethylated (the removal of one methyl CH3 group) as part of their metabolism negatively impact MTHFR function.  Consult your physician. 
+    Most people with the moderate loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. However, opioid analgesics and other drugs that have to be demethylated (the removal of one methyl CH3 group) as part of their metabolism negatively impact MTHFR function.  Consult your physician.
 
     # How common is this genotype in the general population?
 
@@ -108,9 +108,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# A1298C (C;C) #>
 
   <Analysis name="A1298C (C;C)"
-          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476T>G]")
+            case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476T>G];[11854476T>G]")
                   } > 
 
     # What does this mean?
@@ -123,7 +123,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What should I do about this?
 
-    Some people with mild loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. Consult your physician. 
+    Some people with mild loss of function variant may benefit from supplementing their diets with an [oral folic acid](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement. Consult your physician.
 
     # How common is this genotype in the general population?
 
@@ -132,9 +132,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# C677T (C;T) and A1298C (A;C) #>
 
   <Analysis name="C677T (C;T) and A1298C (A;C)"
-          case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
+            case={  variantCall ("NC_000001.10:g.[11856378G>A];[11856378=]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476T>G];[11854476=]")
                   } > 
 
     # What does this mean?
@@ -164,9 +164,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# Wild type #>
 
   <Analysis name="Wild type"
-          case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
-                      and
-                      variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
+            case={  variantCall ("NC_000001.10:g.[11856378=];[11856378=]")
+                    and
+                    variantCall ("NC_000001.10:g.[11854476=];[11854476=]")
                   } > 
 
     # What does this mean?
