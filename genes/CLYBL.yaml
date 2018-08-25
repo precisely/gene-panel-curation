@@ -1,19 +1,27 @@
    symbol: CLYBL
    function: citrate lyase subunit beta-like protein, mitochondrial
    gene_expression_location:
-      - D002319
-      - D005221
-      - D008099 
+     - D002319
+     - D005221
+     - D008099 
    chromosome: 13
-   start: 99606669
-   end: 99897134
+   start: 100258919
+   end: 100549388
    strand: +
    gene_type: protein_coding
-      - fatigue D005221 
-      - memory problems D008569 
-      - inflamation D007249  
-      - muscle aches and pain D063806
-
+   symptoms
+     - fatigue D005221 
+     - memory problems D008569 
+     - inflamation D007249  
+     - muscle aches and pain D063806
+   diseases
+     - anemia D000740
+     - neurodegenerative disorder D000752
+     - cardiovascular disease D002318
+     - gastrointestinal disease D005767
+     - ME/CFS D015673
+     - coronary heart disease D003327
+     - stroke  D016491
    unification_links:
      - UNIPROT: Q8N0X4
      - HGNC: HGNC:18355
