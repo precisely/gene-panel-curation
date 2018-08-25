@@ -6,7 +6,7 @@
 
 The GRIK3 gene creates a protein that helps form receptors for the neurotransmitter [glutamate](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). It increases the chance neurons will fire and enhances the electrical flow among brain cells, but elevated levels of glutamate are toxic to neurons. Problems creating or absorbing glutamate are linked to ME/CFS, [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/), [and memory problems](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). This gene is located on chromosome 1.
 
-<GeneMap name= "GRIK3" interval="NC000001_1.11:g.1111_9999=">
+<GeneMap name= "GRIK3" interval="NC_000001.10:g.37261128_37499844=">
 
 # What are some common variants of GRIK3?
  
