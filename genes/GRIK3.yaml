@@ -10,12 +10,12 @@
    unification_links:
      - HGNC: HGNC:4581
      - UNIPROT: Q13003
-   symptoms
+   symptoms:
      - depression D003863
      - stress D040701
      - memory problems D008569
      - pain D010146
-   diseases
+   diseases:
      - schizophrenia D012559
      - major depressive disorder D003866
      - ME/CFS D015673
