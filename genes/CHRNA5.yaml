@@ -5,14 +5,23 @@
       - respiratory system and lung D012137  
       - bone marrow and immune system D007107   
    chromosome: 15
-   start: 78565520
-   end: 78595269
+   start: 78857862
+   end: 78887611
    strand: +
    gene_type: protein_coding
    symptoms:
      - anxiety D001007 
      - pain D010146 
      - inflamation: D007249
+   diseases:
+     - cancer D009369
+     - COPD D029424
+     - anxiety D001008
+     - ME/CFS D015673
+     - nicotine dependency D014029
+     - autoimmune disorder D001327
+     - Disease susceptibility - increased susceptibility to viral, bacterial, and parasitic infections D004198
+     - mood disorder D019964
    unification_links:
      - UNIPROT: P30532
      - HGNC: HGNC:1959
