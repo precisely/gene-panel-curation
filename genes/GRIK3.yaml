@@ -3,33 +3,22 @@
    gene_expression_locations:
      - D001921
    chromosome: 1
-   start: 36795527
-   end: 37034129
+   start: 37261128
+   end: 37499844
    strand: -
    gene_type: protein_coding
    unification_links:
      - HGNC: HGNC:4581
      - UNIPROT: Q13003
-   - ID: SYMP-2
-   common-name: depression
-   SNOMED: D9-52000
-   MESH: D003863
-   - ID: SYMP-4
-   common-name: stress
-   SNOMED: R-41520
-   MESH: D040701
-   - ID: SYMP-7
-   common-name: memory problems
-   SNOMED: D386807006
-   MESH: D008569
-   - ID: SYMP-8
-   common-name: orthostatic intolerance (POTS)
-   SNOMED: D2865100
-   MESH: D054971
-   - ID: SYMP-9
-   common-name: pain
-   SNOMED: F-A2600
-   MESH: D010146
+   symptoms
+     - depression D003863
+     - stress D040701
+     - memory problems D008569
+     - pain D010146
+   diseases
+     - schizophrenia D012559
+     - major depressive disorder D003866
+     - ME/CFS D015673
    curators: 
     - rtearle
     - taltman
