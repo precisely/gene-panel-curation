@@ -7,7 +7,7 @@
 MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
 methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1.
 
-<GeneMap name= "MTHFR" interval="NC_000001.11 :g.11785730_11806103=">
+<GeneMap name= "MTHFR" interval="NC_000001.10:g.11845787_11866160=">
 
 # What are some common variants of MTHFR?
  
