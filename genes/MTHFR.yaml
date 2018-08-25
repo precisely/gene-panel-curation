@@ -5,24 +5,20 @@
      - D004703
      - D010179
    chromosome: 1
-   start: 11785723
-   end: 11806920
+   start: 11845787
+   end: 11866160
    strand: -
    gene_type: protein_coding
    unification_links:
      - HGNC: HGNC:7436
      - UNIPROT: P42898
-     
-  common-name: fatigue
-  SNOMED: F-01360
-  MESH: D005221
-  common-name: memory problems
-  SNOMED: D386807006
-  MESH: D008569
-  common-name: inflamation
-  SNOMED: C0021368
-  MESH: D007249
+   symptoms:
+     - fatigue D005221
+     - memory problems D008569
+     - inflamation D007249
+   diseases:
+     - depression D003866
+     - hypothyroid D007037
    curators: 
      - rtearle
      - taltman
-
