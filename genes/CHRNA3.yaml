@@ -4,8 +4,8 @@
       - D001921
       - D007107 
    chromosome: 15
-   start: 78593052
-   end: 78621295
+   start: 78885394
+   end: 78913637
    strand: -
    gene_type: protein_coding
    unification_links:
@@ -15,6 +15,18 @@
      - inflamation D007249 
      - anxiety D001007 
      - depression D003863
+   diseases:
+     - cancer D009369
+     - COPD D029424
+     - anxiety disorder D001008
+     - ME/CFS D015673
+     - nicotine dependency D014029
+     - autoimmune disorder D001327
+     - Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections D004198
+     - cocaine dependence D019970
+     - schizophrenia D012559
+     - Major depression D003866
+     - coronary heart disease D003327
    curators: 
     - rtearle
     - taltman
