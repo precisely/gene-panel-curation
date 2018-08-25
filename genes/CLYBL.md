@@ -6,24 +6,34 @@
 
 [CLYBL](http://www.uniprot.org/uniprot/Q8N0X4) creates an energy production enzyme involved in the metabolism of vitamin B12 . It also involved in removing metals like magnesium and the citric acid cycle, which controls energy production and biosynthesis. Vitamin B12 is required for red blood cell formation, protein metabolism, neurological function, homocysteine conversion, and replicating DNA. Vitamin B12 plays a fundamental role in [detoxification](https://www.ncbi.nlm.nih.gov/pubmed/19409980) due to its substantial [antioxidant](https://www.ncbi.nlm.nih.gov/pubmed/19799418) properties. Vitamin B12 deficiency is linked with [anemia, neurodegenerative disorder, cardiovascular disease, gastrointestinal disease](https://www.ncbi.nlm.nih.gov/pubmed/22367966), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/29100069). This gene is located on chromosome 13.
 
-<GeneAnalysis gene="CLYBL" interval="NC_000013.11:g.99606664_99909459"> 
+<GeneMap name= "CLYBL" interval="NC_000013.10:g.100258919_100549388=">
 
 # What are some common variants of CLYBL?
  
 A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect mitochondrial enzyme function. There is one common variant in CLYBL: [C775T (Arg259Ter)](https://www.ncbi.nlm.nih.gov/pubmed/29100069).
 
 <# C775T #>
-  <Variant hgvs="NC_000013.11:g.99866380C>T" name="C775T"> 
 
-    Instead of cytosine (C), there is an thymine (T) nucleotide.
+  <Variant hgvs="NC_000013.10:g.100518634C>T" name="C775T"> 
+
+    Instead of cytosine (C), there is a thymine (T) nucleotide.
 
   </Variant>
 
-<# C775T #>
-  <Genotype hgvs="NC_000013.11:g.[99866380C>T];[99866380=]" name="C775T"> 
 
-    # What does this mean?   <# [99866380C>T];[99866380=], one variant #> 
- 
+
+<AnalysisBox>
+
+<# C775T (C;T) #>
+
+  <Analysis name="C775T (C;T)"
+            case={  variantCall ("NC_000013.10:g.[100518634C>T];[100518634=]")
+                    and
+                    (variantCall ("") or variantCall (""))
+                  } > 
+
+    # What does this mean?
+
     People with this variant have one copy of the [C775T (Arg259Ter)](https://www.ncbi.nlm.nih.gov/pubmed/29100069) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
@@ -35,15 +45,19 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # What should I do about this?
 
     - Check blood serum vitamin B12 levels. If too low, consider an [oral or injectable B12](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement if low. 
-    - Be cautious when taking [opioids, duloxetine, pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/25902009), and [metformin](https://www.ncbi.nlm.nih.gov/pubmed/20488910?dopt=Abstract), which lower B12 levels."
+    - Be cautious when taking [opioids, duloxetine, pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/25902009), and [metformin](https://www.ncbi.nlm.nih.gov/pubmed/20488910?dopt=Abstract), which lower B12 levels.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=5.3 />
-  </Genotype>
-  <Genotype hgvs="NC_000013.11:g.[99866380C>T];[99866380C>T]" name="C775T"> 
+  </Analysis>
+<# C775T (T;T) #>
 
-    # What does this mean?  <# [99866380C>T];[99866380C>T], two variants #> 
+  <Analysis name="C775T (T;T)"
+            case={  variantCall ("NC_000013.10:g.[100518634C>T];[100518634C>T]")
+                  } > 
+
+    # What does this mean?
 
     People with this variant have two copies of the [C775T (Arg259Ter)](https://www.ncbi.nlm.nih.gov/pubmed/29100069) variant. This substitution of a single nucleotide is known as a missense mutation.
 
@@ -63,31 +77,14 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage=0.9 />
-  </Genotype>
-  <Genotype hgvs="NC_000013.11:g.[99866380=];[99866380=]" name="C775T"> 
+  </Analysis>
 
-    # What does this mean? <# wildtype #> 
+<# Wild type #>
 
-    Your CLYBL gene has no variants. A normal gene is referred to as a "wild-type" gene.
+  <Analysis name="Wild type"
+            case={  variantCall ("NC_000013.10:g.[100518634=];[100518634=]")
+                  } > 
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=93.8 />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
-    # What does this mean?
-
-    Your CLYBL gene has an unknown variant.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
     # What does this mean?
 
     Your CLYBL gene has no variants. A normal gene is referred to as a "wild-type" gene.
@@ -95,18 +92,30 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # How common is this genotype in the general population?
 
     <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
-</GeneAnalysis>
+  </Analysis>
 
-<# symptoms fatigue D005221 memory problems D008569 inflamation D007249 muscle aches and pain D063806 #>
+<# Unknown #>
 
-<symptoms D005221 D008569 D007249 D063806 />
+  <Analysis name="Unknown" case=true>
 
-<# Tissue List [kidney, liver](https://www.ncbi.nlm.nih.gov/gene/171425#gene-expression), and blood; circulatory and cardiovascular system D002319 Kidney and urinary bladder D005221 liver D008099  #>
+    # What does this mean?
 
-<TissueList D002319 D005221 D008099  />
+    The effect is unknown.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=0 />
+  </Analysis>
+</AnalysisBox>
+
+<# Tissues [kidney, liver](https://www.ncbi.nlm.nih.gov/gene/171425#gene-expression), and blood; circulatory and cardiovascular system D002319 Kidney and urinary bladder D005221 liver D008099  #>
+
+<TopicBar mesh_D002319 mesh_D005221 mesh_D008099  />
+
+<# Symptoms fatigue D005221 memory problems D008569 inflamation D007249 muscle aches and pain D063806 #>
+
+<TopicBar mesh_D005221 mesh_D008569 mesh_D007249 mesh_D063806 />
 
 <# Diseases anemia D000740 neurodegenerative disorder D000752 cardiovascular disease D002318 gastrointestinal disease D005767 ME/CFS D015673 coronary heart disease D003327 stroke  D016491 #>
 
-<diseases D000740 D000752 D002318 D005767 D015673 D003327 D016491 />
+<TopicBar mesh_D000740 mesh_D000752 mesh_D002318 mesh_D005767 mesh_D015673 mesh_D003327 mesh_D016491 />
