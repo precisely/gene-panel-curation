@@ -1,5 +1,3 @@
-# ME/CFS Report
-
 # What is ME/CFS?		
 
 [Myalgic Encephalopathy Chronic Fatigue Syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/index.html) is a mysterious condition where overwhelming fatigue prevents people from doing their normal, daily activities. This fatigue is not improved by rest and is worsened by exertion. It’s important to note that sufferers of ME/CFS may not appear ill.
@@ -11,6 +9,30 @@
 # Genes related to ME/CFS
 
 We've assembled this list of genes based on research publications implicating their association with ME/CFS and symptoms common to ME/CFS.
+
+
+<IndicatorPanel normal="normal (wildtype)" 
+                abnormal="contains variants" 
+                default="abnormal"> 
+  <Indicator icon="gene" name="MTHFR" link="/report/mthfr" require={
+      variantCall("NC_000001.10:g.11856378") and
+      variantCall("NC_000001.10:g.11854476")
+    } 
+    normal={
+    variantCall("NC_000001.10:g.[11856378=];[11856378=]") and 
+    variantCall("NC_000001.10:g.[11854476=];[11854476=]")
+    } />
+  <Indicator icon="gene" name="CHRN5A" link="/report/chrn5a" require={
+      variantCall("NC_000015.9:g.78882925") and 
+      variantCall("NC_000015.9:g.78865893") and 
+      variantCall("NC_000015.9:g.78873993") 
+    }
+    normal={
+      variantCall("NC_000015.9:g.[78882925=];[78882925=]") and 
+      variantCall("NC_000015.9:g.[78865893=];[78865893=]") and 
+      variantCall("NC_000015.9:g.[78873993=];[78873993=]") 
+    } />
+</IndicatorPanel>
 
 # What treatments are available?		
 
