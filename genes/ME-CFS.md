@@ -42,9 +42,9 @@ We've assembled this list of genes based on research publications implicating th
     normal={
       variantCall("NC_000008.10:g.[27321124=];[27321124=]") and 
       (variantCall("NC_000006.11:g.[12727715A>G];[12727715A>G]") OR variantCall("NC_000006.11:g.[12727715A>G];[12727715=]") )      and 
-      (variantCall("NC_000008.10:g.[27328511G>A];[27328511G>A]") OR variantCall("NC_000006.11:g.[27328511G>A];[27328511=]") )      and
-      (variantCall("NC_000008.10:g.[27326127A>G];[27326127=]") OR variantCall("NC_000006.11:g.[27326127=];[27326127=]") )      and
-      (variantCall("NC_000008.10:g.[27324822T>C];[27324822T>C]") OR variantCall("NC_000006.11:g.[27324822T>C];[27324822=]") )
+      (variantCall("NC_000008.10:g.[27328511G>A];[27328511G>A]") OR variantCall("NC_000008.10:g.[27328511G>A];[27328511=]") )      and
+      (variantCall("NC_000008.10:g.[27326127A>G];[27326127=]") OR variantCall("NC_000008.10:g.[27326127=];[27326127=]") )      and
+      (variantCall("NC_000008.10:g.[27324822T>C];[27324822T>C]") OR variantCall("NC_000008.10:g.[27324822T>C];[27324822=]") )
     } />
    <Indicator icon="gene" name="CHRNA3" link="/report/chrna3" require={
       variantCall("NC_000015.9:g.78898723") and
@@ -61,9 +61,69 @@ We've assembled this list of genes based on research publications implicating th
     }
     normal={
       variantCall("NC_000015.9:g.[78923987=];[78923987=]") and 
-      (variantCall("NC_000015.9:g.[78928264G>T];[78928264=]") OR variantCall("NC_000015.9.[78928264=];[78928264=]") )      and
-      (variantCall("NC_000015.9:g.[78930510A>G];[78930510A>G]") OR variantCall("NC_000015.9.[78930510=];[78930510=]") ) 
-    } />    
+      (variantCall("NC_000015.9:g.[78928264G>T];[78928264=]") OR variantCall("NC_000015.9.g.[78928264=];[78928264=]") )      and
+      (variantCall("NC_000015.9:g.[78930510A>G];[78930510A>G]") OR variantCall("NC_000015.9.g.[78930510=];[78930510=]") ) 
+    } />   
+  <Indicator icon="gene" name="CLYBL" link="/report/clybl" require={
+      variantCall("NC_000013.10:g.100518634") 
+    }
+    normal={
+      variantCall("NC_000013.10:g.[100518634=];[100518634=]")
+    } />   
+   <Indicator icon="gene" name="COMT" link="/report/comt" require={
+      variantCall("NC_000022.10:g.19931407") and 
+      variantCall("NC_000022.10:g.19948337") and 
+      variantCall("NC_000022.10:g.19937533") and
+      variantCall("NC_000022.10:g.19951271") and
+      variantCall("NC_000022.10:g.19950235") 
+    }
+    normal={
+      variantCall("NC_000022.10:g.[19931407=];[19931407=]") and 
+      variantCall("NC_000022.10:g.[19937533=];[19937533=]") and
+      variantCall("NC_000022.10:g.[19950235=];[19950235=]")
+    } />   
+   <Indicator icon="gene" name="CRHR1" link="/report/crhr1" require={
+      variantCall("NC_000017.10:g.43892600") and
+      variantCall("NC_000017.10:g.43902997")
+    } 
+    normal={
+    variantCall("NC_000017.10:g.[43892600=];[43892600=]") and 
+    variantCall("NC_000017.10:g.[43902997=];[43902997=]")
+    } />   
+   <Indicator icon="gene" name="DRD2" link="/report/drd2" require={
+      variantCall("NC_000011.9:g.113346251") and 
+      variantCall("NC_000011.9:g.113283484") and 
+      variantCall("NC_000011.9:g.113283688") and
+      variantCall("NC_000011.9:g.113282275") and
+      variantCall("NC_000011.9:g.113346251") and
+      variantCall("NC_000011.9:g.113270828") and
+      variantCall("NC_000011.9:g.113331532") and
+      variantCall("NC_000011.9:g.113283459") 
+    }
+    normal={
+      (variantCall("NC_000011.9:g.[113346251=];[113346251=]") OR variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]") ) and 
+      (variantCall("NC_000011.9:g.[113283484=];[113283484=]") OR variantCall("NC_000011.9:g.[113283484G>C];[113283484=]") ) and
+      (variantCall("NC_000011.9:g.[113283688=];[113283688=]") OR variantCall("NC_000011.9:g.[113283688C>A];[113283688=]") ) and
+      variantCall("NC_000011.9:g.[113282275=];[113282275=]") and
+      (variantCall("NC_000011.9:g.[113346251=];[113346251=]") OR variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]") ) and 
+      (variantCall("NC_000011.9:g.[113270828=];[113270828=]") OR variantCall("NC_000011.9:g.[113270828G>A];[113270828=]") ) and
+      (variantCall("NC_000011.9:g.[113331532=];[113331532=]") OR variantCall("NC_000011.9:g.[113331532G>A];[113331532=]") ) and
+      (variantCall("NC_000011.9:g.[113283459=];[113283459=]") OR variantCall("NC_000011.9:g.[113283459G>A];[113283459=]") )
+    } />   
+   <Indicator icon="gene" name="GRIK3" link="/report/grik3" require={
+      variantCall("NC_000001.10:g.37325477") and
+      variantCall("NC_000001.10:g.37449595")
+    } 
+    normal={
+    variantCall("NC_000001.10:g.[37325477=];[37325477=]") and 
+    (variantCall("NC_000001.10:g.[37449595C>T];[37449595C>T]") OR variantCall("NC_000001.10:g.[37449595=];[37449595=]") )
+    } />   
+  <Indicator icon="gene" name="GRIK2" link="/report/grik2" require={
+      variantCall("NC_000006.11:g.101966454") 
+    }
+    normal={
+      variantCall("NC_000006.11:g.[101966454=];[101966454=]")
+    } />      
 </IndicatorPanel>
 
 # What treatments are available?		
