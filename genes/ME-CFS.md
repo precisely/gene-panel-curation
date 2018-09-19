@@ -32,6 +32,38 @@ We've assembled this list of genes based on research publications implicating th
       variantCall("NC_000015.9:g.[78865893=];[78865893=]") and 
       variantCall("NC_000015.9:g.[78873993=];[78873993=]") 
     } />
+   <Indicator icon="gene" name="CHRNA2" link="/report/chrna2" require={
+      variantCall("NC_000008.10:g.27321124") and 
+      variantCall("NC_000006.11:g.12727715") and 
+      variantCall("NC_000008.10:g.27328511") and
+      variantCall("NC_000008.10:g.27326127") and
+      variantCall("NC_000008.10:g.27324822") 
+    }
+    normal={
+      variantCall("NC_000008.10:g.[27321124=];[27321124=]") and 
+      (variantCall("NC_000006.11:g.[12727715A>G];[12727715A>G]") OR variantCall("NC_000006.11:g.[12727715A>G];[12727715=]") )      and 
+      (variantCall("NC_000008.10:g.[27328511G>A];[27328511G>A]") OR variantCall("NC_000006.11:g.[27328511G>A];[27328511=]") )      and
+      (variantCall("NC_000008.10:g.[27326127A>G];[27326127=]") OR variantCall("NC_000006.11:g.[27326127=];[27326127=]") )      and
+      (variantCall("NC_000008.10:g.[27324822T>C];[27324822T>C]") OR variantCall("NC_000006.11:g.[27324822T>C];[27324822=]") )
+    } />
+   <Indicator icon="gene" name="CHRNA3" link="/report/chrna3" require={
+      variantCall("NC_000015.9:g.78898723") and
+      variantCall("NC_000015.9:g.78894339")
+    } 
+    normal={
+    variantCall("NC_000015.9:g.[78898723=];[78898723=]") and 
+    variantCall("NC_000015.9:g.[78894339=];[78894339=]")
+    } />
+  <Indicator icon="gene" name="CHRNB4" link="/report/chrnb4" require={
+      variantCall("NC_000015.9:g.78923987") and 
+      variantCall("NC_000015.9:g.78928264") and 
+      variantCall("NC_000015.9:g.78930510") 
+    }
+    normal={
+      variantCall("NC_000015.9:g.[78923987=];[78923987=]") and 
+      (variantCall("NC_000015.9:g.[78928264G>T];[78928264=]") OR variantCall("NC_000015.9.[78928264=];[78928264=]") )      and
+      (variantCall("NC_000015.9:g.[78930510A>G];[78930510A>G]") OR variantCall("NC_000015.9.[78930510=];[78930510=]") ) 
+    } />    
 </IndicatorPanel>
 
 # What treatments are available?		
