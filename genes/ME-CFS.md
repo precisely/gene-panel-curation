@@ -309,6 +309,62 @@ We've assembled this list of genes based on research publications implicating th
       (variantCall("NC_000013.10:g.[38230542G>A];[38230542G>A]") OR variantCall("NC_000013.10:g.[38230542G>A];[38230542=]") ) and
       (variantCall("NC_000013.10:g.[38367949C>T];[38367949=]") OR variantCall("NC_000013.10:g.[38367949=];[38367949=]") )
     } />   
+  <Indicator icon="gene" name="TRPM3" link="/report/trpm3" require={
+      variantCall("NC_000009.11:g.73980222") and 
+      variantCall("NC_000009.11:g.74042243") and 
+      variantCall("NC_000009.11:g.74017174”) and
+      variantCall("NC_000009.11:g.74018496") and
+      variantCall("NC_000009.11:g.73424964") and 
+      variantCall("NC_000009.11:g.74032148") and 
+      variantCall("NC_000009.11:g.73405864”) and
+      variantCall("NC_000009.11:g.73435028") and 
+      variantCall("NC_000009.11:g.73437824") and 
+      variantCall("NC_000009.11:g.73231662") and 
+      variantCall("NC_000009.11:g.73220691”) and
+      variantCall("NC_000009.11:g.73225802") and
+      variantCall("NC_000009.11:g.73314011") and 
+      variantCall("NC_000009.11:g.73410410”) and
+      variantCall("NC_000009.11:g.73416062") and 
+      variantCall("NC_000009.11:g.73225802") and 
+      variantCall("NC_000009.11:g.73204431") and 
+      variantCall("NC_000009.11:g.73204431”) and
+      variantCall("NC_000009.11:g.73306551")  
+    }
+    normal={
+      (variantCall("NC_000009.11:g.[73980222T>C];[73980222=]") OR variantCall("NC_000013.10:g.[73980222=];[73980222=]") ) and
+      (variantCall("NC_000009.11:g.[74042243G>T];[74042243=]") OR variantCall("NC_000013.10:g.[74042243=];[74042243=]") ) and
+      (variantCall("NC_000009.11:g.[74017174C>T];[74017174=]") OR variantCall("NC_000013.10:g.[74017174=];[74017174=]") ) and
+      (variantCall("NC_000009.11:g.[74018496C>T];[74018496=]") OR variantCall("NC_000013.10:g.[74018496=];[74018496=]") ) and
+      (variantCall("NC_000009.11:g.[73424964G>A];[73424964G>A]") OR variantCall("NC_000013.10:g.[73424964=];[73424964=]") ) and
+      (variantCall("NC_000009.11:g.[74032148T>G];[74032148T>G]") OR variantCall("NC_000013.10:g.[74032148T>G];[74032148=]") ) and
+      variantCall("NC_000009.11:g.[73405864=];[73405864=]") and
+      (variantCall("NC_000009.11:g.[73435028G>A];[73435028G>A]") OR variantCall("NC_000013.10:g.[73435028G>A];[73435028=]") ) and
+      (variantCall("NC_000009.11:g.[73437824A>G];[73437824A>G]") OR variantCall("NC_000013.10:g.[73437824=];[73437824=]") ) and
+      (variantCall("NC_000009.11:g.[73231662C>T];[73231662C>T]") OR variantCall("NC_000013.10:g.[73231662C>T];[73231662=]") ) and
+      (variantCall("NC_000009.11:g.[73220691A>G];[73220691A>G]") OR variantCall("NC_000013.10:g.[73220691A>G];[73220691=]") ) and
+      (variantCall("NC_000009.11:g.[73225802T>G];[73225802=]") OR variantCall("NC_000013.10:g.[73225802=];[73225802=]") ) and
+      variantCall("NC_000009.11:g.[73314011=];[73314011=]") and
+      variantCall("NC_000009.11:g.[73410410=];[73410410=]") and
+      variantCall("NC_000009.11:g.[73416062G>A];[73416062G>A]") and
+      variantCall("NC_000009.11:g.[73225802=];[73225802=]") and
+      variantCall("NC_000009.11:g.[73204431=];[73204431=]") and
+      variantCall("NC_000009.11:g.[73204431A>G];[73204431A>G]") and
+      variantCall("NC_000009.11:g.[73306551C>A];[73306551C>A]")
+    } />       
+  <Indicator icon="gene" name="TRPM8" link="/report/trpm8" require={
+      variantCall("NC_000002.11:g.234917377") and 
+      variantCall("NC_000002.11:g.234919314") and 
+      variantCall("NC_000002.11:g.234854550") and
+      variantCall("NC_000002.11:g.234825093") and
+      variantCall("NC_000002.11:g.234883380")
+    }
+    normal={
+      (variantCall("NC_000002.11:g.[234917377G>A];[234917377G>A]") OR variantCall("NC_000002.11:g.[234917377=];[234917377=]") ) and 
+      (variantCall("NC_000002.11:g.[234919314G>A];[234919314G>A]") OR variantCall("NC_000002.11:g.[234919314=];[234919314=]") ) and 
+      variantCall("NC_000002.11:g.[234854550=];[234854550=]")  and 
+      variantCall("NC_000002.11:g.[234825093=];[234825093=]")  and 
+      (variantCall("NC_000002.11:g.[234883380A>G];[234883380A>G]") OR variantCall("NC_000002.11:g.[234883380=];[234883380=]") ) 
+    } /> 
 </IndicatorPanel>
 
 # What treatments are available?		
