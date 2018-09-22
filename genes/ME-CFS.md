@@ -8,7 +8,7 @@
 
 # Genes related to ME/CFS
 
-We've assembled this list of genes based on research publications implicating their association with ME/CFS and symptoms common to ME/CFS.
+We've assembled this list of genes and variants based on research publications implicating their association with ME/CFS and symptoms common to ME/CFS.
 
 
 <IndicatorPanel normal="normal (wildtype)" 
