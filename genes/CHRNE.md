@@ -1,198 +1,188 @@
 <Gene_Name CHRNE />
 
-<GeneName_full AchR epsilon subunit />
+<GeneName_full cholinergic receptor nicotinic epsilon subunit />
 
 # What does the CHRNE gene do?
 
-The CHRNE gene encodes a protein found in neuromuscular junctions that opens ion-conducting channels across cell membranes. It is involved in [muscle contractions, response to nicotine, synaptic transmission, and transport](http://www.uniprot.org/uniprot/Q04844#function). Variants in CHRNE are associated with the autoimmune disorder [myasthenia gravis](https://www.omim.org/entry/254200) as well as congenital myasthenic syndrome [4a](https://www.omim.org/entry/605809), [4b](https://www.omim.org/entry/616324), and [4c](https://www.omim.org/entry/608931), which cause progressive muscle weakness. Other variants reduce natural killer cell function in the immune system and are associated with [CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). 
+The [CHRNE](https://www.uniprot.org/uniprot/Q04844) gene encodes a protein found in the connection between motor neurons and muscle fibers. It is involved in [muscle contractions, response to nicotine, synaptic transmission, and the transport of electrically charged particles (ions) essential for proper cellular function.](http://www.uniprot.org/uniprot/Q04844#function) Variants in CHRNE are associated with [autoimmune disorders](https://www.omim.org/entry/254200) and [progressive](https://www.omim.org/entry/605809)[muscle](https://www.omim.org/entry/616324)[weakness](https://www.omim.org/entry/608931). Other variants are associated with decreased function of [natural killer cells (NKC)](https://www.ncbi.nlm.nih.gov/pubmed/27099524), a type of white blood cell that helps the body respond to viral infections. This gene is located on chromosome 17.
 
-This gene is located on chromosome 17. The protein it creates acts in your immune system and muscles.
+<GeneMap name= "CHRNE" interval="NC_000017.10:g.4801064_4806369=">
 
-<GeneAnalysis gene="CHRNE" interval="NC_000017.11 :g.4897769_4905019"> 
-
-# What are some common mutations of CHRNE?
+# What are some common variants of CHRNE?
  
-There are two well-known variants in CHRNE: [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) and [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are two common variants in CHRNE: [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) and [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/).
 
 <# G1074A #>
-  <Variant hgvs="NC_000017.11:g.4901607G>A" name="G1074A"> 
 
-    This variant is a change at a specific point in the CHRNE gene from guanine (G) to adenine (A) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
- 
+  <Variant hgvs="NC_000017.10:g.4804902G>A" name="G1074A"> 
+
+    Instead of guanine (G), there is an adenine (A) nucleotide.
+
   </Variant>
+
 <# C865T #>
-  <Variant hgvs="NC_000017.11:g.4900845G>A" name="C865T"> 
 
-    This variant is a change at a specific point in the CHRNE gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000005.9:g.142709986C>T" name="C865T"> 
+
+    Instead of cytosine (C), there is a thymine (T) nucleotide.
 
   </Variant>
 
-<# G1074A #>
-  <Genotype hgvs="NC_000017.11:g.[4901607G>A];[4901607=]" name="G1074A"> 
+<AnalysisBox>
 
-    # What does this mean?
- 
-    People with this variant have one copy of the [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) variant. This substitution of a single nucleotide is known as a missense mutation.
+<# G1074A (G;G) #>
 
-    # What is the effect of this variant?
+  <Analysis name="G1074A (G;G)"
+            case={  variantCall ("NC_000017.10:g.[4804902G>A];[4804902G>A]")
+                    and
+                    (variantCall ("NC_000005.9:g.[142709986=];[142709986=]") or variantCall ("NC_000005.9:g.[142709986C>T];[142709986=]"))
+                  } > 
 
-    Your variant is not associated with any loss of function.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=7.1 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[4901607G>A];[4901607G>A]" name="G1074A"> 
- 
     # What does this mean?
 
     People with this variant have two copies of the [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your variant is not associated with any loss of function.
+    Your variant is [4.36X more common in ME/CFS patients.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)The malformed CHRME receptors may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=0.2 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[4901607=];[4901607=]" name="G1074A"> 
- 
-    # What does this mean?
+  </Analysis>
+<# C865T (T;T) #>
 
-    Your CHRNE gene has no variants. A normal gene is referred to as a "wild-type" gene.
+  <Analysis name="C865T (T;T)"
+            case={(variantCall ("NC_000017.10:g.[4804902G>A];[4804902=]") or variantCall ("NC_000017.10:g.[4804902=];[4804902=]"))
+                    and
+                    variantCall ("NC_000005.9:g.[142709986C>T];[142709986C>T]")
+                  } > 
 
-    # What is the effect of this variant?
-
-    This variant is associated with CFS. See below for more information.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=92.7 />
-  </Genotype>
-<# C865T #>
-  <Genotype hgvs="NC_000017.11:g.[4900845G>A];[4900845=]" name="C865T"> 
-
-    # What does this mean?
- 
-    People with this variant have one copy of the [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/) variant. This substitution of a single nucleotide is known as a missense mutation.
-
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=  />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[4900845G>A];[4900845G>A]" name="C865T"> 
- 
     # What does this mean?
 
     People with this variant have two copies of the [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    You are in the Severe Loss of Function category. See below for more information.
+    Congenital myasthenic syndromes (CMS) are a group of rare disorders that affects the proteins at the neuromuscular junctions and may cause [abnormalities in the CHRME receptors](https://www.ncbi.nlm.nih.gov/pubmed/16156017). CMS causes easy tiredness, muscle weakness, [scoliosis, and repetitive-compound muscle action.](https://www.ncbi.nlm.nih.gov/pubmed/27779167) Symptoms may worsen during [pregnancy](https://www.ncbi.nlm.nih.gov/pubmed/23108489). Other variants associated with myasthenic syndrome include the [AA epsilon1267delG deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244116), [1033-1G&gt;C: splice acceptor variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=410057), [971delT deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=33387), and [130dupG duplication variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244117).
+
+    # What should I do about this?
+
+    Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=  />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[4900845=];[4900845=]" name="C865T"> 
- 
+    <piechart percentage=0 />
+  </Analysis>
+
+<# G1074A (G;G) and C865T (T;T) #>
+
+  <Analysis name="G1074A (G;G) and C865T (T;T)"
+            case={  variantCall ("NC_000017.10:g.[4804902G>A];[4804902=]")
+                    and
+                    variantCall ("NC_000005.9:g.[142709986C>T];[142709986=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have two copies of the [G1074A](https://www.ncbi.nlm.nih.gov/clinvar/variation/128767/) variant and one copy of the [C865T](https://www.ncbi.nlm.nih.gov/clinvar/variation/18344/) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of these variants?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+
+    # What is the effect of G1074A (G;G)?
+
+    Your variant is [4.36X more common in ME/CFS patients.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)The malformed CHRME receptors may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+    
+    # What is the effect of C865T (T;T)?
+
+    Congenital myasthenic syndromes (CMS) are a group of rare disorders that affects the proteins at the neuromuscular junctions and may cause [abnormalities in the CHRME receptors](https://www.ncbi.nlm.nih.gov/pubmed/16156017). CMS causes easy tiredness, muscle weakness, [scoliosis, and repetitive-compound muscle action.](https://www.ncbi.nlm.nih.gov/pubmed/27779167) Symptoms may worsen during [pregnancy](https://www.ncbi.nlm.nih.gov/pubmed/23108489). Other variants associated with myasthenic syndrome include the [AA epsilon1267delG deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244116), [1033-1G&gt;C: splice acceptor variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=410057), [971delT deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=33387), and [130dupG duplication variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244117).
+
+    # What should I do about this?
+
+    Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+
+<# Wild type #>
+
+  <Analysis name="Wild type"
+            case={  (variantCall ("NC_000017.10:g.[4804902G>A];[4804902=]") or variantCall ("NC_000017.10:g.[4804902=];[4804902=]"))
+                    and
+                    (variantCall ("NC_000005.9:g.[142709986C>T];[142709986=]") or variantCall ("NC_000005.9:g.[142709986=];[142709986=]"))
+                  } > 
+
     # What does this mean?
 
     Your CHRNE gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
-
-    Your variant is not associated with any loss of function.
-
     # How common is this genotype in the general population?
 
-    <piechart percentage=  />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
+    <piechart percentage= />
+  </Analysis>
+<# Unknown #>
+
+  <Analysis name="Unknown" case=true>
+
     # What does this mean?
-
-    Your CHRNE gene has an unknown variant.
-
-    # What is the effect of this variant?
 
     The effect is unknown.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
-    # What does this mean?
+    <piechart percentage=0 />
+  </Analysis>
+</AnalysisBox>
 
-    Your CHRNE gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# Tissues brain; immune; circulatory; muscles #>
 
-    # What is the effect of this variant?
-
-    This variant is not associated with increased risk.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
-
-<# G1074A (G;G) #>
-
-| Variant       |Population %           | 
-| :-------------: |:-------------:|
-| G1074A (G;G)  | 92.7% |
-
-# How do changes in CHRNE affect people?
-
-For the vast majority of people, the overall risk associated with the common CHRNE variants is small and does not impact treatment. It is possible that variants in this gene interact with other gene variants, which is the reason for our inclusion of this gene.
-
-# Severe Loss of Function
-
-Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. CFS patients have half the cellular efficiency of the normal population with a [17% cellular death
-rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524). The A1074G variant decreases gene expression in both the DNA and RNA, causing significant reduction in NKC activity. This variant is twice as common in [CFS patients at 62.1% with an odds ratio of 4.36.](https://www.ncbi.nlm.nih.gov/pubmed/27099524)
-
-# What should I do about this?
-
-Many dietary supplements have been found to increase or decrease natural killer cell function.
-
-*  [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but
-  sufficient body concentration can only be achieved through supplementation.
-*  [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity.
-*  [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function.
-*  [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function, and should be avoided.
-
-<# T10927C (C;C) #>
-
-| Variant       |Population %           | 
-| :-------------: |:-------------:|
-| T10927C (C;C)  | 23.9% |
-
-# Severe Risk
-
-Congenital myasthenic syndromes are a group of rare disorders that affects the proteins at the neuromuscular junctions and may cause
-[abnormalities in the CHRME receptors](https://www.ncbi.nlm.nih.gov/pubmed/16156017). It causes easy tiredness, muscle weakness, [scoliosis, and repetitive-compound muscle action.](https://www.ncbi.nlm.nih.gov/pubmed/27779167) Symptoms may worsen during [pregnancy](https://www.ncbi.nlm.nih.gov/pubmed/23108489). Other variants associated with myasthenic syndrome include the [AA epsilon1267delG deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244116), [1033-1G&gt;C: splice acceptor variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=410057), [971delT deletion variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=33387), and [130dupG duplication variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=244117).
-
-# What should I do about this?
-
-Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
-
-<# TissueList brain; immune; circulatory; muscles #>
-
-<TissueList 001921 D007107 D002319 D009132 />
+<TopicBar mesh_001921 mesh_D007107 mesh_D002319 mesh_D009132 />
 
 <# symptoms fatigue D005221 #>
 
-<symptoms fatigue D005221 />
+<TopicBar mesh_D005221 />
 
-<# diseases autoimmune disorder	D001327 Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections	D004198 disease, Genetic Predisposition to Disease	D020022 ME/CFS	D015673 fatigue	D005221 fatigue, muscle fatigue	D018763 scoliosis	D012600 Myasthenia Gravis	D009157 Muscle Weakness	D018908 #>
+<# Diseases diseases autoimmune disorder	D001327 disease, Genetic Predisposition to Disease	D020022 ME/CFS	D015673  scoliosis	D012600 Myasthenia Gravis	D009157 Muscle Weakness	D018908  #>
 
-<diseases D001327	D020022	D015673	D005221	D018763	D012600	D009157	D018908 />
+<TopicBar mesh_D001327 mesh_D020022 mesh_D015673  mesh_D012600 mesh_D009157 mesh_D018908 />
