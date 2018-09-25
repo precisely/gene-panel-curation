@@ -4,278 +4,657 @@
 
 # What does the CHRNB4 gene do?
 
-The CHRNB4 ([neuronal acetylcholine receptor subunit beta-4](http://www.uniprot.org/uniprot/P30926)) gene creates a protein that is part of a beta subunit of a nicotinic acetylcholine receptor (nAChR). It operates a [cation channel](https://www.ncbi.nlm.nih.gov/gene/1143) that nicotine binds to, muscle contraction, and synaptic transmission. Variants in CHRNA5 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). Other variants are associated with [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524) due to natural killer cell (NKC) dysfunction.
+The [CHRNB4](http://www.uniprot.org/uniprot/P30926) gene creates a protein that is part of [nicotine receptor](https://www.ncbi.nlm.nih.gov/gene/1143). It also affects muscle contraction and the function of neurons. Variants in CHRNB4 have been linked to an increased risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract) and [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489). For ME/CFS patients, variants are associated with [severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629) and decreased function of [natural killer cells (NKC)](https://www.ncbi.nlm.nih.gov/pubmed/27099524), a type of white blood cell that helps the body respond to viral infections. This gene is located on chromosome 15.
 
-This gene is located on chromosome 15. The protein it creates acts in the adrenal glands and male testis.
+<GeneMap name= "CHRNB4" interval="NC_000015.9:g.78916636_78933587=">
 
-
-
-<GeneAnalysis gene="CHRNB4" interval="NC_000015.10:g.78623282_78655586"> 
-
-# What are some common mutations of CHRNB4?
+# What are some common variants of CHRNB4?
  
-There are three variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223), [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147), and [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are three common variants in CHRNB4: [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223), [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147), and [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147).
 
 <# C78631645T #>
-  <Variant hgvs="NC_000015.10:g.78631645C>T" name="C78631645T"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from cytosine (C) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000015.9:g.78923987C>T" name="C78631645T"> 
+
+    Instead of cytosine (C), there is an thymine (T) nucleotide.
 
   </Variant>
+
 <# G78635922T #>
-  <Variant hgvs="NC_000015.10:g.78635922G>T" name="G78635922T"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from guanine (G) to thymine (T) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000015.9:g.78928264G>T" name="G78635922T"> 
+
+    Instead of guanine (G), there is an thymine (T) nucleotide.
 
   </Variant>
+
 <# A78638168G #>
-  <Variant hgvs="NC_000015.10:g.78638168A>G" name="A78638168G"> 
 
-    This variant is a change at a specific point in the CHRNB4 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000015.9:g.78930510A>G" name="A78638168G"> 
+
+    Instead of adenine (A), there is a guanine (G) nucleotide.
 
   </Variant>
 
-<# C78631645T #>
-  <Genotype hgvs="NC_000015.10:g.[78631645C>T];[78631645=]" name="C78631645T"> 
+<AnalysisBox>
+
+<# C78631645T (C;T) #>
+
+  <Analysis name="C78631645T (C;T)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264=];[78928264=]") OR variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510=];[78930510=]") OR variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
 
     # What does this mean?
- 
+
     People with this variant have one copy of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-"    # Moderate Loss of Function
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated:
 
-    CHRN genes pay a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated with a [higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract), with an [odds ratio of 1.45](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) for a risk of heavy smoking and an increased [odds ratio of 1.33](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) for [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract). There is also an increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract).
+    - [Higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.45X](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) higher risk for a risk of heavy smoking 
+    - [1.33 higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - Increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with a [3X higher risk of severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms, including [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), which may be worsened by smoking.
 
     # What should I do about this?
 
-    People should not smoke. If you do smoke, be aware of your risk for dependency. Consider regular checks for lung cancer.
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
 
-    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-
-    - Avoid cigarettes, cigars, pipe smoking, and secondhand smoke. 
-    - Have less than one alcoholic drink per day. 
-    - Practice safe sex, and avoid HIV infection. 
-    - Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon. 
-    - Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution. 
-    - [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers. 
-
-    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)."
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
 
     # How common is this genotype in the general population?
 
     <piechart percentage=29 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78631645C>T];[78631645C>T]" name="C78631645T"> 
- 
+  </Analysis>
+<# C78631645T (T;T) #>
+
+  <Analysis name="C78631645T (T;T)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987C>T]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264=];[78928264=]") OR variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510=];[78930510=]") OR variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
+
     # What does this mean?
 
     People with this variant have two copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-"    # Severe Loss of Function
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This homozygous CHRNB4 variant is associated with:
 
-    This homozygous CHRNB4 variant is associated with a [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract). The risk of heavy smoking has an [odds ratio of 1.64](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract), and the risk for [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) has [odds ratio of 1.33](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract). There is also an greatly increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract), with an odds ratio of 1.28.
+    - A [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.64X higher](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) risk of heavy smoking 
+    - [1.33X higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - 1.28X greater risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with [3X higher risk of severe severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms such as [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), and smoking may lead to a worsening of these symptoms.
 
     # What should I do about this?
 
-    People should not smoke. If you do smoke, be aware of your risk for dependency. Consider regular checks for lung cancer.
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
 
-    [Many factors may decrease your risk of lung cancer](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all):
-
-    - Avoid cigarettes, cigars, pipe smoking, and secondhand smoke. 
-    - Have less than one alcoholic drink per day. 
-    - Practice safe sex, and avoid HIV infection. 
-    - Avoid radiation exposure, including atomic bomb radiation, radiation therapy, imaging tests, and radon. 
-    - Avoid environmental toxins, such as asbestos, arsenic, chromium, nickel, beryllium, cadmium, tar, soot, and air pollution. 
-    - [Beta carotene supplements, made from yellow and orange fruits and vegetables and dark green, leafy vegetables,](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all) may help reduce risk for heavy smokers. 
-
-    [Medications](http://www.uniprot.org/uniprot/P30926) used for treating CHRNB4 issues include [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090)."
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
 
     # How common is this genotype in the general population?
 
     <piechart percentage=10.4 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78631645=];[78631645=]" name="C78631645T"> 
- 
-    # What does this mean?
+  </Analysis>
 
-    Your CHRNB4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# G78635922T (T;T) #>
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=60.6 />
-  </Genotype>
-<# G78635922T #>
-  <Genotype hgvs="NC_000015.10:g.[78635922G>T];[78635922=]" name="G78635922T"> 
+  <Analysis name="G78635922T (T;T)"
+            case={  variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264=];[78928264=]") OR variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510=];[78930510=]") OR variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
 
     # What does this mean?
- 
-    People with this variant have one copy of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    People with this variant have two copies of the [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    This variant is not associated with increased risk.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=48.5 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78635922G>T];[78635922G>T]" name="G78635922T"> 
- 
-    # What does this mean?
-
-    People with this variant have two copies of the [T70795494C](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
-
-    # What is the effect of this variant?
-
-"    # Moderate Loss of Function
-
-    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
-
-    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
-
-    - [A70699095G (A;G)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.5X] more common in CFS patients. 
-    - [T70795494C (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.2X] more common in CFS patients.
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
     # What should I do about this?
 
-    Some pharmaceuticals may increase or decrease natural killer cell function:
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
 
-    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
-    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
-    - [Therapies for papillomaviruses, topical agents, physical approaches, and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
-    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    Pharmaceuticals that increase natural killer cell function include:
 
-    Many dietary supplements have been found to increase natural killer cell function:
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
 
-    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
-    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
-    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
     - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
-    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity."
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=29.2 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78635922=];[78635922=]" name="G78635922T"> 
- 
-    # What does this mean?
+  </Analysis>
+<# A78638168G (A;G) #>
 
-    Your CHRNB4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=22.3 />
-  </Genotype>
-<# A78638168G #>
-  <Genotype hgvs="NC_000015.10:g.[78638168A>G];[78638168=]" name="A78638168G"> 
+  <Analysis name="A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264=];[78928264=]") OR variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510=];[78930510=]") OR variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
 
     # What does this mean?
- 
-    People with this variant have one copy of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    People with this variant have one copy of the [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-"    # Moderate Loss of Function
-
-    Natural killer cells (NKC) are a type of white blood cells found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected cells and tumorous cells. Many patients with ME/CFS have NK cells with lower functional ability to fight infections, and [this impairment is associated with illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have half the cellular efficiency with a [17% cellular death rate](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
-
-    The following variants decrease gene expression in both the DNA and RNA, causing significant reduction in NKC activity.
-
-    - [A70699095G (A;G)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [2.5X] more common in CFS patients. 
-    - [T70795494C (T;T)](https://www.ncbi.nlm.nih.gov/pubmed/27099524) is [1.2X] more common in CFS patients.
+    Your variant is [2.5X](http://journals.sagepub.com/doi/10.4137/III.S25147) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
 
     # What should I do about this?
 
-    Some pharmaceuticals may increase or decrease natural killer cell function:
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
 
-    - [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided. 
-    - [Acyclovir, ganciclovir, and related prophylactic antiviral drugs](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
-    - [Therapies for papillomaviruses, topical agents, physical approaches, and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
-    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC cytotoxic activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+    Pharmaceuticals that increase natural killer cell function include:
 
-    Many dietary supplements have been found to increase natural killer cell function:
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
 
-    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) stimulates the immune system by increasing NKC activity, but sufficient body concentration can only be achieved through supplementation. 
-    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), a flavonoid found in food and red wine, can increase NKC activity. 
-    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), a flavonoid in onions and fruits, may improve NKC and T cell function. 
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
     - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
-    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
-    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity."
+    - [Arabinoxylan rice bran (MGN-3/Biobran)](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=44.3 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78638168A>G];[78638168A>G]" name="A78638168G"> 
- 
+  </Analysis>
+
+<# C78631645T (C;T) and G78635922T (T;T) and A78638168G (A;G) #>
+
+  <Analysis name="C78631645T (C;T) and G78635922T (T;T) and A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]") or variantCall ("NC_000015.9:g.[78928264G>T];[78928264G>T]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]") or variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
+
     # What does this mean?
 
-    People with this variant have two copies of the [C70801146T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223), [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147), and [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variants. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    This variant is not associated with increased risk.
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+    
+    # What is the effect of C78631645T (C;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated:
+
+    - [Higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.45X](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) higher risk for a risk of heavy smoking 
+    - [1.33 higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - Increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with a [3X higher risk of severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms, including [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), which may be worsened by smoking.
+    
+    # What is the effect of G78635922T (T;T)?
+
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=38.2 />
-  </Genotype>
-  <Genotype hgvs="NC_000015.10:g.[78638168=];[78638168=]" name="A78638168G"> 
- 
+    <piechart percentage= />
+  </Analysis>
+<# C78631645T (T;T) and G78635922T (T;T) and A78638168G (A;G) #>
+
+  <Analysis name="C78631645T (T;T) and G78635922T (T;T) and A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987C>T]")
+                    and
+                    variantCall ("NC_000015.9:g.[78928264G>T];[78928264G>T]")
+                    and
+                    variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223), [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147), and [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+    
+    # What is the effect of C78631645T (T;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This homozygous CHRNB4 variant is associated with:
+
+    - A [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.64X higher](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) risk of heavy smoking 
+    - [1.33X higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - 1.28X greater risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with [3X higher risk of severe severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms such as [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), and smoking may lead to a worsening of these symptoms.
+    
+    # What is the effect of G78635922T (T;T)?
+
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+    
+    # What is the effect of A78638168G (A;G)?
+
+    Your variant is [2.5X](http://journals.sagepub.com/doi/10.4137/III.S25147) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# C78631645T (C;T) and G78635922T (T;T) #>
+
+  <Analysis name="C78631645T (C;T) and G78635922T (T;T)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    variantCall ("NC_000015.9:g.[78928264G>T];[78928264G>T]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]") or variantCall ("NC_000015.9:g.[78930510=];[78930510=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223), and [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+    
+    # What is the effect of C78631645T (C;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated:
+
+    - [Higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.45X](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) higher risk for a risk of heavy smoking 
+    - [1.33 higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - Increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with a [3X higher risk of severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms, including [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), which may be worsened by smoking.
+    
+    # What is the effect of G78635922T (T;T)?
+
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# C78631645T (C;T) and A78638168G (A;G) #>
+
+  <Analysis name="C78631645T (C;T) and A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]") or variantCall ("NC_000015.9:g.[78928264=];[78928264=]"))
+                    and
+                    variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) and [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+    
+    # What is the effect of C78631645T (C;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This CHRNB4 variant is associated:
+
+    - [Higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.45X](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) higher risk for a risk of heavy smoking 
+    - [1.33 higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - Increased susceptibility to [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with a [3X higher risk of severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms, including [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), which may be worsened by smoking.
+    
+    # What is the effect of A78638168G (A;G)?
+
+    Your variant is [2.5X](http://journals.sagepub.com/doi/10.4137/III.S25147) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran)](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# C78631645T (T;T) and G78635922T (T;T) #>
+
+  <Analysis name="C78631645T (T;T) and G78635922T (T;T)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    variantCall ("NC_000015.9:g.[78928264G>T];[78928264G>T]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]") or variantCall ("NC_000015.9:g.[78930510=];[78930510=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) variant and one copy of the [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    # What is the effect of C78631645T (T;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This homozygous CHRNB4 variant is associated with:
+
+    - A [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.64X higher](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) risk of heavy smoking 
+    - [1.33X higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - 1.28X greater risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with [3X higher risk of severe severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms such as [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), and smoking may lead to a worsening of these symptoms.
+    
+    # What is the effect of G78635922T (T;T)?
+
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.    
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+    
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# C78631645T (T;T) and A78638168G (A;G) #>
+
+  <Analysis name="C78631645T (T;T) and A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78923987C>T];[78923987=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]") or variantCall ("NC_000015.9:g.[78928264=];[78928264=]"))
+                    and
+                    variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [C78631645T](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=17487223) variant and one copy of the [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+    
+    # What is the effect of C78631645T (T;T)?
+
+    CHRN genes play a large role in the risk for nicotine dependence, smoking, and lung cancer. This homozygous CHRNB4 variant is associated with:
+
+    - A [much higher risk of habitual smoking in Caucasians](https://www.ncbi.nlm.nih.gov/pubmed/18519524?dopt=Abstract) 
+    - [1.64X higher](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) risk of heavy smoking 
+    - [1.33X higher risk](https://www.ncbi.nlm.nih.gov/pubmed/19259974?dopt=Abstract) of [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/19443489?dopt=Abstract) 
+    - 1.28X greater risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/18385738?dopt=Abstract). 
+
+    For ME/CFS patients, [previous and current smoking](https://www.ncbi.nlm.nih.gov/pubmed/25811400) are associated with [3X higher risk of severe severe cognitive and sleep symptoms](https://www.ncbi.nlm.nih.gov/pubmed/28633629), including trouble concentrating and unrefreshing sleep. Additionally, ME/CFS patients also may have [higher levels of nicotine](https://www.ncbi.nlm.nih.gov/pubmed/26983655) in the brain as compared to the general population. High nicotine levels are associated with symptoms such as [abdominal pain, stress, fainting, depression, muscle weakness, muscle twitching, headache, and dizziness](https://medlineplus.gov/ency/article/002510.htm), and smoking may lead to a worsening of these symptoms.
+    
+    # What is the effect of A78638168G (A;G)?
+
+    Your variant is [2.5X](http://journals.sagepub.com/doi/10.4137/III.S25147) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran)](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
+
+    People should not smoke. If you do smoke, be aware of your risk for dependency or increased difficulty of quitting smoking. Consider regular checks for lung cancer. Avoid [radiation, toxins such as heavy metal](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all), and eat more [yellow and orange fruits and vegetables](https://www.cancer.gov/types/lung/patient/lung-prevention-pdq#section/all).
+
+    Consult your physician on [medications](http://www.uniprot.org/uniprot/P30926) that act on variants in CHRNB4, including [Dextromethorphan](https://www.drugbank.ca/drugs/DB00514), [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), [Levomethadyl acetate](https://www.drugbank.ca/drugs/DB01227), [Nicotine](https://www.drugbank.ca/drugs/DB00184), and [Pentolinium](https://www.drugbank.ca/drugs/DB01090).
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# G78635922T (T;T) and A78638168G (A;G) #>
+
+  <Analysis name="G78635922T (T;T) and A78638168G (A;G)"
+            case={  variantCall ("NC_000015.9:g.[78923987=];[78923987=]")
+                    and
+                    variantCall ("NC_000015.9:g.[78928264G>T];[78928264G>T]")
+                    and
+                    variantCall ("NC_000015.9:g.[78930510A>G];[78930510=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have copies of the [G78635922T](http://journals.sagepub.com/doi/10.4137/III.S25147) and [A78638168G](http://journals.sagepub.com/doi/10.4137/III.S25147) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+    
+    # What is the effect of G78635922T (T;T)?
+
+    Your variant is [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/27099524) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+    
+    # What is the effect of A78638168G (A;G)?
+
+    Your variant is [2.5X](http://journals.sagepub.com/doi/10.4137/III.S25147) more common in ME/CFS patients. The malformed CHRNB4 protein may impact the activity of natural killer cells (NKC), a type of white blood cell found in the blood, bone marrow, spleen, and lymph nodes. They kill viral infected and tumorous cells. The NKC of many patients with ME/CFS have lower ability to fight infections, and [this impairment is associated with increased illness severity](https://www.cdc.gov/me-cfs/about/possible-causes.html). Compared with the general population, CFS patients have NKC that are [half as effective](https://www.ncbi.nlm.nih.gov/pubmed/27099524).
+
+    # What should I do about this?
+
+    [Histone deacetylase inhibitors (HDACi), including suberoylanilide hydroxamic acid and valproic acid,](https://www.ncbi.nlm.nih.gov/pubmed/17349632/) impair NKC function and should be avoided.
+
+    Pharmaceuticals that increase natural killer cell function include:
+
+    - [Antiviral drugs such as acyclovir and ganciclovir](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may improve cellular function. 
+    - [Papillomavirus therapies, including topical agents and immunostimulants,](https://www.ncbi.nlm.nih.gov/pubmed/23993353) may activate NK cells. 
+    - [Cytokine therapies](https://www.ncbi.nlm.nih.gov/pubmed/23993353), such as [IFN-α](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet) in CNKD1, may induce higher levels of NKC activity by [activating white blood cells](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/bio-therapies-fact-sheet). 
+
+    Dietary supplements that increase natural killer cell function include:
+
+    - [Resveratrol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855330/) dietary supplements stimulate the immune system by increasing NKC function. 
+    - [Myricetin](https://www.ncbi.nlm.nih.gov/pubmed/25075019), found in food and red wine, may increase NKC activity. 
+    - [Quercetin](https://www.ncbi.nlm.nih.gov/pubmed/19449452), found in onions and fruits, may improve NKC and T cell function. 
+    - [Bulgarian yogurt fermented with L. delbrueckii ssp. Bulgaricus augments NKC activity.](https://www.ncbi.nlm.nih.gov/pubmed/26686726) 
+    - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response.  
+    - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
+    - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.    
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# Wild type #>
+
+  <Analysis name="Wild type"
+            case={  variantCall ("NC_000015.9:g.[78923987=];[78923987=]")
+                    and
+                    (variantCall ("NC_000015.9:g.[78928264=];[78928264=]") OR variantCall ("NC_000015.9:g.[78928264G>T];[78928264=]"))
+                    and
+                    (variantCall ("NC_000015.9:g.[78930510=];[78930510=]") OR variantCall ("NC_000015.9:g.[78930510A>G];[78930510A>G]"))
+                  } > 
+
     # What does this mean?
 
     Your CHRNB4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=17.5 />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
+    <piechart percentage= />
+  </Analysis>
+<# Unknown #>
+
+  <Analysis name="Unknown" case=true>
+
     # What does this mean?
 
-    Your CHRNB4 gene has an unknown variant.
-
+    The effect is unknown.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
-    # What does this mean?
+    <piechart percentage=0 />
+  </Analysis>
+</AnalysisBox>
 
-    Your CHRNB4 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# Tissues male tissue, endocrine tissues #>
 
+<TopicBar mesh_D005837 mesh_D004703 />
 
-    # How common is this genotype in the general population?
+<# Symptoms inflammation #>
 
-    <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
+<TopicBar mesh_D007249 />
 
-<# symptoms inflamation #>
+<# Diseases cancer; ME/CFS; nicotine dependency;  Disease susceptibility - increased susceptibility to viral, bacterial, and parasitic infections #>
 
-<symptoms D007249 />
+<TopicBar mesh_D009369 mesh_D014029 mesh_D015673 mesh_D014029  mesh_D004198 />
 
-<# Tissue List male tissue, endocrine tissues  #>
-
-<TissueList D005837  D004703 />
-
-<# Pathways Nicotine metabolism, ion transport, ion channel gating #>
-
-<Pathways D011978 D017136 D015640 />
-
-<# Diseases cancer; cancer, lung cancer; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitical infections; disease, Genetic Predisposition to Disease; nicotine dependency; #>
-
-<diseases D009369 D008175 D004198 D01402 />
