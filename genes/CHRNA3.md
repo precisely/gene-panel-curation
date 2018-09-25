@@ -46,7 +46,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What is the effect of this variant?
     
-        The CHRNA3 protein plays a role in developing nicotine dependence and regulating nicotine receptor proliferation and destruction. Incorrect formation of the nicotine neurotransmitter receptor protein has a variety of effects. 
+    The CHRNA3 protein plays a role in developing nicotine dependence and regulating nicotine receptor proliferation and destruction. Incorrect formation of the nicotine neurotransmitter receptor protein has a variety of effects. 
     - [1.2X](https://www.ncbi.nlm.nih.gov/pubmed/28827732) greater risk of [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/23094028)
     - [1.39X](https://www.ncbi.nlm.nih.gov/pubmed/24621683) greater risk of [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683)
     - People smoke [1](https://www.ncbi.nlm.nih.gov/pubmed/21559498) [more](https://www.ncbi.nlm.nih.gov/pubmed/29030599) [cigarette](https://www.ncbi.nlm.nih.gov/pubmed/23870182) [per day](https://www.ncbi.nlm.nih.gov/pubmed/20418890) 
