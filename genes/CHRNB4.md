@@ -650,9 +650,9 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 <TopicBar mesh_D005837 mesh_D004703 />
 
-<# Symptoms inflammation #>
+<# Symptoms inflammation fatigue D005221 sleep disorder D012893 memory problems D008569 #>
 
-<TopicBar mesh_D007249 />
+<TopicBar mesh_D007249 mesh_D005221 mesh_D012893 mesh_D008569 />
 
 <# Diseases cancer; ME/CFS; nicotine dependency;  Disease susceptibility - increased susceptibility to viral, bacterial, and parasitic infections #>
 
