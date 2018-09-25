@@ -4,7 +4,7 @@
 
 # What does the CHRNA3 gene do?
 
-CHRNA3 encodes a neurotransmitter called [acetylcholine](http://www.uniprot.org/citations/8906617) that regulates the creation and destruction of nicotine receptors in the nervous system. It also controls [serotonin](https://www.ebi.ac.uk/QuickGO/term/GO:0022850) channels in the brain. Variants in this gene have been associated with [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/22290489), [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/19836008), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683) (Chronic Obstructive Pulmonary Disease), [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328), and ME/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). This gene is located on chromosome 15.
+CHRNA3 encodes a neurotransmitter called [acetylcholine](http://www.uniprot.org/citations/8906617) that regulates the creation and destruction of nicotine receptors in the nervous system. It also controls [serotonin](https://www.ebi.ac.uk/QuickGO/term/GO:0022850) channels in the brain. Variants in this gene have been associated with [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/22290489), [lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/19836008), [COPD](https://www.ncbi.nlm.nih.gov/pubmed/24621683) (Chronic Obstructive Pulmonary Disease), [cocaine dependence](https://www.ncbi.nlm.nih.gov/pubmed/20485328), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/27099524). This gene is located on chromosome 15.
 
 <GeneMap name= "CHRNA3" interval="NC_000015.9:g.78885394_78913637=">
 
