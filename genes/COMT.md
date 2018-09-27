@@ -54,44 +54,6 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 <AnalysisBox>
 
-<# G158A (G;G) #>
-
-  <Analysis name="G158A (G;G)"
-            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]")
-                    and
-                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]")
-                    and
-                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]")
-                    and
-                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]")
-                    and
-                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]")
-                  } >
-
-    # What does this mean?
-
-        Your COMT gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # What is the effect of this variant?
-
-    The normal dopamine levels allow for good [pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and better thinking under stress. However, thinking ability is reduced in normal circumstances. It may also reduce the chance of nicotine dependence in Asian males and African American females. Other issues include:
-
-    - [1.4X increased risk of breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) 
-    - [2X risk of schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/15866551?dopt=Abstract) 
-    - [Alcohol-dependency](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) 
-    - [Greater risk of psychotic symptoms and schizophrenia when using cannabis](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) 
-    - [Poor response to the antidepressant paroxetine](https://www.ncbi.nlm.nih.gov/pubmed/18989660?dopt=Abstract) 
-
-    # What should I do about this?
-
-    Consider using other antidepressant medications than paroxetine. Do not drink alcohol or use cannabis.
-
-    Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=43 />
-  </Analysis>
 <# G158A (A;G) #>
 
   <Analysis name="G158A (A;G)"
@@ -404,6 +366,42 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=18.5 />
   </Analysis>
+<# T19950010G (T;G) #>
+
+  <Analysis name="T19950010G (T;G)"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]")
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]")
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]")
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]")
+                    and
+                    variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have one copy of the [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336) variant. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+
+    # What should I do about this?
+
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage=1.8 />
+  </Analysis>
+
 <# T19950010G (G;G) #>
 
   <Analysis name="T19950010G (G;G)"
@@ -441,42 +439,1228 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     <piechart percentage=19.9 />
   </Analysis>
-<# T19950010G (T;G) #>
+<# G158A C62T T19943884C T19960814C T19950010G #>
 
-  <Analysis name="T19950010G (T;G)"
+  <Analysis name="G158A C62T T19943884C T19960814C T19950010G "
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# C62T; T19943884C; T19960814C; T19950010G  #>
+
+  <Analysis name="C62T T19943884C T19960814C T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19943884C; T19960814C; T19950010G #>
+
+  <Analysis name="G158A; T19943884C; T19960814C; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235C=];[19950235=]")
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19960814C; T19950010G #>
+
+  <Analysis name="G158A; C62T; T19960814C; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19943884C; T19950010G #>
+
+  <Analysis name="G158A; C62T; T19943884C; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]")
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19943884C; T19960814C #>
+
+  <Analysis name="G158A; C62T; T19943884C; T19960814C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]")
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# T19943884C; T19960814C; T19950010G #>
+
+  <Analysis name="T19943884C; T19960814C; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# T19960814C; T19950010G #>
+
+  <Analysis name="T19960814C; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19960814C; T19950010G #>
+
+  <Analysis name="C62T; T19960814C; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]")
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19943884C; T19950010G #>
+
+  <Analysis name="C62T; T19943884C; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19943884C; T19960814C;  #>
+
+  <Analysis name="C62T; T19943884C; T19960814C"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19960814C; T19950010G #>
+
+  <Analysis name="G158A; T19960814C; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19943884C; T19950010G #>
+
+  <Analysis name="G158A; T19943884C; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19943884C; T19960814C;  #>
+
+  <Analysis name="G158A; T19943884C; T19960814C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19950010G #>
+
+  <Analysis name="G158A; C62T; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19960814C;  #>
+
+  <Analysis name="G158A; C62T; T19960814C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T; T19943884C; #>
+
+  <Analysis name="G158A; C62T; T19943884C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19950010G #>
+
+  <Analysis name="G158A; T19950010G"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]")) 
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]"
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19960814C;  #>
+
+  <Analysis name="G158A; T19960814C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; T19943884C; #>
+
+  <Analysis name="G158A; T19943884C"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# G158A; C62T;  #>
+
+  <Analysis name="G158A; C62T"
+            case={  (variantCall ("NC_000022.10:g.[19951271G>A];[19951271=]") OR variantCall ("NC_000022.10:g.[19951271G>A];[19951271G>A]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19943884C; #>
+
+  <Analysis name="C62T; T19943884C"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19960814C; #>
+
+  <Analysis name="C62T; T19960814C"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# C62T; T19950010G #>
+
+  <Analysis name="C62T; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19950235C>T];[19950235=]") OR variantCall ("NC_000022.10:g.[19950235C>T];[19950235C>T]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19931407=];[19931407=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# T19943884C; T19960814C #>
+
+  <Analysis name="T19943884C; T19960814C"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    (variantCall ("NC_000022.10:g.[19948337T>C];[19948337=]") OR variantCall ("NC_000022.10:g.[19948337T>C];[19948337T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]") 
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+  <# T19943884C; T19950010G #>
+
+  <Analysis name="T19943884C; T19950010G"
+            case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]") 
+                    and
+                    variantCall ("NC_000022.10:g.[19950235=];[19950235=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19931407T>C];[19931407=]") OR variantCall ("NC_000022.10:g.[19931407T>C];[19931407T>C]"))
+                    and
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]") 
+                    and
+                    (variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]") OR variantCall ("NC_000022.10:g.[19937533T>G];[19937533T>G]"))
+                  } > 
+
+    # What does this mean?
+
+    You have some combination of the following variants: [G158A](https://www.ncbi.nlm.nih.gov/pubmed/21059181), [C62T](https://www.ncbi.nlm.nih.gov/pubmed/26891941), [T19943884C](https://www.ncbi.nlm.nih.gov/pubmed/19540336), [T19960814C](https://www.ncbi.nlm.nih.gov/pubmed/19772600), and [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336). This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+   
+    There is currently no data on the interaction between these variants.  However, some information exists on variants individually and the gene generally.
+    
+    Female patients with ME/CFS may have [abnormal ovarian function](https://www.ncbi.nlm.nih.gov/pubmed/9790489) worsened by COMT variants, including polycystic ovarian syndrome (PCOS), hirsutism, and cysts. This may [increase the risk for ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/9790489) due to continued estrogen function and higher estrogen levels in the body. Higher levels may also be related to ME/CFS related malformed [estrogen receptors](https://www.ncbi.nlm.nih.gov/pubmed/16731592). The excess estrogen damages the ability of progesterone to aid and modulate the immune system during the menstrual cycle.
+
+    Other variants are associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    
+    # What should I do about this?
+    
+    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
+    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
+    - Consider eating [red, blue, and purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    
+    - Regularly check for endometrial and breast cancer. 
+    - Consult with your doctor to ensure you maintain normal estrogen levels. 
+    - Drinking green tea may [reduce risk of breast cancer.](https://www.ncbi.nlm.nih.gov/pubmed/19074205?dopt=Abstract) 
+
+    Medications related to COMT include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# Wild type #>
+
+  <Analysis name="Wild type"
             case={  variantCall ("NC_000022.10:g.[19951271=];[19951271=]")
                     and
                     variantCall ("NC_000022.10:g.[19950235=];[19950235=]")
                     and
                     variantCall ("NC_000022.10:g.[19931407=];[19931407=]")
                     and
-                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]")
+                    variantCall ("NC_000022.10:g.[19937533=];[19937533=]")
                     and
-                    variantCall ("NC_000022.10:g.[19937533T>G];[19937533=]")
-                  } > 
+                    variantCall ("NC_000022.10:g.[19948337=];[19948337=]")
+                  } >
 
     # What does this mean?
 
-    People with this variant have one copy of the [T19950010G](https://www.ncbi.nlm.nih.gov/pubmed/19540336) variant. This substitution of a single nucleotide is known as a missense mutation.
+        Your COMT gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # What is the effect of this variant?
+    # What is the effect of G158A (G;G)?
 
-    This variant is associated with increased “oxidative stress,” which is caused by [free radicals](https://nccih.nih.gov/health/antioxidants/introduction.htm) triggering cell damage. The increased risk of oxidative stress also leads to [cancer](https://www.ncbi.nlm.nih.gov/pubmed/21716162). ME/CFS patients often show [increased oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27580693) that can be measured as increased levels of [thiobarbituric acid reactive substances](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (TBARS), an oxidative stress blood marker, and decreased [reduced ascorbic-acid](https://www.ncbi.nlm.nih.gov/pubmed/19457057) (RAA), an antioxidant defense marker. This is associated with [increased symptom severity](https://www.ncbi.nlm.nih.gov/pubmed/29065167) and muscle weakness.
+    The normal dopamine levels allow for good [pain tolerance](https://www.ncbi.nlm.nih.gov/pubmed/12595695?dopt=Abstract) and better thinking under stress. However, thinking ability is reduced in normal circumstances. It may also reduce the chance of nicotine dependence in Asian males and African American females. Other issues include:
+
+    - [1.4X increased risk of breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/18194538?dopt=Abstract) 
+    - [2X risk of schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/15866551?dopt=Abstract) 
+    - [Alcohol-dependency](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) 
+    - [Greater risk of psychotic symptoms and schizophrenia when using cannabis](https://www.ncbi.nlm.nih.gov/pubmed/22208661?dopt=Abstract) 
+    - [Poor response to the antidepressant paroxetine](https://www.ncbi.nlm.nih.gov/pubmed/18989660?dopt=Abstract) 
 
     # What should I do about this?
 
-    Oxidative stress may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
+    Consider using other antidepressant medications than paroxetine. Do not drink alcohol or use cannabis.
 
-    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678). 
-    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1). 
-    - Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm). 
-    - Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    Medications indicated for use in treating COMT issues include: [Clonidine, BIA, Diethylstilbestrol, Dobutamine, Dopamine, Entacapone, Methyldopa, Micafungin, Nialamide, S-Adenosylmethionine, Testosterone Propionate, and Tolcapone.](http://www.uniprot.org/uniprot/P21964#pathology_and_biotech)
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=1.8 />
+    <piechart percentage= />
+  </Analysis>
+<# Unknown #>
+
+  <Analysis name="Unknown" case=true>
+
+    # What does this mean?
+
+    The effect is unknown.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
   </Analysis>
 </AnalysisBox>
+
 
 <# Tissues brain liver kidney blood D001921 D005221 D005221 D002319 #>
 
