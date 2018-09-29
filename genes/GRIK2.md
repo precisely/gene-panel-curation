@@ -4,88 +4,101 @@
 
 # What does the GRIK2 gene do?
 
-GRIK2 (glutamate ionotropic receptor kainate type subunit 2) encodes a glutamate receptor in the brain. When L-glutamate binds to these receptors, it opens electrical ion channels to pass messages in the brain. These receptors may be involved in learning, memory, neuroplasticity, and eyesight. Variants may be related to mental retardation, cognitive disability, OCD severity, suicidal thoughts, and ME/CFS.
+GRIK2 encodes the receptor in the brain for the neurotransmitter [glutamate](https://neurotransporter.org/glutamate.html). When [L-glutamate](http://www.uniprot.org/uniprot/Q13002) binds to these receptors, it opens electrical channels to pass messages in the brain. These receptors may be involved in [learning, memory, neuroplasticity, and eyesight](http://www.uniprot.org/diseases/DI-01245). Variants may be related to [mental retardation](http://www.uniprot.org/diseases/DI-01245), [cognitive disability](https://www.ncbi.nlm.nih.gov/gene/2898), [OCD (obsessive compulsive disorder)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836736/), [suicidal thoughts](https://www.ncbi.nlm.nih.gov/pubmed/21912186), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21912186). This gene is located on chromosome 6.
 
-This gene is located on chromosome 6. The protein it creates acts in your brain and heart.
+<GeneMap name= "GRIK2" interval="NC_000006.11:g.101841584_102517958=">
 
-<GeneAnalysis gene="GRIK2" interval="NC_000006.12:g.101393708_102070083"> 
-
-# What are some common mutations of GRIK2?
+# What are some common variants of GRIK2?
  
-There is one common variant in GRIK2: [A101518578G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247215).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect mitochondrial enzyme function. There is one common variant in GRIK2: [A101518578G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247215).
 
 <# A101518578G #>
-  <Variant hgvs="NC_000006.12:g.101518578A>G" name="A101518578G"> 
 
-    This variant is a change at a specific point in the GRIK2 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000006.11:g.101966454A>G" name="A101518578G"> 
+
+    Instead of adenine (A), there is a guanine (G) nucleotide.
 
   </Variant>
 
-<# A101518578G #>
-  <Genotype hgvs="NC_000006.12:g.[101518578A>G];[101518578=]" name="A101518578G"> 
+<AnalysisBox>
+
+<# A101518578G (A;G) #>
+
+  <Analysis name="A101518578G (A;G)"
+            case={  variantCall ("NC_000006.11:g.[101966454A>G];[101966454=]")
+                  } > 
 
     # What does this mean?
- 
+
     People with this variant have one copy of the [A101518578G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247215) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your G variant causes a 10-fold decrease in GRIK2 expression and may lead to improper glutamate receptor creation, causing cognitive and eyesight problems. Your variant has been linked to increased OCD severity and is located in the same section of the gene linked to suicidal thoughts. 50% of ME/CFS patients have the G variant as compared to 24% of healthy patients. This variant may also be linked with the C variant of rs2247218, but further research is needed to determine the exact connection between the two variants and ME/CFS.
+    Your variant is [2X](https://www.ncbi.nlm.nih.gov/pubmed/21912186) more common in ME/CFS patients compared to the [general population](https://www.ncbi.nlm.nih.gov/pubmed/21912186). It may also be linked with another [cytosine (C) variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247218) in GRIK2, but the exact relationship is undetermined. 
+
+    Your G variant causes a [10-fold decrease](https://www.ncbi.nlm.nih.gov/pubmed/21912186) in GRIK2 expression and may lead to improper glutamate receptor creation. GRIK2 receptors control the ability of synapses to activate or deactivate and help to transmit light from the retina to the brain. The 10 fold decrease in activity may lead to cognitive issues including learning and memory as well as eyesight problems. Your variant has also been linked to increased [OCD severity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836736/) and [suicidal thoughts](https://www.ncbi.nlm.nih.gov/pubmed/21912186).
+
+    The reduced formation and action of glutamate receptors due to your variant may also cause [elevated levels of glutamate outside of cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/). Nerve cells are then [damaged or killed](https://www.ncbi.nlm.nih.gov/books/NBK10807/) due to excessive stimulation. For ME/CFS patients, sustained exposure to excess [extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity, including weakness, numbness and pain.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
 
     # What should I do about this?
 
-    Be aware of and monitor your mood for signs of depression. If you experience problems with thinking and memory, consider learning new skills and being active to increase your “cognitive reserve.” You may also consider formal cognitive training such as memory training, reasoning training, or processing–speed training. 
+    Consider measuring your extracellular glutamate levels. If elevated:
+    - Medications may include: [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142),[Ketamine, Riluzole, Lamotrigine, and Memantine](http://web.stanford.edu/group/hopes/cgi-bin/hopes_test/glossary/anti-glutamate/). 
+    - Dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
 
-    Medications linked to GRIK2 include Amobarbital, Aprobarbital, Barbital, Barbituric acid derivative, Butabarbital, Butalbital, Butethal, Domoic Acid, Heptabarbital, Hexobarbital, L-Glutamic Acid, Metharbital, Methylphenobarbital, Pentobarbital, Phenobarbital, Primidone, Quisqualate, Secobarbital, Talbutal, and Thiopental.
+    Lifestyle changes may include the following.
+    - Be aware of and monitor your mood for signs of depression.  
+    - If you experience problems with thinking and memory, consider learning new skills and being active to increase your [“cognitive reserve.”](https://www.nia.nih.gov/health/cognitive-health-and-older-adults) 
+    - Consider [formal cognitive training](https://www.nia.nih.gov/health/cognitive-health-and-older-adults) such as memory training, reasoning training, or processing–speed training. 
+
+    Medications linked to GRIK2 include [Amobarbital](https://www.drugbank.ca/drugs/DB01351), [Aprobarbital](https://www.drugbank.ca/drugs/DB01352), [Barbital](https://www.drugbank.ca/drugs/DB01483), [Barbituric acid derivative](https://www.drugbank.ca/drugs/DB01496), [Butabarbital](https://www.drugbank.ca/drugs/DB00237), [Butalbital](https://www.drugbank.ca/drugs/DB00241), [Butethal](https://www.drugbank.ca/drugs/DB01353), [Domoic Acid](https://www.drugbank.ca/drugs/DB02852), [Heptabarbital](https://www.drugbank.ca/drugs/DB01354), [Hexobarbital](https://www.drugbank.ca/drugs/DB01355), [L-Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Metharbital](https://www.drugbank.ca/drugs/DB00463), [Methylphenobarbital](https://www.drugbank.ca/drugs/DB00849), [Pentobarbital](https://www.drugbank.ca/drugs/DB00312), [Phenobarbital](https://www.drugbank.ca/drugs/DB01174), [Primidone](https://www.drugbank.ca/drugs/DB00794), [Quisqualate](https://www.drugbank.ca/drugs/DB02999), [Secobarbital](https://www.drugbank.ca/drugs/DB00418), [Talbutal](https://www.drugbank.ca/drugs/DB00306), and [Thiopental](https://www.drugbank.ca/drugs/DB00599).
 
     # How common is this genotype in the general population?
 
     <piechart percentage=49.2 />
-  </Genotype>
-  <Genotype hgvs="NC_000006.12:g.[101518578A>G];[101518578A>G]" name="A101518578G"> 
- 
+  </Analysis>
+<# A101518578G (G;G) #>
+
+  <Analysis name="A101518578G (G;G)"
+            case={  variantCall ("NC_000006.11:g.[101966454A>G];[101966454A>G]")
+                  } > 
+
     # What does this mean?
 
     People with this variant have two copies of the [A101518578G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247215) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your G variant causes a 10-fold decrease in GRIK2 expression and may lead to improper glutamate receptor creation, causing cognitive and eyesight problems. Your variant has been linked to increased OCD severity and is located in the same section of the gene linked to suicidal thoughts. 50% of ME/CFS patients have the G variant as compared to 24% of healthy patients. This variant may also be linked with the C variant of rs2247218, but further research is needed to determine the exact connection between the two variants and ME/CFS.
+    Your variant is [2X](https://www.ncbi.nlm.nih.gov/pubmed/21912186) more common in ME/CFS patients compared to the [general population](https://www.ncbi.nlm.nih.gov/pubmed/21912186). It may also be linked with another [cytosine (C) variant](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=2247218) in GRIK2, but the exact relationship is undetermined. 
+
+    Your G variant causes a [10-fold decrease](https://www.ncbi.nlm.nih.gov/pubmed/21912186) in GRIK2 expression and may lead to improper glutamate receptor creation. GRIK2 receptors control the ability of synapses to activate or deactivate and help to transmit light from the retina to the brain. The 10 fold decrease in activity may lead to cognitive issues including learning and memory as well as eyesight problems. Your variant has also been linked to increased [OCD severity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836736/) and [suicidal thoughts](https://www.ncbi.nlm.nih.gov/pubmed/21912186).
+
+    The reduced formation and action of glutamate receptors due to your variant may also cause [elevated levels of glutamate outside of cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/). Nerve cells are then [damaged or killed](https://www.ncbi.nlm.nih.gov/books/NBK10807/) due to excessive stimulation. For ME/CFS patients, sustained exposure to excess [extracellular glutamate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) causes [sickness behavior, neurotoxicity, stress, and peripheral nervous sensitivity, including weakness, numbness and pain.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/)
 
     # What should I do about this?
 
-    Be aware of and monitor your mood for signs of depression. If you experience problems with thinking and memory, consider learning new skills and being active to increase your “cognitive reserve.” You may also consider formal cognitive training such as memory training, reasoning training, or processing–speed training. 
+    Consider measuring your extracellular glutamate levels. If elevated:
+    - Medications may include: [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142),[Ketamine, Riluzole, Lamotrigine, and Memantine](http://web.stanford.edu/group/hopes/cgi-bin/hopes_test/glossary/anti-glutamate/). 
+    - Dietary supplements may include: [Omega-3 PUFAs, CoQ10, N-acetylcysteine, vitamin B12, curcumin, zinc, magnesium, L-Taurine, and L-carnitine.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314655/) 
 
-    Medications linked to GRIK2 include Amobarbital, Aprobarbital, Barbital, Barbituric acid derivative, Butabarbital, Butalbital, Butethal, Domoic Acid, Heptabarbital, Hexobarbital, L-Glutamic Acid, Metharbital, Methylphenobarbital, Pentobarbital, Phenobarbital, Primidone, Quisqualate, Secobarbital, Talbutal, and Thiopental.
+    Lifestyle changes may include the following.
+    - Be aware of and monitor your mood for signs of depression.  
+    - If you experience problems with thinking and memory, consider learning new skills and being active to increase your [“cognitive reserve.”](https://www.nia.nih.gov/health/cognitive-health-and-older-adults) 
+    - Consider [formal cognitive training](https://www.nia.nih.gov/health/cognitive-health-and-older-adults) such as memory training, reasoning training, or processing–speed training. 
+
+    Medications linked to GRIK2 include [Amobarbital](https://www.drugbank.ca/drugs/DB01351), [Aprobarbital](https://www.drugbank.ca/drugs/DB01352), [Barbital](https://www.drugbank.ca/drugs/DB01483), [Barbituric acid derivative](https://www.drugbank.ca/drugs/DB01496), [Butabarbital](https://www.drugbank.ca/drugs/DB00237), [Butalbital](https://www.drugbank.ca/drugs/DB00241), [Butethal](https://www.drugbank.ca/drugs/DB01353), [Domoic Acid](https://www.drugbank.ca/drugs/DB02852), [Heptabarbital](https://www.drugbank.ca/drugs/DB01354), [Hexobarbital](https://www.drugbank.ca/drugs/DB01355), [L-Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Metharbital](https://www.drugbank.ca/drugs/DB00463), [Methylphenobarbital](https://www.drugbank.ca/drugs/DB00849), [Pentobarbital](https://www.drugbank.ca/drugs/DB00312), [Phenobarbital](https://www.drugbank.ca/drugs/DB01174), [Primidone](https://www.drugbank.ca/drugs/DB00794), [Quisqualate](https://www.drugbank.ca/drugs/DB02999), [Secobarbital](https://www.drugbank.ca/drugs/DB00418), [Talbutal](https://www.drugbank.ca/drugs/DB00306), and [Thiopental](https://www.drugbank.ca/drugs/DB00599).
 
     # How common is this genotype in the general population?
 
     <piechart percentage=31.6 />
-  </Genotype>
-  <Genotype hgvs="NC_000006.12:g.[101518578=];[101518578=]" name="A101518578G"> 
- 
-    # What does this mean?
+  </Analysis>
 
-    Your GRIK2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# Wild type #>
 
-    # How common is this genotype in the general population?
+  <Analysis name="Wild type"
+            case={  variantCall ("NC_000006.11:g.[101966454=];[101966454=]")
+                  } > 
 
-    <piechart percentage=19.3 />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
-    # What does this mean?
-
-    Your GRIK2 gene has an unknown variant.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
     # What does this mean?
 
     Your GRIK2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
@@ -93,17 +106,30 @@ There is one common variant in GRIK2: [A101518578G](https://www.ncbi.nlm.nih.gov
     # How common is this genotype in the general population?
 
     <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
+  </Analysis>
 
-<# symptoms depression D003863; common-name: memory problems D008569; vision problems D014786; #>
+<# Unknown #>
 
-<symptoms D003863 D008569 D014786 />
+  <Analysis name="Unknown" case=true>
 
-<# Tissue List brain; circulatory and cardiovascular system;  #>
+    # What does this mean?
 
-<TissueList D001921 D002319 />
+    The effect is unknown.
 
-<# Diseases depression D003866; ME/CFS D015673; mood disorder D019964; OCD D009771 #>
+    # How common is this genotype in the general population?
 
-<diseases D003866 D015673 D019964 D009771 />
+    <piechart percentage= />
+  </Analysis>
+</AnalysisBox>
+
+<# Tissues brain; circulatory and cardiovascular system;  #>
+
+<TopicBar mesh_D001921 mesh_D002319 />
+
+<# Symptoms symptoms depression D003863; common-name: memory problems D008569; vision problems D014786; #>
+
+<TopicBar mesh_D003863 mesh_D008569 mesh_D014786 />
+
+<# Diseases depression D003866; ME/CFS D015673; mood disorder D019964; OCD D00977 #>
+
+<TopicBar mesh_D003866 mesh_D015673 mesh_D019964 mesh_D00977 />
