@@ -4,217 +4,407 @@
 
 # What does the CRHR1 gene do?
 
-[CRHR1](http://www.uniprot.org/uniprot/P34998) encodes a protein that binds to a neurotransmitter for hormones. These hormones are necessary for normal embryonic development and act in the hypothalamic-pituitary-adrenal (HPA) pathway, controlling [stress, reproduction, immune response, and obesity](https://www.ncbi.nlm.nih.gov/gene/1394). CRHR1 also helps activate enzymes to help transfer the effects of hormones into cells and activate proteins. Variants in CRHR1 have been linked with [depression](http://www.disgenet.org/web/DisGeNET/menu/browser/tab8a?0&pview=default&pf=http://www.disgenet.org/web/DisGeNET%3Fdata/genes::1394::de&pf=/data/sources::ALL::de), [Parkinson’s](https://www.targetvalidation.org/target/ENSG00000263715/associations?view=t:table), and [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552). This gene is located on chromosome 17.
+[CRHR1](http://www.uniprot.org/uniprot/P34998) encodes a protein that binds to a neurotransmitter for hormones. These hormones are necessary for normal embryonic development and act in the hypothalamic-pituitary-adrenal (HPA) pathway, controlling [stress, reproduction, immune response, and obesity](https://www.ncbi.nlm.nih.gov/gene/1394). CRHR1 also helps activate enzymes to help transfer the effects of hormones into cells and activate proteins. Variants in CRHR1 have been linked with [depression](http://www.disgenet.org/web/DisGeNET/menu/browser/tab8a?0&pview=default&pf=http://www.disgenet.org/web/DisGeNET%3Fdata/genes::1394::de&pf=/data/sources::ALL::de), [Parkinson’s](https://www.targetvalidation.org/target/ENSG00000263715/associations?view=t:table), and [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).  This gene is located on chromosome 17.
 
-<GeneAnalysis gene="CRHR1" interval="NC_000017.11:g.45784280_45835828"> 
+<GeneMap name= "CRHR1" interval="NC_000017.10:g.43697710_43913194=">
 
-# What are some common mutations of CRHR1?
+# What are some common variants of CRHR1?
  
-There are two common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862).
+A variant is a change at a specific point in the gene from the expected nucleotide sequence to another, resulting in incorrect protein function. There are two common variants in CRHR1: [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862).
 
 <# A45815234G #>
-  <Variant hgvs="NC_000017.11:g.45815234A>G" name="A45815234G"> 
 
-    This variant is a change at a specific point in the CRHR1 gene from adenine (A) to guanine (G) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000017.10:g.43892600A>G" name="A45815234G"> 
+
+    Instead of adenine (A), there is a guanine (G) nucleotide.
 
   </Variant>
+
 <# G45825631A #>
-  <Variant hgvs="NC_000017.11:g.45825631G>A" name="G45825631A"> 
 
-    This variant is a change at a specific point in the CRHR1 gene from guanine (G) to adenine (A) resulting in incorrect protein function. This substitution of a single nucleotide is known as a missense variant.
+  <Variant hgvs="NC_000017.10:g.43902997G>A" name="G45825631A"> 
+
+    Instead of guanine (G), there is an adenine (A) nucleotide.
 
   </Variant>
 
-<# A45815234G #>
-  <Genotype hgvs="NC_000017.11:g.[45815234A>G];[45815234=]" name="A45815234G"> 
+</GeneMap>
+
+<AnalysisBox>
+
+<# A45815234G (A;G) #>
+
+  <Analysis name="A45815234G (A;G)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997=];[43902997=]")
+                  } > 
 
     # What does this mean?
- 
+
     People with this variant have one copy of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your variant may cause a change in the HPA axis and is mildly associated with [increased severity of ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).
+    Your variant may cause a change in the hypothalamic-pituitary-adrenal (HPA) pathway and is mildly associated with [increased severity of ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).
 
-    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has been associated with lower levels of HPA activity, which may be caused by a variety of [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), which correlate with increased disability and poorer response to standard treatment.
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
 
-    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The corticotropin-releasing factor (CRF) system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It [maintains blood pressure and heart function, mediates the immune response, and controls the metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
 
-    Disruption of the HPA axis [causing improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response is also linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
 
     # What should I do about this?
 
-    [Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-
-    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1).
-    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-    * Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
 
     Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
-    * If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
-    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C]([https://www.ncbi.nlm.nih.gov/pubmed/11862365](https://www.ncbi.nlm.nih.gov/pubmed/11862365)). Consult your physician. 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=48.4 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[45815234A>G];[45815234A>G]" name="A45815234G"> 
- 
+  </Analysis>
+<# A45815234G (G;G) #>
+
+  <Analysis name="A45815234G (G;G)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600A>G]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997=];[43902997=]")
+                  } > 
+
     # What does this mean?
 
     People with this variant have two copies of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your variant may cause a change in the HPA axis and is mildly associated with [increased severity of ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).
+    Your variant may cause a change in the hypothalamic-pituitary-adrenal (HPA) pathway and is mildly associated with [increased severity of ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).
 
-    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has been associated with lower levels of HPA activity, which may be caused by a variety of [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), which correlate with increased disability and poorer response to standard treatment.
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
 
-    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The corticotropin-releasing factor (CRF) system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It [maintains blood pressure and heart function, mediates the immune response, and controls the metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
 
-    Disruption of the HPA axis [causing improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response is also linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
 
     # What should I do about this?
 
-    [Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-
-    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1).
-    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-    * Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
 
     Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
-    * If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
-    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C]([https://www.ncbi.nlm.nih.gov/pubmed/11862365](https://www.ncbi.nlm.nih.gov/pubmed/11862365)). Consult your physician. 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=35.5 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[45815234=];[45815234=]" name="A45815234G"> 
- 
-    # What does this mean?
+  </Analysis>
+<# G45825631A (G;A) #>
 
-    Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=16.3 />
-  </Genotype>
-<# G45825631A #>
-  <Genotype hgvs="NC_000017.11:g.[45825631G>A];[45825631=]" name="G45825631A"> 
+  <Analysis name="G45825631A (G;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600=];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997=]")
+                  } > 
 
     # What does this mean?
- 
+
     People with this variant have one copy of the [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your variant is one of the [top 10 genetic markers](https://www.ncbi.nlm.nih.gov/pubmed/26063326) with the highest chance of being associated with CFS.  It may also act alongside rs12185233, which is associated with [Parkinson’s disease](https://www.ncbi.nlm.nih.gov/pubmed/20070850/). Your variant was studied due to CRHR1’s effects in the HPA axis.
+    Your variant is one of the [top 10 genetic markers](https://www.ncbi.nlm.nih.gov/pubmed/26063326) with the highest chance of being associated with ME/CFS and may affect the hypothalamic-pituitary-adrenal (HPA).  It may also act alongside another variant associated with [Parkinson’s disease](https://www.ncbi.nlm.nih.gov/pubmed/20070850/). 
 
-    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has been associated with lower levels of HPA activity, which may be caused by a variety of [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), which correlate with increased disability and poorer response to standard treatment.
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
 
-    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The corticotropin-releasing factor (CRF) system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It [maintains blood pressure and heart function, mediates the immune response, and controls the metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
 
-    Disruption of the HPA axis [causing improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response is also linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
 
     # What should I do about this?
 
-    [Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-
-    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1).
-    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-    * Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
 
     Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
-    * If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
-    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C]([https://www.ncbi.nlm.nih.gov/pubmed/11862365](https://www.ncbi.nlm.nih.gov/pubmed/11862365)). Consult your physician. 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=15.7 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[45825631G>A];[45825631G>A]" name="G45825631A"> 
- 
+  </Analysis>
+<# G45825631A (A;A) #>
+
+  <Analysis name="G45825631A (A;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600=];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997G>A]")
+                  } > 
+
     # What does this mean?
 
     People with this variant have two copies of the [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) variant. This substitution of a single nucleotide is known as a missense mutation.
 
     # What is the effect of this variant?
 
-    Your variant is one of the [top 10 genetic markers](https://www.ncbi.nlm.nih.gov/pubmed/26063326) with the highest chance of being associated with CFS.  It may also act alongside rs12185233, which is associated with [Parkinson’s disease](https://www.ncbi.nlm.nih.gov/pubmed/20070850/). Your variant was studied due to CRHR1’s effects in the HPA axis.
+    Your variant is one of the [top 10 genetic markers](https://www.ncbi.nlm.nih.gov/pubmed/26063326) with the highest chance of being associated with ME/CFS and may affect the hypothalamic-pituitary-adrenal (HPA).  It may also act alongside another variant associated with [Parkinson’s disease](https://www.ncbi.nlm.nih.gov/pubmed/20070850/). 
 
-    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has been associated with lower levels of HPA activity, which may be caused by a variety of [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism, improper cortisol cycles, and incorrect or depressed HPA axis response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), which correlate with increased disability and poorer response to standard treatment.
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
 
-    Hypocortisolism (or a lack of cortisol) causes decreased response to stress and heightened negative feedback. The corticotropin-releasing factor (CRF) system, including CRHR1, is a major part of the stress response and mediates both the initial and sustained responses to stress. It [maintains blood pressure and heart function, mediates the immune response, and controls the metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to and perpetuate many CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
 
-    Disruption of the HPA axis [causing improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response is also linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
 
     # What should I do about this?
 
-    [Oxidative stress and decreased antioxidant capacity in ME/CFS patients caused by HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental changes, [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), and dietary changes.
-
-    * Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1).
-    * Consider a diet higher in [antioxidants, including vitamins C and E, and selenium, as well as carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin](https://nccih.nih.gov/health/antioxidants/introduction.htm).
-    * Consider eating [red, blue, purple berries like blueberries and cranberries, orange and dark, leafy green vegetables like pumpkin and spinach, tomato, red grapes, and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals).
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
 
     Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
-    * If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
-    * If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C]([https://www.ncbi.nlm.nih.gov/pubmed/11862365](https://www.ncbi.nlm.nih.gov/pubmed/11862365)). Consult your physician. 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
     # How common is this genotype in the general population?
 
     <piechart percentage=4.7 />
-  </Genotype>
-  <Genotype hgvs="NC_000017.11:g.[45825631=];[45825631=]" name="G45825631A"> 
- 
+  </Analysis>
+<# A45815234G (A;G) and G45825631A (G;A) #>
+
+  <Analysis name="A45815234G (A;G) and G45825631A (G;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have one copy of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+
+    # What is the effect of these variants?
+
+    Your variants are associated with increased incidence and severity of [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552). 
+
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
+
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+
+    # What should I do about this?
+
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
+
+    CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# A45815234G (G;G) and G45825631A (G;A) #>
+
+  <Analysis name="A45815234G (G;G) and G45825631A (G;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600A>G]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997=]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have one copy of the [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) and two copies of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+
+    # What is the effect of these variants?
+
+    Your variants are associated with increased incidence and severity of [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552). 
+
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
+
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+
+    # What should I do about this?
+
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician.
+
+    CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
+    
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# A45815234G (G;G) and G45825631A (A;A) #>
+
+  <Analysis name="A45815234G (G;G) and G45825631A (A;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600A>G]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997G>A]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have two copies of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+
+    # What is the effect of these variants?
+
+    Your variants are associated with increased incidence and severity of [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552). 
+
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
+
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+
+    # What should I do about this?
+
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
+
+    CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# A45815234G (A;G) and G45825631A (A;A) #>
+
+  <Analysis name="A45815234G (A;G) and G45825631A (A;A)"
+            case={  variantCall ("NC_000017.10:g.[43892600A>G];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997G>A];[43902997G>A]")
+                  } > 
+
+    # What does this mean?
+
+    People with this variant have one copy of the [A45815234G](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=242940) and two copies of the [G45825631A](https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1396862) variants. This substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants. 
+
+    # What is the effect of these variants?
+
+    Your variants are associated with increased incidence and severity of [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552). 
+
+    The disruption of the HPA axis [leads to improper immune system](https://www.ncbi.nlm.nih.gov/pubmed/15467349) response and is linked to ME/CFS. Improper stress response mediated by CRHR1 may cause too many white blood cells to be created in response to attack. This [hyper-immune](https://www.ncbi.nlm.nih.gov/pubmed/15949897) state leads the brain to organize a sickness response that may be overly sensitive in response to any stressor. Patients may then feel ill without sufficient external cause.
+
+    [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21549189) has also been associated with lower levels of HPA activity caused by [immune system abnormalities, inflammation, and oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/27766535). This may cause [mild hypocortisolism (or a lack of cortisol), improper cortisol cycles, and poor HPA response](https://www.ncbi.nlm.nih.gov/pubmed/21946893), correlating with increased disability and worse response to standard treatment.
+
+    Hypocortisolism also causes decreases the ability of the body to respond to stress and heightens negative side-effects. The corticotropin-releasing factor (CRF) system, including the gene CRHR1, mediates both the initial and sustained responses to stress, including [blood pressure, heart function, immune response, and metabolism](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease). Impairment due to hypocortisolism may lead to or perpetuate many ME/CFS symptoms, including [pain](https://www.ncbi.nlm.nih.gov/pubmed/17596739), [fatigue, muscle weakness, and POTS](https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease).
+
+    # What should I do about this?
+
+    [Oxidative stress and decreased antioxidant capacity](https://www.ncbi.nlm.nih.gov/pubmed/21549189) in ME/CFS patients caused by [HPA disruption](https://www.ncbi.nlm.nih.gov/pubmed/21549189) may be mitigated through environmental and dietary changes.
+    - Consider a diet higher in [antioxidants](https://nccih.nih.gov/health/antioxidants/introduction.htm), such as vitamins C and E, selenium, and beta-carotene
+    - Consider eating [red, blue, and purple berries such as blueberries and cranberries; orange and dark, leafy green vegetables such as pumpkin and spinach; tomato; red grapes; and peanuts](https://www.fruitsandveggiesmorematters.org/what-are-phytochemicals)
+    - [Robuvit](https://www.robuvit.com/home/)® (oak wood extract) is effective in reducing [oxidative stress](https://www.ncbi.nlm.nih.gov/pubmed/29164838) and [fatigue](https://www.ncbi.nlm.nih.gov/pubmed/29719945), while improving cognition, sleep, and memory. Consider taking [300mg/day](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0678)
+    - Avoid [ionizing radiation, smoking, metals, and high oxygen atmospheres](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet#q1)
+
+    Patients should check their cortisol levels. Cortisol levels may be reduced due to [inactivity](https://www.ncbi.nlm.nih.gov/pubmed/21946893), [depression](https://www.ncbi.nlm.nih.gov/pubmed/21946893), or [early-life stress](https://www.ncbi.nlm.nih.gov/pubmed/21946893). 
+    - If too low, consider [psychotropic medication](https://www.ncbi.nlm.nih.gov/pubmed/21946893) and cognitive behavioral therapy ([CBT](https://www.ncbi.nlm.nih.gov/pubmed/21946893)). Consult your physician. 
+    - If elevated consider [magnesium](https://www.ncbi.nlm.nih.gov/pubmed/18500945), [omega-3 fish oil]( https://www.ncbi.nlm.nih.gov/pubmed/12909818), [massage](https://www.ncbi.nlm.nih.gov/pubmed/16162447), [Withania somnifera (ashwagandha) root extract](https://www.ncbi.nlm.nih.gov/pubmed/23439798), and [high-dose vitamin C](https://www.ncbi.nlm.nih.gov/pubmed/11862365). Consult your physician. 
+
+    CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
+
+    # How common is this genotype in the general population?
+
+    <piechart percentage= />
+  </Analysis>
+<# Wild type #>
+
+  <Analysis name="Wild type"
+            case={  variantCall ("NC_000017.10:g.[43892600=];[43892600=]")
+                    and
+                    variantCall ("NC_000017.10:g.[43902997=];[43902997=]")
+                  } > 
+
     # What does this mean?
 
     Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=79.6 />
-  </Genotype>
-<# unknown #>
-  <Genotype hgvs="unknown"> 
- 
+    <piechart percentage= />
+  </Analysis>
+<# Unknown #>
+  <Analysis name="Unknown" case=true>
+
     # What does this mean?
 
-    Your CRHR1 gene has an unknown variant.
+    The effect is unknown.
 
     # How common is this genotype in the general population?
 
     <piechart percentage= />
-  </Genotype>
-<# wildtype #>
-  <Genotype hgvs="wildtype">
- 
-    # What does this mean?
+  </Analysis>
+</AnalysisBox>
 
-    Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
+<# Tissues  brain; female tissue #>
 
-    # How common is this genotype in the general population?
+<TopicBar mesh_D001921 mesh_D005836 />
 
-    <piechart percentage= />
-  </Genotype>
-</GeneAnalysis>
+<# Symptoms symptoms fatigue D005221; depression D003863; stress D040701; orthostatic intolerance (POTS) D054971; pain D010146; inflamation D007249 #>
 
-<# symptoms fatigue D005221; depression D003863; stress D040701; orthostatic intolerance (POTS) D054971; pain D010146; inflamation D007249 #>
+<TopicBar mesh_D005221 mesh_D003863 mesh_D040701 mesh_D054971 mesh_D010146 mesh_D007249 />
 
-<symptoms D005221 D003863 D040701 D054971 D010146 D007249 />
+<# Diseases Diseases depression D003866; ME/CFS D015673; hypothyroid D007037; Parkinson Disease D010300; #>
 
-<# Tissue List brain; female tissue; #>
-
-<TissueList D001921 D005836 />
-
-<# Diseases depression D003866; ME/CFS D015673; hypothyroid D007037; Parkinson Disease D010300; #>
-
-<diseases D003866 D015673 D007037 D010300 />
+<TopicBar mesh_D003866 mesh_D015673 mesh_D007037 mesh_D010300 />
