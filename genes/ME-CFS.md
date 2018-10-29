@@ -92,21 +92,21 @@ We've assembled this list of genes and variants based on research publications i
     variantCall("NC_000017.10:g.[43902997=];[43902997=]")
     } />   
   <Indicator icon="gene" name="DRD2" link="/report/drd2" require={
-      variantCall("NC_000011.9:g.113346251") and 
       variantCall("NC_000011.9:g.113283484") and 
       variantCall("NC_000011.9:g.113283688") and
       variantCall("NC_000011.9:g.113282275") and
-      variantCall("NC_000011.9:g.113346251") and
       variantCall("NC_000011.9:g.113270828") and
       variantCall("NC_000011.9:g.113331532") and
       variantCall("NC_000011.9:g.113283459") 
     }
-    normal={
-      (variantCall("NC_000011.9:g.[113346251=];[113346251=]") OR variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]") ) and 
+<# variantCall("NC_000011.9:g.113346251") and  variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]") variantCall("NC_000011.9:g.113346251") and variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]")  #>
+
+normal={
+      variantCall("NC_000011.9:g.[113346251=];[113346251=]") and 
       (variantCall("NC_000011.9:g.[113283484=];[113283484=]") OR variantCall("NC_000011.9:g.[113283484G>C];[113283484=]") ) and
       (variantCall("NC_000011.9:g.[113283688=];[113283688=]") OR variantCall("NC_000011.9:g.[113283688C>A];[113283688=]") ) and
       variantCall("NC_000011.9:g.[113282275=];[113282275=]") and
-      (variantCall("NC_000011.9:g.[113346251=];[113346251=]") OR variantCall("NC_000008.10:g.[113346251_113346252insG];[113346251=]") ) and 
+      variantCall("NC_000011.9:g.[113346251=];[113346251=]") and 
       (variantCall("NC_000011.9:g.[113270828=];[113270828=]") OR variantCall("NC_000011.9:g.[113270828G>A];[113270828=]") ) and
       (variantCall("NC_000011.9:g.[113331532=];[113331532=]") OR variantCall("NC_000011.9:g.[113331532G>A];[113331532=]") ) and
       (variantCall("NC_000011.9:g.[113283459=];[113283459=]") OR variantCall("NC_000011.9:g.[113283459G>A];[113283459=]") )
