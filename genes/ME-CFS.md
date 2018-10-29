@@ -22,6 +22,7 @@ We've assembled this list of genes and variants based on research publications i
     variantCall("NC_000001.10:g.[11856378=];[11856378=]") and 
     variantCall("NC_000001.10:g.[11854476=];[11854476=]")
     } />
+    
   <Indicator icon="gene" name="CHRN5A" link="/report/chrn5a" require={
       variantCall("NC_000015.9:g.78882925") and 
       variantCall("NC_000015.9:g.78865893") and 
@@ -41,7 +42,7 @@ We've assembled this list of genes and variants based on research publications i
     }
     normal={
       variantCall("NC_000008.10:g.[27321124=];[27321124=]") and 
-      (variantCall("NC_000006.11:g.[12727715A>G];[12727715A>G]") OR variantCall("NC_000006.11:g.[12727715A>G];[12727715=]") )      and 
+      (variantCall("NC_000006.11:g.[12727715A>G];[12727715A>G]") or variantCall("NC_000006.11:g.[12727715A>G];[12727715=]") )      and 
       (variantCall("NC_000008.10:g.[27328511G>A];[27328511G>A]") OR variantCall("NC_000008.10:g.[27328511G>A];[27328511=]") )      and
       (variantCall("NC_000008.10:g.[27326127A>G];[27326127=]") OR variantCall("NC_000008.10:g.[27326127=];[27326127=]") )      and
       (variantCall("NC_000008.10:g.[27324822T>C];[27324822T>C]") OR variantCall("NC_000008.10:g.[27324822T>C];[27324822=]") )
@@ -61,8 +62,8 @@ We've assembled this list of genes and variants based on research publications i
     }
     normal={
       variantCall("NC_000015.9:g.[78923987=];[78923987=]") and 
-      (variantCall("NC_000015.9:g.[78928264G>T];[78928264=]") OR variantCall("NC_000015.9.g.[78928264=];[78928264=]") )      and
-      (variantCall("NC_000015.9:g.[78930510A>G];[78930510A>G]") OR variantCall("NC_000015.9.g.[78930510=];[78930510=]") ) 
+      (variantCall("NC_000015.9:g.[78928264G>T];[78928264=]") OR variantCall("NC_000015.9:g.[78928264=];[78928264=]") )      and
+      (variantCall("NC_000015.9:g.[78930510A>G];[78930510A>G]") OR variantCall("NC_000015.9:g.[78930510=];[78930510=]") ) 
     } />   
   <Indicator icon="gene" name="CLYBL" link="/report/clybl" require={
       variantCall("NC_000013.10:g.100518634") 
@@ -174,7 +175,7 @@ We've assembled this list of genes and variants based on research publications i
     normal={
       variantCall("NC_000005.9:g.[158742014=];[158742014=]") and 
       variantCall("NC_000005.9:g.[158750013=];[ 158750013=]") and
-      (variantCall("NC_000005.9:g.[158742950T>G];[158742950T>G]") OR variantCall("NC_000005.9.g.[158742950=];[158742950=]") ) 
+      (variantCall("NC_000005.9:g.[158742950T>G];[158742950T>G]") OR variantCall("NC_000005.9:g.[158742950=];[158742950=]") ) 
     } />   
   <Indicator icon="gene" name="NOS3" link="/report/nos3" require={
       variantCall("NC_000007.13:g.150696008") and 
@@ -214,21 +215,45 @@ We've assembled this list of genes and variants based on research publications i
       variantCall("NC_000005.9:g.142696036")
     }
     normal={
-      (variantCall("NC_000005.9:g.[126857714G>A];[126857714G>A]") OR variantCall("NC_000005.9:g.[126857714=];[126857714=]") ) and
-      (variantCall("NC_000005.9:g.[126855889A>T];[126855889=]") OR variantCall("NC_000005.9:g.[126855889=];[126855889=]") ) and
-      variantCall("NC_000005.9:g.[126859406=];[126859406=]") and
-      (variantCall("NC_000024.9:g.[24604538A>G];[24604538A>G]") OR variantCall("NC_000024.9:g.[24604538A>G];[24604538=]") ) and
-      (variantCall("NC_000005.9:g.[158300798C>A];[158300798C>A]") OR variantCall("NC_000005.9:g.[158300798=];[158300798=]") ) and
-      (variantCall("NC_000005.9:g.[158304022C>T];[158304022=]") OR variantCall("NC_000005.9:g.[158304022=];[158304022=]") ) and
-      (variantCall("NC_000005.9:g.[126858444G>A];[126858444=]") OR variantCall("NC_000005.9:g.[126858444=];[126858444=]") ) and
-      (variantCall("NC_000005.9:g.[158295782T>C];[158295782T>C]") OR variantCall("NC_000005.9:g.[158295782T>C];[158295782=]") ) and
-      (variantCall("NC_000005.9:g.[158299079C>T];[158299079C>T]") OR variantCall("NC_000005.9:g.[158299079=];[158299079=]") ) and
-      variantCall("NC_000005.9:g.[142759785=];[142759785=]") and
-      variantCall("NC_000005.9:g.[142661889=];[142661889=]") and
-      variantCall("NC_000005.9:g.[142722353=];[142722353=]") and
-      (variantCall("NC_000005.9:g.[142680344C>A];[142680344C>A]") OR variantCall("NC_000005.9:g.[142680344C>A];[ 142680344=]") ) and
-      variantCall("NC_000005.9:g.[142661490=];[142661490=]") and
-      variantCall("NC_000005.9:g.[142687494=];[142687494=]") and
+      (variantCall("NC_000005.9:g.[126857714G>A];[126857714G>A]") 
+       or variantCall("NC_000005.9:g.[126857714=];[126857714=]")) 
+      and
+      (variantCall("NC_000005.9:g.[126855889A>T];[126855889=]") 
+       or variantCall("NC_000005.9:g.[126855889=];[126855889=]")) 
+      and
+      variantCall("NC_000005.9:g.[126859406=];[126859406=]") 
+      and
+      (variantCall("NC_000024.9:g.[24604538A>G];[24604538A>G]") 
+       or variantCall("NC_000024.9:g.[24604538A>G];[24604538=]")) 
+      and
+      (variantCall("NC_000005.9:g.[158300798C>A];[158300798C>A]") 
+       or variantCall("NC_000005.9:g.[158300798=];[158300798=]")) 
+      and
+      (variantCall("NC_000005.9:g.[158304022C>T];[158304022=]") 
+       or variantCall("NC_000005.9:g.[158304022=];[158304022=]")) 
+      and
+      (variantCall("NC_000005.9:g.[126858444G>A];[126858444=]") 
+       or variantCall("NC_000005.9:g.[126858444=];[126858444=]")) 
+      and
+      (variantCall("NC_000005.9:g.[158295782T>C];[158295782T>C]") 
+       or variantCall("NC_000005.9:g.[158295782T>C];[158295782=]")) 
+      and
+      (variantCall("NC_000005.9:g.[158299079C>T];[158299079C>T]") 
+       or variantCall("NC_000005.9:g.[158299079=];[158299079=]")) 
+      and
+      variantCall("NC_000005.9:g.[142759785=];[142759785=]") 
+      and
+      variantCall("NC_000005.9:g.[142661889=];[142661889=]") 
+      and
+      variantCall("NC_000005.9:g.[142722353=];[142722353=]") 
+      and
+      (variantCall("NC_000005.9:g.[142680344C>A];[142680344C>A]") 
+       or variantCall("NC_000005.9:g.[142680344C>A];[ 142680344=]")) 
+      and
+      variantCall("NC_000005.9:g.[142661490=];[142661490=]") 
+      and
+      variantCall("NC_000005.9:g.[142687494=];[142687494=]") 
+      and
       variantCall("NC_000005.9:g.[142696036=];[142696036=]") 
     } />   
   <Indicator icon="gene" name="POMC" link="/report/pomc" require={
@@ -263,8 +288,8 @@ We've assembled this list of genes and variants based on research publications i
     } />   
   <Indicator icon="gene" name="SCL6A4" link="/report/scl6a4" require={
       variantCall("NC_000017.10:g.28564346") and 
+      variantCall("NC_000017.10:g.28525011") and
       variantCall("NC_000017.10:g.28526475") and 
-      variantCall("NC_000017.10:g.28525011”) and
       variantCall("NC_000017.10:g.28546914") and
       variantCall("NC_000017.10:g.28531793") and
       variantCall("NC_000017.10:g.28523726")
@@ -280,7 +305,7 @@ We've assembled this list of genes and variants based on research publications i
   <Indicator icon="gene" name="TPH2" link="/report/tph2" require={
       variantCall("NC_000012.11:g.72372601") and 
       variantCall("NC_000012.11:g.72360264") and 
-      variantCall("NC_000012.11:g.72412220”) and
+      variantCall("NC_000012.11:g.72412220") and
       variantCall("NC_000012.11:g.72336512")
     }
     normal={
@@ -290,7 +315,7 @@ We've assembled this list of genes and variants based on research publications i
       variantCall("NC_000012.11:g.[72336512=];[72336512=]") and
     } />   
   <Indicator icon="gene" name="TRPC2" link="/report/trpc2" require={
-      variantCall("NC_000011.9:g.3650086”) and
+      variantCall("NC_000011.9:g.3650086") and
       variantCall("NC_000011.9:g.3638061")
     }
     normal={
@@ -300,7 +325,7 @@ We've assembled this list of genes and variants based on research publications i
   <Indicator icon="gene" name="TRPC4" link="/report/trpc4" require={
       variantCall("NC_000013.10:g.38368012") and 
       variantCall("NC_000013.10:g.38242481") and 
-      variantCall("NC_000013.10:g.38230542”) and
+      variantCall("NC_000013.10:g.38230542") and
       variantCall("NC_000013.10:g.38367949")
     }
     normal={
@@ -312,22 +337,22 @@ We've assembled this list of genes and variants based on research publications i
   <Indicator icon="gene" name="TRPM3" link="/report/trpm3" require={
       variantCall("NC_000009.11:g.73980222") and 
       variantCall("NC_000009.11:g.74042243") and 
-      variantCall("NC_000009.11:g.74017174”) and
+      variantCall("NC_000009.11:g.74017174") and
       variantCall("NC_000009.11:g.74018496") and
       variantCall("NC_000009.11:g.73424964") and 
       variantCall("NC_000009.11:g.74032148") and 
-      variantCall("NC_000009.11:g.73405864”) and
+      variantCall("NC_000009.11:g.73405864") and
       variantCall("NC_000009.11:g.73435028") and 
       variantCall("NC_000009.11:g.73437824") and 
       variantCall("NC_000009.11:g.73231662") and 
-      variantCall("NC_000009.11:g.73220691”) and
+      variantCall("NC_000009.11:g.73220691") and
       variantCall("NC_000009.11:g.73225802") and
       variantCall("NC_000009.11:g.73314011") and 
-      variantCall("NC_000009.11:g.73410410”) and
+      variantCall("NC_000009.11:g.73410410") and
       variantCall("NC_000009.11:g.73416062") and 
       variantCall("NC_000009.11:g.73225802") and 
       variantCall("NC_000009.11:g.73204431") and 
-      variantCall("NC_000009.11:g.73204431”) and
+      variantCall("NC_000009.11:g.73204431") and
       variantCall("NC_000009.11:g.73306551")  
     }
     normal={
