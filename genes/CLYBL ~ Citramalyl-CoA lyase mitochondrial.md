@@ -1,6 +1,6 @@
-<# <Gene_Name CLYBL />
+<# <Gene_Name CLYBL /> #>
 
-<GeneName_full Citramalyl-CoA lyase, mitochondrial /> #>
+<# <GeneName_full Citramalyl-CoA lyase, mitochondrial /> #>
 
 # What does the CLYBL gene do?
 
@@ -20,7 +20,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# C775T (C;T) #>
 
@@ -96,21 +96,19 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
-
-    # How common is this genotype in the general population?
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues [kidney, liver](https://www.ncbi.nlm.nih.gov/gene/171425#gene-expression), and blood; circulatory and cardiovascular system D002319 Kidney and urinary bladder D005221 liver D008099  #>
 
-<TopicBar mesh_D002319 mesh_D005221 mesh_D008099  />
+<TopicBar circulatory-cardiovascular-system Kidney-bladder liver  />
 
 <# Symptoms fatigue D005221 memory problems D008569 inflamation D007249 muscle aches and pain D063806 #>
 
-<TopicBar mesh_D005221 mesh_D008569 mesh_D007249 mesh_D063806 />
+<TopicBar fatigue memory-problems inflamation muscle-aches-pain />
 
 <# Diseases anemia D000740 neurodegenerative disorder D000752 cardiovascular disease D002318 gastrointestinal disease D005767 ME/CFS D015673 coronary heart disease D003327 stroke  D016491 #>
 
-<TopicBar mesh_D000740 mesh_D000752 mesh_D002318 mesh_D005767 mesh_D015673 mesh_D003327 mesh_D016491 />
+<TopicBar anemia neurodegenerative-disorder cardiovascular-disease gastrointestinal-disease ME-CFS coronary-heart-disease stroke />
