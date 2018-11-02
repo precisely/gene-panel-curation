@@ -43,9 +43,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - Check blood serum vitamin B12 levels. If too low, consider an [oral or injectable B12](https://www.ncbi.nlm.nih.gov/pubmed/25902009) supplement if low. 
     - Be cautious when taking [opioids, duloxetine, pregabalin](https://www.ncbi.nlm.nih.gov/pubmed/25902009), and [metformin](https://www.ncbi.nlm.nih.gov/pubmed/20488910?dopt=Abstract), which lower B12 levels.
 
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage=5.3 /> #>
+    <#     # How common is this genotype in the general population <piechart percentage=5.3 /> #>
   </Analysis>
 <# C775T (T;T) #>
 
@@ -70,9 +68,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - Check homocysteine levels. If elevated, consider taking [folate](https://medlineplus.gov/druginfo/natural/1017.html). 
     - If [homocysteine is elevated](https://www.ncbi.nlm.nih.gov/pubmed/18709886), watch for eye lens dislocations, “Marfan type” body shape, stroke, blood clotting issues, and low thyroid hormones (hypothyroidism).
 
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage=0.9 /> #>
+    <# # How common is this genotype in the general population? <piechart percentage=0.9 /> #>
   </Analysis>
 
 <# Wild type #>
@@ -84,10 +80,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     # What does this mean?
 
     Your CLYBL gene has no variants. A normal gene is referred to as a "wild-type" gene.
-
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage= /> #>
+   
+    <# # How common is this genotype in the general population? <piechart percentage= /> #>
   </Analysis>
 
 <# Unknown #>
