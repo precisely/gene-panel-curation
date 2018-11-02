@@ -1,13 +1,13 @@
-<Gene_Name MTHFR />
+<# <Gene_Name MTHFR /> #>
 
-<GeneName_full Methylenetetrahydrofolate reductase />
+<# <GeneName_full Methylenetetrahydrofolate reductase /> #>
 
 # What does the MTHFR gene do?
 
 MTHFR is involved in the production of folate (also known as B9). Folate is a precursor to the amino acid
 methionine. The body uses [methionine](https://ghr.nlm.nih.gov/condition/hypermethioninemia) to make proteins, red and white blood cells, DNA, and other important compounds, including neurotransmitters such as serotonin, dopamine, and norepinephrine. Folate deficiency may cause [fatigue, pins and needles (paraesthesia), muscle weakness, disturbed vision, depression, confusion, and memory problems](https://medlineplus.gov/ency/article/000354.htm). This gene is located on chromosome 1.
 
-<GeneMap name= "MTHFR" interval="NC_000001.10:g.11845787_11866160=">
+<# <GeneMap name= "MTHFR" interval="NC_000001.10:g.11845787_11866160="> #>
 
 # What are some common variants of MTHFR?
  
@@ -31,7 +31,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 </GeneMap>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# C677T (C;T) #>
 
@@ -183,13 +183,10 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0 />
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues endocrineSystem and pancreas #>
 
@@ -197,8 +194,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 <# Symptoms fatigue D005221 memory problems D008569 inflamation D007249 #>
 
-<TopicBar mesh_D005221 mesh_D008569 mesh_D007249 />
+<TopicBar fatigue memory-problems inflamation />
 
 <# Diseases depression D003866 hypothyroid D007037  #>
 
-<TopicBar mesh_D003866 mesh_D007037  />
+<TopicBar depression hypothyroid  />
