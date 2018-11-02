@@ -28,8 +28,6 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   <Analysis name="C775T (C;T)"
             case={  variantCall ("NC_000013.10:g.[100518634C>T];[100518634=]")
-                    and
-                    (variantCall ("") or variantCall (""))
                   } > 
 
     # What does this mean?
