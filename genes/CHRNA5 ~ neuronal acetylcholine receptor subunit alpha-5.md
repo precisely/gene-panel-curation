@@ -1,12 +1,12 @@
-<Gene_Name CHRNA5 />
+<# Gene_Name CHRNA5 / #>
 
-<GeneName_full neuronal acetylcholine receptor subunit alpha-5 />
+<# GeneName_full neuronal acetylcholine receptor subunit alpha-5 / #>
 
 # What does the CHRNA5 gene do?
 
 [CHRNA5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHRNA5) creates a protein that controls signals between between [motor neurons and muscle fiber](https://www.ebi.ac.uk/QuickGO/term/GO:0007274)s as well as the body’s response to [nicotine](http://www.uniprot.org/citations/18227835). Variants in CHRNA5 are associated with [anxiety](https://www.ncbi.nlm.nih.gov/pubmed/25826680) and decreased function of [natural killer cells (NKC)](https://www.ncbi.nlm.nih.gov/pubmed/27099524), a type of white blood cell that helps the body respond to viral infections. This gene is located on chromosome 15.
 
-<GeneMap name= "CHRNA5" interval="NC_000015.9:g.78857862_78887611=">
+<# GeneMap name= "CHRNA5" interval="NC_000015.9:g.78857862_78887611=" #>
 
 # What are some common variants of CHRNA5?
  
@@ -38,7 +38,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# G1192A (G;A) #>
 
@@ -68,9 +68,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=39.2 />
+    <#    # How common is this genotype in the general population? piechart percentage=39.2 / #>
   </Analysis>
 <# G1192A (A;A) #>
 
@@ -100,16 +98,14 @@ A variant is a change at a specific point in the gene from the expected nucleoti
   
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=5.2 />
+    <#    # How common is this genotype in the general population? piechart percentage=5.2 / #>
   </Analysis>
 <# A78573551G (A;G) #>
 
   <Analysis name="A78573551G (A;G)"
-            case={  variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]")
+            case={  variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]")
                     and
                     variantCall ("NC_000015.9:g.[78873993=];[78873993=]")
                   } > 
@@ -130,16 +126,14 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=39.2 />
+    <# # How common is this genotype in the general population? piechart percentage=39.2 / #>
   </Analysis>
 <# A78573551G (G;G) #>
 
   <Analysis name="A78573551G (G;G)"
-            case={  variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]")
+            case={  variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]")
                     and
                     variantCall ("NC_000015.9:g.[78873993=];[78873993=]")
                   } > 
@@ -160,18 +154,16 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=17.9 />
+    <#    # How common is this genotype in the general population? piechart percentage=17.9 / #>
   </Analysis>
 <# A78581651T (A;T) #>
 
   <Analysis name="A78581651T (A;T)"
-            case={  variantCall ("NC_000015.9:g.[78873993A>T];[78873993=]")
+            case={  variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78865893=];[78865893=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78873993A>T];[78873993=]")
                   } > 
 
     # What does this mean?
@@ -208,18 +200,16 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
     - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=27.3 />
+    <#    # How common is this genotype in the general population? piechart percentage=27.3 / #>
   </Analysis>
 <# A78581651T (T;T) #>
 
   <Analysis name="A78581651T (T;T)"
-            case={  variantCall ("NC_000015.9:g.[78873993A>T];[78873993A>T]")
+            case={  variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78865893=];[78865893=]")
                     and
-                    variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
+                    variantCall ("NC_000015.9:g.[78873993A>T];[78873993A>T]")
                   } > 
 
     # What does this mean?
@@ -256,13 +246,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
     - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298) increases activation and stimulates cell killing activity.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=9.5 />
+    <#    # How common is this genotype in the general population? piechart percentage=9.5 / #>
   </Analysis>
-<# G1192A (G;A) and A78573551G (A;G) and A78581651T (A;T) #>
+<# G1192A (G;A) and A78573551G and A78581651T #>
 
-  <Analysis name="G1192A (G;A) and A78573551G (A;G) and A78581651T (A;T)"
+  <Analysis name="G1192A (G;A) and A78573551G and A78581651T"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925=]")
                     and
                     (variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]") or variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]"))
@@ -320,13 +308,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
-<# G1192A (A;A) and A78573551G (A;G) and A78581651T (A;T) #>
+<# G1192A (A;A) and A78573551G and A78581651T #>
 
-  <Analysis name="G1192A (A;A) and A78573551G (A;G) and A78581651T (A;T)"
+  <Analysis name="G1192A (A;A) and A78573551G and A78581651T"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925G>A]")
                     and
                     (variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]") or variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]"))
@@ -384,13 +370,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
-<# G1192A (G;A) and A78573551G (A;G) #>
+<# G1192A (G;A) and A78573551G #>
 
-  <Analysis name="G1192A (G;A) and A78573551G (A;G)"
+  <Analysis name="G1192A (G;A) and A78573551G"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925=]")
                     and
                     (variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]") or variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]"))
@@ -424,13 +408,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
 <# G1192A (G;A) and A78581651T (A;T) #>
 
-  <Analysis name="G1192A (G;A) and A78581651T (A;T)"
+  <Analysis name="G1192A (G;A) and A78581651T"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925=]")
                     and
                     variantCall ("NC_000015.9:g.[78865893=];[78865893=]")
@@ -484,13 +466,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
-<# G1192A (A;A) and A78573551G (A;G) #>
+<# G1192A (A;A) and A78573551G #>
 
-  <Analysis name="G1192A (A;A) and A78573551G (A;G)"
+  <Analysis name="G1192A (A;A) and A78573551G"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925=]")
                     and
                     (variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]") or variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]"))
@@ -524,13 +504,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
-<# G1192A (A;A) and A78581651T (A;T) #>
+<# G1192A (A;A) and A78581651T#>
 
-  <Analysis name="G1192A (A;A) and A78581651T (A;T)"
+  <Analysis name="G1192A (A;A) and A78581651T"
             case={  variantCall ("NC_000015.9:g.[78882925G>A];[78882925=]")
                     and
                     variantCall ("NC_000015.9:g.[78865893=];[78865893=]")
@@ -584,13 +562,11 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#     # How common is this genotype in the general population?piechart percentage= / #>
   </Analysis>
-<# A78573551G (A;G) and A78581651T (A;T) #>
+<# A78573551Gand A78581651T#>
 
-  <Analysis name="A78573551G (A;G) and A78581651T (A;T)"
+  <Analysis name="A78573551G and A78581651T"
             case={  variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
                     (variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]") or variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]"))
@@ -642,9 +618,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult your physician on [medications](http://www.uniprot.org/uniprot/P30532#pathology_and_biotech) that act on variants in CHRNA5, including [Ethanol](https://www.drugbank.ca/drugs/DB00898), [Galantamine](https://www.drugbank.ca/drugs/DB00674), and [nicotine](https://www.drugbank.ca/drugs/DB00184).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <#    # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
 <# Wild type #>
 
@@ -660,9 +634,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Your CHRNA5 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population? piechart percentage= / #>
   </Analysis>
 <# Unknown #>
 
@@ -670,22 +642,19 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
-
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0 />
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
+    
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues brain D001921  respiratory system and lung D012137  bone marrow and immune system D007107 #>
 
-<TopicBar mesh_D001921 mesh_D012137 mesh_D007107 />
+<TopicBar brain respiratory-lung bone-marrow-immune-system />
 
 <# Symptoms anxiety; pain; inflammation; #>
 
-<TopicBar mesh_D001007 mesh_D010146  mesh_D007249 />
+<TopicBar anxiety pain  inflammation />
 
 <# Diseases cancer; COPD; anxiety; ME/CFS; nicotine dependency; autoimmune disorder; Disease susceptibility - increased susceptibility to viral, bacterial, and parasitic infections; mood disorder #>
 
-<TopicBar mesh_D009369 mesh_D029424 mesh_D001008 mesh_D015673 mesh_D014029 mesh_D001327 mesh_D004198 mesh_D019964 />
+<TopicBar cancer COPD anxiety ME-CFS nicotine-dependency autoimmune-disorder genetic-predisposition-disease	 mood-disorder />
