@@ -53,9 +53,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Medications linked to GRIK2 include [Amobarbital](https://www.drugbank.ca/drugs/DB01351), [Aprobarbital](https://www.drugbank.ca/drugs/DB01352), [Barbital](https://www.drugbank.ca/drugs/DB01483), [Barbituric acid derivative](https://www.drugbank.ca/drugs/DB01496), [Butabarbital](https://www.drugbank.ca/drugs/DB00237), [Butalbital](https://www.drugbank.ca/drugs/DB00241), [Butethal](https://www.drugbank.ca/drugs/DB01353), [Domoic Acid](https://www.drugbank.ca/drugs/DB02852), [Heptabarbital](https://www.drugbank.ca/drugs/DB01354), [Hexobarbital](https://www.drugbank.ca/drugs/DB01355), [L-Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Metharbital](https://www.drugbank.ca/drugs/DB00463), [Methylphenobarbital](https://www.drugbank.ca/drugs/DB00849), [Pentobarbital](https://www.drugbank.ca/drugs/DB00312), [Phenobarbital](https://www.drugbank.ca/drugs/DB01174), [Primidone](https://www.drugbank.ca/drugs/DB00794), [Quisqualate](https://www.drugbank.ca/drugs/DB02999), [Secobarbital](https://www.drugbank.ca/drugs/DB00418), [Talbutal](https://www.drugbank.ca/drugs/DB00306), and [Thiopental](https://www.drugbank.ca/drugs/DB00599).
 
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage=49.2 /> #>
+    <#    # How common is this genotype in the general population? <piechart percentage=49.2 /> #>
   </Analysis>
 <# A101518578G (G;G) #>
 
@@ -88,9 +86,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Medications linked to GRIK2 include [Amobarbital](https://www.drugbank.ca/drugs/DB01351), [Aprobarbital](https://www.drugbank.ca/drugs/DB01352), [Barbital](https://www.drugbank.ca/drugs/DB01483), [Barbituric acid derivative](https://www.drugbank.ca/drugs/DB01496), [Butabarbital](https://www.drugbank.ca/drugs/DB00237), [Butalbital](https://www.drugbank.ca/drugs/DB00241), [Butethal](https://www.drugbank.ca/drugs/DB01353), [Domoic Acid](https://www.drugbank.ca/drugs/DB02852), [Heptabarbital](https://www.drugbank.ca/drugs/DB01354), [Hexobarbital](https://www.drugbank.ca/drugs/DB01355), [L-Glutamic Acid](https://www.drugbank.ca/drugs/DB00142), [Metharbital](https://www.drugbank.ca/drugs/DB00463), [Methylphenobarbital](https://www.drugbank.ca/drugs/DB00849), [Pentobarbital](https://www.drugbank.ca/drugs/DB00312), [Phenobarbital](https://www.drugbank.ca/drugs/DB01174), [Primidone](https://www.drugbank.ca/drugs/DB00794), [Quisqualate](https://www.drugbank.ca/drugs/DB02999), [Secobarbital](https://www.drugbank.ca/drugs/DB00418), [Talbutal](https://www.drugbank.ca/drugs/DB00306), and [Thiopental](https://www.drugbank.ca/drugs/DB00599).
 
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage=31.6 /> #> 
+    <#    # How common is this genotype in the general population? <piechart percentage=31.6 /> #> 
   </Analysis>
 
 <# Wild type #>
@@ -103,9 +99,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Your GRIK2 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
-
-    <# <piechart percentage= /> #>
+    <#    # How common is this genotype in the general population? <piechart percentage= /> #>
   </Analysis>
 
 <# Unknown #>
