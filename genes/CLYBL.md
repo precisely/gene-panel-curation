@@ -1,12 +1,12 @@
-<Gene_Name CLYBL />
+<# <Gene_Name CLYBL />
 
-<GeneName_full Citramalyl-CoA lyase, mitochondrial />
+<GeneName_full Citramalyl-CoA lyase, mitochondrial /> #>
 
 # What does the CLYBL gene do?
 
 [CLYBL](http://www.uniprot.org/uniprot/Q8N0X4) creates an energy production enzyme involved in the metabolism of vitamin B12 . It also involved in removing metals like magnesium and the citric acid cycle, which controls energy production and biosynthesis. Vitamin B12 is required for red blood cell formation, protein metabolism, neurological function, homocysteine conversion, and replicating DNA. Vitamin B12 plays a fundamental role in [detoxification](https://www.ncbi.nlm.nih.gov/pubmed/19409980) due to its substantial [antioxidant](https://www.ncbi.nlm.nih.gov/pubmed/19799418) properties. Vitamin B12 deficiency is linked with [anemia, neurodegenerative disorder, cardiovascular disease, gastrointestinal disease](https://www.ncbi.nlm.nih.gov/pubmed/22367966), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/29100069). This gene is located on chromosome 13.
 
-<GeneMap name= "CLYBL" interval="NC_000013.10:g.100258919_100549388=">
+<# <GeneMap name= "CLYBL" interval="NC_000013.10:g.100258919_100549388="> #>
 
 # What are some common variants of CLYBL?
  
@@ -19,8 +19,6 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     Instead of cytosine (C), there is a thymine (T) nucleotide.
 
   </Variant>
-
-
 
 <AnalysisBox>
 
@@ -47,7 +45,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=5.3 />
+    <# <piechart percentage=5.3 /> #>
   </Analysis>
 <# C775T (T;T) #>
 
@@ -74,7 +72,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=0.9 />
+    <# <piechart percentage=0.9 /> #>
   </Analysis>
 
 <# Wild type #>
@@ -89,7 +87,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage= />
+    <# <piechart percentage= /> #>
   </Analysis>
 
 <# Unknown #>
@@ -102,7 +100,6 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=0 />
   </Analysis>
 </AnalysisBox>
 
