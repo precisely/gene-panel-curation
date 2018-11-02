@@ -137,7 +137,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# A78573551G (G;G) #>
 
   <Analysis name="A78573551G (G;G)"
-            case={  variantCall ("NC_000015.9:g.[78865893G>A];[78865893=]")
+            case={  variantCall ("NC_000015.9:g.[78865893G>A];[78865893G>A]")
                     and
                     variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
@@ -215,7 +215,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 <# A78581651T (T;T) #>
 
   <Analysis name="A78581651T (T;T)"
-            case={  variantCall ("NC_000015.9:g.[78873993A>T];[78873993=]")
+            case={  variantCall ("NC_000015.9:g.[78873993A>T];[78873993A>T]")
                     and
                     variantCall ("NC_000015.9:g.[78882925=];[78882925=]")
                     and
