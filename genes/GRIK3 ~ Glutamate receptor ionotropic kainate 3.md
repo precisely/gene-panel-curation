@@ -1,12 +1,12 @@
-<Gene_Name GRIK3 />
+<# <Gene_Name GRIK3 /> #>
 
-<GeneName_full Glutamate receptor ionotropic, kainate 3 />
+<# <GeneName_full Glutamate receptor ionotropic, kainate 3 /> #>
 
 # What does the GRIK3 gene do?
 
 The GRIK3 gene creates a protein that helps form receptors for the neurotransmitter [glutamate](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). It increases the chance neurons will fire and enhances the electrical flow among brain cells, but elevated levels of glutamate are toxic to neurons. Problems creating or absorbing glutamate are linked to ME/CFS, [major](https://www.ncbi.nlm.nih.gov/pubmed/16958029) [depressive disorder](https://www.ncbi.nlm.nih.gov/pubmed/19221446/), [schizophrenia](https://www.ncbi.nlm.nih.gov/pubmed/19921975/), [and memory problems](https://www.nimh.nih.gov/health/educational-resources/brain-basics/brain-basics.shtml). This gene is located on chromosome 1.
 
-<GeneMap name= "GRIK3" interval="NC_000001.10:g.37261128_37499844=">
+<# <GeneMap name= "GRIK3" interval="NC_000001.10:g.37261128_37499844="> #>
 
 # What are some common variants of GRIK3?
  
@@ -20,7 +20,6 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-
 <# C36983994T #>
 
   <Variant hgvs="NC_000001.10:g.37449595C>T" name="C36983994T"> 
@@ -29,7 +28,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# T928G (T;G) #>
 
@@ -51,9 +50,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Patients should be aware of their greater risk of depression, and consult with their physician regarding medication, including [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142). Treatments include psychotherapy, light therapy (being in bright sunlight for 20-30 minutes), art therapy, and animal therapy.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=43 />
+    <# # How common is this genotype in the general population?    <piechart percentage=43 /> #>
   </Analysis>
  
 <# T928G (G;G) #>
@@ -76,9 +73,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Patients should be aware of their greater risk of depression, and consult with their physician regarding medication, including [Glutamic Acid](https://www.drugbank.ca/drugs/DB00142). Treatments include psychotherapy, light therapy (being in bright sunlight for 20-30 minutes), art therapy, and animal therapy.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=19.9 />
+    <# # How common is this genotype in the general population?    <piechart percentage=19.9 /> #>
   </Analysis>
 <# C36983994T (C;T) #>
 
@@ -110,9 +105,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Lifestyle changes to improve anxiety, stress, and pain include [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=1.8 />
+    <# # How common is this genotype in the general population?     <piechart percentage=1.8 /> #>
   </Analysis>
 <# T928G (T;G) and C36983994T (C;T) #>
 
@@ -156,14 +149,12 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Lifestyle changes to improve anxiety, stress, and pain include [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?    <piechart percentage= /> #>
   </Analysis>
 <# T928G (G;G) and C36983994T (C;T) #>
 
   <Analysis name="T928G (G;G) and C36983994T (C;T)"
-            case={  variantCall ("NC_000001.10:g.[37325477A>G];[37325477=]")
+            case={  variantCall ("NC_000001.10:g.[37325477A>G];[37325477A>G]")
                     and
                     variantCall ("NC_000001.10:g.[37449595C>T];[37449595=]")
                   } > 
@@ -202,9 +193,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Lifestyle changes to improve anxiety, stress, and pain include [meditation, tai-chi, yoga, and stretching](https://medlineplus.gov/stress.html#cat_78).
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# Wild type #>
 
@@ -218,9 +207,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Your GRIK3 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?    <piechart percentage= /> #>
   </Analysis>
 <# Unknown #>
 
@@ -228,13 +215,10 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0 />
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues brain D001921 #>
 
@@ -242,8 +226,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 <# Symptoms depression, stress, problems with thinking or memory, brain fog, pain #>
 
-<TopicBar mesh_D003863 mesh_D040701 mesh_D008569 mesh_D010146 />
+<TopicBar depression stress memory-problems pain />
 
 <# Diseases schizophrenia D012559; major depressive disorder D003866; ME/CFS D015673;  #>
 
-<TopicBar mesh_D012559 mesh_D003866 mesh_D015673 />
+<TopicBar schizophrenia depression ME-CFS />
