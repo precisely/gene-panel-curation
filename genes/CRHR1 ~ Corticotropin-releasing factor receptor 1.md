@@ -1,12 +1,12 @@
-<Gene_Name CRHR1 />
+<# <Gene_Name CRHR1 /> #>
 
-<GeneName_full Corticotropin-releasing factor receptor 1 />
+<# <GeneName_full Corticotropin-releasing factor receptor 1 /> #>
 
 # What does the CRHR1 gene do?
 
 [CRHR1](http://www.uniprot.org/uniprot/P34998) encodes a protein that binds to a neurotransmitter for hormones. These hormones are necessary for normal embryonic development and act in the hypothalamic-pituitary-adrenal (HPA) pathway, controlling [stress, reproduction, immune response, and obesity](https://www.ncbi.nlm.nih.gov/gene/1394). CRHR1 also helps activate enzymes to help transfer the effects of hormones into cells and activate proteins. Variants in CRHR1 have been linked with [depression](http://www.disgenet.org/web/DisGeNET/menu/browser/tab8a?0&pview=default&pf=http://www.disgenet.org/web/DisGeNET%3Fdata/genes::1394::de&pf=/data/sources::ALL::de), [Parkinson’s](https://www.targetvalidation.org/target/ENSG00000263715/associations?view=t:table), and [ME](https://www.ncbi.nlm.nih.gov/pubmed/26063326)/[CFS](https://www.ncbi.nlm.nih.gov/pubmed/18986552).  This gene is located on chromosome 17.
 
-<GeneMap name= "CRHR1" interval="NC_000017.10:g.43697710_43913194=">
+<# <GeneMap name= "CRHR1" interval="NC_000017.10:g.43697710_43913194="> #>
 
 # What are some common variants of CRHR1?
  
@@ -30,7 +30,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
 </GeneMap>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# A45815234G (A;G) #>
 
@@ -68,9 +68,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=48.4 />
+    <# # How common is this genotype in the general population? <piechart percentage=48.4 /> #>
   </Analysis>
 <# A45815234G (G;G) #>
 
@@ -108,9 +106,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=35.5 />
+    <# # How common is this genotype in the general population? <piechart percentage=35.5 /> #>
   </Analysis>
 <# G45825631A (G;A) #>
 
@@ -148,9 +144,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=15.7 />
+    <# # How common is this genotype in the general population? <piechart percentage=15.7 /> #>
   </Analysis>
 <# G45825631A (A;A) #>
 
@@ -188,9 +182,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=4.7 />
+    <# # How common is this genotype in the general population? <piechart percentage=4.7 /> #>
   </Analysis>
 <# A45815234G (A;G) and G45825631A (G;A) #>
 
@@ -232,9 +224,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# A45815234G (G;G) and G45825631A (G;A) #>
 
@@ -276,9 +266,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
     
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# A45815234G (G;G) and G45825631A (A;A) #>
 
@@ -320,9 +308,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?    <piechart percentage= /> #>
   </Analysis>
 <# A45815234G (A;G) and G45825631A (A;A) #>
 
@@ -364,9 +350,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     CRHR1 medication includes [Corticorelin ovine triflutate](https://www.drugbank.ca/drugs/DB09067), but [steroid replacement](https://www.ncbi.nlm.nih.gov/pubmed/21946893) is not recommended.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# Wild type #>
 
@@ -380,31 +364,26 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Your CRHR1 gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# Unknown #>
   <Analysis name="Unknown" case=true>
 
     # What does this mean?
 
-    The effect is unknown.
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues  brain; female tissue #>
 
-<TopicBar mesh_D001921 mesh_D005836 />
+<TopicBar brain female-tissue />
 
 <# Symptoms symptoms fatigue D005221; depression D003863; stress D040701; orthostatic intolerance (POTS) D054971; pain D010146; inflamation D007249 #>
 
-<TopicBar mesh_D005221 mesh_D003863 mesh_D040701 mesh_D054971 mesh_D010146 mesh_D007249 />
+<TopicBar fatigue depression stress orthostatic-intolerance-POTS pain inflamation />
 
 <# Diseases Diseases depression D003866; ME/CFS D015673; hypothyroid D007037; Parkinson Disease D010300; #>
 
-<TopicBar mesh_D003866 mesh_D015673 mesh_D007037 mesh_D010300 />
+<TopicBar depression ME-CFS hypothyroid parkinsons />
