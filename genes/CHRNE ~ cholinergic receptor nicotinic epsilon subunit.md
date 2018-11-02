@@ -1,12 +1,12 @@
-<Gene_Name CHRNE />
+<# <Gene_Name CHRNE /> #>
 
-<GeneName_full cholinergic receptor nicotinic epsilon subunit />
+<# <GeneName_full cholinergic receptor nicotinic epsilon subunit /> #>
 
 # What does the CHRNE gene do?
 
 The [CHRNE](https://www.uniprot.org/uniprot/Q04844) gene encodes a protein found in the connection between motor neurons and muscle fibers. It is involved in [muscle contractions, response to nicotine, synaptic transmission, and the transport of electrically charged particles (ions) essential for proper cellular function.](http://www.uniprot.org/uniprot/Q04844#function) Variants in CHRNE are associated with [autoimmune disorders](https://www.omim.org/entry/254200) and [progressive](https://www.omim.org/entry/605809)[muscle](https://www.omim.org/entry/616324)[weakness](https://www.omim.org/entry/608931). Other variants are associated with decreased function of [natural killer cells (NKC)](https://www.ncbi.nlm.nih.gov/pubmed/27099524), a type of white blood cell that helps the body respond to viral infections. This gene is located on chromosome 17.
 
-<GeneMap name= "CHRNE" interval="NC_000017.10:g.4801064_4806369=">
+<# <GeneMap name= "CHRNE" interval="NC_000017.10:g.4801064_4806369="> #>
 
 # What are some common variants of CHRNE?
  
@@ -28,7 +28,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# G1074A (G;G) #>
 
@@ -66,9 +66,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
     - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0.2 />
+    <# # How common is this genotype in the general population? <piechart percentage=0.2 /> #>
+   
   </Analysis>
 <# C865T (T;T) #>
 
@@ -90,17 +89,16 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Consult [a neurologist](https://www.ncbi.nlm.nih.gov/pubmed/23108489) during and after pregnancy. It afflicted with slow channel syndrome, consider adding [salbutamol in addition to fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/23281026). [Galantamine](http://www.uniprot.org/uniprot/Q04844) is also used in treatment.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0 />
+    <# # How common is this genotype in the general population? <piechart percentage=0 /> #>
+    
   </Analysis>
 
 <# G1074A (G;G) and C865T (T;T) #>
 
   <Analysis name="G1074A (G;G) and C865T (T;T)"
-            case={  variantCall ("NC_000017.10:g.[4804902G>A];[4804902=]")
+            case={  variantCall ("NC_000017.10:g.[4804902G>A];[4804902G>A]")
                     and
-                    variantCall ("NC_000005.9:g.[142709986C>T];[142709986=]")
+                    variantCall ("NC_000005.9:g.[142709986C>T];[142709986C>T]")
                   } > 
 
     # What does this mean?
@@ -140,9 +138,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - [Zinc](https://www.ncbi.nlm.nih.gov/pubmed/27021581) helps to improve immune system activity and response. 
     - [Inositol hexaphosphate (IP6), found in germ, bran, and whole kernel corn](https://www.ncbi.nlm.nih.gov/pubmed/11366552) may activate the immune system and help fight bacterial and fungal infections. 
     - [Arabinoxylan rice bran (MGN-3/Biobran](https://www.ncbi.nlm.nih.gov/pubmed/25541298)) increases activation and stimulates cell killing activity.
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 
 <# Wild type #>
@@ -157,9 +154,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     Your CHRNE gene has no variants. A normal gene is referred to as a "wild-type" gene.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
+    <# # How common is this genotype in the general population?     <piechart percentage= /> #>
   </Analysis>
 <# Unknown #>
 
@@ -167,22 +162,19 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage=0 />
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues brain; immune; circulatory; muscles #>
 
-<TopicBar mesh_001921 mesh_D007107 mesh_D002319 mesh_D009132 />
+<TopicBar brain bone-marrow-immune-system circulatory-cardiovascular-system muscle />
 
 <# symptoms fatigue D005221 #>
 
-<TopicBar mesh_D005221 />
+<TopicBar fatigue />
 
 <# Diseases diseases autoimmune disorder	D001327 disease, Genetic Predisposition to Disease	D020022 ME/CFS	D015673  scoliosis	D012600 Myasthenia Gravis	D009157 Muscle Weakness	D018908  #>
 
-<TopicBar mesh_D001327 mesh_D020022 mesh_D015673  mesh_D012600 mesh_D009157 mesh_D018908 />
+<TopicBar autoimmune-disorder genetic-predisposition-disease	 ME-CFS  scoliosis myasthenia-gravis />
