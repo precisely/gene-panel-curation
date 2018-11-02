@@ -1,12 +1,12 @@
-<Gene_Name GRIK2 />
+<# <Gene_Name GRIK2 /> #>
 
-<GeneName_full glutamate ionotropic receptor kainate type subunit 2 />
+<# <GeneName_full glutamate ionotropic receptor kainate type subunit 2 /> #>
 
 # What does the GRIK2 gene do?
 
 GRIK2 encodes the receptor in the brain for the neurotransmitter [glutamate](https://neurotransporter.org/glutamate.html). When [L-glutamate](http://www.uniprot.org/uniprot/Q13002) binds to these receptors, it opens electrical channels to pass messages in the brain. These receptors may be involved in [learning, memory, neuroplasticity, and eyesight](http://www.uniprot.org/diseases/DI-01245). Variants may be related to [mental retardation](http://www.uniprot.org/diseases/DI-01245), [cognitive disability](https://www.ncbi.nlm.nih.gov/gene/2898), [OCD (obsessive compulsive disorder)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836736/), [suicidal thoughts](https://www.ncbi.nlm.nih.gov/pubmed/21912186), and [ME/CFS](https://www.ncbi.nlm.nih.gov/pubmed/21912186). This gene is located on chromosome 6.
 
-<GeneMap name= "GRIK2" interval="NC_000006.11:g.101841584_102517958=">
+<# <GeneMap name= "GRIK2" interval="NC_000006.11:g.101841584_102517958="> #>
 
 # What are some common variants of GRIK2?
  
@@ -20,7 +20,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
   </Variant>
 
-<AnalysisBox>
+<AnalysisPanel>
 
 <# A101518578G (A;G) #>
 
@@ -55,7 +55,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=49.2 />
+    <# <piechart percentage=49.2 /> #>
   </Analysis>
 <# A101518578G (G;G) #>
 
@@ -90,7 +90,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage=31.6 />
+    <# <piechart percentage=31.6 /> #> 
   </Analysis>
 
 <# Wild type #>
@@ -105,7 +105,7 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # How common is this genotype in the general population?
 
-    <piechart percentage= />
+    <# <piechart percentage= /> #>
   </Analysis>
 
 <# Unknown #>
@@ -114,22 +114,19 @@ A variant is a change at a specific point in the gene from the expected nucleoti
 
     # What does this mean?
 
-    The effect is unknown.
+    Your gene has an unknown variant, and at this time we are unable to determine your genotype.
 
-    # How common is this genotype in the general population?
-
-    <piechart percentage= />
   </Analysis>
-</AnalysisBox>
+</AnalysisPanel>
 
 <# Tissues brain; circulatory and cardiovascular system;  #>
 
-<TopicBar mesh_D001921 mesh_D002319 />
+<TopicBar brain circulatory-cardiovascular-system />
 
 <# Symptoms symptoms depression D003863; common-name: memory problems D008569; vision problems D014786; #>
 
-<TopicBar mesh_D003863 mesh_D008569 mesh_D014786 />
+<TopicBar depression memory-problems vision-problems />
 
 <# Diseases depression D003866; ME/CFS D015673; mood disorder D019964; OCD D00977 #>
 
-<TopicBar mesh_D003866 mesh_D015673 mesh_D019964 mesh_D00977 />
+<TopicBar depression ME-CFS mood-disorder OCD />
