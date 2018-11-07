@@ -207,8 +207,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - Keep a record of your [seizures](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm) to help identify patterns
     - Get enough [sleep](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm)
     - Maintain a strong [social support network](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm)
-
-    ME/CFS patients should consider a brain scan or sleep study to rule out if nocturnal epilepsy is causing sleep issues.
+    
+    ME/CFS patients should consider a brain scan or sleep study to rule out if nocturnal epilepsy is causing sleep issues.
 
     <#     # How common is this genotype in the general population? piechart percentage=14.1 / #>
   </Analysis>
@@ -243,8 +243,8 @@ A variant is a change at a specific point in the gene from the expected nucleoti
     - Keep a record of your [seizures](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm) to help identify patterns
     - Get enough [sleep](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm)
     - Maintain a strong [social support network](https://www.cdc.gov/epilepsy/managing-epilepsy/index.htm)
-
-    ME/CFS patients should consider a brain scan or sleep study to rule out if nocturnal epilepsy is causing sleep issues.
+    
+    ME/CFS patients should consider a brain scan or sleep study to rule out if nocturnal epilepsy is causing sleep issues.
 
     <#     # How common is this genotype in the general population? piechart percentage=14.3 / #>
   </Analysis>
