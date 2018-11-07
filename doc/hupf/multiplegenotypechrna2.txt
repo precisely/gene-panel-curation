@@ -1,0 +1,659 @@
+<# C65T (T;T) and A27468610G (C;C) and A373G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and A373G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A27468610G (C;C) and A373G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="A27468610G (C;C) and A373G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#    # How common is this genotype in the general population?  piechart percentage= / #>
+  </Analysis>
+
+<# C65T (T;T) and A373G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A373G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#    # How common is this genotype in the general population?  piechart percentage= / #>
+  </Analysis>
+
+<# C65T (T;T) and A27468610G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# C65T (T;T) and A27468610G (C;C) and A373G (C;C) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and A373G (C;C) T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124A=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+	
+<# C65T (T;T) and A27468610G (C;C) and A373G (C;C) and T836A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and A373G (C;C) and T836A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A373G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="A373G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# C65T (T;T) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and T836A (A;A) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# C65T (T;T) and A27468610G (C;C) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# C65T (T;T) and A27468610G (C;C) and A373G (C;C)#>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and A373G (C;C)"
+            case={  variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A27468610G (C;C) and T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="A27468610G (C;C) and T836A (A;A) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A27468610G (C;C) and A373G (C;C) and T889A (A;A) #>
+
+  <Analysis name="A27468610G (C;C) and A373G (C;C) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A27468610G (C;C) and A373G (C;C) and T836A (A;A) #>
+
+  <Analysis name="A27468610G (C;C) and A373G (C;C) and T836A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# C65T (T;T) and A373G (C;C) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A373G (C;C) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# C65T (T;T) and A373G (C;C) and T836A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A373G (C;C) and T836A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# C65T (T;T) and A27468610G (C;C) and T836A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C) and T836A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+C65T	         	A373G	T836A	
+<# C65T (T;T) and A373G (C;C) and T836A (A;A) #>
+
+  <Analysis name="C65T (T;T) and A373G (C;C) and T836A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+
+<# C65T (T;T) and A27468610G (C;C) #>
+
+  <Analysis name="C65T (T;T) and A27468610G (C;C)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# C65T (T;T) and A373G (C;C) #>
+
+  <Analysis name="C65T (T;T) and A373G (C;C)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+	
+<# C65T (T;T) and T836A (A;A) #>
+
+  <Analysis name="C65T (T;T) and T836A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# C65T (T;T) and T889A (A;A) #>
+
+  <Analysis name="C65T (T;T) and T889A (A;A)"
+            case={  variantCall ("NC_000008.10:g.[27328511G>A];[27328511 G>A]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A27468610G (C;C) and A373G (C;C) #>
+
+  <Analysis name="A27468610G (C;C) and A373G (C;C)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# A27468610G (C;C) and T836A (A;A) #>
+
+  <Analysis name="A27468610G (C;C) and T836A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# A27468610G and T889A (A;A) #>
+
+  <Analysis name="A27468610G (C;C)and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27326127A>G];[27326127A>G]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# A373G (C;C) and T836A (A;A) #>
+
+  <Analysis name="A373G (C;C) and T836A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    (variantCall ("NC_000006.11:g.[12727715A>G];[12727715=]") or variantCall ("NC_000006.11:g.[12727715=];[12727715=]"))
+                  } > 
+    
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>	
+
+<# A373G (C;C) T889A (A;A) #>
+
+  <Analysis name="A373G (C;C) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27324822T>C];[27324822T>C]")
+                    and
+                    (variantCall ("NC_000008.10:g.[27321124A>T];[27321124=]") or variantCall ("NC_000008.10:g.[27321124=];[27321124=]"))
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+   
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
+
+<# T836A (A;A) and T889A (A;A) #>
+
+  <Analysis name="T836A (A;A) and T889A (A;A)"
+            case={  (variantCall ("NC_000008.10:g.[27328511G>A];[27328511=]") or variantCall ("NC_000008.10:g.[27328511=];[27328511=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27326127A>G];[27326127=]") or variantCall ("NC_000008.10:g.[27326127=];[27326127=]"))
+                    and
+                    (variantCall ("NC_000008.10:g.[27324822T>C];[27324822=]") or variantCall ("NC_000008.10:g.[27324822=];[27324822=]"))
+                    and
+                    variantCall ("NC_000008.10:g.[27321124A>T];[27321124A>T]")
+                    and
+                    variantCall ("NC_000006.11:g.[12727715A>G];[12727715A>G]")
+                  } > 
+
+    # What does this mean?
+
+    People with this genotype have copies of multiple variants. The substitution of a single nucleotide is known as a missense mutation.
+
+    # What is the effect of this variant?
+
+    There is currently no data on the interaction between these variants.  However, some information exists on the individual variants.
+
+    <#  How common is this genotype in the general population? piechart percentage=14.3 / #>
+  </Analysis>
